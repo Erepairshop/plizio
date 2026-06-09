@@ -9,6 +9,9 @@
   var DEST = [parseFloat(el.dataset.lng), parseFloat(el.dataset.lat)];
   var DEST_NAME = el.dataset.dest || "";
   var LANG = el.dataset.lang || "en";
+  // Photon csak de/en/fr/it nyelvet ismer — hu/ro/stb. üres találatot ad ("nem található"),
+  // ezért a geocode-query nyelvét erre szűkítjük (a UI nyelve marad).
+  var GEO_LANG = ({ de: "de", en: "en", fr: "fr", it: "it" })[LANG] || "en";
   var C = {};
   try { C = JSON.parse(el.dataset.copy || "{}"); } catch (e) { C = {}; }
   var mode = "car", lastReq = null;
@@ -25,7 +28,7 @@
   });
 
   function geocode(q) {
-    return fetch("https://photon.komoot.io/api?limit=1&lang=" + encodeURIComponent(LANG) + "&q=" + encodeURIComponent(q))
+    return fetch("https://photon.komoot.io/api?limit=1&lang=" + GEO_LANG + "&q=" + encodeURIComponent(q))
       .then(function (r) { return r.json(); })
       .then(function (j) {
         if (!j.features || !j.features.length) throw new Error((C.notFound || "Not found") + ": " + q);
