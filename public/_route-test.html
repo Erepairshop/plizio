@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Útvonaltervező — teszt</title>
+<style>
+  body { background:#0a0f1c; color:#e6ecf3; font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; margin:0; padding:24px 16px; }
+  .wrap { max-width:700px; margin:0 auto; }
+  h1 { font-size:1.3rem; margin:0 0 .3rem; }
+  .langbar { margin:0 0 1rem; font-size:.85rem; }
+  .langbar a { color:#4cc6ff; text-decoration:none; margin-right:.6rem; padding:.2rem .5rem; border:1px solid rgba(255,255,255,.15); border-radius:8px; }
+  .langbar a.on { background:#4cc6ff; color:#0a0f1c; font-weight:700; }
+  .note { font-size:.78rem; color:rgba(230,236,243,.5); margin:.2rem 0 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🧭 Útvonaltervező — teszt oldal</h1>
+  <div class="langbar" id="langbar"></div>
+  <p class="note">Teszt: a célt is szabadon átírhatod. Indulás + cél bármilyen hely (Photon geocode). Cél előkitöltve: Lyon.</p>
+  <div id="plz-route-planner" data-lang="hu" data-dest="Lyon" data-lat="45.764" data-lng="4.8357"></div>
+</div>
+<script>
+  (function () {
+    var p = new URLSearchParams(location.search);
+    var lang = (p.get("lang") || "hu").toLowerCase();
+    if (["de", "hu", "en", "ro", "fr"].indexOf(lang) < 0) lang = "hu";
+    document.getElementById("plz-route-planner").setAttribute("data-lang", lang);
+    document.documentElement.setAttribute("lang", lang);
+    var bar = document.getElementById("langbar");
+    ["hu", "de", "en", "ro", "fr"].forEach(function (l) {
+      var a = document.createElement("a"); a.href = "?lang=" + l; a.textContent = l.toUpperCase();
+      if (l === lang) a.className = "on"; bar.appendChild(a);
+    });
+  })();
+</script>
+<script src="/js/stop-card.js"></script>
+<script src="/js/route-planner.js"></script>
+</body>
+</html>
