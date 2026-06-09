@@ -213,8 +213,31 @@
       stt.textContent = C.routing;
       lastReq = { origin: origin, destination: destination, baseAnchors: baseAnchors, stops: stops, mode: mode, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm, destName: destName };
       return plan({ origin: origin, destination: destination, anchors: baseAnchors, stops: stops, mode: mode, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm });
-    }).then(function (data) { render(data); stt.textContent = ""; })
+    }).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); })
       .catch(function (e) { stt.textContent = "⚠️ " + e.message; });
+  }
+
+  // A Worker az országokat a korridor-bufferből (20km) veszi → a határ közeli (pl. olasz)
+  // megállók is bekerülnek, pedig a route nem megy át rajtuk. A tényleges tranzit-országokat
+  // a route-vonal mintapontjainak reverse-geocode-jából számoljuk, és kiszűrjük a hamis cc-ket.
+  function refineCountries(d) {
+    var pts = d.route || [];
+    if (!pts.length || !d.advisory || !d.advisory.length) return Promise.resolve();
+    var n = pts.length, S = 8, idx = {};
+    for (var i = 0; i < S; i++) idx[Math.floor(i * (n - 1) / (S - 1))] = 1;
+    var keys = Object.keys(idx).map(Number);
+    return Promise.all(keys.map(function (i) {
+      var p = pts[i];
+      return fetch("https://photon.komoot.io/reverse?lang=en&lat=" + p[1] + "&lon=" + p[0])
+        .then(function (r) { return r.json(); })
+        .then(function (j) { var pr = j.features && j.features[0] && j.features[0].properties; return pr && pr.countrycode ? pr.countrycode.toUpperCase() : null; })
+        .catch(function () { return null; });
+    })).then(function (ccs) {
+      var have = {}; ccs.filter(Boolean).forEach(function (c) { have[c] = 1; });
+      if (!Object.keys(have).length) return; // reverse-geocode bukott → a Worker listája marad
+      d.countries = (d.countries || []).filter(function (c) { return have[c]; });
+      d.advisory = (d.advisory || []).filter(function (a) { return have[a.cc]; });
+    });
   }
 
   function render(d) {
@@ -266,7 +289,7 @@
       else { anchors = lastReq.baseAnchors || []; variant = (lastReq.variant || 0) + 1; stt.textContent = C.regenNew; }
       lastReq.variant = variant;
       plan({ origin: lastReq.origin, destination: lastReq.destination, anchors: anchors, stops: lastReq.stops, mode: lastReq.mode, variant: variant, reqServices: lastReq.reqServices, tiers: lastReq.tiers, bufferKm: lastReq.bufferKm })
-        .then(function (data) { render(data); stt.textContent = ""; }).catch(function (e) { stt.textContent = "⚠️ " + e.message; });
+        .then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); }).catch(function (e) { stt.textContent = "⚠️ " + e.message; });
     });
   }
 
