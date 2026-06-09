@@ -171,7 +171,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "irbid-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مدرج الكندي",
+                  "name": "Al-Kindi-Theater",
                   "text": "Das Al-Kindi-Theater ist eine kulturelle Einrichtung in Irbid.",
                   "category": "cultural",
                   "coords": [
@@ -207,7 +207,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ابراهيم الشاعر",
+                  "name": "Ibrahim Al-Shaer",
                   "text": "Ibrahim Al-Shaer ist eine bekannte Attraktion in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -216,7 +216,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة النسيم",
+                  "name": "Al-Naseem-Signal",
                   "text": "Das Al-Naseem-Signal ist ein markanter Ort in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -225,7 +225,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة الاسكان",
+                  "name": "Al-Iskan-Signal",
                   "text": "Das Al-Iskan-Signal ist eine bekannte Stelle in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -234,7 +234,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الجامعة",
+                  "name": "Universitäts-Kreisverkehr",
                   "text": "Der Universitäts-Kreisverkehr ist ein markanter Punkt in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -245,7 +245,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مدرج الكندي",
+                  "name": "Al-Kindi Színház",
                   "text": "Az Al-Kindi Színház egy kulturális intézmény Irbidben.",
                   "category": "cultural",
                   "coords": [
@@ -290,7 +290,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة النسيم",
+                  "name": "Al-Naseem jelzés",
                   "text": "Az Al-Naseem jelzés egy jellegzetes pont Irbidben.",
                   "category": "landmark",
                   "coords": [
@@ -299,7 +299,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة الاسكان",
+                  "name": "Al-Iskan jelzés",
                   "text": "Az Al-Iskan jelzés egy ismert hely Irbidben.",
                   "category": "landmark",
                   "coords": [
@@ -308,7 +308,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الجامعة",
+                  "name": "Egyetemi körforgalom",
                   "text": "Az Egyetemi körforgalom egy jellegzetes pont Irbidben.",
                   "category": "landmark",
                   "coords": [
@@ -319,7 +319,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مدرج الكندي",
+                  "name": "Teatrul Al-Kindi",
                   "text": "Teatrul Al-Kindi este o instituție culturală din Irbid.",
                   "category": "cultural",
                   "coords": [
@@ -355,7 +355,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ابراهيم الشاعر",
+                  "name": "Ibrahim Al-Shaer",
                   "text": "Ibrahim Al-Shaer este o atracție cunoscută din Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -364,7 +364,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة النسيم",
+                  "name": "Semnalul Al-Naseem",
                   "text": "Semnalul Al-Naseem este un punct proeminent în Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -373,7 +373,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة الاسكان",
+                  "name": "Semnalul Al-Iskan",
                   "text": "Semnalul Al-Iskan este un punct cunoscut în Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -382,7 +382,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الجامعة",
+                  "name": "Sensul giratoriu al Universității",
                   "text": "Sensul giratoriu al Universității este un punct de reper în Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -393,7 +393,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "مدرج الكندي",
+                  "name": "Al-Kindi Theatre",
                   "text": "The Al-Kindi Theatre is a cultural institution in Irbid.",
                   "category": "cultural",
                   "coords": [
@@ -429,7 +429,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ابراهيم الشاعر",
+                  "name": "Ibrahim Al-Shaer",
                   "text": "Ibrahim Al-Shaer is a known attraction in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -438,7 +438,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة النسيم",
+                  "name": "Al-Naseem signal",
                   "text": "The Al-Naseem signal is a landmark in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -447,7 +447,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اشارة الاسكان",
+                  "name": "Al-Iskan signal",
                   "text": "The Al-Iskan signal is a known spot in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -456,7 +456,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الجامعة",
+                  "name": "University roundabout",
                   "text": "The University roundabout is a landmark in Irbid.",
                   "category": "landmark",
                   "coords": [
@@ -540,7 +540,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آيلة",
+                  "name": "Ayla",
                   "text": "Ayla ist eine archäologische Stätte in Akaba.",
                   "category": "historical",
                   "coords": [
@@ -558,7 +558,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الغندور",
+                  "name": "Alghandour",
                   "text": "Alghandour ist ein Strand in Akaba.",
                   "category": "recreational",
                   "coords": [
@@ -650,7 +650,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة العقبة",
+                  "name": "Aqaba Castle",
                   "text": "Az Aqaba Castle egy ismert vár Akaba városában.",
                   "category": "castle",
                   "coords": [
@@ -677,7 +677,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الغندور",
+                  "name": "Alghandour",
                   "text": "Az Alghandour egy strand Akabában.",
                   "category": "recreational",
                   "coords": [
@@ -769,7 +769,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة العقبة",
+                  "name": "Aqaba Castle",
                   "text": "Aqaba Castle este un castel notabil în Akaba.",
                   "category": "castle",
                   "coords": [
@@ -778,7 +778,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آيلة",
+                  "name": "Ayla",
                   "text": "Ayla este un sit arheologic în Akaba.",
                   "category": "historical",
                   "coords": [
@@ -796,7 +796,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الغندور",
+                  "name": "Alghandour",
                   "text": "Alghandour este o plajă situată în Akaba.",
                   "category": "recreational",
                   "coords": [
@@ -1242,7 +1242,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "ar-ramtha-cities-v2", "sights": {
       "de": [
             {
-                  "name": "فيلا الاستاذ ابراهيم الذيابات ابو علي",
+                  "name": "Ibrahim Aldiabat Abu Ali",
                   "text": "Ibrahim Aldiabat Abu Ali ist eine lokale Burg in Ar-Ramtha.",
                   "category": "castle",
                   "coords": [
@@ -1253,7 +1253,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "فيلا الاستاذ ابراهيم الذيابات ابو علي",
+                  "name": "Ibrahim Aldiabat Abu Ali",
                   "text": "Az Ibrahim Aldiabat Abu Ali egy vár Ar-Ramtha városában.",
                   "category": "castle",
                   "coords": [
@@ -1264,7 +1264,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "فيلا الاستاذ ابراهيم الذيابات ابو علي",
+                  "name": "Ibrahim Aldiabat Abu Ali",
                   "text": "Ibrahim Aldiabat Abu Ali este un castel local din Ar-Ramtha.",
                   "category": "castle",
                   "coords": [
@@ -1541,7 +1541,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة الكرك",
+                  "name": "Karak Castle",
                   "text": "A Karak Castle egy nagy keresztes vár Karakban.",
                   "category": "castle",
                   "coords": [
@@ -1606,7 +1606,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة الكرك",
+                  "name": "Castelul Karak",
                   "text": "Castelul Karak este un mare castel cruciat situat în Karak.",
                   "category": "castle",
                   "coords": [
@@ -2009,7 +2009,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وادي شعيب",
+                  "name": "Wadi Shuʿeib",
                   "text": "A Wadi Shuʿeib egy völgy és hegycsúcs As-Salt városában, amely Jethro prófétához köthető.",
                   "category": "natural",
                   "coords": [
@@ -2018,7 +2018,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "البقعات",
+                  "name": "Al Buqat",
                   "text": "Az Al Buqat egy ókori romterület As-Salt városában.",
                   "category": "historical",
                   "coords": [
@@ -2065,7 +2065,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وادي شعيب",
+                  "name": "Wadi Shuʿeib",
                   "text": "Wadi Shuʿeib este o zonă de vale și un vârf asociat cu profetul Jethro în As-Salt.",
                   "category": "natural",
                   "coords": [
@@ -2074,7 +2074,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "البقعات",
+                  "name": "Al Buqat",
                   "text": "Al Buqat este un sit cu ruine antice situat în As-Salt.",
                   "category": "historical",
                   "coords": [
@@ -2272,7 +2272,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "الخشافية",
+                  "name": "Al Khushshafiyah",
                   "text": "Al Khushshafiyah este un loc cu ruine istorice aflat în zona Sahab.",
                   "category": "historical",
                   "coords": [
@@ -2777,7 +2777,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "خربة المقبلة",
+                  "name": "Khirbat al Muqbilah",
                   "text": "Khirbat al Muqbilah este un sit cu ruine situat în Fuheis.",
                   "category": "historical",
                   "coords": [
@@ -3496,7 +3496,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "azraq-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قصر الأزرق‎",
+                  "name": "Qasr Al-Azraq",
                   "text": "Qasr Al-Azraq ist eine bedeutende große Festung und archäologische Stätte in Azraq, die für ihre schwarzen Basaltmauern bekannt ist.",
                   "category": "historical",
                   "coords": [
@@ -3543,7 +3543,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قصر الأزرق‎",
+                  "name": "Qasr Al-Azraq",
                   "text": "A Qasr Al-Azraq egy nevezetes, fekete bazaltfalairól híres nagy erőd és régészeti lelőhely Azraqban.",
                   "category": "historical",
                   "coords": [
@@ -3552,7 +3552,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية الأزرق المائية",
+                  "name": "Azraq Wetland Reserve",
                   "text": "Az Azraq Wetland Reserve egy elismert természetvédelmi terület Azraqban, amelyet egy sivatagi oázis védelmére hoztak létre.",
                   "category": "natural",
                   "coords": [
@@ -3590,7 +3590,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قصر الأزرق‎",
+                  "name": "Qasr Al-Azraq",
                   "text": "Qasr Al-Azraq este o fortăreață notabilă și un sit arheologic în Azraq, renumit pentru zidurile sale din bazalt negru.",
                   "category": "historical",
                   "coords": [
@@ -3599,7 +3599,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية الأزرق المائية",
+                  "name": "Azraq Wetland Reserve",
                   "text": "Azraq Wetland Reserve este o rezervație naturală recunoscută din Azraq, creată pentru a proteja o oază din deșert.",
                   "category": "natural",
                   "coords": [

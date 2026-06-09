@@ -1093,7 +1093,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه هنرهای زیبا",
+                  "name": "Museum of fine arts",
                   "text": "Das Museum of fine arts ist eine kulturelle Einrichtung in Kaschan, die Kunstsammlungen zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1102,7 +1102,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه",
+                  "name": "Spielzeugmuseum",
                   "text": "Das Spielzeugmuseum ist eine interessante kulturelle Ausstellung in Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1120,7 +1120,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بازار کاشان",
+                  "name": "traditionelle Basar von Kaschan",
                   "text": "Der traditionelle Basar von Kaschan ist eine bekannte kommerzielle Sehenswürdigkeit der Stadt.",
                   "category": "landmark",
                   "coords": [
@@ -1129,7 +1129,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه مهینستان راهب",
+                  "name": "Haus von Mahinestane Raheb",
                   "text": "Das Haus von Mahinestane Raheb ist ein architektonisches Denkmal in Kaschan.",
                   "category": "historical",
                   "coords": [
@@ -1147,7 +1147,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رزیدنسی وایو",
+                  "name": "Vayu Art and Mind Residency",
                   "text": "Die Vayu Art and Mind Residency ist eine kulturelle und künstlerische Attraktion in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1156,7 +1156,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه آل یاسین",
+                  "name": "historische Haus Al-e Yasin",
                   "text": "Das historische Haus Al-e Yasin ist eine bemerkenswerte architektonische Sehenswürdigkeit in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1165,7 +1165,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هنری",
+                  "name": "Dieser künstlerische Raum",
                   "text": "Dieser künstlerische Raum ist eine interessante kulturelle Attraktion in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1174,7 +1174,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "name": "Diese Schule und Galerie für bildende Künste",
                   "text": "Diese Schule und Galerie für bildende Künste ist ein kreativer Treffpunkt in der Stadt Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1192,7 +1192,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شعربافی تقی خان کاشان",
+                  "name": "Seidenweberei Taqi Khan",
                   "text": "Die Seidenweberei Taqi Khan ist eine traditionelle handwerkliche Attraktion in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1201,7 +1201,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "name": "Schrein von Baba Shuja al-Din",
                   "text": "Der Schrein von Baba Shuja al-Din ist eine historische und religiöse Attraktion in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1219,7 +1219,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد جامع کاشان",
+                  "name": "Zentralmoschee von Kaschan",
                   "text": "Die Zentralmoschee von Kaschan ist eine wichtige religiöse Stätte und Kultstätte der Stadt.",
                   "category": "religious",
                   "coords": [
@@ -1228,7 +1228,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد سلطانیه",
+                  "name": "Soltani-Moschee",
                   "text": "Die Soltani-Moschee ist eine bedeutende Kultstätte in Kaschan.",
                   "category": "religious",
                   "coords": [
@@ -1255,7 +1255,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الحسین",
+                  "name": "Al-Hussein-Moschee",
                   "text": "Die Al-Hussein-Moschee ist eine lokale Kultstätte, die der Gemeinde in Kaschan dient.",
                   "category": "religious",
                   "coords": [
@@ -1284,7 +1284,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "name": "Dzsalali-kastély és",
                   "text": "A Dzsalali-kastély és a szeldzsuk erődítmény egy történelmi védelmi komplexumot alkot Kaschan városában.",
                   "category": "castle",
                   "coords": [
@@ -1293,7 +1293,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه هنرهای زیبا",
+                  "name": "Szépművészeti Múzeum",
                   "text": "A Szépművészeti Múzeum egy művészeti gyűjteményeket bemutató kulturális intézmény Kaschanban.",
                   "category": "museum",
                   "coords": [
@@ -1302,7 +1302,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه",
+                  "name": "Játékmúzeum",
                   "text": "A Játékmúzeum egy érdekes kulturális kiállítás Kaschanban.",
                   "category": "museum",
                   "coords": [
@@ -1329,7 +1329,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه مهینستان راهب",
+                  "name": "Mahinestane Raheb-ház",
                   "text": "A Mahinestane Raheb-ház egy építészeti műemlék Kaschanban.",
                   "category": "historical",
                   "coords": [
@@ -1347,7 +1347,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رزیدنسی وایو",
+                  "name": "Vayu Art and Mind Residency",
                   "text": "A Vayu Art and Mind Residency egy kulturális és művészeti látványosság Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1356,7 +1356,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه آل یاسین",
+                  "name": "Al-e Yasin történelmi ház",
                   "text": "Az Al-e Yasin történelmi ház egy figyelemre méltó építészeti látványosság Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1392,7 +1392,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شعربافی تقی خان کاشان",
+                  "name": "Taqi Khan selyemszövés",
                   "text": "A Taqi Khan selyemszövés egy hagyományos kézműves látványosság Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1419,7 +1419,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد جامع کاشان",
+                  "name": "kaschani központi mecset",
                   "text": "A kaschani központi mecset egy fontos vallási helyszín és istentiszteleti hely a városban.",
                   "category": "religious",
                   "coords": [
@@ -1428,7 +1428,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد سلطانیه",
+                  "name": "Soltani-mecset",
                   "text": "A Soltani-mecset egy kiemelkedő istentiszteleti hely Kaschanban.",
                   "category": "religious",
                   "coords": [
@@ -1437,7 +1437,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی بروجردی ها",
+                  "name": "Borudzserdi-ház",
                   "text": "A Borudzserdi-ház egy történelmi kúria Kaschanban, amely kiváló stukkómunkáiról és hagyományos széltornyairól híres.",
                   "category": "landmark",
                   "coords": [
@@ -1446,7 +1446,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی عامری‌ها",
+                  "name": "Āmeri-ház",
                   "text": "Az Āmeri-ház egy kiemelkedő történelmi rezidencia Kaschanban, amelyet a város egyik legnagyobb hagyományos házaként tartanak számon.",
                   "category": "landmark",
                   "coords": [
@@ -1455,7 +1455,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الحسین",
+                  "name": "Al-Husszein mecset",
                   "text": "Az Al-Husszein mecset egy helyi istentiszteleti hely, amely Kaschan közösségét szolgálja.",
                   "category": "religious",
                   "coords": [
@@ -1464,7 +1464,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی عباسیان",
+                  "name": "Abbaszidák történelmi otthona",
                   "text": "Az Abbaszidák történelmi otthona egy csodálatos hagyományos kúria Kaschanban, amely süllyesztett udvarairól és bonyolult díszítéseiről híres.",
                   "category": "landmark",
                   "coords": [
@@ -1473,7 +1473,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه هاشمیان (مس)",
+                  "name": "Hashemian-ház",
                   "text": "A Hashemian-ház egy hagyományos lakóépület Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1493,7 +1493,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه هنرهای زیبا",
+                  "name": "Muzeul de arte frumoase",
                   "text": "Muzeul de arte frumoase este o instituție culturală care expune colecții de artă în Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1502,7 +1502,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه",
+                  "name": "Muzeul Jucăriilor",
                   "text": "Muzeul Jucăriilor este o expoziție culturală captivantă situată în Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1520,7 +1520,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بازار کاشان",
+                  "name": "Bazarul tradițional din Kaschan",
                   "text": "Bazarul tradițional din Kaschan este o atracție comercială importantă a orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1529,7 +1529,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه مهینستان راهب",
+                  "name": "Casa Mahinestane Raheb",
                   "text": "Casa Mahinestane Raheb este un monument arhitectural situat în Kaschan.",
                   "category": "historical",
                   "coords": [
@@ -1547,7 +1547,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رزیدنسی وایو",
+                  "name": "Vayu Art and Mind Residency",
                   "text": "Vayu Art and Mind Residency este o atracție culturală și artistică situată în Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1556,7 +1556,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه آل یاسین",
+                  "name": "Casa istorică Al-e Yasin",
                   "text": "Casa istorică Al-e Yasin este o atracție arhitecturală remarcabilă din Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هنری",
+                  "name": "Acest spațiu artistic",
                   "text": "Acest spațiu artistic este o atracție culturală interesantă situată în Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1574,7 +1574,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "name": "Această școală și galerie de arte vizuale",
                   "text": "Această școală și galerie de arte vizuale este un centru creativ situat în orașul Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1592,7 +1592,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شعربافی تقی خان کاشان",
+                  "name": "Țesutul mătăsii Taqi Khan",
                   "text": "Țesutul mătăsii Taqi Khan este o atracție artizanală tradițională situată în Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1601,7 +1601,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "name": "Sanctuarul lui Baba Shuja al-Din",
                   "text": "Sanctuarul lui Baba Shuja al-Din este o atracție istorică și religioasă din Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1619,7 +1619,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد جامع کاشان",
+                  "name": "Moscheea Centrală din Kaschan",
                   "text": "Moscheea Centrală din Kaschan este un important sit religios și lăcaș de cult din oraș.",
                   "category": "religious",
                   "coords": [
@@ -1628,7 +1628,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد سلطانیه",
+                  "name": "Moscheea Soltani",
                   "text": "Moscheea Soltani este un lăcaș de cult proeminent situat în Kaschan.",
                   "category": "religious",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی بروجردی ها",
+                  "name": "Casa Borujerdi",
                   "text": "Casa Borujerdi este un conac istoric din Kaschan, renumit pentru stucaturile sale rafinate și turnurile de vânt tradiționale.",
                   "category": "landmark",
                   "coords": [
@@ -1646,7 +1646,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی عامری‌ها",
+                  "name": "Casa Āmeri",
                   "text": "Casa Āmeri este o reședință istorică proeminentă din Kaschan, recunoscută ca fiind una dintre cele mai mari case tradiționale din oraș.",
                   "category": "landmark",
                   "coords": [
@@ -1655,7 +1655,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الحسین",
+                  "name": "Moscheea Al-Hussein",
                   "text": "Moscheea Al-Hussein este un lăcaș de cult local care deservește comunitatea din Kaschan.",
                   "category": "religious",
                   "coords": [
@@ -1664,7 +1664,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی عباسیان",
+                  "name": "Casa istorică Abbasid",
                   "text": "Casa istorică Abbasid este un conac tradițional magnific din Kaschan, renumit pentru curțile sale scufundate și decorațiunile complexe.",
                   "category": "landmark",
                   "coords": [
@@ -1673,7 +1673,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه هاشمیان (مس)",
+                  "name": "Casa Hashemian",
                   "text": "Casa Hashemian este o clădire rezidențială tradițională situată în Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1720,7 +1720,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بازار کاشان",
+                  "name": "traditional Bazaar of Kashan",
                   "text": "The traditional Bazaar of Kashan is a prominent commercial attraction in the city.",
                   "category": "landmark",
                   "coords": [
@@ -1765,7 +1765,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هنری",
+                  "name": "This artistic space",
                   "text": "This artistic space is an interesting cultural attraction located in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1774,7 +1774,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "name": "This visual arts school and gallery",
                   "text": "This visual arts school and gallery is a creative hub found in the city of Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1792,7 +1792,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شعربافی تقی خان کاشان",
+                  "name": "Taqi Khan silk weaving",
                   "text": "Taqi Khan silk weaving is a traditional artisanal attraction situated in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1801,7 +1801,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "name": "shrine of Baba Shuja al-Din",
                   "text": "The shrine of Baba Shuja al-Din is a historic and religious attraction located in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1855,7 +1855,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الحسین",
+                  "name": "Al-Hussein Mosque",
                   "text": "Al-Hussein Mosque is a local place of worship serving the community in Kaschan.",
                   "category": "religious",
                   "coords": [
@@ -1941,7 +1941,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی تیزنو",
+                  "name": "Tizno Historical House",
                   "text": "Tizno Historical House ist ein bekanntes Museum in Desful.",
                   "category": "museum",
                   "coords": [
@@ -1950,7 +1950,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه آب",
+                  "name": "Water Museum",
                   "text": "Water Museum ist ein Museum in Desful.",
                   "category": "museum",
                   "coords": [
@@ -1968,7 +1968,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی قطب",
+                  "name": "History house",
                   "text": "History house ist ein Museum in Desful.",
                   "category": "museum",
                   "coords": [
@@ -1977,7 +1977,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پل ساسانی دزفول",
+                  "name": "Sassanid bridge",
                   "text": "Sassanid bridge ist eine bekannte Touristenattraktion in Desful.",
                   "category": "landmark",
                   "coords": [
@@ -2071,7 +2071,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی تیزنو",
+                  "name": "Tizno Historical House",
                   "text": "Tizno Historical House este un muzeu notabil situat în Desful.",
                   "category": "museum",
                   "coords": [
@@ -2080,7 +2080,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه آب",
+                  "name": "Water Museum",
                   "text": "Water Museum este un muzeu situat în Desful.",
                   "category": "museum",
                   "coords": [
@@ -2098,7 +2098,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی قطب",
+                  "name": "History house",
                   "text": "History house este un muzeu situat în Desful.",
                   "category": "museum",
                   "coords": [
@@ -2107,7 +2107,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پل ساسانی دزفول",
+                  "name": "Sassanid bridge",
                   "text": "Sassanid bridge este o atracție turistică notabilă situată în Desful.",
                   "category": "landmark",
                   "coords": [

@@ -158,7 +158,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة عبود",
+                  "name": "Aboud Theme Park",
                   "text": "Der Aboud Theme Park bietet Vergnügungsattraktionen in Khartum Bahri.",
                   "category": "family",
                   "coords": [
@@ -167,7 +167,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف التاريخ الطبيعي",
+                  "name": "Natural History Museum",
                   "text": "Das Natural History Museum ist eine naturkundliche Einrichtung in Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -248,7 +248,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بلاك كرافتر",
+                  "name": "Blackcraft",
                   "text": "Blackcraft ist eine unabhängige Galerie in Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -257,7 +257,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أتنيه",
+                  "name": "Atanye",
                   "text": "Atanye ist eine Galerie für bildende Kunst in Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -331,7 +331,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف التاريخ الطبيعي",
+                  "name": "Natural History Museum",
                   "text": "A Natural History Museum egy természettudományi intézmény Khartum Bahriban.",
                   "category": "museum",
                   "coords": [
@@ -412,7 +412,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بلاك كرافتر",
+                  "name": "Blackcraft",
                   "text": "A Blackcraft egy független galéria Khartum Bahriban.",
                   "category": "museum",
                   "coords": [
@@ -421,7 +421,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أتنيه",
+                  "name": "Atanye",
                   "text": "Az Atanye egy vizuális művészeti galéria Khartum Bahriban.",
                   "category": "museum",
                   "coords": [
@@ -495,7 +495,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف التاريخ الطبيعي",
+                  "name": "Natural History Museum",
                   "text": "Natural History Museum este o instituție de științe naturale în Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -576,7 +576,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بلاك كرافتر",
+                  "name": "Blackcraft",
                   "text": "Blackcraft este o galerie independentă situată în Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -585,7 +585,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أتنيه",
+                  "name": "Atanye",
                   "text": "Atanye este o galerie de arte vizuale în Khartum Bahri.",
                   "category": "museum",
                   "coords": [

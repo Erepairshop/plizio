@@ -167,7 +167,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "suez-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حديقة الشهداء",
+                  "name": "Martyrs' Park",
                   "text": "Der Martyrs' Park ist eine Attraktion in Sues.",
                   "category": "landmark",
                   "coords": [
@@ -178,7 +178,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حديقة الشهداء",
+                  "name": "Martyrs' Park",
                   "text": "A Martyrs' Park egy látványosság Sues városában.",
                   "category": "landmark",
                   "coords": [
@@ -189,7 +189,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حديقة الشهداء",
+                  "name": "Martyrs' Park",
                   "text": "Martyrs' Park este o atracție situată în Sues.",
                   "category": "landmark",
                   "coords": [
@@ -595,7 +595,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نهضة قداسة اسيوط",
+                  "name": "Church",
                   "text": "Die Church ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -660,7 +660,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نهضة قداسة اسيوط",
+                  "name": "church",
                   "text": "A church egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -725,7 +725,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نهضة قداسة اسيوط",
+                  "name": "Church",
                   "text": "Church este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -987,7 +987,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "damietta-cities-v2", "sights": {
       "de": [
             {
-                  "name": "سوق السمك",
+                  "name": "Fish market",
                   "text": "Der Fish market ist eine lokale Attraktion in Damiette.",
                   "category": "landmark",
                   "coords": [
@@ -998,7 +998,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "سوق السمك",
+                  "name": "Fish market",
                   "text": "A Fish market egy látványosság Damiette területén.",
                   "category": "landmark",
                   "coords": [
@@ -1009,7 +1009,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "سوق السمك",
+                  "name": "Fish market",
                   "text": "Fish market este o atracție turistică în Damiette.",
                   "category": "landmark",
                   "coords": [
@@ -1554,7 +1554,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بطا",
+                  "name": "BTA",
                   "text": "BTA ist eine Sehenswürdigkeit in Banha.",
                   "category": "landmark",
                   "coords": [
@@ -1574,7 +1574,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بطا",
+                  "name": "BTA",
                   "text": "A BTA egy látványosság Banha városában.",
                   "category": "landmark",
                   "coords": [
@@ -1594,7 +1594,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بطا",
+                  "name": "BTA",
                   "text": "BTA este o atracție în Banha.",
                   "category": "landmark",
                   "coords": [
@@ -1798,7 +1798,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Considéré comme l'un des plus anciens lieux habités du delta oriental du Nil.", "Abrite la mosquée Sadat Quraish datant du VIIe siècle.", "Siège de la célèbre Académie de l'armée de l'air égyptienne.", "Était un point de défense stratégique pendant les Croisades.", "Situé sur l'ancienne branche pélusiaque du Nil.", "La ville compte une population estimée à 150 000 habitants."],
     }, image: "/poi-images/bilbais-cities-v2.webp"},
   {
-    id: "marsa-matruh-cities-v2", "sights": {"de": [{"name": "متحف كهف رومل", "text": "Das Rommel Cave Museum ist ein Museum in Marsa Matruh.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "An der Mittelmeerküste Ägyptens liegt der El-Passant Beach in der Stadt Marsa Matruh. Dieser Strand bietet eine authentische lokale Stimmung, die besonders an warmen Sommertagen belebt ist. Besucher können sich auf feinen Sand und erfrischendes Wasser für entspannte Strandstunden freuen. Ein Besuch unter der Woche ist oft ruhiger und bietet mehr Platz zum Entspannen.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "شارع اسكندرية. مرسي مطروح", "text": "Die Alexandria Street ist ein Aussichtspunkt in der Stadt Marsa Matruh.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "شاطئ الغرام", "text": "Love beach ist eine Touristenattraktion in Marsa Matruh.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "شاطئ العوام", "text": "Der Al-Awam-Strand ist ein malerischer Aussichtspunkt in Marsa Matruh.", "category": "natural", "coords": [27.230426, 31.357623]}], "hu": [{"name": "متحف كهف رومل", "text": "A Rommel Cave Museum egy múzeum Marsa Matruh városában.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "Egyiptom földközi-tengeri partján, Marsa Matruh városában található az El-Passant Beach. Ez a strand autentikus helyi hangulatot kínál, amely különösen a meleg nyári napokon kel életre. A látogatók finom homokra és frissítő vízre számíthatnak egy pihentető tengerparti időtöltéshez. A hétköznapi látogatás gyakran csendesebb, és több helyet biztosít a kikapcsolódásra.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "شارع اسكندرية. مرسي مطروح", "text": "Az Alexandria Street egy kilátó Marsa Matruh városában.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "شاطئ الغرام", "text": "A Love beach egy turisztikai látványosság Marsa Matruh városában.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "شاطئ العوام", "text": "Az Al-Awam strand egy festői kilátó Marsa Matruhban.", "category": "natural", "coords": [27.230426, 31.357623]}], "ro": [{"name": "متحف كهف رومل", "text": "Rommel Cave Museum este un muzeu în Marsa Matruh.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "Pe coasta mediteraneană a Egiptului, în orașul Marsa Matruh, se află El-Passant Beach. Această plajă oferă o atmosferă locală autentică, care este deosebit de animată în zilele calde de vară. Vizitatorii se pot bucura de nisip fin și apă răcoritoare pentru ore relaxante la plajă. O vizită în timpul săptămânii este adesea mai liniștită și oferă mai mult spațiu de relaxare.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "شارع اسكندرية. مرسي مطروح", "text": "Strada Alexandria este un punct de belvedere în orașul Marsa Matruh.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "شاطئ الغرام", "text": "Love beach este o atracție turistică situată în Marsa Matruh.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "شاطئ العوام", "text": "Plaja Al-Awam este un punct de belvedere pitoresc situat în Marsa Matruh.", "category": "natural", "coords": [27.230426, 31.357623]}], "en": [{"name": "Rommel Cave Museum", "text": "The Rommel Cave Museum is a museum in Marsa Matruh.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "Located on the Mediterranean coast of Egypt in the city of Marsa Matruh is El-Passant Beach. This beach offers an authentic local vibe that is especially lively on warm summer days. Visitors can look forward to fine sand and refreshing water for relaxing hours on the shore. Visiting during the week is often quieter and provides more space to unwind.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "شارع اسكندرية. مرسي مطروح", "text": "Alexandria Street is a viewpoint located in the city of Marsa Matruh.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "Love beach", "text": "Love beach is a tourist attraction located in Marsa Matruh.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "شاطئ العوام", "text": "Al-Awam Beach is a scenic viewpoint situated in Marsa Matruh.", "category": "natural", "coords": [27.230426, 31.357623]}]},
+    id: "marsa-matruh-cities-v2", "sights": {"de": [{"name": "Rommel Cave Museum", "text": "Das Rommel Cave Museum ist ein Museum in Marsa Matruh.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "An der Mittelmeerküste Ägyptens liegt der El-Passant Beach in der Stadt Marsa Matruh. Dieser Strand bietet eine authentische lokale Stimmung, die besonders an warmen Sommertagen belebt ist. Besucher können sich auf feinen Sand und erfrischendes Wasser für entspannte Strandstunden freuen. Ein Besuch unter der Woche ist oft ruhiger und bietet mehr Platz zum Entspannen.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "Alexandria Street", "text": "Die Alexandria Street ist ein Aussichtspunkt in der Stadt Marsa Matruh.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "Love beach", "text": "Love beach ist eine Touristenattraktion in Marsa Matruh.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "Al-Awam-Strand", "text": "Der Al-Awam-Strand ist ein malerischer Aussichtspunkt in Marsa Matruh.", "category": "natural", "coords": [27.230426, 31.357623]}], "hu": [{"name": "Rommel Cave Museum", "text": "A Rommel Cave Museum egy múzeum Marsa Matruh városában.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "Egyiptom földközi-tengeri partján, Marsa Matruh városában található az El-Passant Beach. Ez a strand autentikus helyi hangulatot kínál, amely különösen a meleg nyári napokon kel életre. A látogatók finom homokra és frissítő vízre számíthatnak egy pihentető tengerparti időtöltéshez. A hétköznapi látogatás gyakran csendesebb, és több helyet biztosít a kikapcsolódásra.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "Alexandria Street", "text": "Az Alexandria Street egy kilátó Marsa Matruh városában.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "Love beach", "text": "A Love beach egy turisztikai látványosság Marsa Matruh városában.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "Al-Awam strand", "text": "Az Al-Awam strand egy festői kilátó Marsa Matruhban.", "category": "natural", "coords": [27.230426, 31.357623]}], "ro": [{"name": "Rommel Cave Museum", "text": "Rommel Cave Museum este un muzeu în Marsa Matruh.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "Pe coasta mediteraneană a Egiptului, în orașul Marsa Matruh, se află El-Passant Beach. Această plajă oferă o atmosferă locală autentică, care este deosebit de animată în zilele calde de vară. Vizitatorii se pot bucura de nisip fin și apă răcoritoare pentru ore relaxante la plajă. O vizită în timpul săptămânii este adesea mai liniștită și oferă mai mult spațiu de relaxare.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "Strada Alexandria", "text": "Strada Alexandria este un punct de belvedere în orașul Marsa Matruh.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "Love beach", "text": "Love beach este o atracție turistică situată în Marsa Matruh.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "Plaja Al-Awam", "text": "Plaja Al-Awam este un punct de belvedere pitoresc situat în Marsa Matruh.", "category": "natural", "coords": [27.230426, 31.357623]}], "en": [{"name": "Rommel Cave Museum", "text": "The Rommel Cave Museum is a museum in Marsa Matruh.", "category": "museum", "coords": [27.248435, 31.36562]}, {"name": "El-Passant Beach", "text": "Located on the Mediterranean coast of Egypt in the city of Marsa Matruh is El-Passant Beach. This beach offers an authentic local vibe that is especially lively on warm summer days. Visitors can look forward to fine sand and refreshing water for relaxing hours on the shore. Visiting during the week is often quieter and provides more space to unwind.", "category": "recreational", "coords": [27.255696, 31.362838]}, {"name": "Alexandria Street", "text": "Alexandria Street is a viewpoint located in the city of Marsa Matruh.", "category": "natural", "coords": [27.240173, 31.355168]}, {"name": "Love beach", "text": "Love beach is a tourist attraction located in Marsa Matruh.", "category": "landmark", "coords": [27.221675, 31.368321]}, {"name": "Al-Awam Beach", "text": "Al-Awam Beach is a scenic viewpoint situated in Marsa Matruh.", "category": "natural", "coords": [27.230426, 31.357623]}]},
     type: "city",
     parent: "EG-MT",
     coords: [27.2453, 31.3543],
@@ -1836,7 +1836,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "idfu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "معبد إدفو",
+                  "name": "Edfu-Tempel",
                   "text": "Der Edfu-Tempel ist eine archäologische Stätte in Edfu, die dem Gott Horus gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -1845,7 +1845,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عرض الصوت والضواء",
+                  "name": "Sound & Light Show",
                   "text": "Die Sound & Light Show ist ein Theater in Edfu.",
                   "category": "cultural",
                   "coords": [
@@ -1865,7 +1865,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "معبد إدفو",
+                  "name": "edfui templom",
                   "text": "Az edfui templom egy régészeti lelőhely Edfuban, amelyet Hórusz istennek szenteltek.",
                   "category": "historical",
                   "coords": [
@@ -1874,7 +1874,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عرض الصوت والضواء",
+                  "name": "Sound & Light Show",
                   "text": "A Sound & Light Show egy színházi előadás Edfuban.",
                   "category": "cultural",
                   "coords": [
@@ -1894,7 +1894,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "معبد إدفو",
+                  "name": "Templul din Edfu",
                   "text": "Templul din Edfu este un sit arheologic din Edfu dedicat zeului Horus.",
                   "category": "historical",
                   "coords": [
@@ -1903,7 +1903,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عرض الصوت والضواء",
+                  "name": "Sound & Light Show",
                   "text": "Sound & Light Show este un teatru în Edfu.",
                   "category": "cultural",
                   "coords": [
@@ -2058,7 +2058,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "desouk-cities-v2", "sights": {
       "de": [
             {
-                  "name": "ملاهي",
+                  "name": "Amusement Park",
                   "text": "Der Amusement Park ist ein Freizeitpark in Desuk.",
                   "category": "family",
                   "coords": [
@@ -2067,7 +2067,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الصفا",
+                  "name": "Al-Safa Hall",
                   "text": "Die Al-Safa Hall ist ein Theater in Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2076,7 +2076,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة حفلات ليلة العمر",
+                  "name": "Leelet Al-Omr",
                   "text": "Leelet Al-Omr ist ein Theater in Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2085,7 +2085,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة حفلات",
+                  "name": "Wedding Hall",
                   "text": "Die Wedding Hall ist ein Theater in der Stadt Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر ثقافة دسوق",
+                  "name": "Desouk Culture House",
                   "text": "Das Desouk Culture House ist ein Theater in Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2103,7 +2103,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ليلة العمر",
+                  "name": "Leylat Al-Omr",
                   "text": "Leylat Al-Omr ist ein Theater in der Stadt Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حدائق الميدان الإبراهيمي",
+                  "name": "Al-Midan Al-Ibrahimy Gardens",
                   "text": "Al-Midan Al-Ibrahimy Gardens ist ein bekannter öffentlicher Park in der Stadt Desuk.",
                   "category": "park",
                   "coords": [
@@ -2139,7 +2139,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة أم القرى",
+                  "name": "Um Al-Qura Garden",
                   "text": "Um Al-Qura Garden ist ein bekannter Park, der eine Grünfläche in der Stadt Desuk bietet.",
                   "category": "park",
                   "coords": [
@@ -2148,7 +2148,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة الفردوس",
+                  "name": "Al Fardous Garden",
                   "text": "Al Fardous Garden ist eine Touristenattraktion in der Stadt Desuk.",
                   "category": "landmark",
                   "coords": [
@@ -2157,7 +2157,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد إبراهيم الدسوقي",
+                  "name": "Ibrahim-El-Desouky-Moschee",
                   "text": "Die Ibrahim-El-Desouky-Moschee ist ein bedeutender islamischer Schrein in Desuk, der das Grab des berühmten Sufi-Heiligen beherbergt.",
                   "category": "religious",
                   "coords": [
@@ -2166,7 +2166,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة الشهيد العظيم مار جرجس",
+                  "name": "Church of St. George the Great Martyr",
                   "text": "Die Church of St. George the Great Martyr ist eine bedeutende christliche Kultstätte in Desuk.",
                   "category": "religious",
                   "coords": [
@@ -2177,7 +2177,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ملاهي",
+                  "name": "Amusement Park",
                   "text": "Az Amusement Park egy vidámpark Desuk városában.",
                   "category": "family",
                   "coords": [
@@ -2186,7 +2186,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الصفا",
+                  "name": "Al-Safa Hall",
                   "text": "Az Al-Safa Hall egy színház Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2195,7 +2195,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة حفلات ليلة العمر",
+                  "name": "Leelet Al-Omr",
                   "text": "A Leelet Al-Omr egy színház Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2204,7 +2204,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة حفلات",
+                  "name": "Wedding Hall",
                   "text": "A Wedding Hall egy színházként is funkcionáló létesítmény Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2213,7 +2213,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر ثقافة دسوق",
+                  "name": "Desouk Culture House",
                   "text": "A Desouk Culture House egy színház Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2222,7 +2222,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ليلة العمر",
+                  "name": "Leylat Al-Omr",
                   "text": "A Leylat Al-Omr egy színház Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2249,7 +2249,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حدائق الميدان الإبراهيمي",
+                  "name": "Al-Midan Al-Ibrahimy Gardens",
                   "text": "Az Al-Midan Al-Ibrahimy Gardens egy ismert közpark Desuk városában.",
                   "category": "park",
                   "coords": [
@@ -2258,7 +2258,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة أم القرى",
+                  "name": "Um Al-Qura Garden",
                   "text": "Az Um Al-Qura Garden egy elismert park, amely zöldterületet kínál Desuk városában.",
                   "category": "park",
                   "coords": [
@@ -2267,7 +2267,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة الفردوس",
+                  "name": "Al Fardous Garden",
                   "text": "Az Al Fardous Garden egy turisztikai látványosság Desuk városában.",
                   "category": "landmark",
                   "coords": [
@@ -2276,7 +2276,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد إبراهيم الدسوقي",
+                  "name": "Ibrahim El-Desouky-mecset",
                   "text": "Az Ibrahim El-Desouky-mecset egy jelentős iszlám szentély Desukban, amely a híres szúfi szent sírját is magában foglalja.",
                   "category": "religious",
                   "coords": [
@@ -2285,7 +2285,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة الشهيد العظيم مار جرجس",
+                  "name": "Szent György nagyvértanú templom",
                   "text": "A Szent György nagyvértanú templom egy figyelemre méltó keresztény istentiszteleti hely Desukban.",
                   "category": "religious",
                   "coords": [
@@ -2296,7 +2296,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ملاهي",
+                  "name": "Amusement Park",
                   "text": "Amusement Park este un parc tematic în Desuk.",
                   "category": "family",
                   "coords": [
@@ -2305,7 +2305,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الصفا",
+                  "name": "Al-Safa Hall",
                   "text": "Al-Safa Hall este un teatru situat în Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2314,7 +2314,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة حفلات ليلة العمر",
+                  "name": "Leelet Al-Omr",
                   "text": "Leelet Al-Omr este un teatru în Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2323,7 +2323,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة حفلات",
+                  "name": "Wedding Hall",
                   "text": "Wedding Hall este un teatru în Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2332,7 +2332,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر ثقافة دسوق",
+                  "name": "Desouk Culture House",
                   "text": "Desouk Culture House este un teatru din Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2341,7 +2341,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ليلة العمر",
+                  "name": "Leylat Al-Omr",
                   "text": "Leylat Al-Omr este un teatru situat în orașul Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2368,7 +2368,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حدائق الميدان الإبراهيمي",
+                  "name": "Al-Midan Al-Ibrahimy Gardens",
                   "text": "Al-Midan Al-Ibrahimy Gardens este un parc public cunoscut din orașul Desuk.",
                   "category": "park",
                   "coords": [
@@ -2377,7 +2377,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة أم القرى",
+                  "name": "Grădina Um Al-Qura",
                   "text": "Grădina Um Al-Qura este un parc recunoscut care oferă spațiu verde în orașul Desuk.",
                   "category": "park",
                   "coords": [
@@ -2386,7 +2386,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة الفردوس",
+                  "name": "Grădina Al Fardous",
                   "text": "Grădina Al Fardous este o atracție turistică situată în orașul Desuk.",
                   "category": "landmark",
                   "coords": [
@@ -2395,7 +2395,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد إبراهيم الدسوقي",
+                  "name": "Moscheea Ibrahim El-Desouky",
                   "text": "Moscheea Ibrahim El-Desouky este un altar islamic major din Desuk care conține mormântul renumitului sfânt sufit.",
                   "category": "religious",
                   "coords": [
@@ -2404,7 +2404,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة الشهيد العظيم مار جرجس",
+                  "name": "Biserica Sfântul Gheorghe Marele Mucenic",
                   "text": "Biserica Sfântul Gheorghe Marele Mucenic este un lăcaș de cult creștin notabil situat în Desuk.",
                   "category": "religious",
                   "coords": [
@@ -2650,7 +2650,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الرياض",
+                  "name": "Al Riyadh",
                   "text": "Al Riyadh ist ein Theater in der Stadt Kafr asch-Schaich.",
                   "category": "cultural",
                   "coords": [
@@ -2679,7 +2679,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الرياض",
+                  "name": "Al Riyadh",
                   "text": "Az Al Riyadh egy színház Kafr asch-Schaich városában.",
                   "category": "cultural",
                   "coords": [
@@ -2708,7 +2708,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الرياض",
+                  "name": "Al Riyadh",
                   "text": "Al Riyadh este un teatru situat în orașul Kafr asch-Schaich.",
                   "category": "cultural",
                   "coords": [
@@ -3138,7 +3138,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل الامصيلى",
+                  "name": "Amasyali House",
                   "text": "Amasyali House ist eine lokale Sehenswürdigkeit in der Stadt Rosette.",
                   "category": "landmark",
                   "coords": [
@@ -3156,7 +3156,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الصامت",
+                  "name": "Wafya Al-Samet Mosque",
                   "text": "Die Wafya Al-Samet Mosque ist eine religiöse Stätte in Rosette.",
                   "category": "religious",
                   "coords": [
@@ -3165,7 +3165,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المحلي",
+                  "name": "Al-Mahaly-Moschee",
                   "text": "Die Al-Mahaly-Moschee ist eine bedeutende religiöse Stätte in der Stadt Rosette.",
                   "category": "religious",
                   "coords": [
@@ -3176,7 +3176,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف رشيد",
+                  "name": "rosetti Rashid Nemzeti Múzeum",
                   "text": "A rosetti Rashid Nemzeti Múzeum a város iszlám és helyi történelmének műtárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3185,7 +3185,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل الامصيلى",
+                  "name": "Amasyali House",
                   "text": "Az Amasyali House egy helyi látványosság Rosette városában.",
                   "category": "landmark",
                   "coords": [
@@ -3203,7 +3203,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الصامت",
+                  "name": "Wafya Al-Samet Mosque",
                   "text": "A Wafya Al-Samet Mosque egy vallási imahely Rosette városában.",
                   "category": "religious",
                   "coords": [
@@ -3212,7 +3212,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المحلي",
+                  "name": "Al-Mahaly-mecset",
                   "text": "Az Al-Mahaly-mecset egy jelentős iszlám imahely Rosette városában.",
                   "category": "religious",
                   "coords": [
@@ -3232,7 +3232,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل الامصيلى",
+                  "name": "Amasyali House",
                   "text": "Amasyali House este o atracție locală situată în orașul Rosette.",
                   "category": "landmark",
                   "coords": [
@@ -3250,7 +3250,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الصامت",
+                  "name": "Wafya Al-Samet Mosque",
                   "text": "Wafya Al-Samet Mosque este un lăcaș de cult situat în Rosette.",
                   "category": "religious",
                   "coords": [
@@ -3259,7 +3259,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المحلي",
+                  "name": "Moscheea Al-Mahaly",
                   "text": "Moscheea Al-Mahaly este un important lăcaș de cult islamic situat în orașul Rosette.",
                   "category": "religious",
                   "coords": [
@@ -3608,7 +3608,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "siwa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "بيت سيوة",
+                  "name": "House of Siwa",
                   "text": "Das House of Siwa ist ein Museum in der Stadt Siwa.",
                   "category": "museum",
                   "coords": [
@@ -3617,7 +3617,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة شالى",
+                  "name": "Fort von Shali",
                   "text": "Das Fort von Shali ist eine historische Festungsanlage in Siwa.",
                   "category": "castle",
                   "coords": [
@@ -3635,7 +3635,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد آمون",
+                  "name": "Tempel des Amun",
                   "text": "Der Tempel des Amun ist eine antike Ruinenstätte in Siwa.",
                   "category": "historical",
                   "coords": [
@@ -3644,7 +3644,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجامع العتيق",
+                  "name": "Alte Moschee",
                   "text": "Die Alte Moschee ist eine Kultstätte in Siwa.",
                   "category": "religious",
                   "coords": [
@@ -3655,7 +3655,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "بيت سيوة",
+                  "name": "House of Siwa",
                   "text": "A House of Siwa egy múzeum Siwa városában.",
                   "category": "museum",
                   "coords": [
@@ -3664,7 +3664,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة شالى",
+                  "name": "Shali erőd",
                   "text": "A Shali erőd egy történelmi vár Siwa városában.",
                   "category": "castle",
                   "coords": [
@@ -3682,7 +3682,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد آمون",
+                  "name": "Amon-templom",
                   "text": "Az Amon-templom egy ősi romterület Siwa városában.",
                   "category": "historical",
                   "coords": [
@@ -3691,7 +3691,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجامع العتيق",
+                  "name": "Ősi mecset",
                   "text": "Az Ősi mecset egy istentiszteleti hely Siwa városában.",
                   "category": "religious",
                   "coords": [
@@ -3702,7 +3702,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "بيت سيوة",
+                  "name": "House of Siwa",
                   "text": "House of Siwa este un muzeu din orașul Siwa.",
                   "category": "museum",
                   "coords": [
@@ -3711,7 +3711,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة شالى",
+                  "name": "Fortul Shali",
                   "text": "Fortul Shali este un castel istoric situat în Siwa.",
                   "category": "castle",
                   "coords": [
@@ -3729,7 +3729,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد آمون",
+                  "name": "Templul lui Amon",
                   "text": "Templul lui Amon este un sit de ruine antice din Siwa.",
                   "category": "historical",
                   "coords": [
@@ -3738,7 +3738,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجامع العتيق",
+                  "name": "Moscheea Antică",
                   "text": "Moscheea Antică este un lăcaș de cult situat în Siwa.",
                   "category": "religious",
                   "coords": [
@@ -3785,7 +3785,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجامع العتيق",
+                  "name": "Ancient Mosque",
                   "text": "The Ancient Mosque is a place of worship located in Siwa.",
                   "category": "religious",
                   "coords": [
@@ -4049,7 +4049,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Capitale du gouvernorat du Sinaï Sud", "Le nom historique de la ville était Raithu", "Abrite les sources sulfureuses de Hammam Musa", "Fondation du monastère Saint-Georges au VIe siècle", "La distance jusqu'à Charm el-Cheikh est d'environ 100 km", "Site important pour l'industrie pétrolière égyptienne"],
     }, image: "/poi-images/el-tor-cities-v2.webp"},
   {
-    id: "sharm-el-sheikh-cities-v2", "sights": {"de": [{"name": "King Tut Museum", "text": "Das King Tut Museum ist ein Museum in Scharm asch-Schaich.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "كليو بارك", "text": "Der Cleo Park ist ein Wasserpark in Scharm asch-Schaich.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "Fun Town ist ein Freizeitpark in Scharm asch-Schaich.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "Garden Bay ist eine malerische Bucht in Scharm asch-Schaich.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "Far Garden ist eine lokale Attraktion in Scharm asch-Schaich.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "Near Garden ist eine Sehenswürdigkeit in der Stadt Scharm asch-Schaich.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "Middle Garden ist eine Touristenattraktion in Scharm asch-Schaich.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "Das Sinai Grand Casino ist eine Unterhaltungsattraktion in Scharm asch-Schaich.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "In der bekannten Urlaubsregion Scharm asch-Schaich in Ägypten lockt der Public Beach ans Rote Meer. Da es sich um ein zugängliches Strandresort handelt, herrscht eine lebhafte und multikulturelle Atmosphäre. Gäste haben die Möglichkeit, sich am Ufer zu sonnen oder die warme Meeresbrise bei einem Spaziergang zu genießen. Sonnenschutz ist hier unerlässlich, besonders zur Mittagszeit.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm ist eine bemerkenswerte Attraktion in der Stadt Scharm asch-Schaich.", "category": "landmark", "coords": [34.32448, 27.908208]}], "hu": [{"name": "King Tut Museum", "text": "A King Tut Múzeum Scharm asch-Schaich városában található.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "كليو بارك", "text": "A Cleo Park egy vízipark Scharm asch-Schaichban.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "A Fun Town egy vidámpark Scharm asch-Schaichban.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "A Garden Bay egy festői öböl Scharm asch-Schaich városában.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "A Far Garden egy helyi látványosság Scharm asch-Schaichban.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "A Near Garden egy látványosság Scharm asch-Schaich városában.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "A Middle Garden egy turisztikai látványosság Scharm asch-Schaichban.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "A Sinai Grand Casino egy szórakoztató látványosság Scharm asch-Schaichban.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "Az egyiptomi Sarm es-Sejk híres üdülőrégiójában a Public Beach a Vörös-tengerhez csábít. Mivel ez egy könnyen megközelíthető strandközpont, élénk és multikulturális hangulat uralkodik itt. A vendégeknek lehetőségük van napozni a parton, vagy sétálás közben élvezni a meleg tengeri szellőt. A napvédelem itt elengedhetetlen, különösen a déli órákban.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm egy jelentős látványosság Scharm asch-Schaich városában.", "category": "landmark", "coords": [34.32448, 27.908208]}], "ro": [{"name": "King Tut Museum", "text": "Muzeul King Tut este un muzeu situat în Scharm asch-Schaich.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "كليو بارك", "text": "Cleo Park este un parc acvatic din Scharm asch-Schaich.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "Fun Town este un parc tematic situat în Scharm asch-Schaich.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "Garden Bay este un golf pitoresc situat în Scharm asch-Schaich.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "Far Garden este o atracție locală din Scharm asch-Schaich.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "Near Garden este o atracție situată în orașul Scharm asch-Schaich.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "Middle Garden este o atracție turistică situată în Scharm asch-Schaich.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "Sinai Grand Casino este o atracție de divertisment din Scharm asch-Schaich.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "În binecunoscuta regiune de vacanță Sharm El Sheikh din Egipt, Public Beach atrage vizitatorii la Marea Roșie. Deoarece este un complex de plajă accesibil, există o atmosferă plină de viață și multiculturală. Oaspeții au opțiunea de a face plajă pe țărm sau de a se bucura de briza caldă a mării în timpul unei plimbări. Protecția solară este esențială aici, mai ales la prânz.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm este o atracție notabilă din orașul Scharm asch-Schaich.", "category": "landmark", "coords": [34.32448, 27.908208]}], "en": [{"name": "King Tut Museum", "text": "The King Tut Museum is a museum situated in Scharm asch-Schaich.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "Cleo Park", "text": "Cleo Park is a water park located in Scharm asch-Schaich.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "Fun Town is a theme park located in Scharm asch-Schaich.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "Garden Bay is a scenic bay located in Scharm asch-Schaich.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "Far Garden is a local attraction located in Scharm asch-Schaich.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "Near Garden is an attraction situated in the city of Scharm asch-Schaich.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "Middle Garden is a tourist attraction located in Scharm asch-Schaich.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "The Sinai Grand Casino is an entertainment attraction in Scharm asch-Schaich.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "In the well-known holiday region of Sharm El Sheikh in Egypt, the Public Beach beckons visitors to the Red Sea. As an accessible beach resort, it features a lively and multicultural atmosphere. Guests have the option to sunbathe on the shore or enjoy the warm sea breeze during a walk. Sun protection is essential here, especially during midday.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm is a notable attraction located in the city of Scharm asch-Schaich.", "category": "landmark", "coords": [34.32448, 27.908208]}]},
+    id: "sharm-el-sheikh-cities-v2", "sights": {"de": [{"name": "King Tut Museum", "text": "Das King Tut Museum ist ein Museum in Scharm asch-Schaich.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "Cleo Park", "text": "Der Cleo Park ist ein Wasserpark in Scharm asch-Schaich.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "Fun Town ist ein Freizeitpark in Scharm asch-Schaich.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "Garden Bay ist eine malerische Bucht in Scharm asch-Schaich.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "Far Garden ist eine lokale Attraktion in Scharm asch-Schaich.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "Near Garden ist eine Sehenswürdigkeit in der Stadt Scharm asch-Schaich.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "Middle Garden ist eine Touristenattraktion in Scharm asch-Schaich.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "Das Sinai Grand Casino ist eine Unterhaltungsattraktion in Scharm asch-Schaich.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "In der bekannten Urlaubsregion Scharm asch-Schaich in Ägypten lockt der Public Beach ans Rote Meer. Da es sich um ein zugängliches Strandresort handelt, herrscht eine lebhafte und multikulturelle Atmosphäre. Gäste haben die Möglichkeit, sich am Ufer zu sonnen oder die warme Meeresbrise bei einem Spaziergang zu genießen. Sonnenschutz ist hier unerlässlich, besonders zur Mittagszeit.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm ist eine bemerkenswerte Attraktion in der Stadt Scharm asch-Schaich.", "category": "landmark", "coords": [34.32448, 27.908208]}], "hu": [{"name": "King Tut Museum", "text": "A King Tut Múzeum Scharm asch-Schaich városában található.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "Cleo Park", "text": "A Cleo Park egy vízipark Scharm asch-Schaichban.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "A Fun Town egy vidámpark Scharm asch-Schaichban.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "A Garden Bay egy festői öböl Scharm asch-Schaich városában.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "A Far Garden egy helyi látványosság Scharm asch-Schaichban.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "A Near Garden egy látványosság Scharm asch-Schaich városában.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "A Middle Garden egy turisztikai látványosság Scharm asch-Schaichban.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "A Sinai Grand Casino egy szórakoztató látványosság Scharm asch-Schaichban.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "Az egyiptomi Sarm es-Sejk híres üdülőrégiójában a Public Beach a Vörös-tengerhez csábít. Mivel ez egy könnyen megközelíthető strandközpont, élénk és multikulturális hangulat uralkodik itt. A vendégeknek lehetőségük van napozni a parton, vagy sétálás közben élvezni a meleg tengeri szellőt. A napvédelem itt elengedhetetlen, különösen a déli órákban.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm egy jelentős látványosság Scharm asch-Schaich városában.", "category": "landmark", "coords": [34.32448, 27.908208]}], "ro": [{"name": "King Tut Museum", "text": "Muzeul King Tut este un muzeu situat în Scharm asch-Schaich.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "Cleo Park", "text": "Cleo Park este un parc acvatic din Scharm asch-Schaich.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "Fun Town este un parc tematic situat în Scharm asch-Schaich.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "Garden Bay este un golf pitoresc situat în Scharm asch-Schaich.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "Far Garden este o atracție locală din Scharm asch-Schaich.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "Near Garden este o atracție situată în orașul Scharm asch-Schaich.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "Middle Garden este o atracție turistică situată în Scharm asch-Schaich.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "Sinai Grand Casino este o atracție de divertisment din Scharm asch-Schaich.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "În binecunoscuta regiune de vacanță Sharm El Sheikh din Egipt, Public Beach atrage vizitatorii la Marea Roșie. Deoarece este un complex de plajă accesibil, există o atmosferă plină de viață și multiculturală. Oaspeții au opțiunea de a face plajă pe țărm sau de a se bucura de briza caldă a mării în timpul unei plimbări. Protecția solară este esențială aici, mai ales la prânz.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm este o atracție notabilă din orașul Scharm asch-Schaich.", "category": "landmark", "coords": [34.32448, 27.908208]}], "en": [{"name": "King Tut Museum", "text": "The King Tut Museum is a museum situated in Scharm asch-Schaich.", "category": "museum", "coords": [34.318814, 27.907478]}, {"name": "Cleo Park", "text": "Cleo Park is a water park located in Scharm asch-Schaich.", "category": "family", "coords": [34.322468, 27.91753]}, {"name": "Fun Town", "text": "Fun Town is a theme park located in Scharm asch-Schaich.", "category": "family", "coords": [34.317696, 27.91055]}, {"name": "Garden Bay", "text": "Garden Bay is a scenic bay located in Scharm asch-Schaich.", "category": "landmark", "coords": [34.352489, 27.913884]}, {"name": "Far Garden", "text": "Far Garden is a local attraction located in Scharm asch-Schaich.", "category": "landmark", "coords": [34.358875, 27.915005]}, {"name": "Near Garden", "text": "Near Garden is an attraction situated in the city of Scharm asch-Schaich.", "category": "landmark", "coords": [34.346712, 27.908104]}, {"name": "Middle Garden", "text": "Middle Garden is a tourist attraction located in Scharm asch-Schaich.", "category": "landmark", "coords": [34.351121, 27.91296]}, {"name": "Sinai Grand Casino", "text": "The Sinai Grand Casino is an entertainment attraction in Scharm asch-Schaich.", "category": "landmark", "coords": [34.340312, 27.918536]}, {"name": "Public Beach", "text": "In the well-known holiday region of Sharm El Sheikh in Egypt, the Public Beach beckons visitors to the Red Sea. As an accessible beach resort, it features a lively and multicultural atmosphere. Guests have the option to sunbathe on the shore or enjoy the warm sea breeze during a walk. Sun protection is essential here, especially during midday.", "category": "recreational", "coords": [34.328, 27.912454]}, {"name": "Sharm", "text": "Sharm is a notable attraction located in the city of Scharm asch-Schaich.", "category": "landmark", "coords": [34.32448, 27.908208]}]},
     type: "city",
     parent: "EG-JS",
     coords: [34.3299, 27.9158],
@@ -4193,7 +4193,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد موت",
+                  "name": "Mut-Tempel",
                   "text": "Der Mut-Tempel ist eine archäologische Stätte in Luxor.",
                   "category": "historical",
                   "coords": [
@@ -4211,7 +4211,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديوان محافظة الأقصر",
+                  "name": "Diwan des Gouvernements Luxor",
                   "text": "Der Diwan des Gouvernements Luxor ist eine lokale Attraktion und ein Verwaltungsgebäude in Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4220,7 +4220,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة المؤتمرات",
+                  "name": "Konferenzhalle",
                   "text": "Die Konferenzhalle ist ein Veranstaltungsort und eine Attraktion in Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4229,7 +4229,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أولاد رجب",
+                  "name": "Awlad Ragab",
                   "text": "Awlad Ragab ist eine lokale kommerzielle Einrichtung in Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4247,7 +4247,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جزيرة الموز - Banana Island",
+                  "name": "Banana Island",
                   "text": "Banana Island ist eine Naturattraktion auf dem Nil in Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4267,7 +4267,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مدينة طيبة الجنائزية",
+                  "name": "thébai nekropolisz",
                   "text": "A thébai nekropolisz egy kiterjedt ókori egyiptomi régészeti lelőhely Luxorban, a Nílus nyugati partján.",
                   "category": "historical",
                   "coords": [
@@ -4276,7 +4276,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد الأقصر",
+                  "name": "luxori templom",
                   "text": "A luxori templom egy nagyméretű ókori egyiptomi régészeti lelőhely és templomkomplexum Luxorban.",
                   "category": "historical",
                   "coords": [
@@ -4303,7 +4303,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد موت",
+                  "name": "Mut-templom",
                   "text": "A Mut-templom egy régészeti lelőhely Luxor városában.",
                   "category": "historical",
                   "coords": [
@@ -4312,7 +4312,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "طريق الكباش",
+                  "name": "Szfinxek útja",
                   "text": "A Szfinxek útja egy történelmi látványosság Luxorban, amely eredetileg a karnaki és a luxori templomokat kötötte össze.",
                   "category": "landmark",
                   "coords": [
@@ -4321,7 +4321,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديوان محافظة الأقصر",
+                  "name": "Luxori Kormányzóság épülete",
                   "text": "A Luxori Kormányzóság épülete egy helyi látványosság és adminisztratív központ Luxorban.",
                   "category": "landmark",
                   "coords": [
@@ -4330,7 +4330,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة المؤتمرات",
+                  "name": "Konferenciaterem",
                   "text": "A Konferenciaterem egy rendezvényhelyszín és látványosság Luxor városában.",
                   "category": "landmark",
                   "coords": [
@@ -4339,7 +4339,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أولاد رجب",
+                  "name": "Awlad Ragab",
                   "text": "Az Awlad Ragab egy helyi kereskedelmi létesítmény és látványosság Luxorban.",
                   "category": "landmark",
                   "coords": [
@@ -4357,7 +4357,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جزيرة الموز - Banana Island",
+                  "name": "Banán-sziget",
                   "text": "A Banán-sziget egy természeti látványosság a Níluson, Luxorban.",
                   "category": "landmark",
                   "coords": [
@@ -4377,7 +4377,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مدينة طيبة الجنائزية",
+                  "name": "Necropola tebană",
                   "text": "Necropola tebană este un vast sit arheologic antic egiptean, situat pe malul vestic al Nilului în Luxor.",
                   "category": "historical",
                   "coords": [
@@ -4386,7 +4386,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد الأقصر",
+                  "name": "Templul din Luxor",
                   "text": "Templul din Luxor este un mare sit arheologic și complex de temple din Egiptul Antic situat în Luxor.",
                   "category": "historical",
                   "coords": [
@@ -4413,7 +4413,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد موت",
+                  "name": "Templul lui Mut",
                   "text": "Templul lui Mut este un sit arheologic situat în Luxor.",
                   "category": "historical",
                   "coords": [
@@ -4422,7 +4422,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "طريق الكباش",
+                  "name": "Aleea Sfinxilor",
                   "text": "Aleea Sfinxilor este o atracție istorică din Luxor care lega inițial templele din Karnak și Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4431,7 +4431,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديوان محافظة الأقصر",
+                  "name": "Sediul Guvernoratului Luxor",
                   "text": "Sediul Guvernoratului Luxor este o atracție locală și o clădire administrativă din Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4440,7 +4440,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة المؤتمرات",
+                  "name": "Sala de Conferințe",
                   "text": "Sala de Conferințe este un spațiu de evenimente și o atracție situată în Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4449,7 +4449,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أولاد رجب",
+                  "name": "Awlad Ragab",
                   "text": "Awlad Ragab este o atracție comercială locală situată în Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4467,7 +4467,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جزيرة الموز - Banana Island",
+                  "name": "Banana Island",
                   "text": "Banana Island este o atracție naturală situată pe Nil, în Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4541,7 +4541,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديوان محافظة الأقصر",
+                  "name": "Luxor Governorate Diwan",
                   "text": "The Luxor Governorate Diwan is a local attraction and administrative building in Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4550,7 +4550,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة المؤتمرات",
+                  "name": "Conference Hall",
                   "text": "The Conference Hall is an event space and attraction located in Luxor.",
                   "category": "landmark",
                   "coords": [
@@ -4559,7 +4559,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أولاد رجب",
+                  "name": "Awlad Ragab",
                   "text": "Awlad Ragab is a local commercial attraction located in Luxor.",
                   "category": "landmark",
                   "coords": [

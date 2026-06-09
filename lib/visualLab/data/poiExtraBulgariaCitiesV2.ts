@@ -249,7 +249,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Драматичен театър Търговище",
+                  "name": "Dramatische Theater Targowischte",
                   "text": "Das Dramatische Theater Targowischte ist eine bedeutende kulturelle Institution in der Stadt. Es bietet ein anspruchsvolles Repertoire an klassischen und zeitgenössischen Theaterstücken.",
                   "category": "cultural",
                   "coords": [
@@ -258,7 +258,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Иван Рилски",
+                  "name": "Kirche Saint John of Rila in Targowischte",
                   "text": "Die Kirche Saint John of Rila in Targowischte ist ein wichtiges orthodoxes Gotteshaus. Die Architektur und die Ikonen im Inneren zeugen von der tiefen religiösen Tradition Bulgariens.",
                   "category": "religious",
                   "coords": [
@@ -287,7 +287,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Драматичен театър Търговище",
+                  "name": "Targovistei Drámai Színház",
                   "text": "A Targovistei Drámai Színház a város jelentős kulturális intézménye. Klasszikus és kortárs színdarabok igényes repertoárját kínálja.",
                   "category": "cultural",
                   "coords": [
@@ -296,7 +296,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Иван Рилски",
+                  "name": "targovistei Rilai Szent János-templom",
                   "text": "A targovistei Rilai Szent János-templom egy fontos ortodox istenháza. Az építészet és a belső ikonok Bulgária mély vallási hagyományairól tanúskodnak.",
                   "category": "religious",
                   "coords": [
@@ -325,7 +325,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Драматичен театър Търговище",
+                  "name": "Teatrul Dramatic din Târgoviște",
                   "text": "Teatrul Dramatic din Târgoviște este o instituție culturală importantă din oraș. Acesta oferă un repertoriu ambițios de piese de teatru clasice și contemporane.",
                   "category": "cultural",
                   "coords": [
@@ -334,7 +334,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Иван Рилски",
+                  "name": "Biserica Sfântul Ioan de Rila din Târgoviște",
                   "text": "Biserica Sfântul Ioan de Rila din Târgoviște este un lăcaș de cult ortodox important. Arhitectura și icoanele din interior stau mărturie pentru tradiția religioasă profundă a Bulgariei.",
                   "category": "religious",
                   "coords": [
@@ -363,7 +363,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Драматичен театър Търговище",
+                  "name": "Targovishte Drama Theatre",
                   "text": "The Targovishte Drama Theatre is a significant cultural institution in the city. It offers a sophisticated repertoire of classic and contemporary plays.",
                   "category": "cultural",
                   "coords": [
@@ -1232,7 +1232,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей на мозайките, БТС10",
+                  "name": "devnyai Mozaikmúzeum",
                   "text": "A devnyai Mozaikmúzeum egy késő római lakóház romjaira épült. Marcianopolis antik városából származó kiváló padlómozaikokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -1455,7 +1455,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Часовниковата кула Етрополе",
+                  "name": "Uhrturm von Etropole",
                   "text": "Der Uhrturm von Etropole ist ein Wahrzeichen der Stadt und stammt aus dem 18. Jahrhundert. Mit seiner markanten Architektur und der historischen Uhr ist er eine der bekanntesten Sehenswürdigkeiten der Region.",
                   "category": "landmark",
                   "coords": [
@@ -1466,7 +1466,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Исторически музей Етрополе",
+                  "name": "Etropole-i Történeti Múzeum",
                   "text": "Az Etropole-i Történeti Múzeum a régió gazdag történelmét és kultúráját mutatja be. A kiállítások régészeti leleteket és néprajzi tárgyakat tartalmaznak különböző korszakokból.",
                   "category": "museum",
                   "coords": [
@@ -1475,7 +1475,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Войнишки паметник",
+                  "name": "etropole-i katonai emlékmű",
                   "text": "Az etropole-i katonai emlékmű a város elesett harcosainak bátorsága előtt tiszteleg. Ez egy központi emlékmű, ahol évente tartanak megemlékezéseket a nemzeti történelem tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -1484,7 +1484,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Часовниковата кула Етрополе",
+                  "name": "etropole-i óratorony",
                   "text": "Az etropole-i óratorony a város jelképe, és a 18. századból származik. Jellegzetes építészetével és történelmi órájával a régió egyik legismertebb látnivalója.",
                   "category": "landmark",
                   "coords": [
@@ -1513,7 +1513,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Часовниковата кула Етрополе",
+                  "name": "Turnul cu Ceas din Etropole",
                   "text": "Turnul cu Ceas din Etropole este un simbol al orașului și datează din secolul al XVIII-lea. Cu arhitectura sa distinctivă și ceasul istoric, este una dintre cele mai cunoscute atracții din regiune.",
                   "category": "landmark",
                   "coords": [
@@ -2150,7 +2150,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей гр.Попово",
+                  "name": "Popovo Történeti Múzeum",
                   "text": "A Popovo Történeti Múzeum a régió kulturális örökségét és műtárgyait őrzi. A kiállítások végigvezetik a látogatókat a város történelmén az ókortól napjainkig.",
                   "category": "museum",
                   "coords": [
@@ -3012,7 +3012,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Обърнатата къща",
+                  "name": "The Upside Down House in Chernomorets",
                   "text": "The Upside Down House in Chernomorets ist eine originelle Attraktion, bei der buchstäblich alles auf dem Kopf steht. Es bietet Besuchern die Möglichkeit für lustige Fotos und ein ungewöhnliches Raumerlebnis.",
                   "category": "landmark",
                   "coords": [
@@ -3041,7 +3041,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къмпинг градина",
+                  "name": "csernomoreci Camping Gradina",
                   "text": "A csernomoreci Camping Gradina a bolgár fekete-tengeri partvidék egyik legismertebb kempingje. Széles homokos stranddal rendelkezik, és különösen népszerű a természetkedvelők körében.",
                   "category": "recreational",
                   "coords": [
@@ -3050,7 +3050,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Обърнатата къща",
+                  "name": "csernomoreci Upside Down House",
                   "text": "A csernomoreci Upside Down House egy eredeti látványosság, ahol szó szerint minden fejtetőn áll. Lehetőséget kínál a látogatóknak vicces fotók készítésére és egy szokatlan térélményre.",
                   "category": "landmark",
                   "coords": [
@@ -3079,7 +3079,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къмпинг градина",
+                  "name": "Camping Gradina de lângă Chernomorets",
                   "text": "Camping Gradina de lângă Chernomorets este unul dintre cele mai cunoscute locuri de camping de pe coasta bulgară a Mării Negre. Dispune de o plajă largă cu nisip și este popular în special printre iubitorii de natură.",
                   "category": "recreational",
                   "coords": [
@@ -3088,7 +3088,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Обърнатата къща",
+                  "name": "The Upside Down House din Chernomorets",
                   "text": "The Upside Down House din Chernomorets este o atracție originală în care literalmente totul este cu susul în jos. Oferă vizitatorilor posibilitatea de a face fotografii amuzante și o experiență spațială neobișnuită.",
                   "category": "landmark",
                   "coords": [
@@ -3507,7 +3507,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тамръшко кале - северна крепост",
+                  "name": "Tamrashko Kale",
                   "text": "Tamrashko Kale ist eine antike Ruine einer nördlichen Festung bei Bratsigowo. Wanderer können die Überreste der Mauern erkunden und die Aussicht auf die umliegende Berglandschaft genießen.",
                   "category": "historical",
                   "coords": [
@@ -3547,7 +3547,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тамръшко кале - северна крепост",
+                  "name": "Tamrashko Kale",
                   "text": "Tamrashko Kale este o ruină antică a unei cetăți nordice de lângă Bratsigovo. Drumeții pot explora rămășițele zidurilor și se pot bucura de privelistea asupra peisajului montan înconjurător.",
                   "category": "historical",
                   "coords": [
@@ -3567,7 +3567,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тамръшко кале - северна крепост",
+                  "name": "Tamrashko Kale",
                   "text": "Tamrashko Kale is an ancient ruin of a northern fortress near Bratsigovo. Hikers can explore the remains of the walls and enjoy views of the surrounding mountain landscape.",
                   "category": "historical",
                   "coords": [
@@ -3948,7 +3948,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палеокастро - древно тракийско светилище",
+                  "name": "Paleocastro",
                   "text": "Paleocastro ist ein antiker religiöser Komplex und eine thrakische Festung bei Topolowgrad. Die Stätte ist bekannt für ihre in Fels gehauenen Sonnensymbole und bietet tiefe Einblicke in die thrakische Kultur.",
                   "category": "historical",
                   "coords": [
@@ -3968,7 +3968,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Общински исторически музей",
+                  "name": "Topolovgrad községi Történeti Múzeum bemutatja",
                   "text": "A Topolovgrad községi Történeti Múzeum bemutatja a Szakar-vidék néprajzi és régészeti sokszínűségét. A látogatók különböző történelmi korszakokból származó kiállítási tárgyakat találhatnak ott.",
                   "category": "museum",
                   "coords": [
@@ -4006,7 +4006,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палеокастро - древно тракийско светилище",
+                  "name": "Paleocastro",
                   "text": "Paleocastro este un complex religios antic și o cetate tracică lângă Topolovgrad. Situl este cunoscut pentru simbolurile solare sculptate în stâncă și oferă perspective profunde asupra culturii tracice.",
                   "category": "historical",
                   "coords": [
@@ -4015,7 +4015,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Община Тополовград",
+                  "name": "Clădirea administrației municipale Topolovgrad",
                   "text": "Clădirea administrației municipale Topolovgrad este situată în centrul orașului. Este un punct important de reper și de plecare pentru explorarea atracțiilor locale.",
                   "category": "historical",
                   "coords": [
@@ -4146,7 +4146,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-sarnitsa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "могила",
+                  "name": "Mogila in Sarnitsa",
                   "text": "Die Mogila in Sarnitsa ist eine bedeutende archäologische Ausgrabungsstätte, die auf antike Bestattungsriten hinweist. Besucher können hier die Überreste historischer Strukturen in einer ruhigen natürlichen Umgebung erkunden.",
                   "category": "historical",
                   "coords": [
@@ -4157,7 +4157,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "могила",
+                  "name": "szarnicai Mogila",
                   "text": "A szarnicai Mogila egy jelentős régészeti lelőhely, amely ősi temetkezési rítusokra utal. A látogatók itt felfedezhetik a történelmi struktúrák maradványait nyugodt természeti környezetben.",
                   "category": "historical",
                   "coords": [
@@ -4168,7 +4168,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "могила",
+                  "name": "Mogila din Sarnitsa",
                   "text": "Mogila din Sarnitsa este un sit arheologic important care indică rituri funerare antice. Vizitatorii pot explora aici rămășițele structurilor istorice într-un cadru natural liniștit.",
                   "category": "historical",
                   "coords": [
@@ -4179,7 +4179,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "могила",
+                  "name": "Mogila in Sarnitsa",
                   "text": "The Mogila in Sarnitsa is a significant archaeological site pointing to ancient burial rites. Visitors can explore the remains of historical structures here in a peaceful natural environment.",
                   "category": "historical",
                   "coords": [

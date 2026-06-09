@@ -1063,7 +1063,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شاطئ الحمامات",
+                  "name": "Hammamet Beach",
                   "text": "Der Hammamet Beach ist ein beliebter Sandstrand in Hammamet.",
                   "category": "recreational",
                   "coords": [
@@ -1146,7 +1146,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شاطئ الحمامات",
+                  "name": "Hammamet Beach",
                   "text": "A Hammamet Beach egy népszerű homokos tengerpart Hammametben.",
                   "category": "recreational",
                   "coords": [
@@ -1155,7 +1155,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جبل الحمامات",
+                  "name": "Jabal Al Hammamat",
                   "text": "A Jabal Al Hammamat egy kiemelkedő hegycsúcs Hammamet közelében.",
                   "category": "natural",
                   "coords": [
@@ -1164,7 +1164,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خليج الحمامات",
+                  "name": "Hammameti-öböl",
                   "text": "A Hammameti-öböl egy jelentős nagy öböl Hammamet partjai mentén.",
                   "category": "landmark",
                   "coords": [
@@ -1229,7 +1229,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شاطئ الحمامات",
+                  "name": "Hammamet Beach",
                   "text": "Hammamet Beach este o plajă de nisip populară situată în Hammamet.",
                   "category": "recreational",
                   "coords": [
@@ -1238,7 +1238,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جبل الحمامات",
+                  "name": "Jabal Al Hammamat",
                   "text": "Jabal Al Hammamat este un vârf muntos proeminent situat lângă Hammamet.",
                   "category": "natural",
                   "coords": [
@@ -1247,7 +1247,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خليج الحمامات",
+                  "name": "Golful Hammamet",
                   "text": "Golful Hammamet este un golf mare și notabil de-a lungul coastei din Hammamet.",
                   "category": "landmark",
                   "coords": [
@@ -1841,7 +1841,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "آثار رومانية سبيطلة",
+                  "name": "Ruinele romane din Sbeitla",
                   "text": "Ruinele romane din Sbeitla reprezintă un sit arheologic important din Sbeitla.",
                   "category": "historical",
                   "coords": [

@@ -100,7 +100,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خراب فندق دي شاس",
+                  "name": "Ruin of the Hotel de Chasse",
                   "text": "Ruin of the Hotel de Chasse ist eine Touristenattraktion in der Stadt Sarh.",
                   "category": "landmark",
                   "coords": [
@@ -118,7 +118,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خراب منزل فرانسوا تولمباي",
+                  "name": "Ruine of the house of François Tombalbaye",
                   "text": "Ruine of the house of François Tombalbaye ist eine Touristenattraktion in der Stadt Sarh.",
                   "category": "landmark",
                   "coords": [
@@ -165,7 +165,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خراب فندق دي شاس",
+                  "name": "Ruin of the Hotel de Chasse",
                   "text": "A Ruin of the Hotel de Chasse egy turisztikai látványosság Sarh városában.",
                   "category": "landmark",
                   "coords": [
@@ -183,7 +183,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خراب منزل فرانسوا تولمباي",
+                  "name": "Ruine of the house of François Tombalbaye",
                   "text": "A Ruine of the house of François Tombalbaye egy turisztikai látványosság Sarh városában.",
                   "category": "landmark",
                   "coords": [
@@ -230,7 +230,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خراب فندق دي شاس",
+                  "name": "Ruin of the Hotel de Chasse",
                   "text": "Ruin of the Hotel de Chasse este o atracție turistică situată în orașul Sarh.",
                   "category": "landmark",
                   "coords": [
@@ -248,7 +248,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خراب منزل فرانسوا تولمباي",
+                  "name": "Ruine of the house of François Tombalbaye",
                   "text": "Ruine of the house of François Tombalbaye este o atracție turistică situată în orașul Sarh.",
                   "category": "landmark",
                   "coords": [

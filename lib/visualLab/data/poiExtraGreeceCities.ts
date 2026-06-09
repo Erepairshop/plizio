@@ -114,7 +114,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Θεματικό Πάρκο Ελληνικής Μυθολογίας",
+                  "name": "Greek Mythology Theme Park in Pyrgos",
                   "text": "Greek Mythology Theme Park in Pyrgos ist ein schönes Ziel für einen Familienausflug.",
                   "category": "family",
                   "coords": [
@@ -233,7 +233,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Θεματικό Πάρκο Ελληνικής Μυθολογίας",
+                  "name": "Pyrgos városában lévő Greek Mythology Theme Park vidám helyszín",
                   "text": "A Pyrgos városában lévő Greek Mythology Theme Park vidám helyszín egy családi kiránduláshoz.",
                   "category": "family",
                   "coords": [
@@ -352,7 +352,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Θεματικό Πάρκο Ελληνικής Μυθολογίας",
+                  "name": "Greek Mythology Theme Park din Pyrgos",
                   "text": "Greek Mythology Theme Park din Pyrgos este o destinație distractivă pentru o ieșire în familie.",
                   "category": "family",
                   "coords": [

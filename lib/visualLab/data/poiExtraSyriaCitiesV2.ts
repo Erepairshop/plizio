@@ -36,7 +36,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "aleppo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مدينة حلب القديمة",
+                  "name": "Aleppo Old City",
                   "text": "Aleppo Old City ist eine archäologische Stätte in Aleppo. Sie ist als UNESCO-Weltkulturerbe bekannt.",
                   "category": "historical",
                   "coords": [
@@ -45,7 +45,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف التقاليد الشعبية",
+                  "name": "Museum of Popular Tradition",
                   "text": "Museum of Popular Tradition ist ein Museum in Aleppo.",
                   "category": "museum",
                   "coords": [
@@ -81,7 +81,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الجنان",
+                  "name": "Bab al-Jinan",
                   "text": "Bab al-Jinan ist eine Ruinenstätte in Aleppo. Sie markiert den Standort eines der ehemaligen Stadttore.",
                   "category": "historical",
                   "coords": [
@@ -99,7 +99,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع السلطانية",
+                  "name": "Al Sultaniyeh Mosque Ruins",
                   "text": "Al Sultaniyeh Mosque Ruins ist ein Denkmal in Aleppo. Es ist als historischer religiöser und pädagogischer Komplex bekannt.",
                   "category": "historical",
                   "coords": [
@@ -108,7 +108,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الفرج",
+                  "name": "Bab al-Faraj",
                   "text": "Bab al-Faraj ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -117,7 +117,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب انطاكية",
+                  "name": "Bab Antakeya",
                   "text": "Bab Antakeya ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -126,7 +126,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب المقام",
+                  "name": "Bab al-Maqam",
                   "text": "Bab al-Maqam ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -135,7 +135,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب النصر",
+                  "name": "Bab al-Nasr",
                   "text": "Bab al-Nasr ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -144,7 +144,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب قنسرين",
+                  "name": "Bab Qinnesrin",
                   "text": "Bab Qinnesrin ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -153,7 +153,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المطبخ العجمي",
+                  "name": "Al Matbkh Al Ajami",
                   "text": "Al Matbkh Al Ajami ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -162,7 +162,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الصغير",
+                  "name": "Mosque of Abraham",
                   "text": "Mosque of Abraham ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -171,7 +171,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الاندلس",
+                  "name": "Al-Andalus district",
                   "text": "Al-Andalus district ist ein Aussichtspunkt in Aleppo.",
                   "category": "natural",
                   "coords": [
@@ -180,7 +180,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الفردوس",
+                  "name": "Fardos district",
                   "text": "Fardos district ist ein Aussichtspunkt in Aleppo.",
                   "category": "natural",
                   "coords": [
@@ -189,7 +189,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الكلاسة",
+                  "name": "Kallaseh district",
                   "text": "Kallaseh district ist ein Aussichtspunkt in Aleppo.",
                   "category": "natural",
                   "coords": [
@@ -198,7 +198,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي قلعة الشريف",
+                  "name": "Qal'at al-Sharif district",
                   "text": "Qal'at al-Sharif district ist ein Aussichtspunkt in Aleppo.",
                   "category": "natural",
                   "coords": [
@@ -207,7 +207,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي سيف الدولة",
+                  "name": "Sayf al-Dawla",
                   "text": "Sayf al-Dawla ist ein Aussichtspunkt in Aleppo.",
                   "category": "natural",
                   "coords": [
@@ -216,7 +216,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أنا أحب حلب",
+                  "name": "I love Aleppo",
                   "text": "I love Aleppo ist ein Denkmal in Aleppo.",
                   "category": "historical",
                   "coords": [
@@ -234,7 +234,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الخسروفية",
+                  "name": "Al-Saffahiyah Mosque",
                   "text": "Al-Saffahiyah Mosque ist eine Kultstätte in Aleppo. Es ist eine wichtige historische Moschee in der Stadt.",
                   "category": "religious",
                   "coords": [
@@ -243,7 +243,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الرحمن",
+                  "name": "Al-Rahman Mosque",
                   "text": "Al-Rahman Mosque ist eine Kultstätte in Aleppo. Es ist eine bekannte lokale Moschee.",
                   "category": "religious",
                   "coords": [
@@ -252,7 +252,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المهمندار",
+                  "name": "Mahmandar Mosque",
                   "text": "Mahmandar Mosque ist eine Kultstätte in Aleppo. Sie ist als alte historische Moschee anerkannt.",
                   "category": "religious",
                   "coords": [
@@ -261,7 +261,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع البهرمية",
+                  "name": "Al-Bahramiyya Mosque",
                   "text": "Al-Bahramiyya Mosque ist eine Kultstätte in Aleppo. Es ist eine historische Moschee aus der osmanischen Zeit.",
                   "category": "religious",
                   "coords": [
@@ -270,7 +270,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الطواشي",
+                  "name": "Al-Tawashi Mosque",
                   "text": "Al-Tawashi Mosque ist eine Kultstätte in Aleppo. Sie ist als historische Moschee in der Gegend bekannt.",
                   "category": "religious",
                   "coords": [
@@ -279,7 +279,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد العادلية",
+                  "name": "Al-Adiliyah Mosque",
                   "text": "Al-Adiliyah Mosque ist eine Kultstätte in Aleppo. Es ist ein bedeutender Moscheekomplex aus der osmanischen Zeit.",
                   "category": "religious",
                   "coords": [
@@ -288,7 +288,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد ألتون باغ",
+                  "name": "Altun Bogha Mosque",
                   "text": "Altun Bogha Mosque ist eine Kultstätte in Aleppo. Es ist eine bemerkenswerte Moschee aus der Mamlukenzeit.",
                   "category": "religious",
                   "coords": [
@@ -297,7 +297,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع التوحيد",
+                  "name": "Al-Tawhid Mosque",
                   "text": "Al-Tawhid Mosque ist eine Kultstätte in Aleppo. Sie verfügt über eine bemerkenswerte moderne Architektur.",
                   "category": "religious",
                   "coords": [
@@ -308,7 +308,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مدينة حلب القديمة",
+                  "name": "Aleppo Old City",
                   "text": "Az Aleppo Old City egy régészeti lelőhely Aleppóban. Az UNESCO Világörökség részeként ismert.",
                   "category": "historical",
                   "coords": [
@@ -317,7 +317,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف التقاليد الشعبية",
+                  "name": "Museum of Popular Tradition",
                   "text": "A Museum of Popular Tradition egy múzeum Aleppóban.",
                   "category": "museum",
                   "coords": [
@@ -344,7 +344,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الحديد",
+                  "name": "Bab al-Hadid",
                   "text": "A Bab al-Hadid egy emlékmű Aleppóban. Az ősi város egyik történelmi kapuja.",
                   "category": "historical",
                   "coords": [
@@ -353,7 +353,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الجنان",
+                  "name": "Bab al-Jinan",
                   "text": "A Bab al-Jinan egy romterület Aleppóban. Az egyik egykori városkapu helyét jelöli.",
                   "category": "historical",
                   "coords": [
@@ -362,7 +362,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحديقة العامة",
+                  "name": "Public Park",
                   "text": "A Public Park egy park Aleppóban. Nagy városi zöldterületként szolgál a város számára.",
                   "category": "park",
                   "coords": [
@@ -371,7 +371,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع السلطانية",
+                  "name": "Al Sultaniyeh Mosque Ruins",
                   "text": "Az Al Sultaniyeh Mosque Ruins egy emlékmű Aleppóban. Történelmi vallási és oktatási komplexumként ismert.",
                   "category": "historical",
                   "coords": [
@@ -380,7 +380,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الفرج",
+                  "name": "Bab al-Faraj",
                   "text": "A Bab al-Faraj egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -389,7 +389,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب انطاكية",
+                  "name": "Bab Antakeya",
                   "text": "A Bab Antakeya egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -398,7 +398,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب المقام",
+                  "name": "Bab al-Maqam",
                   "text": "A Bab al-Maqam egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -407,7 +407,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب النصر",
+                  "name": "Bab al-Nasr",
                   "text": "A Bab al-Nasr egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -416,7 +416,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب قنسرين",
+                  "name": "Bab Qinnesrin",
                   "text": "A Bab Qinnesrin egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -425,7 +425,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المطبخ العجمي",
+                  "name": "Al Matbkh Al Ajami",
                   "text": "Az Al Matbkh Al Ajami egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -434,7 +434,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الصغير",
+                  "name": "Mosque of Abraham",
                   "text": "A Mosque of Abraham egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -443,7 +443,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الاندلس",
+                  "name": "Al-Andalus district",
                   "text": "Az Al-Andalus district egy kilátópont Aleppóban.",
                   "category": "natural",
                   "coords": [
@@ -452,7 +452,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الفردوس",
+                  "name": "Fardos district",
                   "text": "A Fardos district egy kilátópont Aleppóban.",
                   "category": "natural",
                   "coords": [
@@ -461,7 +461,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الكلاسة",
+                  "name": "Kallaseh district",
                   "text": "A Kallaseh district egy kilátópont Aleppóban.",
                   "category": "natural",
                   "coords": [
@@ -470,7 +470,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي قلعة الشريف",
+                  "name": "Qal'at al-Sharif district",
                   "text": "A Qal'at al-Sharif district egy kilátópont Aleppóban.",
                   "category": "natural",
                   "coords": [
@@ -479,7 +479,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي سيف الدولة",
+                  "name": "Sayf al-Dawla",
                   "text": "A Sayf al-Dawla egy kilátópont Aleppóban.",
                   "category": "natural",
                   "coords": [
@@ -488,7 +488,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أنا أحب حلب",
+                  "name": "I love Aleppo",
                   "text": "Az I love Aleppo egy emlékmű Aleppóban.",
                   "category": "historical",
                   "coords": [
@@ -506,7 +506,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الخسروفية",
+                  "name": "Al-Saffahiyah Mosque",
                   "text": "Az Al-Saffahiyah Mosque egy istentiszteleti hely Aleppóban. Ez egy fontos történelmi mecset a városban.",
                   "category": "religious",
                   "coords": [
@@ -515,7 +515,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الرحمن",
+                  "name": "Al-Rahman Mosque",
                   "text": "Az Al-Rahman Mosque egy istentiszteleti hely Aleppóban. Ez egy kiemelkedő helyi mecset.",
                   "category": "religious",
                   "coords": [
@@ -524,7 +524,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المهمندار",
+                  "name": "Mahmandar Mosque",
                   "text": "A Mahmandar Mosque egy istentiszteleti hely Aleppóban. Régi történelmi mecsetként ismert.",
                   "category": "religious",
                   "coords": [
@@ -533,7 +533,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع البهرمية",
+                  "name": "Al-Bahramiyya Mosque",
                   "text": "Az Al-Bahramiyya Mosque egy istentiszteleti hely Aleppóban. Ez egy történelmi, oszmán-kori mecset.",
                   "category": "religious",
                   "coords": [
@@ -542,7 +542,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الطواشي",
+                  "name": "Al-Tawashi Mosque",
                   "text": "Az Al-Tawashi Mosque egy istentiszteleti hely Aleppóban. Történelmi mecsetként ismert a környéken.",
                   "category": "religious",
                   "coords": [
@@ -551,7 +551,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد العادلية",
+                  "name": "Al-Adiliyah Mosque",
                   "text": "Az Al-Adiliyah Mosque egy istentiszteleti hely Aleppóban. Ez egy jelentős mecsetkomplexum az oszmán időszakból.",
                   "category": "religious",
                   "coords": [
@@ -560,7 +560,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد ألتون باغ",
+                  "name": "Altun Bogha Mosque",
                   "text": "Az Altun Bogha Mosque egy istentiszteleti hely Aleppóban. Ez egy figyelemre méltó mameluk-kori mecset.",
                   "category": "religious",
                   "coords": [
@@ -569,7 +569,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع التوحيد",
+                  "name": "Al-Tawhid Mosque",
                   "text": "Az Al-Tawhid Mosque egy istentiszteleti hely Aleppóban. Jelentős modern építészettel rendelkezik.",
                   "category": "religious",
                   "coords": [
@@ -580,7 +580,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مدينة حلب القديمة",
+                  "name": "Aleppo Old City",
                   "text": "Aleppo Old City este un sit arheologic din Alep. Este renumit ca sit al Patrimoniului Mondial UNESCO.",
                   "category": "historical",
                   "coords": [
@@ -589,7 +589,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف التقاليد الشعبية",
+                  "name": "Museum of Popular Tradition",
                   "text": "Museum of Popular Tradition este un muzeu situat în Alep.",
                   "category": "museum",
                   "coords": [
@@ -616,7 +616,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الحديد",
+                  "name": "Bab al-Hadid",
                   "text": "Bab al-Hadid este un monument în Alep. Este una dintre porțile istorice ale orașului antic.",
                   "category": "historical",
                   "coords": [
@@ -625,7 +625,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الجنان",
+                  "name": "Bab al-Jinan",
                   "text": "Bab al-Jinan este un sit în ruină situat în Alep. Acesta marchează locația uneia dintre fostele porți ale orașului.",
                   "category": "historical",
                   "coords": [
@@ -634,7 +634,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحديقة العامة",
+                  "name": "Public Park",
                   "text": "Public Park este un parc situat în Alep. Acesta servește ca un mare spațiu verde urban pentru oraș.",
                   "category": "park",
                   "coords": [
@@ -643,7 +643,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع السلطانية",
+                  "name": "Al Sultaniyeh Mosque Ruins",
                   "text": "Al Sultaniyeh Mosque Ruins este un monument situat în Alep. Este cunoscut ca un complex religios și educațional istoric.",
                   "category": "historical",
                   "coords": [
@@ -652,7 +652,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الفرج",
+                  "name": "Bab al-Faraj",
                   "text": "Bab al-Faraj este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -661,7 +661,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب انطاكية",
+                  "name": "Bab Antakeya",
                   "text": "Bab Antakeya este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -670,7 +670,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب المقام",
+                  "name": "Bab al-Maqam",
                   "text": "Bab al-Maqam este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -679,7 +679,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب النصر",
+                  "name": "Bab al-Nasr",
                   "text": "Bab al-Nasr este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -688,7 +688,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب قنسرين",
+                  "name": "Bab Qinnesrin",
                   "text": "Bab Qinnesrin este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -697,7 +697,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المطبخ العجمي",
+                  "name": "Al Matbkh Al Ajami",
                   "text": "Al Matbkh Al Ajami este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -706,7 +706,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الصغير",
+                  "name": "Mosque of Abraham",
                   "text": "Mosque of Abraham este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -715,7 +715,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الاندلس",
+                  "name": "Al-Andalus district",
                   "text": "Al-Andalus district este un punct de belvedere situat în Alep.",
                   "category": "natural",
                   "coords": [
@@ -724,7 +724,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الفردوس",
+                  "name": "Fardos district",
                   "text": "Fardos district este un punct de belvedere situat în Alep.",
                   "category": "natural",
                   "coords": [
@@ -733,7 +733,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي الكلاسة",
+                  "name": "Kallaseh district",
                   "text": "Kallaseh district este un punct de belvedere situat în Alep.",
                   "category": "natural",
                   "coords": [
@@ -742,7 +742,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي قلعة الشريف",
+                  "name": "Qal'at al-Sharif district",
                   "text": "Qal'at al-Sharif district este un punct de belvedere situat în Alep.",
                   "category": "natural",
                   "coords": [
@@ -751,7 +751,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي سيف الدولة",
+                  "name": "Sayf al-Dawla",
                   "text": "Sayf al-Dawla este un punct de belvedere situat în Alep.",
                   "category": "natural",
                   "coords": [
@@ -760,7 +760,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أنا أحب حلب",
+                  "name": "I love Aleppo",
                   "text": "I love Aleppo este un monument situat în Alep.",
                   "category": "historical",
                   "coords": [
@@ -778,7 +778,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الخسروفية",
+                  "name": "Al-Saffahiyah Mosque",
                   "text": "Al-Saffahiyah Mosque este un lăcaș de cult situat în Alep. Este o importantă moschee istorică din oraș.",
                   "category": "religious",
                   "coords": [
@@ -787,7 +787,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الرحمن",
+                  "name": "Al-Rahman Mosque",
                   "text": "Al-Rahman Mosque este un lăcaș de cult situat în Alep. Este o moschee locală proeminentă.",
                   "category": "religious",
                   "coords": [
@@ -796,7 +796,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المهمندار",
+                  "name": "Mahmandar Mosque",
                   "text": "Mahmandar Mosque este un lăcaș de cult situat în Alep. Este recunoscută ca o moschee istorică antică.",
                   "category": "religious",
                   "coords": [
@@ -805,7 +805,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع البهرمية",
+                  "name": "Al-Bahramiyya Mosque",
                   "text": "Al-Bahramiyya Mosque este un lăcaș de cult în Alep. Este o moschee istorică din epoca otomană.",
                   "category": "religious",
                   "coords": [
@@ -814,7 +814,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الطواشي",
+                  "name": "Al-Tawashi Mosque",
                   "text": "Al-Tawashi Mosque este un lăcaș de cult situat în Alep. Este cunoscută ca o moschee istorică în zonă.",
                   "category": "religious",
                   "coords": [
@@ -823,7 +823,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد العادلية",
+                  "name": "Al-Adiliyah Mosque",
                   "text": "Al-Adiliyah Mosque este un lăcaș de cult situat în Alep. Este un complex de moschei semnificativ din perioada otomană.",
                   "category": "religious",
                   "coords": [
@@ -832,7 +832,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد ألتون باغ",
+                  "name": "Altun Bogha Mosque",
                   "text": "Altun Bogha Mosque este un lăcaș de cult în Alep. Este o moschee notabilă din epoca mamelucă.",
                   "category": "religious",
                   "coords": [
@@ -841,7 +841,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع التوحيد",
+                  "name": "Al-Tawhid Mosque",
                   "text": "Al-Tawhid Mosque este un lăcaș de cult situat în Alep. Prezintă o arhitectură modernă notabilă.",
                   "category": "religious",
                   "coords": [
@@ -1554,7 +1554,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "al-hasakah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "دوار الطريف",
+                  "name": "Dawoar al tareef",
                   "text": "Dawoar al tareef ist ein Denkmal in Al-Hasaka.",
                   "category": "historical",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "دوار الطريف",
+                  "name": "Dawoar al tareef",
                   "text": "A Dawoar al tareef egy emlékmű Al-Hasaka városában.",
                   "category": "historical",
                   "coords": [
@@ -1576,7 +1576,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "دوار الطريف",
+                  "name": "Dawoar al tareef",
                   "text": "Dawoar al tareef este un monument situat în Al-Hasaka.",
                   "category": "historical",
                   "coords": [
@@ -3228,7 +3228,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "ras-al-ayn-cities-v2", "sights": {
       "de": [
             {
-                  "name": "تل الفخيرية",
+                  "name": "Tell Fekheriye",
                   "text": "Tell Fekheriye ist eine archäologische Stätte in Ras al-Ain. Es ist ein bemerkenswerter antiker Tell-Standort in der Region.",
                   "category": "historical",
                   "coords": [
@@ -3239,7 +3239,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "تل الفخيرية",
+                  "name": "Tell Fekheriye",
                   "text": "A Tell Fekheriye egy régészeti lelőhely Ras al-Ain városában. Ez egy figyelemre méltó ókori tell a régióban.",
                   "category": "historical",
                   "coords": [
@@ -3250,7 +3250,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "تل الفخيرية",
+                  "name": "Tell Fekheriye",
                   "text": "Tell Fekheriye este un sit arheologic situat în Ras al-Ain. Este un tell antic notabil din regiune.",
                   "category": "historical",
                   "coords": [

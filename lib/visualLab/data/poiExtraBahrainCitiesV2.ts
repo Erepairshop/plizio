@@ -77,7 +77,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف العسكري",
+                  "name": "Military Museum",
                   "text": "Das Military Museum ist ein Museum in Riffa.",
                   "category": "museum",
                   "coords": [
@@ -115,7 +115,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف العسكري",
+                  "name": "Military Museum",
                   "text": "A Military Museum egy múzeum Riffában.",
                   "category": "museum",
                   "coords": [
@@ -153,7 +153,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف العسكري",
+                  "name": "Military Museum",
                   "text": "Military Museum este un muzeu în Riffa.",
                   "category": "museum",
                   "coords": [
@@ -403,7 +403,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Bait Ishaq in Hamad Town",
                   "text": "Bait Ishaq in Hamad Town ist ein interessanter kultureller Anziehungspunkt.",
                   "category": "landmark",
                   "coords": [
@@ -412,7 +412,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dakar 6 دوار ٦",
+                  "name": "Kreisverkehr 6",
                   "text": "Der Kreisverkehr 6 ist eine lokale Sehenswürdigkeit in Hamad Town.",
                   "category": "landmark",
                   "coords": [
@@ -421,7 +421,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار 14",
+                  "name": "Kreisverkehr 14",
                   "text": "Der Kreisverkehr 14 ist eine lokale Sehenswürdigkeit in Hamad Town.",
                   "category": "landmark",
                   "coords": [
@@ -430,7 +430,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق الفخار",
+                  "name": "Töpfermarkt",
                   "text": "Der Töpfermarkt ist ein beliebter Aussichtspunkt in Hamad Town.",
                   "category": "natural",
                   "coords": [
@@ -477,7 +477,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Hamad Town-i Bait Ishaq",
                   "text": "A Hamad Town-i Bait Ishaq egy érdekes kulturális látnivaló.",
                   "category": "landmark",
                   "coords": [
@@ -486,7 +486,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dakar 6 دوار ٦",
+                  "name": "6-os körforgalom",
                   "text": "A 6-os körforgalom egy helyi látnivaló Hamad Townban.",
                   "category": "landmark",
                   "coords": [
@@ -495,7 +495,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار 14",
+                  "name": "14-es körforgalom",
                   "text": "A 14-es körforgalom egy helyi látnivaló Hamad Townban.",
                   "category": "landmark",
                   "coords": [
@@ -504,7 +504,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق الفخار",
+                  "name": "fazekaspiac",
                   "text": "A fazekaspiac egy népszerű kilátópont Hamad Townban.",
                   "category": "natural",
                   "coords": [
@@ -551,7 +551,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Bait Ishaq din Hamad Town",
                   "text": "Bait Ishaq din Hamad Town este un punct de atracție cultural interesant.",
                   "category": "landmark",
                   "coords": [
@@ -560,7 +560,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dakar 6 دوار ٦",
+                  "name": "Sensul giratoriu 6",
                   "text": "Sensul giratoriu 6 este o atracție locală în Hamad Town.",
                   "category": "landmark",
                   "coords": [
@@ -569,7 +569,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار 14",
+                  "name": "Sensul giratoriu 14",
                   "text": "Sensul giratoriu 14 este o atracție locală în Hamad Town.",
                   "category": "landmark",
                   "coords": [
@@ -578,7 +578,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق الفخار",
+                  "name": "Piața de olărit",
                   "text": "Piața de olărit este un punct de belvedere popular în Hamad Town.",
                   "category": "natural",
                   "coords": [
@@ -625,7 +625,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Bait Ishaq in Hamad Town",
                   "text": "Bait Ishaq in Hamad Town is an interesting cultural attraction.",
                   "category": "landmark",
                   "coords": [
@@ -652,7 +652,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق الفخار",
+                  "name": "pottery market",
                   "text": "The pottery market is a popular viewpoint in Hamad Town.",
                   "category": "natural",
                   "coords": [
@@ -1139,7 +1139,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "sitra-cities-v2", "sights": {
       "de": [
             {
-                  "name": "خليج توبلي",
+                  "name": "Tubli-Bucht",
                   "text": "Die Tubli-Bucht ist ein bedeutendes Feuchtgebiet bei Sitra.",
                   "category": "landmark",
                   "coords": [
@@ -1150,7 +1150,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "خليج توبلي",
+                  "name": "Tubli-öböl",
                   "text": "A Tubli-öböl egy jelentős vizes élőhely Sitra közelében.",
                   "category": "landmark",
                   "coords": [
@@ -1161,7 +1161,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "خليج توبلي",
+                  "name": "Golful Tubli",
                   "text": "Golful Tubli este o zonă umedă importantă lângă Sitra.",
                   "category": "landmark",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/budaiya-cities-v2.webp"},
   {
-    id: "jidhafs-cities-v2", "sights": {"de": [{"name": "قلعة البحرين", "text": "Qal'at al-Bahrain ist eine weltweit anerkannte archäologische Stätte in der Nähe von Jidhafs.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Der Adhari Park ist ein bekannter Freizeitpark in Jidhafs.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "Magic Island ist ein Freizeitpark in Jidhafs.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "Der Ritz-Carlton Beach präsentiert einen eleganten Küstenabschnitt in der Stadt Jidhafs. Besucher können eine kultivierte Küstenatmosphäre erwarten, die sich ideal für entspanntes Sonnenbaden, ruhige Spaziergänge oder ein erfrischendes Bad im Meer eignet. Die Umgebung verbindet perfekt den entspannenden Rhythmus des Wassers mit einem gehobenen Ambiente. Ein abendlicher Spaziergang entlang dieses Strandes ist ein schöner Abschluss für einen Tag in Bahrain.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "Das Khamis Mosque Visitor Centre ist ein Museum in Jidhafs.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Der Adhari Theme Park ist eine Attraktion in der Stadt Jidhafs.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "سوق جدحفص الشعبي ist eine Attraktion in Jidhafs.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "Wahooo Water park ist eine Wasserattraktion in Jidhafs.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Avanti ist eine Sehenswürdigkeit in Jidhafs.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "Harris ist eine lokale Attraktion in der Stadt Jidhafs.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "Der Water Garden ist eine landschaftliche Attraktion in Jidhafs.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "Jallawi Gallery جلاوي جالري ist eine Kunstgalerie in der Stadt Jidhafs.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "مسجد الخميس", "text": "Die Khamis Mosque ist eine historische Kultstätte in Jidhafs.", "category": "religious", "coords": [50.54832, 26.20817]}], "hu": [{"name": "قلعة البحرين", "text": "A Qal'at al-Bahrain egy globálisan elismert régészeti lelőhely Jidhafs közelében.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Az Adhari Park egy jól ismert vidámpark Jidhafs városában.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "A Magic Island egy vidámpark Jidhafs városában.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "A Ritz-Carlton Beach a tengerpart egy elegáns szakaszát mutatja be Jidhafs városában. A látogatók kifinomult tengerparti hangulatra számíthatnak, amely ideális kényelmes napozáshoz, csendes sétákhoz vagy egy frissítő csobbanáshoz a tengerben. A környezet tökéletesen ötvözi a víz pihentető ritmusát az exkluzív légkörrel. Egy esti séta ezen a strandon gyönyörű lezárása egy Bahreinben töltött napnak.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "A Khamis Mosque Visitor Centre egy múzeum Jidhafs városában.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Az Adhari Theme Park egy látványosság Jidhafs városában.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "A سوق جدحفص الشعبي egy piaci látványosság Jidhafs területén.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "A Wahooo Water park egy vízi látványosság Jidhafs városában.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Az Avanti egy turisztikai látványosság Jidhafs városában.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "A Harris egy helyi látványosság Jidhafs területén.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "A Water Garden egy festői látványosság Jidhafs területén.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "A Jallawi Gallery جلاوي جالري egy művészeti galéria Jidhafs városában.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "مسجد الخميس", "text": "A Khamis Mosque egy történelmi istentiszteleti hely Jidhafs városában.", "category": "religious", "coords": [50.54832, 26.20817]}], "ro": [{"name": "قلعة البحرين", "text": "Qal'at al-Bahrain este un sit arheologic recunoscut la nivel mondial situat lângă Jidhafs.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Adhari Park este un parc tematic binecunoscut situat în Jidhafs.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "Magic Island este un parc tematic situat în Jidhafs.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "Ritz-Carlton Beach prezintă o porțiune elegantă de coastă în orașul Jidhafs. Vizitatorii pot anticipa o atmosferă de coastă rafinată, ideală pentru plajă pe îndelete, plimbări liniștite sau o baie răcoritoare în mare. Cadrul îmbină perfect ritmul relaxant al apei cu un mediu luxos. O plimbare de seară de-a lungul acestei plaje este o modalitate frumoasă de a încheia o zi în Bahrain.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "Khamis Mosque Visitor Centre este un muzeu aflat în Jidhafs.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Adhari Theme Park este o atracție din orașul Jidhafs.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "سوق جدحفص الشعبي este o atracție situată în Jidhafs.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "Wahooo Water park este o atracție acvatică situată în Jidhafs.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Avanti este o atracție aflată în Jidhafs.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "Harris este o atracție locală situată în orașul Jidhafs.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "Water Garden este o atracție aflată în Jidhafs.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "Jallawi Gallery جلاوي جالري este o galerie de artă situată în orașul Jidhafs.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "مسجد الخميس", "text": "Khamis Mosque este un lăcaș de cult istoric din Jidhafs.", "category": "religious", "coords": [50.54832, 26.20817]}], "en": [{"name": "Qal'at al-Bahrain", "text": "Qal'at al-Bahrain is a globally recognized archaeological site located near Jidhafs.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Adhari Park is a well-known theme park situated in Jidhafs.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "Magic Island is a theme park located in Jidhafs.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "Ritz-Carlton Beach presents an elegant stretch of coastline in the city of Jidhafs. Visitors can anticipate a refined coastal atmosphere, ideal for leisurely sunbathing, tranquil walks, or a refreshing dip in the sea. The setting perfectly blends the relaxing rhythm of the water with an upscale environment. An evening stroll along this beach is a beautiful way to conclude a day in Bahrain.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "The Khamis Mosque Visitor Centre is a museum situated in Jidhafs.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Adhari Theme Park is an attraction located in the city of Jidhafs.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "سوق جدحفص الشعبي is a market attraction situated in Jidhafs.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "Wahooo Water park is an aquatic attraction located in Jidhafs.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Avanti is a point of interest and attraction located in Jidhafs.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "Harris is a local attraction found in the city of Jidhafs.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "The Water Garden is a scenic attraction situated in Jidhafs.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "Jallawi Gallery جلاوي جالري is an art gallery located in the city of Jidhafs.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "Khamis Mosque", "text": "The Khamis Mosque is a prominent and historic place of worship located in Jidhafs.", "category": "religious", "coords": [50.54832, 26.20817]}]},
+    id: "jidhafs-cities-v2", "sights": {"de": [{"name": "Qal'at al-Bahrain", "text": "Qal'at al-Bahrain ist eine weltweit anerkannte archäologische Stätte in der Nähe von Jidhafs.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Der Adhari Park ist ein bekannter Freizeitpark in Jidhafs.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "Magic Island ist ein Freizeitpark in Jidhafs.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "Der Ritz-Carlton Beach präsentiert einen eleganten Küstenabschnitt in der Stadt Jidhafs. Besucher können eine kultivierte Küstenatmosphäre erwarten, die sich ideal für entspanntes Sonnenbaden, ruhige Spaziergänge oder ein erfrischendes Bad im Meer eignet. Die Umgebung verbindet perfekt den entspannenden Rhythmus des Wassers mit einem gehobenen Ambiente. Ein abendlicher Spaziergang entlang dieses Strandes ist ein schöner Abschluss für einen Tag in Bahrain.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "Das Khamis Mosque Visitor Centre ist ein Museum in Jidhafs.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Der Adhari Theme Park ist eine Attraktion in der Stadt Jidhafs.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "سوق جدحفص الشعبي ist eine Attraktion in Jidhafs.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "Wahooo Water park ist eine Wasserattraktion in Jidhafs.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Avanti ist eine Sehenswürdigkeit in Jidhafs.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "Harris ist eine lokale Attraktion in der Stadt Jidhafs.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "Der Water Garden ist eine landschaftliche Attraktion in Jidhafs.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "Jallawi Gallery جلاوي جالري ist eine Kunstgalerie in der Stadt Jidhafs.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "Khamis Mosque", "text": "Die Khamis Mosque ist eine historische Kultstätte in Jidhafs.", "category": "religious", "coords": [50.54832, 26.20817]}], "hu": [{"name": "Qal'at al-Bahrain", "text": "A Qal'at al-Bahrain egy globálisan elismert régészeti lelőhely Jidhafs közelében.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Az Adhari Park egy jól ismert vidámpark Jidhafs városában.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "A Magic Island egy vidámpark Jidhafs városában.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "A Ritz-Carlton Beach a tengerpart egy elegáns szakaszát mutatja be Jidhafs városában. A látogatók kifinomult tengerparti hangulatra számíthatnak, amely ideális kényelmes napozáshoz, csendes sétákhoz vagy egy frissítő csobbanáshoz a tengerben. A környezet tökéletesen ötvözi a víz pihentető ritmusát az exkluzív légkörrel. Egy esti séta ezen a strandon gyönyörű lezárása egy Bahreinben töltött napnak.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "A Khamis Mosque Visitor Centre egy múzeum Jidhafs városában.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Az Adhari Theme Park egy látványosság Jidhafs városában.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "A سوق جدحفص الشعبي egy piaci látványosság Jidhafs területén.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "A Wahooo Water park egy vízi látványosság Jidhafs városában.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Az Avanti egy turisztikai látványosság Jidhafs városában.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "A Harris egy helyi látványosság Jidhafs területén.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "A Water Garden egy festői látványosság Jidhafs területén.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "A Jallawi Gallery جلاوي جالري egy művészeti galéria Jidhafs városában.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "Khamis Mosque", "text": "A Khamis Mosque egy történelmi istentiszteleti hely Jidhafs városában.", "category": "religious", "coords": [50.54832, 26.20817]}], "ro": [{"name": "Qal'at al-Bahrain", "text": "Qal'at al-Bahrain este un sit arheologic recunoscut la nivel mondial situat lângă Jidhafs.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Adhari Park este un parc tematic binecunoscut situat în Jidhafs.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "Magic Island este un parc tematic situat în Jidhafs.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "Ritz-Carlton Beach prezintă o porțiune elegantă de coastă în orașul Jidhafs. Vizitatorii pot anticipa o atmosferă de coastă rafinată, ideală pentru plajă pe îndelete, plimbări liniștite sau o baie răcoritoare în mare. Cadrul îmbină perfect ritmul relaxant al apei cu un mediu luxos. O plimbare de seară de-a lungul acestei plaje este o modalitate frumoasă de a încheia o zi în Bahrain.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "Khamis Mosque Visitor Centre este un muzeu aflat în Jidhafs.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Adhari Theme Park este o atracție din orașul Jidhafs.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "سوق جدحفص الشعبي este o atracție situată în Jidhafs.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "Wahooo Water park este o atracție acvatică situată în Jidhafs.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Avanti este o atracție aflată în Jidhafs.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "Harris este o atracție locală situată în orașul Jidhafs.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "Water Garden este o atracție aflată în Jidhafs.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "Jallawi Gallery جلاوي جالري este o galerie de artă situată în orașul Jidhafs.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "Khamis Mosque", "text": "Khamis Mosque este un lăcaș de cult istoric din Jidhafs.", "category": "religious", "coords": [50.54832, 26.20817]}], "en": [{"name": "Qal'at al-Bahrain", "text": "Qal'at al-Bahrain is a globally recognized archaeological site located near Jidhafs.", "category": "historical", "coords": [50.520901, 26.232948]}, {"name": "Adhari Park", "text": "Adhari Park is a well-known theme park situated in Jidhafs.", "category": "family", "coords": [50.545829, 26.198446]}, {"name": "Magic Island", "text": "Magic Island is a theme park located in Jidhafs.", "category": "family", "coords": [50.538314, 26.232143]}, {"name": "Ritz-Carlton Beach", "text": "Ritz-Carlton Beach presents an elegant stretch of coastline in the city of Jidhafs. Visitors can anticipate a refined coastal atmosphere, ideal for leisurely sunbathing, tranquil walks, or a refreshing dip in the sea. The setting perfectly blends the relaxing rhythm of the water with an upscale environment. An evening stroll along this beach is a beautiful way to conclude a day in Bahrain.", "category": "recreational", "coords": [50.539795, 26.245581]}, {"name": "Khamis Mosque Visitor Centre", "text": "The Khamis Mosque Visitor Centre is a museum situated in Jidhafs.", "category": "museum", "coords": [50.549245, 26.208324]}, {"name": "Adhari Theme Park", "text": "Adhari Theme Park is an attraction located in the city of Jidhafs.", "category": "landmark", "coords": [50.544343, 26.197661]}, {"name": "سوق جدحفص الشعبي", "text": "سوق جدحفص الشعبي is a market attraction situated in Jidhafs.", "category": "landmark", "coords": [50.53956, 26.2198]}, {"name": "Wahooo Water park", "text": "Wahooo Water park is an aquatic attraction located in Jidhafs.", "category": "landmark", "coords": [50.551959, 26.234257]}, {"name": "Avanti", "text": "Avanti is a point of interest and attraction located in Jidhafs.", "category": "landmark", "coords": [50.537348, 26.239884]}, {"name": "Harris", "text": "Harris is a local attraction found in the city of Jidhafs.", "category": "landmark", "coords": [50.524217, 26.220634]}, {"name": "Water Garden", "text": "The Water Garden is a scenic attraction situated in Jidhafs.", "category": "landmark", "coords": [50.554514, 26.242197]}, {"name": "Jallawi Gallery جلاوي جالري", "text": "Jallawi Gallery جلاوي جالري is an art gallery located in the city of Jidhafs.", "category": "museum", "coords": [50.564516, 26.209415]}, {"name": "Khamis Mosque", "text": "The Khamis Mosque is a prominent and historic place of worship located in Jidhafs.", "category": "religious", "coords": [50.54832, 26.20817]}]},
     type: "city",
     parent: "BH-13",
     coords: [50.5477, 26.2188],
@@ -1587,7 +1587,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "al-malkiya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "ساحل كرزكان",
+                  "name": "Karzakkan Beach",
                   "text": "Karzakkan Beach ist ein ruhiger Strandabschnitt in Al Malkiya.",
                   "category": "recreational",
                   "coords": [
@@ -1596,7 +1596,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نواف",
+                  "name": "Nawaf",
                   "text": "Das Nawaf ist ein kulturelles Museum in Al Malkiya.",
                   "category": "museum",
                   "coords": [
@@ -1614,7 +1614,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Bait Ishaq",
                   "text": "Bait Ishaq ist eine lokale Sehenswürdigkeit in Al Malkiya.",
                   "category": "landmark",
                   "coords": [
@@ -1623,7 +1623,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار 14",
+                  "name": "Kreisverkehr 14",
                   "text": "Der Kreisverkehr 14 ist eine lokale Sehenswürdigkeit in Al Malkiya.",
                   "category": "landmark",
                   "coords": [
@@ -1634,7 +1634,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ساحل كرزكان",
+                  "name": "Karzakkan Beach",
                   "text": "A Karzakkan Beach egy csendes partszakasz Al Malkiyában.",
                   "category": "recreational",
                   "coords": [
@@ -1643,7 +1643,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نواف",
+                  "name": "Nawaf",
                   "text": "A Nawaf egy kulturális múzeum Al Malkiyában.",
                   "category": "museum",
                   "coords": [
@@ -1670,7 +1670,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار 14",
+                  "name": "14-es körforgalom",
                   "text": "A 14-es körforgalom egy helyi látnivaló Al Malkiyában.",
                   "category": "landmark",
                   "coords": [
@@ -1681,7 +1681,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ساحل كرزكان",
+                  "name": "Plaja Karzakkan",
                   "text": "Plaja Karzakkan este o zonă de coastă liniștită în Al Malkiya.",
                   "category": "recreational",
                   "coords": [
@@ -1690,7 +1690,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نواف",
+                  "name": "Nawaf",
                   "text": "Nawaf este un muzeu cultural în Al Malkiya.",
                   "category": "museum",
                   "coords": [
@@ -1708,7 +1708,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Bait Ishaq",
                   "text": "Bait Ishaq este o atracție locală în Al Malkiya.",
                   "category": "landmark",
                   "coords": [
@@ -1717,7 +1717,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار 14",
+                  "name": "Sensul giratoriu 14",
                   "text": "Sensul giratoriu 14 este o atracție locală în Al Malkiya.",
                   "category": "landmark",
                   "coords": [
@@ -1755,7 +1755,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bait Ishaq بيت إسحاق",
+                  "name": "Bait Ishaq",
                   "text": "Bait Ishaq is a local attraction in Al Malkiya.",
                   "category": "landmark",
                   "coords": [
@@ -2086,7 +2086,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ڤيب البحرين",
+                  "name": "Bahrain Vape",
                   "text": "Bahrain Vape ist eine lokale Sehenswürdigkeit in Tubli.",
                   "category": "landmark",
                   "coords": [
@@ -2104,7 +2104,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الخميس",
+                  "name": "Khamis Mosque",
                   "text": "Die Khamis Mosque ist eine historische Moschee in Tubli.",
                   "category": "religious",
                   "coords": [
@@ -2142,7 +2142,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ڤيب البحرين",
+                  "name": "Bahrain Vape",
                   "text": "A Bahrain Vape egy helyi látványosság Tubliban.",
                   "category": "landmark",
                   "coords": [
@@ -2160,7 +2160,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الخميس",
+                  "name": "Khamis Mosque",
                   "text": "A Khamis Mosque egy történelmi mecset Tubliban.",
                   "category": "religious",
                   "coords": [
@@ -2198,7 +2198,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ڤيب البحرين",
+                  "name": "Bahrain Vape",
                   "text": "Bahrain Vape este o atracție locală din Tubli.",
                   "category": "landmark",
                   "coords": [
@@ -2216,7 +2216,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الخميس",
+                  "name": "Khamis Mosque",
                   "text": "Khamis Mosque este o moschee istorică din Tubli.",
                   "category": "religious",
                   "coords": [
@@ -2537,7 +2537,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "al-dair-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مأتم الإمام علي",
+                  "name": "Matam Imam Ali",
                   "text": "Das Matam Imam Ali ist ein Museum in Al Dair.",
                   "category": "museum",
                   "coords": [
@@ -2564,7 +2564,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منته و محمية عراد",
+                  "name": "Dieses Gebiet",
                   "text": "Dieses Gebiet ist eine bekannte Attraktion in Al Dair.",
                   "category": "landmark",
                   "coords": [
@@ -2575,7 +2575,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مأتم الإمام علي",
+                  "name": "Matam Imam Ali",
                   "text": "A Matam Imam Ali egy múzeum Al Dairban.",
                   "category": "museum",
                   "coords": [
@@ -2613,7 +2613,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مأتم الإمام علي",
+                  "name": "Matam Imam Ali",
                   "text": "Matam Imam Ali este un muzeu în Al Dair.",
                   "category": "museum",
                   "coords": [
@@ -2640,7 +2640,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منته و محمية عراد",
+                  "name": "Această zonă",
                   "text": "Această zonă este o atracție cunoscută în Al Dair.",
                   "category": "landmark",
                   "coords": [
@@ -2651,7 +2651,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "مأتم الإمام علي",
+                  "name": "Matam Imam Ali",
                   "text": "Matam Imam Ali is a museum in Al Dair.",
                   "category": "museum",
                   "coords": [
@@ -2678,7 +2678,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منته و محمية عراد",
+                  "name": "This area",
                   "text": "This area is a well-known attraction in Al Dair.",
                   "category": "landmark",
                   "coords": [
@@ -2763,7 +2763,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "busaiteen-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف البحرين الوطني",
+                  "name": "Bahrain National Museum",
                   "text": "Das Bahrain National Museum ist ein bedeutendes Museum in der Stadt Busaiteen.",
                   "category": "museum",
                   "coords": [
@@ -2781,7 +2781,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح البحرين الوطني",
+                  "name": "Bahrain National Theatre",
                   "text": "Das Bahrain National Theatre ist ein Theater in Busaiteen.",
                   "category": "cultural",
                   "coords": [
@@ -2808,7 +2808,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعه بوماهر",
+                  "name": "Bu Maher Fort",
                   "text": "Das Bu Maher Fort ist eine historische Burg in der Stadt Busaiteen.",
                   "category": "castle",
                   "coords": [
@@ -2891,7 +2891,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف البحرين الوطني",
+                  "name": "Bahrain National Museum",
                   "text": "A Bahrain National Museum egy jelentős múzeum Busaiteen városában.",
                   "category": "museum",
                   "coords": [
@@ -2909,7 +2909,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح البحرين الوطني",
+                  "name": "Bahrain National Theatre",
                   "text": "A Bahrain National Theatre egy színház Busaiteenben.",
                   "category": "cultural",
                   "coords": [
@@ -2936,7 +2936,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعه بوماهر",
+                  "name": "Bu Maher Erőd",
                   "text": "A Bu Maher Erőd egy történelmi kastély Busaiteen városában.",
                   "category": "castle",
                   "coords": [
@@ -3019,7 +3019,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف البحرين الوطني",
+                  "name": "Muzeul Național al Bahrainului",
                   "text": "Muzeul Național al Bahrainului este un muzeu important din orașul Busaiteen.",
                   "category": "museum",
                   "coords": [
@@ -3037,7 +3037,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح البحرين الوطني",
+                  "name": "Bahrain National Theatre",
                   "text": "Bahrain National Theatre este un teatru din Busaiteen.",
                   "category": "cultural",
                   "coords": [
@@ -3064,7 +3064,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعه بوماهر",
+                  "name": "Fortul Bu Maher",
                   "text": "Fortul Bu Maher este un castel istoric situat în orașul Busaiteen.",
                   "category": "castle",
                   "coords": [
@@ -3487,7 +3487,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     id: "awali-cities-v2", "sights": {
       "de": [
             {
-                  "name": "صرح الميثاق الوطني",
+                  "name": "Bahrain National Charter Monument",
                   "text": "Das Bahrain National Charter Monument ist ein markantes Bauwerk in Awali.",
                   "category": "historical",
                   "coords": [
@@ -3496,7 +3496,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية سيدة العرب",
+                  "name": "Cathedral of Our Lady of Arabia",
                   "text": "Die Cathedral of Our Lady of Arabia ist ein bedeutendes katholisches Gotteshaus in Awali.",
                   "category": "religious",
                   "coords": [
@@ -3507,7 +3507,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "صرح الميثاق الوطني",
+                  "name": "Bahrain National Charter Monument",
                   "text": "A Bahrain National Charter Monument egy kiemelkedő emlékmű Awali városában.",
                   "category": "historical",
                   "coords": [
@@ -3516,7 +3516,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية سيدة العرب",
+                  "name": "Cathedral of Our Lady of Arabia",
                   "text": "A Cathedral of Our Lady of Arabia egy jelentős katolikus imahely Awali városában.",
                   "category": "religious",
                   "coords": [
@@ -3527,7 +3527,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "صرح الميثاق الوطني",
+                  "name": "Monumentul Cartei Naționale a Bahrainului",
                   "text": "Monumentul Cartei Naționale a Bahrainului este o structură proeminentă situată în Awali.",
                   "category": "historical",
                   "coords": [
@@ -3536,7 +3536,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية سيدة العرب",
+                  "name": "Catedrala Our Lady of Arabia",
                   "text": "Catedrala Our Lady of Arabia este un important lăcaș de cult catolic situat în Awali.",
                   "category": "religious",
                   "coords": [
@@ -4143,7 +4143,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت سيد رضى",
+                  "name": "Acest far local",
                   "text": "Acest far local se află în orașul Bani Jamra.",
                   "category": "landmark",
                   "coords": [
@@ -4152,7 +4152,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساحل البديع",
+                  "name": "Această atracție locală",
                   "text": "Această atracție locală este situată în orașul Bani Jamra.",
                   "category": "landmark",
                   "coords": [
@@ -4161,7 +4161,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "لاقونا",
+                  "name": "Acest punct de belvedere pitoresc",
                   "text": "Acest punct de belvedere pitoresc este situat în orașul Bani Jamra.",
                   "category": "natural",
                   "coords": [
@@ -4333,7 +4333,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المقشع",
+                  "name": "Almaqsha",
                   "text": "Almaqsha ist ein interessanter Ort in Karrana.",
                   "category": "landmark",
                   "coords": [
@@ -4427,7 +4427,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المقشع",
+                  "name": "Almaqsha",
                   "text": "Almaqsha este un loc interesant în Karrana.",
                   "category": "landmark",
                   "coords": [
@@ -4842,7 +4842,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد أحمد الفاتح",
+                  "name": "Al-Fateh-Moschee",
                   "text": "Die Al-Fateh-Moschee ist eine monumentale Sehenswürdigkeit in Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -4851,7 +4851,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر القضيبية",
+                  "name": "Gudaibiya-Palast",
                   "text": "Der Gudaibiya-Palast ist ein prächtiges Gebäude in Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -4860,7 +4860,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم السي سيد",
+                  "name": "Restaurant Al-Sayed",
                   "text": "Das Restaurant Al-Sayed ist eine bekannte Attraktion in Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -4905,7 +4905,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jallawi Gallery جلاوي جالري",
+                  "name": "Jallawi Gallery",
                   "text": "Die Jallawi Gallery ist ein Kunstort in Nabih Saleh.",
                   "category": "museum",
                   "coords": [
@@ -4916,7 +4916,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "القصر القديم",
+                  "name": "Öreg Palota",
                   "text": "Az Öreg Palota egy történelmi erődítmény Nabih Salehben.",
                   "category": "castle",
                   "coords": [
@@ -4925,7 +4925,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد أحمد الفاتح",
+                  "name": "Al-Fateh nagymecset",
                   "text": "Az Al-Fateh nagymecset egy monumentális látnivaló Nabih Salehben.",
                   "category": "landmark",
                   "coords": [
@@ -4934,7 +4934,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر القضيبية",
+                  "name": "Gudaibiya Palota",
                   "text": "A Gudaibiya Palota egy impozáns épület Nabih Salehben.",
                   "category": "landmark",
                   "coords": [
@@ -4943,7 +4943,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم السي سيد",
+                  "name": "Al-Sayed étterem",
                   "text": "Az Al-Sayed étterem egy népszerű látnivaló Nabih Salehben.",
                   "category": "landmark",
                   "coords": [
@@ -4988,7 +4988,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jallawi Gallery جلاوي جالري",
+                  "name": "Jallawi Galéria",
                   "text": "A Jallawi Galéria egy művészeti helyszín Nabih Salehben.",
                   "category": "museum",
                   "coords": [
@@ -4999,7 +4999,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "القصر القديم",
+                  "name": "Vechiul Palat",
                   "text": "Vechiul Palat este o fortăreață istorică în Nabih Saleh.",
                   "category": "castle",
                   "coords": [
@@ -5008,7 +5008,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد أحمد الفاتح",
+                  "name": "Marea Moschee Al-Fateh",
                   "text": "Marea Moschee Al-Fateh este o atracție monumentală în Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -5017,7 +5017,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر القضيبية",
+                  "name": "Palatul Gudaibiya",
                   "text": "Palatul Gudaibiya este o clădire impunătoare în Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -5026,7 +5026,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم السي سيد",
+                  "name": "Restaurantul Al-Sayed",
                   "text": "Restaurantul Al-Sayed este o atracție populară în Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -5071,7 +5071,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jallawi Gallery جلاوي جالري",
+                  "name": "Galeria Jallawi",
                   "text": "Galeria Jallawi este un spațiu artistic în Nabih Saleh.",
                   "category": "museum",
                   "coords": [
@@ -5109,7 +5109,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم السي سيد",
+                  "name": "Al-Sayed restaurant",
                   "text": "The Al-Sayed restaurant is a popular attraction in Nabih Saleh.",
                   "category": "landmark",
                   "coords": [
@@ -5154,7 +5154,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jallawi Gallery جلاوي جالري",
+                  "name": "Jallawi Gallery",
                   "text": "The Jallawi Gallery is an art venue in Nabih Saleh.",
                   "category": "museum",
                   "coords": [
@@ -5299,7 +5299,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/arad-cities-v2.webp"},
   {
-    id: "galali-cities-v2", "sights": {"de": [{"name": "Arad Fort", "text": "Das Arad Fort ist eine historische islamische Festung in der Nähe von Galali.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "Dieses Museum und diese Kulturstätte befinden sich in der Stadt Galali.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "Das Rashid Al-Oraifi Museum ist ein lokales Museum in Galali.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "Die Hend Gallery ist eine Kunstgalerie in der Stadt Galali.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "Diese lokale Attraktion und das Naturschutzgebiet befinden sich in Galali.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "Der Grove Beach ist ein ansprechendes Resort-Ziel in Galali und bietet vielfältige Küstenerholung. Die komfortable und einladende Atmosphäre ist für diejenigen gedacht, die sich am Meer entspannen, schwimmen und vergnügen möchten. Gäste finden zahlreiche Möglichkeiten zum Sonnenbaden und für gemütliche Spaziergänge am Ufer entlang. Ein ganzer Sommertag hier ermöglicht es Besuchern, den Küstenlebensstil in vollen Zügen zu genießen.", "category": "recreational", "coords": [50.670005, 26.277667]}], "hu": [{"name": "Arad Fort", "text": "Az Arad erőd egy történelmi iszlám erődítmény Galali közelében.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "Ez a múzeum és kulturális helyszín Galali városában található.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "A Rashid Al-Oraifi Múzeum egy helyi múzeum Galali városában.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "A Hend Gallery egy művészeti galéria Galali városában.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "Ez a helyi látványosság és természetvédelmi terület Galali városában található.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "A kifejezetten parti kikapcsolódást kínáló The Grove Beach egy vonzó üdülőhely Galaliban. A kényelmes és hívogató légkört azoknak tervezték, akik vágynak a tengerparti pihenésre, úszásra és szórakozásra. A vendégek bőséges lehetőséget találnak a napozásra és a part menti kényelmes sétákra. Egy teljes nyári nap eltöltése itt lehetővé teszi a látogatók számára, hogy teljesen átadják magukat a tengerparti életmódnak.", "category": "recreational", "coords": [50.670005, 26.277667]}], "ro": [{"name": "Arad Fort", "text": "Fortul Arad este o fortăreață islamică istorică situată în apropiere de Galali.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "Acest muzeu și sit cultural se află în orașul Galali.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "Muzeul Rashid Al-Oraifi este un muzeu local situat în Galali.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "Hend Gallery este o galerie de artă situată în orașul Galali.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "Această atracție locală și rezervație se află în orașul Galali.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "Oferind o recreere dedicată pe coastă, The Grove Beach servește ca o destinație de stațiune atrăgătoare în Galali. Atmosfera confortabilă și primitoare este concepută pentru cei dornici să se relaxeze, să înoate și să se bucure de o zi la mare. Oaspeții vor găsi o mulțime de oportunități pentru a face plajă și plimbări ușoare de-a lungul țărmului. Petrecerea unei zile întregi de vară aici permite vizitatorilor să adopte pe deplin stilul de viață de coastă.", "category": "recreational", "coords": [50.670005, 26.277667]}], "en": [{"name": "Arad Fort", "text": "Arad Fort is a historic Islamic fort located near Galali.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "This museum and cultural site is located in the city of Galali.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "The Rashid Al-Oraifi Museum is a local museum situated in Galali.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "Hend Gallery is an art gallery located in the city of Galali.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "This local attraction and protected area is situated in Galali.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "Offering dedicated coastal recreation, The Grove Beach serves as an appealing resort destination in Galali. The comfortable and inviting atmosphere is designed for those eager to relax, swim, and enjoy a day by the sea. Guests will find plenty of opportunities for sunbathing and taking easy walks along the shore. Spending a full summer day here allows visitors to fully embrace the coastal lifestyle.", "category": "recreational", "coords": [50.670005, 26.277667]}]},
+    id: "galali-cities-v2", "sights": {"de": [{"name": "Arad Fort", "text": "Das Arad Fort ist eine historische islamische Festung in der Nähe von Galali.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "Dieses Museum und diese Kulturstätte befinden sich in der Stadt Galali.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "Das Rashid Al-Oraifi Museum ist ein lokales Museum in Galali.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "Die Hend Gallery ist eine Kunstgalerie in der Stadt Galali.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "Diese lokale Attraktion und das Naturschutzgebiet befinden sich in Galali.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "Der Grove Beach ist ein ansprechendes Resort-Ziel in Galali und bietet vielfältige Küstenerholung. Die komfortable und einladende Atmosphäre ist für diejenigen gedacht, die sich am Meer entspannen, schwimmen und vergnügen möchten. Gäste finden zahlreiche Möglichkeiten zum Sonnenbaden und für gemütliche Spaziergänge am Ufer entlang. Ein ganzer Sommertag hier ermöglicht es Besuchern, den Küstenlebensstil in vollen Zügen zu genießen.", "category": "recreational", "coords": [50.670005, 26.277667]}], "hu": [{"name": "Arad Fort", "text": "Az Arad erőd egy történelmi iszlám erődítmény Galali közelében.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "Ez a múzeum és kulturális helyszín Galali városában található.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "A Rashid Al-Oraifi Múzeum egy helyi múzeum Galali városában.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "A Hend Gallery egy művészeti galéria Galali városában.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "Ez a helyi látványosság és természetvédelmi terület Galali városában található.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "A kifejezetten parti kikapcsolódást kínáló The Grove Beach egy vonzó üdülőhely Galaliban. A kényelmes és hívogató légkört azoknak tervezték, akik vágynak a tengerparti pihenésre, úszásra és szórakozásra. A vendégek bőséges lehetőséget találnak a napozásra és a part menti kényelmes sétákra. Egy teljes nyári nap eltöltése itt lehetővé teszi a látogatók számára, hogy teljesen átadják magukat a tengerparti életmódnak.", "category": "recreational", "coords": [50.670005, 26.277667]}], "ro": [{"name": "Arad Fort", "text": "Fortul Arad este o fortăreață islamică istorică situată în apropiere de Galali.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "Acest muzeu și sit cultural", "text": "Acest muzeu și sit cultural se află în orașul Galali.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "Muzeul Rashid Al-Oraifi este un muzeu local situat în Galali.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "Hend Gallery este o galerie de artă situată în orașul Galali.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "Această atracție locală și rezervație", "text": "Această atracție locală și rezervație se află în orașul Galali.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "Oferind o recreere dedicată pe coastă, The Grove Beach servește ca o destinație de stațiune atrăgătoare în Galali. Atmosfera confortabilă și primitoare este concepută pentru cei dornici să se relaxeze, să înoate și să se bucure de o zi la mare. Oaspeții vor găsi o mulțime de oportunități pentru a face plajă și plimbări ușoare de-a lungul țărmului. Petrecerea unei zile întregi de vară aici permite vizitatorilor să adopte pe deplin stilul de viață de coastă.", "category": "recreational", "coords": [50.670005, 26.277667]}], "en": [{"name": "Arad Fort", "text": "Arad Fort is a historic Islamic fort located near Galali.", "category": "castle", "coords": [50.627167, 26.25248]}, {"name": "مأتم الإمام علي", "text": "This museum and cultural site is located in the city of Galali.", "category": "museum", "coords": [50.626652, 26.286225]}, {"name": "Rashid Al-Oraifi Museum", "text": "The Rashid Al-Oraifi Museum is a local museum situated in Galali.", "category": "museum", "coords": [50.617909, 26.264169]}, {"name": "Hend Gallery", "text": "Hend Gallery is an art gallery located in the city of Galali.", "category": "museum", "coords": [50.619478, 26.26044]}, {"name": "منته و محمية عراد", "text": "This local attraction and protected area is situated in Galali.", "category": "landmark", "coords": [50.622973, 26.262212]}, {"name": "The Grove Beach", "text": "Offering dedicated coastal recreation, The Grove Beach serves as an appealing resort destination in Galali. The comfortable and inviting atmosphere is designed for those eager to relax, swim, and enjoy a day by the sea. Guests will find plenty of opportunities for sunbathing and taking easy walks along the shore. Spending a full summer day here allows visitors to fully embrace the coastal lifestyle.", "category": "recreational", "coords": [50.670005, 26.277667]}]},
     type: "city",
     parent: "BH-15",
     coords: [50.6416, 26.2755],

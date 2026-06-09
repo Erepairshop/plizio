@@ -615,7 +615,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хотел Шагал",
+                  "name": "swimming pool in Vinica inviting you for",
                   "text": "A swimming pool in Vinica inviting you for a refreshing swim.",
                   "category": "family",
                   "coords": [

@@ -257,7 +257,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "taif-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قصر شبرا التاريخي",
+                  "name": "Shubra Palast in Ta'if",
                   "text": "Der Shubra Palast in Ta'if ist ein historisches Museum.",
                   "category": "museum",
                   "coords": [
@@ -266,7 +266,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحكير تايم",
+                  "name": "Al Hokair Time",
                   "text": "Al Hokair Time ist ein Themenpark in Ta'if.",
                   "category": "family",
                   "coords": [
@@ -275,7 +275,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عبدالله بن العباس",
+                  "name": "Abdullah Ibn Abbas Moschee",
                   "text": "Die Abdullah Ibn Abbas Moschee ist ein bedeutendes Gotteshaus in Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -284,7 +284,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدهون",
+                  "name": "Al-Madhoun Moschee",
                   "text": "Die Al-Madhoun Moschee ist ein Gotteshaus in Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -293,7 +293,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عداس",
+                  "name": "Addas Moschee",
                   "text": "Die Addas Moschee ist ein Gotteshaus in Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -304,7 +304,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قصر شبرا التاريخي",
+                  "name": "Ta'if-i Shubra Palota",
                   "text": "A Ta'if-i Shubra Palota egy történelmi múzeum.",
                   "category": "museum",
                   "coords": [
@@ -313,7 +313,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحكير تايم",
+                  "name": "Al Hokair Time",
                   "text": "Az Al Hokair Time egy vidámpark Ta'ifban.",
                   "category": "family",
                   "coords": [
@@ -322,7 +322,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عبدالله بن العباس",
+                  "name": "Abdullah Ibn Abbas mecset",
                   "text": "Az Abdullah Ibn Abbas mecset egy jelentős imaház Ta'ifban.",
                   "category": "religious",
                   "coords": [
@@ -331,7 +331,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدهون",
+                  "name": "Al-Madhoun mecset",
                   "text": "Az Al-Madhoun mecset egy imaház Ta'ifban.",
                   "category": "religious",
                   "coords": [
@@ -340,7 +340,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عداس",
+                  "name": "Addas mecset",
                   "text": "Az Addas mecset egy imaház Ta'ifban.",
                   "category": "religious",
                   "coords": [
@@ -351,7 +351,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قصر شبرا التاريخي",
+                  "name": "Palatul Shubra din Ta'if",
                   "text": "Palatul Shubra din Ta'if este un muzeu istoric.",
                   "category": "museum",
                   "coords": [
@@ -360,7 +360,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحكير تايم",
+                  "name": "Al Hokair Time",
                   "text": "Al Hokair Time este un parc tematic în Ta'if.",
                   "category": "family",
                   "coords": [
@@ -369,7 +369,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عبدالله بن العباس",
+                  "name": "Moscheea Abdullah Ibn Abbas",
                   "text": "Moscheea Abdullah Ibn Abbas este un lăcaș de cult important în Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -378,7 +378,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدهون",
+                  "name": "Moscheea Al-Madhoun",
                   "text": "Moscheea Al-Madhoun este un lăcaș de cult în Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -387,7 +387,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عداس",
+                  "name": "Moscheea Addas",
                   "text": "Moscheea Addas este un lăcaș de cult în Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -434,7 +434,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد عداس",
+                  "name": "Addas Mosque",
                   "text": "The Addas Mosque is a place of worship in Ta'if.",
                   "category": "religious",
                   "coords": [
@@ -813,7 +813,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين نجم",
+                  "name": "Ayn an Najm",
                   "text": "Ayn an Najm ist eine Ruinenstätte in Al Mubarraz.",
                   "category": "historical",
                   "coords": [
@@ -822,7 +822,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار السفينة",
+                  "name": "Schiffs-Denkmal (Duwar al-Safina)",
                   "text": "Das Schiffs-Denkmal (Duwar al-Safina) ist eine bekannte Sehenswürdigkeit in Al Mubarraz.",
                   "category": "historical",
                   "coords": [
@@ -833,7 +833,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قصر صاهود",
+                  "name": "Qasr Sahud",
                   "text": "A Qasr Sahud egy történelmi vár Al Mubarrazban.",
                   "category": "castle",
                   "coords": [
@@ -842,7 +842,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين نجم",
+                  "name": "Ayn an Najm",
                   "text": "Az Ayn an Najm egy romterület Al Mubarrazban.",
                   "category": "historical",
                   "coords": [
@@ -851,7 +851,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار السفينة",
+                  "name": "Hajó-emlékmű (Duwar al-Safina)",
                   "text": "A Hajó-emlékmű (Duwar al-Safina) egy ismert látnivaló Al Mubarrazban.",
                   "category": "historical",
                   "coords": [
@@ -862,7 +862,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قصر صاهود",
+                  "name": "Qasr Sahud",
                   "text": "Qasr Sahud este un castel istoric în Al Mubarraz.",
                   "category": "castle",
                   "coords": [
@@ -871,7 +871,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين نجم",
+                  "name": "Ayn an Najm",
                   "text": "Ayn an Najm este un sit în ruină în Al Mubarraz.",
                   "category": "historical",
                   "coords": [
@@ -880,7 +880,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار السفينة",
+                  "name": "Monumentul Navei (Duwar al-Safina)",
                   "text": "Monumentul Navei (Duwar al-Safina) este un punct de reper cunoscut în Al Mubarraz.",
                   "category": "historical",
                   "coords": [
@@ -909,7 +909,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار السفينة",
+                  "name": "Ship Monument (Duwar al-Safina)",
                   "text": "The Ship Monument (Duwar al-Safina) is a well-known landmark in Al Mubarraz.",
                   "category": "historical",
                   "coords": [
@@ -1185,7 +1185,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "yanbu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مملكة الحيوان",
+                  "name": "Mamlaka al-Haywan",
                   "text": "Mamlaka al-Haywan ist ein Zoo in Yanbu.",
                   "category": "family",
                   "coords": [
@@ -1194,7 +1194,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نصب تذكاري لثلاثة مراكب شراعية",
+                  "name": "3-Segelboot-Denkmal",
                   "text": "Das 3-Segelboot-Denkmal ist ein Wahrzeichen in Yanbu.",
                   "category": "historical",
                   "coords": [
@@ -1212,7 +1212,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "السمك في سلة",
+                  "name": "'Fisch im Korb'-Denkmal",
                   "text": "Das 'Fisch im Korb'-Denkmal ist eine interessante Skulptur in Yanbu.",
                   "category": "historical",
                   "coords": [
@@ -1221,7 +1221,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جرة مكسورة",
+                  "name": "Denkmal des zerbrochenen Kruges",
                   "text": "Das Denkmal des zerbrochenen Kruges ist eine Sehenswürdigkeit in Yanbu.",
                   "category": "historical",
                   "coords": [
@@ -1230,7 +1230,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منطقة ينبع التاريخية",
+                  "name": "historische Viertel von Yanbu",
                   "text": "Das historische Viertel von Yanbu ist eine beliebte Attraktion.",
                   "category": "landmark",
                   "coords": [
@@ -1241,7 +1241,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مملكة الحيوان",
+                  "name": "Mamlaka al-Haywan",
                   "text": "A Mamlaka al-Haywan egy állatkert Yanbuban.",
                   "category": "family",
                   "coords": [
@@ -1250,7 +1250,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نصب تذكاري لثلاثة مراكب شراعية",
+                  "name": "3 vitorlás emlékmű",
                   "text": "A 3 vitorlás emlékmű egy jelkép Yanbuban.",
                   "category": "historical",
                   "coords": [
@@ -1268,7 +1268,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "السمك في سلة",
+                  "name": "'Hal",
                   "text": "A 'Hal a kosárban' emlékmű egy érdekes szobor Yanbuban.",
                   "category": "historical",
                   "coords": [
@@ -1277,7 +1277,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جرة مكسورة",
+                  "name": "törött korsó emlékmű",
                   "text": "A törött korsó emlékmű egy látnivaló Yanbuban.",
                   "category": "historical",
                   "coords": [
@@ -1297,7 +1297,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مملكة الحيوان",
+                  "name": "Mamlaka al-Haywan",
                   "text": "Mamlaka al-Haywan este o grădină zoologică în Yanbu.",
                   "category": "family",
                   "coords": [
@@ -1306,7 +1306,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نصب تذكاري لثلاثة مراكب شراعية",
+                  "name": "Monumentul celor 3 veliere",
                   "text": "Monumentul celor 3 veliere este un punct de reper în Yanbu.",
                   "category": "historical",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "السمك في سلة",
+                  "name": "Monumentul 'Peștele în coș'",
                   "text": "Monumentul 'Peștele în coș' este o sculptură interesantă în Yanbu.",
                   "category": "historical",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جرة مكسورة",
+                  "name": "Monumentul ulciorului spart",
                   "text": "Monumentul ulciorului spart este o atracție în Yanbu.",
                   "category": "historical",
                   "coords": [
@@ -1342,7 +1342,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منطقة ينبع التاريخية",
+                  "name": "Cartierul istoric al orașului Yanbu",
                   "text": "Cartierul istoric al orașului Yanbu este o atracție populară.",
                   "category": "landmark",
                   "coords": [
@@ -1353,7 +1353,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "مملكة الحيوان",
+                  "name": "Mamlaka al-Haywan",
                   "text": "Mamlaka al-Haywan is a zoo in Yanbu.",
                   "category": "family",
                   "coords": [
@@ -1826,7 +1826,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "tarut-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قلعة تاروت",
+                  "name": "Tarout Castle",
                   "text": "Das Tarout Castle ist ein Schloss in Tarut.",
                   "category": "castle",
                   "coords": [
@@ -1835,7 +1835,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الخضر",
+                  "name": "Al Khidr Mosque",
                   "text": "Die Al Khidr Mosque ist eine religiöse Stätte in Tarut.",
                   "category": "religious",
                   "coords": [
@@ -1846,7 +1846,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة تاروت",
+                  "name": "Tarout Castle",
                   "text": "A Tarout Castle egy kastély Tarut városában.",
                   "category": "castle",
                   "coords": [
@@ -1855,7 +1855,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الخضر",
+                  "name": "Al Khidr Mosque",
                   "text": "Az Al Khidr Mosque egy istentiszteleti hely Tarut városában.",
                   "category": "religious",
                   "coords": [
@@ -1866,7 +1866,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة تاروت",
+                  "name": "Tarout Castle",
                   "text": "Tarout Castle este un castel în Tarut.",
                   "category": "castle",
                   "coords": [
@@ -1875,7 +1875,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الخضر",
+                  "name": "Al Khidr Mosque",
                   "text": "Al Khidr Mosque este un lăcaș de cult în Tarut.",
                   "category": "religious",
                   "coords": [
@@ -2488,7 +2488,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "al-majmaah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "بيت الربيعة التراثي",
+                  "name": "historische Haus Beit Al-Rabiah",
                   "text": "Das historische Haus Beit Al-Rabiah ist eine Ruinenstätte in Al-Madschma'a.",
                   "category": "historical",
                   "coords": [
@@ -2508,7 +2508,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "بيت الربيعة التراثي",
+                  "name": "Beit Al-Rabiah történelmi ház",
                   "text": "A Beit Al-Rabiah történelmi ház egy romterület Al-Madschma'ában.",
                   "category": "historical",
                   "coords": [
@@ -2528,7 +2528,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "بيت الربيعة التراثي",
+                  "name": "Casa istorică Beit Al-Rabiah",
                   "text": "Casa istorică Beit Al-Rabiah este un sit în ruină în Al-Madschma'a.",
                   "category": "historical",
                   "coords": [
@@ -2548,7 +2548,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "بيت الربيعة التراثي",
+                  "name": "historic house Beit Al-Rabiah",
                   "text": "The historic house Beit Al-Rabiah is a ruin site in Al-Madschma'a.",
                   "category": "historical",
                   "coords": [

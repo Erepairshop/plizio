@@ -169,7 +169,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-chongjin-cities-v2", "sights": {
       "de": [
             {
-                  "name": "함경북도미술전람관",
+                  "name": "Fine Art Museum",
                   "text": "Das Fine Art Museum ist ein Museum in Chŏngjin.",
                   "category": "museum",
                   "coords": [
@@ -178,7 +178,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김일성 동상",
+                  "name": "Kim Il-Sung Monument",
                   "text": "Das Kim Il-Sung Monument ist ein Denkmal in Chŏngjin.",
                   "category": "historical",
                   "coords": [
@@ -189,7 +189,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "함경북도미술전람관",
+                  "name": "Fine Art Museum",
                   "text": "A Fine Art Museum egy múzeum Chŏngjin városában.",
                   "category": "museum",
                   "coords": [
@@ -198,7 +198,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김일성 동상",
+                  "name": "Kim Il-Sung Monument",
                   "text": "A Kim Il-Sung Monument egy emlékmű Chŏngjin városában.",
                   "category": "historical",
                   "coords": [
@@ -209,7 +209,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "함경북도미술전람관",
+                  "name": "Fine Art Museum",
                   "text": "Fine Art Museum este un muzeu situat în Chŏngjin.",
                   "category": "museum",
                   "coords": [
@@ -218,7 +218,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김일성 동상",
+                  "name": "Kim Il-Sung Monument",
                   "text": "Kim Il-Sung Monument este un monument în Chŏngjin.",
                   "category": "historical",
                   "coords": [
@@ -559,7 +559,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-kaesong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "고려박물관",
+                  "name": "Koryo Museum (Sungyangwan Academy)",
                   "text": "Das Koryo Museum (Sungyangwan Academy) ist ein Museum in Kaesŏng.",
                   "category": "museum",
                   "coords": [
@@ -568,7 +568,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "숭양서원",
+                  "name": "Sungyang Seowon",
                   "text": "Sungyang Seowon ist eine archäologische Stätte in Kaesŏng. Es ist eine historische konfuzianische Akademie aus der Joseon-Dynastie.",
                   "category": "historical",
                   "coords": [
@@ -577,7 +577,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "개성혁명역사박물관",
+                  "name": "Revolutionary Museum for the History of Kaesong",
                   "text": "Das Revolutionary Museum for the History of Kaesong ist ein Museum in Kaesŏng.",
                   "category": "museum",
                   "coords": [
@@ -586,7 +586,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "만월대",
+                  "name": "Manwoldae Palace",
                   "text": "Der Manwoldae Palace ist eine archäologische Stätte in Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -595,7 +595,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "첨성대",
+                  "name": "Kaesong Chomsongdae",
                   "text": "Kaesong Chomsongdae ist eine archäologische Stätte in Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -604,7 +604,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선죽교와 표충사",
+                  "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "Sonjuk Bridge and Phyochung Monuments ist eine archäologische Stätte in Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -622,7 +622,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남산",
+                  "name": "Namsan Mountain",
                   "text": "Namsan Mountain ist ein Berggipfel in Kaesŏng.",
                   "category": "natural",
                   "coords": [
@@ -631,7 +631,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남대문",
+                  "name": "Namdaemun",
                   "text": "Namdaemun ist ein Denkmal in Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -642,7 +642,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "고려박물관",
+                  "name": "Koryo Museum (Sungyangwan Academy)",
                   "text": "A Koryo Museum (Sungyangwan Academy) egy múzeum Kaesŏng városában.",
                   "category": "museum",
                   "coords": [
@@ -651,7 +651,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "숭양서원",
+                  "name": "Sungyang Seowon",
                   "text": "A Sungyang Seowon egy régészeti lelőhely Kaesŏng városában. Ez egy történelmi konfuciánus akadémia a Csoszon-dinasztia korából.",
                   "category": "historical",
                   "coords": [
@@ -660,7 +660,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "개성혁명역사박물관",
+                  "name": "Revolutionary Museum for the History of Kaesong",
                   "text": "A Revolutionary Museum for the History of Kaesong egy múzeum Kaesŏng városában.",
                   "category": "museum",
                   "coords": [
@@ -669,7 +669,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "만월대",
+                  "name": "Manwoldae Palace",
                   "text": "A Manwoldae Palace egy régészeti lelőhely Kaesŏng városában.",
                   "category": "historical",
                   "coords": [
@@ -678,7 +678,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "첨성대",
+                  "name": "Kaesong Chomsongdae",
                   "text": "A Kaesong Chomsongdae egy régészeti lelőhely Kaesŏng városában.",
                   "category": "historical",
                   "coords": [
@@ -687,7 +687,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선죽교와 표충사",
+                  "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "A Sonjuk Bridge and Phyochung Monuments egy régészeti lelőhely Kaesŏng városában.",
                   "category": "historical",
                   "coords": [
@@ -705,7 +705,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남산",
+                  "name": "Namsan Mountain",
                   "text": "A Namsan Mountain egy hegycsúcs Kaesŏng területén.",
                   "category": "natural",
                   "coords": [
@@ -714,7 +714,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남대문",
+                  "name": "Namdaemun",
                   "text": "A Namdaemun egy emlékmű Kaesŏng városában.",
                   "category": "historical",
                   "coords": [
@@ -725,7 +725,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "고려박물관",
+                  "name": "Koryo Museum (Sungyangwan Academy)",
                   "text": "Koryo Museum (Sungyangwan Academy) este un muzeu în Kaesŏng.",
                   "category": "museum",
                   "coords": [
@@ -734,7 +734,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "숭양서원",
+                  "name": "Sungyang Seowon",
                   "text": "Sungyang Seowon este un sit arheologic în Kaesŏng. Este o academie istorică confucianistă care datează din timpul dinastiei Joseon.",
                   "category": "historical",
                   "coords": [
@@ -743,7 +743,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "개성혁명역사박물관",
+                  "name": "Revolutionary Museum for the History of Kaesong",
                   "text": "Revolutionary Museum for the History of Kaesong este un muzeu în Kaesŏng.",
                   "category": "museum",
                   "coords": [
@@ -752,7 +752,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "만월대",
+                  "name": "Manwoldae Palace",
                   "text": "Manwoldae Palace este un sit arheologic situat în Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -761,7 +761,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "첨성대",
+                  "name": "Kaesong Chomsongdae",
                   "text": "Kaesong Chomsongdae este un sit arheologic situat în Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -770,7 +770,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선죽교와 표충사",
+                  "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "Sonjuk Bridge and Phyochung Monuments este un sit arheologic situat în Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -788,7 +788,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남산",
+                  "name": "Namsan Mountain",
                   "text": "Namsan Mountain este un vârf montan situat în Kaesŏng.",
                   "category": "natural",
                   "coords": [
@@ -797,7 +797,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남대문",
+                  "name": "Namdaemun",
                   "text": "Namdaemun este un monument situat în Kaesŏng.",
                   "category": "historical",
                   "coords": [
@@ -936,7 +936,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-sariwon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "사리원력사박물관",
+                  "name": "Sariwon History Museum",
                   "text": "Das Sariwon History Museum ist ein Museum in Sariwŏn.",
                   "category": "museum",
                   "coords": [
@@ -947,7 +947,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "사리원력사박물관",
+                  "name": "Sariwon History Museum",
                   "text": "A Sariwon History Museum egy múzeum Sariwŏn városában.",
                   "category": "museum",
                   "coords": [
@@ -958,7 +958,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "사리원력사박물관",
+                  "name": "Sariwon History Museum",
                   "text": "Sariwon History Museum este un muzeu în Sariwŏn.",
                   "category": "museum",
                   "coords": [
@@ -1113,7 +1113,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-haeju-cities-v2", "sights": {
       "de": [
             {
-                  "name": "태봉각",
+                  "name": "Taebonggak",
                   "text": "Taebonggak ist ein Schloss in Haeju.",
                   "category": "castle",
                   "coords": [
@@ -1122,7 +1122,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다라니석당",
+                  "name": "Daranisŏkdang",
                   "text": "Daranisŏkdang ist ein Schloss in Haeju.",
                   "category": "castle",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "황해남도혁명사적관",
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
                   "text": "Das Hwanghaenamdo Revolutionary History Museum ist ein Museum in Haeju.",
                   "category": "museum",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해주동물원",
+                  "name": "Haeju Zoo",
                   "text": "Der Haeju Zoo ist ein zoologischer Garten in Haeju.",
                   "category": "family",
                   "coords": [
@@ -1151,7 +1151,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "태봉각",
+                  "name": "Taebonggak",
                   "text": "A Taebonggak egy kastély Haeju városában.",
                   "category": "castle",
                   "coords": [
@@ -1160,7 +1160,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다라니석당",
+                  "name": "Daranisŏkdang",
                   "text": "A Daranisŏkdang egy kastély Haeju városában.",
                   "category": "castle",
                   "coords": [
@@ -1169,7 +1169,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "황해남도혁명사적관",
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
                   "text": "A Hwanghaenamdo Revolutionary History Museum egy múzeum Haeju városában.",
                   "category": "museum",
                   "coords": [
@@ -1178,7 +1178,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해주동물원",
+                  "name": "Haeju Zoo",
                   "text": "A Haeju Zoo egy állatkert Haeju városában.",
                   "category": "family",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "태봉각",
+                  "name": "Taebonggak",
                   "text": "Taebonggak este un castel în Haeju.",
                   "category": "castle",
                   "coords": [
@@ -1198,7 +1198,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다라니석당",
+                  "name": "Daranisŏkdang",
                   "text": "Daranisŏkdang este un castel în Haeju.",
                   "category": "castle",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "황해남도혁명사적관",
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
                   "text": "Hwanghaenamdo Revolutionary History Museum este un muzeu în Haeju.",
                   "category": "museum",
                   "coords": [
@@ -1216,7 +1216,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해주동물원",
+                  "name": "Haeju Zoo",
                   "text": "Haeju Zoo este o grădină zoologică în Haeju.",
                   "category": "family",
                   "coords": [
@@ -1731,7 +1731,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-tokchon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "덕천시극장",
+                  "name": "Tokchon City Theatre",
                   "text": "Das Tokchon City Theatre ist ein Theater in Tŏkch'ŏn.",
                   "category": "cultural",
                   "coords": [
@@ -1742,7 +1742,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "덕천시극장",
+                  "name": "Tokchon City Theatre",
                   "text": "A Tokchon City Theatre egy színház Tŏkch'ŏn városában.",
                   "category": "cultural",
                   "coords": [
@@ -1753,7 +1753,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "덕천시극장",
+                  "name": "Tokchon City Theatre",
                   "text": "Tokchon City Theatre este un teatru în Tŏkch'ŏn.",
                   "category": "cultural",
                   "coords": [
@@ -1864,7 +1864,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-rason-cities-v2", "sights": {
       "de": [
             {
-                  "name": "미술관",
+                  "name": "Art Gallery",
                   "text": "Art Gallery ist ein Museum in Rasŏn.",
                   "category": "museum",
                   "coords": [
@@ -1875,7 +1875,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "미술관",
+                  "name": "Art Gallery",
                   "text": "Az Art Gallery egy múzeum Rasŏn városában.",
                   "category": "museum",
                   "coords": [
@@ -1886,7 +1886,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "미술관",
+                  "name": "Art Gallery",
                   "text": "Art Gallery este un muzeu situat în Rasŏn.",
                   "category": "museum",
                   "coords": [

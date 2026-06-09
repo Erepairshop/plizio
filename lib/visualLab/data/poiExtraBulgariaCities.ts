@@ -1095,7 +1095,7 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Северна антична градска крепостна стена",
+                  "name": "északi antik városfal",
                   "text": "Az északi antik városfal egy történelmi ereklye, amely Varna védelmi múltjáról tanúskodik. A látogatók megtekinthetik az erődítmények maradványait, és többet megtudhatnak az ókori városról.",
                   "category": "landmark",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Северна антична градска крепостна стена",
+                  "name": "Zidul nordic al orașului antic",
                   "text": "Zidul nordic al orașului antic este o relicvă istorică ce depune mărturie despre istoria defensivă a Varnei. Vizitatorii pot vedea resturile fortificațiilor și pot afla mai multe despre orașul antic.",
                   "category": "landmark",
                   "coords": [
@@ -3247,7 +3247,7 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "България 1300",
+                  "name": "'Bulgária 1300' emlékmű Sztara Zagorában",
                   "text": "A 'Bulgária 1300' emlékmű Sztara Zagorában a bolgár állam hosszú történelmére és örökségére emlékeztet. Impozáns emlékmű, amelyet gyakran keresnek fel a történelem iránt érdeklődők.",
                   "category": "landmark",
                   "coords": [

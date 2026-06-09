@@ -17223,7 +17223,7 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Басейн Локомотив",
+                  "name": "Lokomotiv-Bad in Giurgiu",
                   "text": "Das Lokomotiv-Bad in Giurgiu ist ein Schwimmbad für die Öffentlichkeit.",
                   "category": "family",
                   "coords": [
@@ -17333,7 +17333,7 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Басейн Локомотив",
+                  "name": "giurgiui Lokomotiv medence",
                   "text": "A giurgiui Lokomotiv medence egy nyilvános úszómedence.",
                   "category": "family",
                   "coords": [
@@ -17443,7 +17443,7 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Басейн Локомотив",
+                  "name": "Piscina Lokomotiv din Giurgiu",
                   "text": "Piscina Lokomotiv din Giurgiu este o piscină pentru public.",
                   "category": "family",
                   "coords": [
@@ -17553,7 +17553,7 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Басейн Локомотив",
+                  "name": "Lokomotiv Pool in Giurgiu",
                   "text": "Lokomotiv Pool in Giurgiu is a swimming pool for the public.",
                   "category": "family",
                   "coords": [

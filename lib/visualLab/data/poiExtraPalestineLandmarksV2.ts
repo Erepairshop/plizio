@@ -1320,7 +1320,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח' חבן (כור)",
+                  "name": "Seikh Hoban (Kur)",
                   "text": "Seikh Hoban (Kur) ist ein Naturschutzgebiet in Kur Thron-Dorf.",
                   "category": "natural",
                   "coords": [
@@ -1340,7 +1340,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח' חבן (כור)",
+                  "name": "Seikh Hoban (Kur)",
                   "text": "A Seikh Hoban (Kur) egy természetvédelmi terület Kur Thron-Dorfban.",
                   "category": "natural",
                   "coords": [
@@ -1360,7 +1360,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח' חבן (כור)",
+                  "name": "Seikh Hoban (Kur)",
                   "text": "Seikh Hoban (Kur) este o rezervație naturală situată în Kur Thron-Dorf.",
                   "category": "natural",
                   "coords": [

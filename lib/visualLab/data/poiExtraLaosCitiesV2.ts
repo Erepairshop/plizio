@@ -358,7 +358,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีมงคลใต้",
+                  "name": "Wat Si Mongkhon Tai",
                   "text": "Wat Si Mongkhon Tai ist eine religiöse Stätte in der Stadt Savannakhet.",
                   "category": "religious",
                   "coords": [
@@ -405,7 +405,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีมงคลใต้",
+                  "name": "Wat Si Mongkhon Tai",
                   "text": "A Wat Si Mongkhon Tai egy istentiszteleti hely Savannakhet városában.",
                   "category": "religious",
                   "coords": [
@@ -452,7 +452,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีมงคลใต้",
+                  "name": "Wat Si Mongkhon Tai",
                   "text": "Wat Si Mongkhon Tai este un lăcaș de cult din orașul Savannakhet.",
                   "category": "religious",
                   "coords": [

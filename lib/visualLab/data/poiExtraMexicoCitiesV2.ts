@@ -9837,7 +9837,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "漂亮的转角",
+                  "name": "Beautiful Street Corner",
                   "text": "Beautiful Street Corner ist eine Touristenattraktion in San Miguel de Allende.",
                   "category": "landmark",
                   "coords": [
@@ -10037,7 +10037,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "漂亮的转角",
+                  "name": "Beautiful Street Corner",
                   "text": "A Beautiful Street Corner egy turisztikai látványosság San Miguel de Allende-ben.",
                   "category": "landmark",
                   "coords": [
@@ -10237,7 +10237,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "漂亮的转角",
+                  "name": "Beautiful Street Corner",
                   "text": "Beautiful Street Corner este o atracție turistică din San Miguel de Allende.",
                   "category": "landmark",
                   "coords": [

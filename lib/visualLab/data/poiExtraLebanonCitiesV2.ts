@@ -55,7 +55,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     id: "tripoli-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قلعة طرابلس",
+                  "name": "Qala'at Tarablus",
                   "text": "Qala'at Tarablus ist eine historische Zitadelle in der Stadt Tripoli.",
                   "category": "castle",
                   "coords": [
@@ -73,7 +73,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الصفدي الثقافي",
+                  "name": "Safadi Cultural Centre",
                   "text": "Safadi Cultural Centre ist ein Theater in der Stadt Tripoli.",
                   "category": "cultural",
                   "coords": [
@@ -82,7 +82,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نقابة المهندسين",
+                  "name": "Syndicate of Engineers",
                   "text": "Syndicate of Engineers ist ein Theater in der Stadt Tripoli.",
                   "category": "cultural",
                   "coords": [
@@ -181,7 +181,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد البرطاسي",
+                  "name": "Bertasi Mosque",
                   "text": "Die Bertasi Mosque ist eine bedeutende religiöse Stätte in der Stadt Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -190,7 +190,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد التوبة",
+                  "name": "Al-Tawbat-Moschee",
                   "text": "Die Al-Tawbat-Moschee ist ein bekanntes Gotteshaus in Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -199,7 +199,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الحميدي",
+                  "name": "Al-Hamidi-Moschee",
                   "text": "Die Al-Hamidi-Moschee ist ein lokales Gotteshaus in Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -208,7 +208,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد المعلق",
+                  "name": "Mu'allaq-Moschee",
                   "text": "Die Mu'allaq-Moschee ist ein Gotteshaus in Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -219,7 +219,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة طرابلس",
+                  "name": "Qala'at Tarablus",
                   "text": "A Qala'at Tarablus egy történelmi fellegvár Tripoli városában.",
                   "category": "castle",
                   "coords": [
@@ -228,7 +228,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج السبع",
+                  "name": "Lion Tower",
                   "text": "A Lion Tower egy kastély Tripoli városában.",
                   "category": "castle",
                   "coords": [
@@ -237,7 +237,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الصفدي الثقافي",
+                  "name": "Safadi Cultural Centre",
                   "text": "A Safadi Cultural Centre egy színház Tripoli városában.",
                   "category": "cultural",
                   "coords": [
@@ -246,7 +246,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نقابة المهندسين",
+                  "name": "Syndicate of Engineers",
                   "text": "A Syndicate of Engineers egy színház Tripoli városában.",
                   "category": "cultural",
                   "coords": [
@@ -345,7 +345,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد البرطاسي",
+                  "name": "Bertasi Mosque",
                   "text": "A Bertasi Mosque egy jelentős istentiszteleti hely Tripoli városában.",
                   "category": "religious",
                   "coords": [
@@ -354,7 +354,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد التوبة",
+                  "name": "Al-Tawbat-mecset",
                   "text": "Az Al-Tawbat-mecset egy ismert istentiszteleti hely Tripoli városában.",
                   "category": "religious",
                   "coords": [
@@ -363,7 +363,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الحميدي",
+                  "name": "Al-Hamidi mecset",
                   "text": "Az Al-Hamidi mecset egy helyi istentiszteleti hely Tripoli városában.",
                   "category": "religious",
                   "coords": [
@@ -372,7 +372,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد المعلق",
+                  "name": "Mu'allaq mecset",
                   "text": "A Mu'allaq mecset egy istentiszteleti hely Tripoli városában.",
                   "category": "religious",
                   "coords": [
@@ -383,7 +383,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة طرابلس",
+                  "name": "Qala'at Tarablus",
                   "text": "Qala'at Tarablus este o cetate istorică din orașul Tripoli.",
                   "category": "castle",
                   "coords": [
@@ -392,7 +392,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج السبع",
+                  "name": "Lion Tower",
                   "text": "Lion Tower este un castel din orașul Tripoli.",
                   "category": "castle",
                   "coords": [
@@ -401,7 +401,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الصفدي الثقافي",
+                  "name": "Safadi Cultural Centre",
                   "text": "Safadi Cultural Centre este un teatru din orașul Tripoli.",
                   "category": "cultural",
                   "coords": [
@@ -410,7 +410,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "نقابة المهندسين",
+                  "name": "Syndicate of Engineers",
                   "text": "Syndicate of Engineers este un teatru din orașul Tripoli.",
                   "category": "cultural",
                   "coords": [
@@ -509,7 +509,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد البرطاسي",
+                  "name": "Bertasi Mosque",
                   "text": "Bertasi Mosque este un lăcaș de cult important din orașul Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -518,7 +518,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد التوبة",
+                  "name": "Moscheea Al-Tawbat",
                   "text": "Moscheea Al-Tawbat este un lăcaș de cult recunoscut din Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -527,7 +527,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع الحميدي",
+                  "name": "Moscheea Al-Hamidi",
                   "text": "Moscheea Al-Hamidi este un lăcaș de cult local din Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -536,7 +536,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد المعلق",
+                  "name": "Moscheea Mu'allaq",
                   "text": "Moscheea Mu'allaq este un lăcaș de cult situat în Tripoli.",
                   "category": "religious",
                   "coords": [
@@ -929,7 +929,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 37 kilomètres au nord de Beyrouth", "Occupation depuis le VIIe millénaire av. J.-C.", "Berceau de l'alphabet phénicien au XIe siècle av. J.-C.", "Plus important marché de papyrus au IIIe millénaire av. J.-C.", "Château des Croisés édifié à partir de 1104", "Patrimoine mondial de l'UNESCO depuis 1984", "Tombes royales avec le célèbre sarcophage d'Ahiram", "Sept couches de civilisations successives explorées"],
     }, image: "/poi-images/byblos-cities-v2.webp"},
   {
-    id: "jounieh-cities-v2", "sights": {"de": [{"name": "Théâtre George V", "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archäologisches Museum", "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "متحف الاستقلال", "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "رمال", "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "المدرج الروماني", "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "سوق الذوق", "text": "Der Souk du Zouk ist ein traditioneller Markt und eine beliebte Attraktion in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "شارع جميلة لتنزه في كسليك", "text": "Die alte Straße von Jounieh in der Nähe der Corniche ist eine charmante historische Attraktion.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Das Samaya Beach Resort in Jounieh ist ein wunderbares Urlaubsziel, um direkt am Mittelmeer neue Energie zu tanken. Die exklusive und entspannte Atmosphäre zieht Urlauber an, die sonnige Stunden auf der Liege und erfrischendes Schwimmen schätzen. Ein Aufenthalt hier verspricht besonders in der warmen Jahreszeit unvergessliche maritime Momente.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Die als large home bezeichnete Stätte ist ein markantes Herrenhaus in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "hu": [{"name": "Théâtre George V", "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "Az MBC egy regionális színházi helyszín Jounieh városában.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "متحف الاستقلال", "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "رمال", "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "دريم بارك", "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "المدرج الروماني", "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "سوق الذوق", "text": "A Souk du Zouk egy hagyományos piac és népszerű látványosság Jounieh-ban.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "شارع جميلة لتنزه في كسليك", "text": "A jounieh-i óvárosi utca a sétány közelében egy bájos történelmi látványosság.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "A jouniehi Samaya Beach Resort csodálatos célpont a feltöltődésre, közvetlenül a csillogó Földközi-tenger partján. Az exkluzív és pihentető légkör vonzza a nyaralókat, akik értékelik a napozást és a frissítő úszást. Egy itteni tartózkodás, különösen a meleg évszakban, felejthetetlen vízparti pillanatokat ígér.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "A large home néven megjelölt helyszín egy jellegzetes udvarház Jounieh-ban.", "category": "historical", "coords": [35.641055, 33.985542]}], "ro": [{"name": "Théâtre George V", "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC este o locație teatrală regională situată în orașul Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "متحف الاستقلال", "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "رمال", "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "دريم بارك", "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "المدرج الروماني", "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "سوق الذوق", "text": "Souk du Zouk este o piață tradițională și o atracție populară în Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "شارع جميلة لتنزه في كسليك", "text": "Strada veche din Jounieh de lângă cornișă este o atracție istorică fermecătoare.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Samaya Beach Resort din Jounieh este o destinație minunată pentru a te reîncărca cu energie chiar pe malul Mării Mediterane. Atmosfera sa exclusivistă și relaxantă atrage turiștii dornici să se bucure de soare și de un înot revigorant. O zi petrecută aici în sezonul cald garantează momente maritime de neuitat.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Locul desemnat drept large home este un conac distinctiv în Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "en": [{"name": "Georges 5 theater", "text": "Georges 5 theater is an active theatrical performance space in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC is a regional theatre venue situated in the city of Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archaeological Museum", "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence", "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal is a popular beach resort destination along the coast of Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Roman Amphitheatre", "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk is a traditional market and a popular attraction in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Jounieh old street near corniche", "text": "The Jounieh old street near the corniche is a charming historical attraction.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Public sand beach Jounieh", "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "The Samaya Beach Resort in Jounieh is a wonderful destination to recharge right by the sparkling Mediterranean Sea. Its exclusive and relaxed atmosphere draws holidaymakers who appreciate sunny hours lounging and refreshing swims. Spending a day here during the warm season guarantees truly memorable maritime moments.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "The site designated as a large home is a distinctive manor in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}]},
+    id: "jounieh-cities-v2", "sights": {"de": [{"name": "Théâtre George V", "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archäologisches Museum", "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "متحف الاستقلال", "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "römische Amphitheater in Jounieh", "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Der Souk du Zouk ist ein traditioneller Markt und eine beliebte Attraktion in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "alte Straße von Jounieh in der Nähe der Corniche", "text": "Die alte Straße von Jounieh in der Nähe der Corniche ist eine charmante historische Attraktion.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Das Samaya Beach Resort in Jounieh ist ein wunderbares Urlaubsziel, um direkt am Mittelmeer neue Energie zu tanken. Die exklusive und entspannte Atmosphäre zieht Urlauber an, die sonnige Stunden auf der Liege und erfrischendes Schwimmen schätzen. Ein Aufenthalt hier verspricht besonders in der warmen Jahreszeit unvergessliche maritime Momente.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Die als large home bezeichnete Stätte ist ein markantes Herrenhaus in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "hu": [{"name": "Théâtre George V", "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "Az MBC egy regionális színházi helyszín Jounieh városában.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "jounieh-i Függetlenségi Múzeum", "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "jounieh-i római amfiteátrum", "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "A Souk du Zouk egy hagyományos piac és népszerű látványosság Jounieh-ban.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "jounieh-i óvárosi utca", "text": "A jounieh-i óvárosi utca a sétány közelében egy bájos történelmi látványosság.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "jounieh-i nyilvános homokos strand", "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "A jouniehi Samaya Beach Resort csodálatos célpont a feltöltődésre, közvetlenül a csillogó Földközi-tenger partján. Az exkluzív és pihentető légkör vonzza a nyaralókat, akik értékelik a napozást és a frissítő úszást. Egy itteni tartózkodás, különösen a meleg évszakban, felejthetetlen vízparti pillanatokat ígér.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "A large home néven megjelölt helyszín egy jellegzetes udvarház Jounieh-ban.", "category": "historical", "coords": [35.641055, 33.985542]}], "ro": [{"name": "Théâtre George V", "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC este o locație teatrală regională situată în orașul Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence din Jounieh", "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Amfiteatrul Roman din Jounieh", "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk este o piață tradițională și o atracție populară în Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Strada veche din Jounieh de lângă cornișă", "text": "Strada veche din Jounieh de lângă cornișă este o atracție istorică fermecătoare.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Samaya Beach Resort din Jounieh este o destinație minunată pentru a te reîncărca cu energie chiar pe malul Mării Mediterane. Atmosfera sa exclusivistă și relaxantă atrage turiștii dornici să se bucure de soare și de un înot revigorant. O zi petrecută aici în sezonul cald garantează momente maritime de neuitat.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Locul desemnat drept large home este un conac distinctiv în Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "en": [{"name": "Georges 5 theater", "text": "Georges 5 theater is an active theatrical performance space in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC is a regional theatre venue situated in the city of Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archaeological Museum", "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence", "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal is a popular beach resort destination along the coast of Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Roman Amphitheatre", "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk is a traditional market and a popular attraction in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Jounieh old street near corniche", "text": "The Jounieh old street near the corniche is a charming historical attraction.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Public sand beach Jounieh", "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "The Samaya Beach Resort in Jounieh is a wonderful destination to recharge right by the sparkling Mediterranean Sea. Its exclusive and relaxed atmosphere draws holidaymakers who appreciate sunny hours lounging and refreshing swims. Spending a day here during the warm season guarantees truly memorable maritime moments.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "The site designated as a large home is a distinctive manor in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}]},
     type: "city",
     parent: "LB-JL",
     coords: [35.6186, 33.9814],
@@ -1032,7 +1032,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "name": "Grabmal der Sayyida Khawla",
                   "text": "Das Grabmal der Sayyida Khawla ist ein bedeutendes religiöses Monument in Baalbek.",
                   "category": "historical",
                   "coords": [
@@ -1088,7 +1088,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قبلة السعادين",
+                  "name": "Qubbat as Sa`adin",
                   "text": "A Qubbat as Sa`adin egy történelmi kastély Baalbekben.",
                   "category": "castle",
                   "coords": [
@@ -1106,7 +1106,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حجر الحبلى",
+                  "name": "terhes nő köve",
                   "text": "A terhes nő köve egy óriási ókori monolit Baalbekben.",
                   "category": "historical",
                   "coords": [
@@ -1115,7 +1115,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد باخوس",
+                  "name": "Baalbeki Bacchus-templom",
                   "text": "A Baalbeki Bacchus-templom az egyik legjobban megőrzött római templomnak számít.",
                   "category": "historical",
                   "coords": [
@@ -1151,7 +1151,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غران باتيو",
+                  "name": "Nagy Udvar",
                   "text": "A Nagy Udvar a baalbeki lenyűgöző templomegyüttes központi része.",
                   "category": "historical",
                   "coords": [
@@ -1169,7 +1169,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد فينوس",
+                  "name": "Vénusz-templom",
                   "text": "A Vénusz-templom egy ókori romterület Baalbekben.",
                   "category": "historical",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قبلة السعادين",
+                  "name": "Qubbat as Sa`adin",
                   "text": "Qubbat as Sa`adin este un castel istoric în Baalbek.",
                   "category": "castle",
                   "coords": [
@@ -1198,7 +1198,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محجر بعلبك",
+                  "name": "Această carieră din Baalbek",
                   "text": "Această carieră din Baalbek este un sit arheologic important.",
                   "category": "historical",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حجر الحبلى",
+                  "name": "Piatra Femeii Însărcinate",
                   "text": "Piatra Femeii Însărcinate este un monolit antic gigantic în Baalbek.",
                   "category": "historical",
                   "coords": [
@@ -1216,7 +1216,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد باخوس",
+                  "name": "Templul lui Bacchus din Baalbek",
                   "text": "Templul lui Bacchus din Baalbek este considerat unul dintre cele mai bine conservate temple romane.",
                   "category": "historical",
                   "coords": [
@@ -1234,7 +1234,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "name": "Mormântul lui Sayyida Khawla",
                   "text": "Mormântul lui Sayyida Khawla este un monument religios important în Baalbek.",
                   "category": "historical",
                   "coords": [
@@ -1252,7 +1252,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غران باتيو",
+                  "name": "Marea Curte",
                   "text": "Marea Curte este o parte centrală a impresionantului complex de temple din Baalbek.",
                   "category": "historical",
                   "coords": [
@@ -1270,7 +1270,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد فينوس",
+                  "name": "Templul lui Venus",
                   "text": "Templul lui Venus este un sit de ruine antice în Baalbek.",
                   "category": "historical",
                   "coords": [
@@ -1335,7 +1335,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "name": "shrine of Sayyida Khawla",
                   "text": "The shrine of Sayyida Khawla is a significant religious monument in Baalbek.",
                   "category": "historical",
                   "coords": [
@@ -1647,7 +1647,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مدينة ملاهي عاليه",
+                  "name": "Luna Park",
                   "text": "Der Luna Park ist ein Vergnügungspark in Aley.",
                   "category": "family",
                   "coords": [
@@ -1656,7 +1656,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بلاكين عاليه",
+                  "name": "Balkon von Aley",
                   "text": "Der Balkon von Aley ist ein bekannter Aussichtspunkt über die Stadt.",
                   "category": "natural",
                   "coords": [
@@ -1665,7 +1665,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "راس الجبل عاليه",
+                  "name": "Ras al-Jabal",
                   "text": "Ras al-Jabal ist eine beliebte Sehenswürdigkeit in Aley.",
                   "category": "landmark",
                   "coords": [
@@ -1676,7 +1676,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف الحرير",
+                  "name": "aleyi Selyemmúzeum betekintést nyújt",
                   "text": "Az aleyi Selyemmúzeum betekintést nyújt a hagyományos kézművességbe.",
                   "category": "museum",
                   "coords": [
@@ -1685,7 +1685,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مدينة ملاهي عاليه",
+                  "name": "Luna Park",
                   "text": "A Luna Park egy vidámpark Aleyban.",
                   "category": "family",
                   "coords": [
@@ -1723,7 +1723,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مدينة ملاهي عاليه",
+                  "name": "Luna Park",
                   "text": "Luna Park este un parc tematic în Aley.",
                   "category": "family",
                   "coords": [
@@ -1732,7 +1732,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بلاكين عاليه",
+                  "name": "Balconul din Aley",
                   "text": "Balconul din Aley este un punct de belvedere cunoscut asupra orașului.",
                   "category": "natural",
                   "coords": [
@@ -1741,7 +1741,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "راس الجبل عاليه",
+                  "name": "Ras al-Jabal",
                   "text": "Ras al-Jabal este o atracție populară în Aley.",
                   "category": "landmark",
                   "coords": [
@@ -1779,7 +1779,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "راس الجبل عاليه",
+                  "name": "Ras al-Jabal",
                   "text": "Ras al-Jabal is a popular attraction in Aley.",
                   "category": "landmark",
                   "coords": [
@@ -1855,7 +1855,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مغارة قاديشا",
+                  "name": "Qadisha-Grotte",
                   "text": "Die Qadisha-Grotte ist ein Höhleneingang in Bscharre.",
                   "category": "natural",
                   "coords": [
@@ -1920,7 +1920,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مغارة قاديشا",
+                  "name": "Qadisha-barlang",
                   "text": "A Qadisha-barlang egy barlangbejárat Bscharre területén.",
                   "category": "natural",
                   "coords": [
@@ -1965,7 +1965,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دير مار ليشع",
+                  "name": "Szent Elizeus kolostor",
                   "text": "A Szent Elizeus kolostor egy ismert istentiszteleti hely a Kadisa-völgyben, Bscharre területén.",
                   "category": "religious",
                   "coords": [
@@ -1985,7 +1985,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مغارة قاديشا",
+                  "name": "Grota Qadisha",
                   "text": "Grota Qadisha este o intrare de peșteră situată în Bscharre.",
                   "category": "natural",
                   "coords": [
@@ -2030,7 +2030,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دير مار ليشع",
+                  "name": "Mănăstirea Sfântul Elisei",
                   "text": "Mănăstirea Sfântul Elisei este un lăcaș de cult recunoscut din valea Kadisha, Bscharre.",
                   "category": "religious",
                   "coords": [
@@ -2160,7 +2160,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     }
   },
   {
-    id: "batroun-cities-v2", "sights": {"de": [{"name": "شاطئ فدعوس", "text": "Fadous Beach ist ein malerischer Küstenabschnitt, der Entspannung in Batrun bietet.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "Das Abandoned aquarium of Batroun ist eine faszinierende historische Sehenswürdigkeit nahe der Küste.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye ist ein Museum zur Erhaltung des kulturellen Erbes in Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda ist ein lebhaftes Strandresort, das Freizeitaktivitäten am Meer in Batrun bietet.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "Die Phönizische Mauer in Batrun ist ein altes Seebauwerk, das ursprünglich von den Phöniziern zum Schutz vor Flutwellen errichtet wurde.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Das Sierra Beachfront Resort ist ein Strandresort in Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "In Batrun gelegen, bietet das Soult Beach Resort ein stilvolles Stranderlebnis an der libanesischen Küste. Die harmonische Mischung aus Komfort und natürlicher Schönheit macht diesen Ort perfekt zum Baden und Sonnen. Für einen idealen Strandtag empfiehlt es sich, rechtzeitig anzureisen, um die besten Plätze am Wasser zu sichern.", "category": "recreational", "coords": [35.660626, 34.241507]}], "hu": [{"name": "شاطئ فدعوس", "text": "A Fadous Beach egy festői partszakasz, amely kikapcsolódást nyújt Batrunban.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "A batruni elhagyatott akvárium egy érdekes történelmi látványosság a part közelében.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "A Beth oromoye egy kulturális örökséget megőrző múzeum Batrunban.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "A Barracuda egy nyüzsgő tengerparti üdülőhely, amely tengerparti kikapcsolódást kínál Batrunban.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "A batruni föníciai fal egy ősi tengeri gát, amelyet eredetileg a föníciaiak építettek a hullámok elleni védelemként.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "A Sierra Beachfront Resort egy tengerparti üdülőhely Batrunban.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "A Batrunban található Soult Beach Resort stílusos tengerparti élményt nyújt a libanoni partvidéken. A kényelem és a természeti szépség harmonikus keveréke tökéletessé teszi a helyet az úszáshoz és a napozáshoz. Egy ideális strandnaphoz érdemes időben érkezni, hogy a legjobb helyeket biztosítsuk magunknak.", "category": "recreational", "coords": [35.660626, 34.241507]}], "ro": [{"name": "شاطئ فدعوس", "text": "Fadous Beach este o porțiune pitorească de coastă ce oferă relaxare în Batrun.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "Acvariul abandonat din Batroun este o atracție istorică intrigantă lângă coastă.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye este un muzeu dedicat conservării patrimoniului cultural în Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda este un complex turistic pe plajă vibrant care oferă activități de agrement la malul mării în Batrun.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "Zidul Fenician din Batrun este un vechi dig marin construit inițial de fenicieni pentru a proteja împotriva valurilor.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Sierra Beachfront Resort este o stațiune pe plajă situată în Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "Situat în Batrun, Soult Beach Resort oferă o experiență elegantă pe coasta libaneză. Combinația armonioasă de confort și frumusețe naturală face din acest loc destinația perfectă pentru înot și băi de soare. Pentru o zi ideală de plajă, este recomandat să sosiți devreme pentru a prinde cele mai bune locuri.", "category": "recreational", "coords": [35.660626, 34.241507]}], "en": [{"name": "Fadous Beach", "text": "Fadous Beach is a scenic stretch of coastline offering relaxation in Batrun.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned aquarium of Batroun", "text": "The Abandoned aquarium of Batroun is an intriguing historical sight near the coast.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye is a dedicated museum preserving cultural heritage in Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda is a vibrant beach resort destination offering seaside leisure in Batrun.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "The Phoenician Wall in Batrun is an ancient sea wall originally built by the Phoenicians to protect from tidal waves.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Sierra Beachfront Resort is a beach resort located in Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "Situated in Batroun, the Soult Beach Resort offers a stylish seaside experience along the Lebanese coast. The harmonious blend of comfort and natural beauty makes this location absolutely perfect for swimming and sunbathing. Arriving with plenty of time to spare is the best way to secure a prime spot by the water.", "category": "recreational", "coords": [35.660626, 34.241507]}]},
+    id: "batroun-cities-v2", "sights": {"de": [{"name": "Fadous Beach", "text": "Fadous Beach ist ein malerischer Küstenabschnitt, der Entspannung in Batrun bietet.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "Das Abandoned aquarium of Batroun ist eine faszinierende historische Sehenswürdigkeit nahe der Küste.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye ist ein Museum zur Erhaltung des kulturellen Erbes in Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda ist ein lebhaftes Strandresort, das Freizeitaktivitäten am Meer in Batrun bietet.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "Die Phönizische Mauer in Batrun ist ein altes Seebauwerk, das ursprünglich von den Phöniziern zum Schutz vor Flutwellen errichtet wurde.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Das Sierra Beachfront Resort ist ein Strandresort in Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "In Batrun gelegen, bietet das Soult Beach Resort ein stilvolles Stranderlebnis an der libanesischen Küste. Die harmonische Mischung aus Komfort und natürlicher Schönheit macht diesen Ort perfekt zum Baden und Sonnen. Für einen idealen Strandtag empfiehlt es sich, rechtzeitig anzureisen, um die besten Plätze am Wasser zu sichern.", "category": "recreational", "coords": [35.660626, 34.241507]}], "hu": [{"name": "Fadous Beach", "text": "A Fadous Beach egy festői partszakasz, amely kikapcsolódást nyújt Batrunban.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "A batruni elhagyatott akvárium egy érdekes történelmi látványosság a part közelében.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "A Beth oromoye egy kulturális örökséget megőrző múzeum Batrunban.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "A Barracuda egy nyüzsgő tengerparti üdülőhely, amely tengerparti kikapcsolódást kínál Batrunban.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "A batruni föníciai fal egy ősi tengeri gát, amelyet eredetileg a föníciaiak építettek a hullámok elleni védelemként.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "A Sierra Beachfront Resort egy tengerparti üdülőhely Batrunban.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "A Batrunban található Soult Beach Resort stílusos tengerparti élményt nyújt a libanoni partvidéken. A kényelem és a természeti szépség harmonikus keveréke tökéletessé teszi a helyet az úszáshoz és a napozáshoz. Egy ideális strandnaphoz érdemes időben érkezni, hogy a legjobb helyeket biztosítsuk magunknak.", "category": "recreational", "coords": [35.660626, 34.241507]}], "ro": [{"name": "Fadous Beach", "text": "Fadous Beach este o porțiune pitorească de coastă ce oferă relaxare în Batrun.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "Acvariul abandonat din Batroun este o atracție istorică intrigantă lângă coastă.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye este un muzeu dedicat conservării patrimoniului cultural în Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda este un complex turistic pe plajă vibrant care oferă activități de agrement la malul mării în Batrun.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "Zidul Fenician din Batrun este un vechi dig marin construit inițial de fenicieni pentru a proteja împotriva valurilor.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Sierra Beachfront Resort este o stațiune pe plajă situată în Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "Situat în Batrun, Soult Beach Resort oferă o experiență elegantă pe coasta libaneză. Combinația armonioasă de confort și frumusețe naturală face din acest loc destinația perfectă pentru înot și băi de soare. Pentru o zi ideală de plajă, este recomandat să sosiți devreme pentru a prinde cele mai bune locuri.", "category": "recreational", "coords": [35.660626, 34.241507]}], "en": [{"name": "Fadous Beach", "text": "Fadous Beach is a scenic stretch of coastline offering relaxation in Batrun.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned aquarium of Batroun", "text": "The Abandoned aquarium of Batroun is an intriguing historical sight near the coast.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye is a dedicated museum preserving cultural heritage in Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda is a vibrant beach resort destination offering seaside leisure in Batrun.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "The Phoenician Wall in Batrun is an ancient sea wall originally built by the Phoenicians to protect from tidal waves.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Sierra Beachfront Resort is a beach resort located in Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "Situated in Batroun, the Soult Beach Resort offers a stylish seaside experience along the Lebanese coast. The harmonious blend of comfort and natural beauty makes this location absolutely perfect for swimming and sunbathing. Arriving with plenty of time to spare is the best way to secure a prime spot by the water.", "category": "recreational", "coords": [35.660626, 34.241507]}]},
     type: "city",
     parent: "LB-AS",
     coords: [35.6581, 34.2553],
@@ -2328,7 +2328,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     id: "jezzine-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حي العيسى",
+                  "name": "Issa's view",
                   "text": "Issa's view ist ein malerischer Aussichtspunkt in der Stadt Jezzine.",
                   "category": "natural",
                   "coords": [
@@ -2337,7 +2337,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شلالات جزين",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist eine lokale Sehenswürdigkeit in Jezzine.",
                   "category": "landmark",
                   "coords": [
@@ -2348,7 +2348,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حي العيسى",
+                  "name": "Issa's view",
                   "text": "Az Issa's view egy festői kilátó Jezzine városában.",
                   "category": "natural",
                   "coords": [
@@ -2368,7 +2368,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حي العيسى",
+                  "name": "Issa's view",
                   "text": "Issa's view este un punct de observație pitoresc în orașul Jezzine.",
                   "category": "natural",
                   "coords": [
@@ -2377,7 +2377,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شلالات جزين",
+                  "name": "Acest loc",
                   "text": "Acest loc este o atracție locală situată în Jezzine.",
                   "category": "landmark",
                   "coords": [
@@ -2397,7 +2397,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شلالات جزين",
+                  "name": "This site",
                   "text": "This site is a local attraction situated in Jezzine.",
                   "category": "landmark",
                   "coords": [
@@ -2839,7 +2839,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "تل زغلة",
+                  "name": "Tall Zaghla",
                   "text": "A Tall Zaghla egy hegycsúcs Hasbaya területén.",
                   "category": "natural",
                   "coords": [
@@ -2868,7 +2868,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "تل زغلة",
+                  "name": "Tall Zaghla",
                   "text": "Tall Zaghla este un vârf de munte situat în Hasbaya.",
                   "category": "natural",
                   "coords": [
@@ -3146,7 +3146,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف ومنزل بغس سنابيان",
+                  "name": "Boghos Snabian House Museum",
                   "text": "Das Boghos Snabian House Museum ist ein lokales Museum in Anjar.",
                   "category": "museum",
                   "coords": [
@@ -3211,7 +3211,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف ومنزل بغس سنابيان",
+                  "name": "Boghos Snabian Házmúzeum",
                   "text": "A Boghos Snabian Házmúzeum egy helyi múzeum Anjar városában.",
                   "category": "museum",
                   "coords": [
@@ -3276,7 +3276,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف ومنزل بغس سنابيان",
+                  "name": "Casa Muzeu Boghos Snabian",
                   "text": "Casa Muzeu Boghos Snabian este un muzeu local din Anjar.",
                   "category": "museum",
                   "coords": [
@@ -3610,7 +3610,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دير مار أنطونيوس قزحيا",
+                  "name": "Qozhayai Szent Antal-kolostor",
                   "text": "A Qozhayai Szent Antal-kolostor egy kiemelkedő történelmi látványosság Ehden városában.",
                   "category": "landmark",
                   "coords": [
@@ -3648,7 +3648,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دير مار أنطونيوس قزحيا",
+                  "name": "Mănăstirea Sfântul Anton din Qozhaya",
                   "text": "Mănăstirea Sfântul Anton din Qozhaya este o atracție istorică proeminentă din Ehden.",
                   "category": "landmark",
                   "coords": [
@@ -3907,7 +3907,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     id: "bint-jbeil-cities-v2", "sights": {
       "de": [
             {
-                  "name": "منزل عيناتا بيت خنافر",
+                  "name": "Dieses historische Haus in Bint Dschubail",
                   "text": "Dieses historische Haus in Bint Dschubail ist eine lokale Sehenswürdigkeit.",
                   "category": "landmark",
                   "coords": [
@@ -3947,7 +3947,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "منزل عيناتا بيت خنافر",
+                  "name": "Această casă istorică din Bint Dschubail",
                   "text": "Această casă istorică din Bint Dschubail este o atracție locală.",
                   "category": "landmark",
                   "coords": [
@@ -3967,7 +3967,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "منزل عيناتا بيت خنافر",
+                  "name": "This historic house in Bint Jbeil",
                   "text": "This historic house in Bint Jbeil is a local attraction.",
                   "category": "landmark",
                   "coords": [

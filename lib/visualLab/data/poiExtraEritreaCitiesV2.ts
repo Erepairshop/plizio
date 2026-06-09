@@ -28,7 +28,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     id: "massawa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+                  "name": "Northern Red Sea Region Museum",
                   "text": "Das Northern Red Sea Region Museum ist eine Museumseinrichtung in Massaua.",
                   "category": "museum",
                   "coords": [
@@ -37,7 +37,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+                  "name": "Stätte der Villa Melotti",
                   "text": "Die Stätte der Villa Melotti ist eine lokale Touristenattraktion in Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -46,7 +46,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Azieb أزيب",
+                  "name": "Azieb",
                   "text": "Azieb ist eine Sehenswürdigkeit und Attraktion in der Stadt Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -55,7 +55,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+                  "name": "Bootsfahrt nach Green Island",
                   "text": "Die Bootsfahrt nach Green Island ist eine Touristenattraktion in Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -64,7 +64,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+                  "name": "ehemalige Kaiserpalast",
                   "text": "Der ehemalige Kaiserpalast ist eine historische Sehenswürdigkeit in Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -84,7 +84,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+                  "name": "Northern Red Sea Region Museum",
                   "text": "A Northern Red Sea Region Museum egy múzeumi intézmény Massaua városában.",
                   "category": "museum",
                   "coords": [
@@ -93,7 +93,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+                  "name": "Villa Melotti helyszíne",
                   "text": "A Villa Melotti helyszíne egy helyi turisztikai látványosság Massaua városában.",
                   "category": "landmark",
                   "coords": [
@@ -102,7 +102,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Azieb أزيب",
+                  "name": "Azieb",
                   "text": "Az Azieb egy érdekes látványosság Massaua városában.",
                   "category": "landmark",
                   "coords": [
@@ -111,7 +111,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+                  "name": "Green Islandre tartó hajó",
                   "text": "A Green Islandre tartó hajó egy turisztikai attrakció Massaua városában.",
                   "category": "landmark",
                   "coords": [
@@ -120,7 +120,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+                  "name": "egykori császári palota",
                   "text": "Az egykori császári palota egy történelmi látványosság Massaua városában.",
                   "category": "landmark",
                   "coords": [
@@ -140,7 +140,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+                  "name": "Northern Red Sea Region Museum",
                   "text": "Northern Red Sea Region Museum este un muzeu situat în Massaua.",
                   "category": "museum",
                   "coords": [
@@ -149,7 +149,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+                  "name": "Situl Villa Melotti",
                   "text": "Situl Villa Melotti este o atracție turistică locală situată în Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -158,7 +158,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Azieb أزيب",
+                  "name": "Azieb",
                   "text": "Azieb este un punct de interes și o atracție situată în orașul Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -167,7 +167,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+                  "name": "Barca spre Green Island",
                   "text": "Barca spre Green Island este o atracție turistică din Massaua.",
                   "category": "landmark",
                   "coords": [
@@ -176,7 +176,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+                  "name": "Fostul Palat Imperial",
                   "text": "Fostul Palat Imperial este o atracție istorică situată în Massaua.",
                   "category": "landmark",
                   "coords": [

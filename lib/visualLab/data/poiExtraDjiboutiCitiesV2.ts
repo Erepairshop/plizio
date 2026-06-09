@@ -3892,7 +3892,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     id: "negad-cities-v2", "sights": {
       "de": [
             {
-                  "name": "العمليات الجوية",
+                  "name": "Air Ops",
                   "text": "Air Ops ist eine lokale Attraktion in der Stadt Negad.",
                   "category": "landmark",
                   "coords": [
@@ -3921,7 +3921,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "العمليات الجوية",
+                  "name": "Air Ops",
                   "text": "Az Air Ops egy helyi látványosság Negad városában.",
                   "category": "landmark",
                   "coords": [
@@ -3950,7 +3950,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "العمليات الجوية",
+                  "name": "Air Ops",
                   "text": "Air Ops este o atracție locală situată în orașul Negad.",
                   "category": "landmark",
                   "coords": [

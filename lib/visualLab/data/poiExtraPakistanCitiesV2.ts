@@ -779,7 +779,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غلامانی چوک",
+                  "name": "Ghulammani Chock",
                   "text": "Ghulammani Chock ist eine Sehenswürdigkeit in Khuzdar.",
                   "category": "landmark",
                   "coords": [
@@ -817,7 +817,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غلامانی چوک",
+                  "name": "Ghulammani Chock",
                   "text": "A Ghulammani Chock egy látványosság Khuzdar városában.",
                   "category": "landmark",
                   "coords": [
@@ -855,7 +855,7 @@ export const poiExtraPakistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غلامانی چوک",
+                  "name": "Ghulammani Chock",
                   "text": "Ghulammani Chock este o atracție situată în Khuzdar.",
                   "category": "landmark",
                   "coords": [

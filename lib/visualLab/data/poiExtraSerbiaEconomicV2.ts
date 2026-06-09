@@ -609,7 +609,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "Stadtbad in Cacak",
                   "text": "Das Stadtbad in Cacak ist eine öffentliche Schwimmeinrichtung.",
                   "category": "family",
                   "coords": [
@@ -638,7 +638,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "čačaki városi medence",
                   "text": "A čačaki városi medence egy nyilvános úszólétesítmény.",
                   "category": "family",
                   "coords": [
@@ -667,7 +667,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "Piscina municipală din Cacak",
                   "text": "Piscina municipală din Cacak este o facilitate publică de înot.",
                   "category": "family",
                   "coords": [
@@ -696,7 +696,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool in Cacak",
                   "text": "The City Pool in Cacak is a public swimming facility.",
                   "category": "family",
                   "coords": [

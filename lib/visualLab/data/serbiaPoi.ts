@@ -772,7 +772,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен Неготин",
+                  "name": "städtische Schwimmbad in Negotin",
                   "text": "Das städtische Schwimmbad in Negotin bietet Platz zum Schwimmen und für die sommerliche Entspannung.",
                   "category": "family",
                   "coords": [
@@ -1635,7 +1635,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градско купалиште Пирот",
+                  "name": "Stadtbad in Pirot",
                   "text": "Das Stadtbad in Pirot ist eine Anlage für das Schwimmen im Freien.",
                   "category": "family",
                   "coords": [
@@ -1745,7 +1745,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градско купалиште Пирот",
+                  "name": "piroti városi fürdő",
                   "text": "A piroti városi fürdő egy szabadtéri úszólétesítmény.",
                   "category": "family",
                   "coords": [
@@ -1855,7 +1855,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градско купалиште Пирот",
+                  "name": "Baia municipală din Pirot",
                   "text": "Baia municipală din Pirot este o facilitate pentru înot în aer liber.",
                   "category": "family",
                   "coords": [
@@ -1965,7 +1965,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градско купалиште Пирот",
+                  "name": "City Bath in Pirot",
                   "text": "The City Bath in Pirot is an outdoor swimming facility.",
                   "category": "family",
                   "coords": [

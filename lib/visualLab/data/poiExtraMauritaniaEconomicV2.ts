@@ -96,7 +96,7 @@ export const mauritaniaEconomicV2: POI[] = [
     id: "mauritania-nouakchott-market-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Nationalmuseum von Mauretanien",
                   "text": "Das Nationalmuseum von Mauretanien ist ein bedeutendes Museum in Zentralmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -114,7 +114,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "Das Musée urbain Turkya Daddah ist ein städtisches Museum in Zentralmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -125,7 +125,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Mauritániai Nemzeti Múzeum",
                   "text": "A Mauritániai Nemzeti Múzeum egy jelentős múzeum Zentralmarkt Nouakchott területén.",
                   "category": "museum",
                   "coords": [
@@ -143,7 +143,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "A Musée urbain Turkya Daddah egy városi múzeum Zentralmarkt Nouakchott területén.",
                   "category": "museum",
                   "coords": [
@@ -154,7 +154,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Muzeul Național al Mauritaniei",
                   "text": "Muzeul Național al Mauritaniei este un muzeu proeminent din Zentralmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -172,7 +172,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "Musée urbain Turkya Daddah este un muzeu urban în Zentralmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -183,7 +183,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "National Museum of Mauritania",
                   "text": "The National Museum of Mauritania is a prominent museum in Zentralmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -201,7 +201,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "Musée urbain Turkya Daddah is an urban museum situated in Zentralmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -901,7 +901,7 @@ export const mauritaniaEconomicV2: POI[] = [
     id: "mauritania-nouakchott-market-v2-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Musée National de la Mauritanie",
                   "text": "Das Musée National de la Mauritanie ist ein Nationalmuseum in Grossmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -919,7 +919,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "Das Musée urbain Turkya Daddah ist ein städtisches Museum in Grossmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -930,7 +930,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Musée National de la Mauritanie",
                   "text": "A Musée National de la Mauritanie egy nemzeti múzeum Grossmarkt Nouakchott városában.",
                   "category": "museum",
                   "coords": [
@@ -948,7 +948,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "A Musée urbain Turkya Daddah egy városi múzeum Grossmarkt Nouakchott városában.",
                   "category": "museum",
                   "coords": [
@@ -959,7 +959,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Musée National de la Mauritanie",
                   "text": "Musée National de la Mauritanie este un muzeu național situat în Grossmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -977,7 +977,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "Musée urbain Turkya Daddah este un muzeu urban situat în Grossmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -988,7 +988,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "name": "Musée National de la Mauritanie",
                   "text": "The Musée National de la Mauritanie is a national museum located in Grossmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [
@@ -1006,7 +1006,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "name": "Musée urbain Turkya Daddah",
                   "text": "Musée urbain Turkya Daddah is an urban museum located in Grossmarkt Nouakchott.",
                   "category": "museum",
                   "coords": [

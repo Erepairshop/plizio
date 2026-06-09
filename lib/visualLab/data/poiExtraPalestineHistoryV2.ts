@@ -150,7 +150,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "בית הדסה",
+                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
                   "text": "Bet Hadasa Museum of History of Jewish Settlement in Hebron ist ein Museum in Hebron Altstadt.",
                   "category": "museum",
                   "coords": [
@@ -159,7 +159,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "تل الرميدة",
+                  "name": "Tel Hebron",
                   "text": "Tel Hebron ist ein archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -168,7 +168,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "name": "Land of Judea Antiquities Museum",
                   "text": "Land of Judea Antiquities Museum ist ein Museum in Hebron Altstadt.",
                   "category": "museum",
                   "coords": [
@@ -186,7 +186,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "معصرة النتشة",
+                  "name": "Olive presser",
                   "text": "Olive presser ist ein archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -204,7 +204,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "היכל התרבות קרית ארבע",
+                  "name": "Qiriyat Arba Theater",
                   "text": "Qiriyat Arba Theater ist ein Theater in Hebron Altstadt.",
                   "category": "cultural",
                   "coords": [
@@ -213,7 +213,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "بئر ابراهيم",
+                  "name": "Abraham's Well",
                   "text": "Abraham's Well ist ein archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -222,7 +222,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة زلوم",
+                  "name": "Zalloum Castle",
                   "text": "Zalloum Castle ist ein Schloss in Hebron Altstadt.",
                   "category": "castle",
                   "coords": [
@@ -231,7 +231,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "بركة القزازين",
+                  "name": "Qazzazin Pond",
                   "text": "Qazzazin Pond ist ein archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -240,7 +240,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي العقابة",
+                  "name": "Al- Aqqaba Neighborhood",
                   "text": "Al- Aqqaba Neighborhood ist ein archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -249,7 +249,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي المحتسبية",
+                  "name": "Al- Muhtasibya",
                   "text": "Al- Muhtasibya ist ein archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -258,7 +258,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "خان الوكالة",
+                  "name": "Khan Al-Wakaleh",
                   "text": "Khan Al-Wakaleh ist eine archäologische Stätte in Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -276,7 +276,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "פארק מאיר כהנא",
+                  "name": "Meir Kahane Park",
                   "text": "Der Meir Kahane Park ist ein öffentlicher Park in Hebron Altstadt.",
                   "category": "park",
                   "coords": [
@@ -321,7 +321,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار المنارة",
+                  "name": "Manara roundabout",
                   "text": "Manara roundabout ist eine Sehenswürdigkeit in Hebron Altstadt.",
                   "category": "landmark",
                   "coords": [
@@ -339,7 +339,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة حسونة",
+                  "name": "Hassouneh park",
                   "text": "Der Hassouneh park ist eine lokale Sehenswürdigkeit in Hebron Altstadt.",
                   "category": "landmark",
                   "coords": [
@@ -375,7 +375,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الشعراوي",
+                  "name": "sharawi",
                   "text": "sharawi ist ein Aussichtspunkt, der in Hebron Altstadt besucht werden kann.",
                   "category": "natural",
                   "coords": [
@@ -402,7 +402,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "name": "Al Zahid Sherin Zawiya and mosque",
                   "text": "Al Zahid Sherin Zawiya and mosque ist eine Sehenswürdigkeit in Hebron Altstadt.",
                   "category": "landmark",
                   "coords": [
@@ -420,7 +420,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل انس قفيشه",
+                  "name": "anas qafesha home",
                   "text": "anas qafesha home ist ein Aussichtspunkt in Hebron Altstadt.",
                   "category": "natural",
                   "coords": [
@@ -429,7 +429,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد علي البكاء",
+                  "name": "Ali Bakka Mosque",
                   "text": "Die Ali Bakka Mosque ist eine Kultstätte in Hebron Altstadt.",
                   "category": "religious",
                   "coords": [
@@ -557,7 +557,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "خان الوكالة",
+                  "name": "Khan Al-Wakaleh",
                   "text": "A Khan Al-Wakaleh egy régészeti lelőhely Hebron Altstadtban.",
                   "category": "historical",
                   "coords": [
@@ -575,7 +575,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "פארק מאיר כהנא",
+                  "name": "Meir Kahane Park",
                   "text": "A Meir Kahane Park egy nyilvános park Hebron Altstadtban.",
                   "category": "park",
                   "coords": [
@@ -584,7 +584,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "מערת המכפלה",
+                  "name": "Cave of the Patriarchs",
                   "text": "A Cave of the Patriarchs egy kiemelkedő látványosság Hebron Altstadtban, amely ősi sírokat magában foglaló fontos vallási helyszín.",
                   "category": "landmark",
                   "coords": [
@@ -620,7 +620,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار المنارة",
+                  "name": "Manara roundabout",
                   "text": "A Manara roundabout egy látványosság Hebron Altstadt területén.",
                   "category": "landmark",
                   "coords": [
@@ -638,7 +638,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة حسونة",
+                  "name": "Hassouneh park",
                   "text": "A Hassouneh park egy helyi látványosság Hebron Altstadtban.",
                   "category": "landmark",
                   "coords": [
@@ -674,7 +674,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الشعراوي",
+                  "name": "sharawi",
                   "text": "A sharawi egy kilátó, amely Hebron Altstadtban látogatható.",
                   "category": "natural",
                   "coords": [
@@ -701,7 +701,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "name": "Al Zahid Sherin Zawiya and mosque",
                   "text": "Az Al Zahid Sherin Zawiya and mosque egy látványosság Hebron Altstadt területén.",
                   "category": "landmark",
                   "coords": [
@@ -719,7 +719,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل انس قفيشه",
+                  "name": "anas qafesha home",
                   "text": "Az anas qafesha home egy kilátópont Hebron Altstadtban.",
                   "category": "natural",
                   "coords": [
@@ -728,7 +728,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد علي البكاء",
+                  "name": "Ali Bakka Mosque",
                   "text": "Az Ali Bakka Mosque egy istentiszteleti hely Hebron Altstadtban.",
                   "category": "religious",
                   "coords": [
@@ -748,7 +748,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "בית הדסה",
+                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
                   "text": "Bet Hadasa Museum of History of Jewish Settlement in Hebron este un/o muzeu situat(ă) în Hebron Altstadt.",
                   "category": "museum",
                   "coords": [
@@ -757,7 +757,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "تل الرميدة",
+                  "name": "Tel Hebron",
                   "text": "Tel Hebron este un/o sit arheologic situat(ă) în Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -766,7 +766,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "name": "Land of Judea Antiquities Museum",
                   "text": "Land of Judea Antiquities Museum este un/o muzeu situat(ă) în Hebron Altstadt.",
                   "category": "museum",
                   "coords": [
@@ -784,7 +784,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "معصرة النتشة",
+                  "name": "Olive presser",
                   "text": "Olive presser este un/o sit arheologic situat(ă) în Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -802,7 +802,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "היכל התרבות קרית ארבע",
+                  "name": "Qiriyat Arba Theater",
                   "text": "Qiriyat Arba Theater este un/o teatru situat(ă) în Hebron Altstadt.",
                   "category": "cultural",
                   "coords": [
@@ -811,7 +811,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "بئر ابراهيم",
+                  "name": "Abraham's Well",
                   "text": "Abraham's Well este un/o sit arheologic situat(ă) în Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -820,7 +820,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة زلوم",
+                  "name": "Zalloum Castle",
                   "text": "Zalloum Castle este un/o castel situat(ă) în Hebron Altstadt.",
                   "category": "castle",
                   "coords": [
@@ -829,7 +829,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "بركة القزازين",
+                  "name": "Qazzazin Pond",
                   "text": "Qazzazin Pond este un/o sit arheologic situat(ă) în Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -838,7 +838,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي العقابة",
+                  "name": "Al- Aqqaba Neighborhood",
                   "text": "Al- Aqqaba Neighborhood este un/o sit arheologic situat(ă) în Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -847,7 +847,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حي المحتسبية",
+                  "name": "Al- Muhtasibya",
                   "text": "Al- Muhtasibya este un/o sit arheologic situat(ă) în Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -856,7 +856,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "خان الوكالة",
+                  "name": "Khan Al-Wakaleh",
                   "text": "Khan Al-Wakaleh este un sit arheologic din Hebron Altstadt.",
                   "category": "historical",
                   "coords": [
@@ -874,7 +874,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "פארק מאיר כהנא",
+                  "name": "Meir Kahane Park",
                   "text": "Meir Kahane Park este un parc public situat în Hebron Altstadt.",
                   "category": "park",
                   "coords": [
@@ -919,7 +919,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار المنارة",
+                  "name": "Manara roundabout",
                   "text": "Manara roundabout este o atracție aflată în Hebron Altstadt.",
                   "category": "landmark",
                   "coords": [
@@ -937,7 +937,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة حسونة",
+                  "name": "Hassouneh park",
                   "text": "Hassouneh park este o atracție locală situată în Hebron Altstadt.",
                   "category": "landmark",
                   "coords": [
@@ -973,7 +973,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار الشعراوي",
+                  "name": "sharawi",
                   "text": "sharawi este un punct de belvedere care poate fi vizitat în Hebron Altstadt.",
                   "category": "natural",
                   "coords": [
@@ -1000,7 +1000,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "name": "Al Zahid Sherin Zawiya and mosque",
                   "text": "Al Zahid Sherin Zawiya and mosque este o atracție aflată în Hebron Altstadt.",
                   "category": "landmark",
                   "coords": [
@@ -1018,7 +1018,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل انس قفيشه",
+                  "name": "anas qafesha home",
                   "text": "anas qafesha home este un punct de belvedere situat în Hebron Altstadt.",
                   "category": "natural",
                   "coords": [
@@ -1027,7 +1027,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد علي البكاء",
+                  "name": "Ali Bakka Mosque",
                   "text": "Ali Bakka Mosque este un lăcaș de cult situat în Hebron Altstadt.",
                   "category": "religious",
                   "coords": [
@@ -1740,7 +1740,7 @@ export const palestineHistoryV2: POI[] = [
     image: "/poi-images/palestine-jacobs-well-history-v2.webp",
   },
   {
-    id: "palestine-battir-history-v2", "sights": {"de": [{"name": "גן החיות התנכי", "text": "Zoo in der Nähe von Battir, bekannt für seine vielfältige Tierwelt.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "חורבת קובי", "text": "Archäologische Stätte in Battir.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Archäologische Stätte in Battir.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Archäologische Stätte in Battir.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "חורבת סעדים", "text": "Ruinen in Battir.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "הר שלמון", "text": "Berggipfel bei Battir.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "ביתר", "text": "Antike Ruinen in Battir.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "מצפה ארתור רובינשטיין", "text": "Aussichtspunkt in Battir.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "אלקבו", "text": "Ruinen der Siedlung Al-Qabu bei Battir.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "הר עמינדב", "text": "Berggipfel bei Battir.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "יד קנדי", "text": "Denkmal in der Nähe von Battir.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "מצפה ביתר", "text": "Aussichtspunkt bei Battir.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Ruinen eines alten Hauses in Battir.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Ruinen alter Häuser in Battir.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Khirbet Najjar", "text": "Ruinen in Battir.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Ruinen eines Grabes in Battir.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Aussichtspunkt in Battir.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "עין קובי", "text": "Die natürliche Quelle עין קובי ist ein erfrischendes landschaftliches Wahrzeichen im palästinensischen Battir. Das klare Wasser und die grüne Umgebung machen diesen Ort zu einem beliebten Ziel für Wanderer. Hier lässt sich die unberührte Natur der Region wunderbar genießen.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "עין איתמר", "text": "Historische Quelle in Battir.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "In der malerischen Umgebung von Battir entspringt die عين الهدفة Al-Hadafeh water spring. Diese natürliche Wasserquelle ist ein prägendes Wahrzeichen der palästinensischen Landschaft. Besucher können sich am kühlen Nass erfreuen und die historische Terrassenlandschaft bewundern.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "עינות עמינדב", "text": "Versteckt in der Natur um Battir findet man die idyllische Quelle עינות עמינדב. Dieses Wahrzeichen Palästinas ist für sein erfrischendes Quellwasser bekannt. Es ist ein friedlicher Rastplatz für alle, die das ländliche Battir erkunden.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "עין סיף", "text": "Die historische Landschaft von Battir wird durch die natürliche Quelle עין סיף bereichert. Als lokales Wahrzeichen Palästinas zieht dieses Wasservorkommen Naturliebhaber an. Gäste können hier dem sanften Plätschern lauschen und entspannen.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "עין אל קוסייר", "text": "Das Wahrzeichen עין אל קוסייר ist eine beeindruckende natürliche Quelle in der Region Battir. Eingebettet in die Natur Palästinas, bietet sie eine kühle Erfrischung auf Wanderungen. Dieser Ort verbindet die landschaftliche Schönheit mit der landwirtschaftlichen Tradition der Stadt.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "Besucher der palästinensischen Stadt Battir können das Naturwahrzeichen Ein El Bascine entdecken. Diese sprudelnde Quelle ist ein fester Bestandteil des lokalen Wassersystems. Sie ist ein wundervolles Fotomotiv inmitten der alten Olivenhaine und Terrassen.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "עין חניה", "text": "Antike Quelle in Battir mit historischen Becken.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "Die natürliche Wasserader עין אל עמוד stellt ein idyllisches Wahrzeichen in der Gegend von Battir dar. In der sanften Hügellandschaft Palästinas spendet diese Quelle seit jeher wertvolles Wasser. Es ist ein beschaulicher Ort, um die Verbindung von Mensch und Natur nachzuvollziehen.", "category": "landmark", "coords": [35.127385, 31.711912]}], "hu": [{"name": "גן החיות התנכי", "text": "Állatkert Battir közelében, amely gazdag állatvilágáról ismert.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "חורבת קובי", "text": "Régészeti lelőhely Battir városában.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Régészeti lelőhely Battir városában.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Régészeti lelőhely Battirban.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "חורבת סעדים", "text": "Romok Battirban.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "הר שלמון", "text": "Hegycsúcs Battir közelében.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "ביתר", "text": "Ókori romok Battirban.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "מצפה ארתור רובינשטיין", "text": "Kilátópont Battirban.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "אלקבו", "text": "Az Al-Qabu település romjai Battir közelében.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "הר עמינדב", "text": "Hegycsúcs Battir közelében.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "יד קנדי", "text": "Emlékmű Battir közelében.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "מצפה ביתר", "text": "Kilátópont Battir közelében.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Egy régi ház romjai Battirban.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Régi házak romjai Battirban.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Khirbet Najjar", "text": "Romok Battirban.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Egy sír romjai Battirban.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Kilátópont Battirban.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "עין קובי", "text": "Az עין קובי természetes forrás egy frissítő tájképi nevezetesség a palesztinai Battirban. A tiszta víz és a zöld környezet kedvelt célponttá teszi ezt a helyet a túrázók számára. Itt csodálatosan élvezhető a régió érintetlen természete.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "עין איתמר", "text": "Történelmi forrás Battirban.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "Battir festői környezetében fakad a عين الهدفة Al-Hadafeh water spring. Ez a természetes vízforrás a palesztin táj meghatározó nevezetessége. A látogatók élvezhetik a hűsítő vizet és megcsodálhatják a történelmi teraszos tájat.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "עינות עמינדב", "text": "Battir környékének természetében elrejtve található az idillikus עינות עמינדב forrás. Palesztina ezen nevezetessége frissítő forrásvizéről ismert. Békés pihenőhely mindazok számára, akik a vidéki Battirt fedezik fel.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "עין סיף", "text": "Battir történelmi táját az עין סיף természetes forrás gazdagítja. Palesztina helyi nevezetességeként ez a vízadó hely vonzza a természet szerelmeseit. A vendégek itt hallgathatják a lágy csobogást és megpihenhetnek.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "עין אל קוסייר", "text": "Az עין אל קוסייר nevezetesség egy lenyűgöző természetes forrás Battir régiójában. Palesztina természetébe ágyazva hűsítő felfrissülést nyújt a túrák során. Ez a hely ötvözi a festői szépséget a város mezőgazdasági hagyományaival.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "A palesztin Battir városának látogatói felfedezhetik az Ein El Bascine természeti nevezetességet. Ez a pezsgő forrás a helyi vízrendszer szerves része. Csodálatos fotótéma az öreg olajfaligetek és teraszok között.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "עין חניה", "text": "Ókori forrás Battirban történelmi medencékkel.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "Az עין אל עמוד természetes vízér egy idillikus nevezetességet képvisel Battir környékén. Palesztina szelíd dombvidékén ez a forrás ősidők óta értékes vizet ad. Ez egy szemlélődő hely az ember és a természet kapcsolatának megértésére.", "category": "landmark", "coords": [35.127385, 31.711912]}], "ro": [{"name": "גן החיות התנכי", "text": "Grădină zoologică în apropiere de Battir, cunoscută pentru diversitatea faunei.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "חורבת קובי", "text": "Sit arheologic în Battir.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Sit arheologic în Battir.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Sit arheologic în Battir.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "חורבת סעדים", "text": "Ruine în Battir.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "הר שלמון", "text": "Vârf montan lângă Battir.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "ביתר", "text": "Ruine antice în Battir.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "מצפה ארתור רובינשטיין", "text": "Punct de observație în Battir.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "אלקבו", "text": "Ruinele așezării Al-Qabu lângă Battir.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "הר עמינדב", "text": "Vârf montan lângă Battir.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "יד קנדי", "text": "Monument în apropiere de Battir.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "מצפה ביתר", "text": "Punct de observație lângă Battir.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Ruinele unei case vechi în Battir.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Ruinele unor case vechi în Battir.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Khirbet Najjar", "text": "Ruine în Battir.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Ruinele unui mormânt în Battir.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Punct de observație în Battir.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "עין קובי", "text": "Izvorul natural עין קובי este un reper peisagistic revigorant în orașul palestinian Battir. Apa limpede și împrejurimile verzi fac din acest loc o destinație populară pentru drumeți. Aici te poți bucura cu adevărat de natura neatinsă a regiunii.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "עין איתמר", "text": "Izvor istoric în Battir.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "În împrejurimile pitorești ale orașului Battir izvorăște عين الهدفة Al-Hadafeh water spring. Acest izvor natural de apă este un reper definitoriu al peisajului palestinian. Vizitatorii se pot bucura de apa rece și pot admira peisajul istoric terasat.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "עינות עמינדב", "text": "Ascuns în natura din jurul orașului Battir se găsește idilicul izvor עינות עמינדב. Acest reper din Palestina este cunoscut pentru apa sa de izvor revigorantă. Este un loc de odihnă pașnic pentru toți cei care explorează orașul rural Battir.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "עין סיף", "text": "Peisajul istoric din Battir este îmbogățit de izvorul natural עין סיף. Ca un reper local al Palestinei, această sursă de apă atrage iubitorii de natură. Oaspeții pot asculta aici murmurul blând al apei și se pot relaxa.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "עין אל קוסייר", "text": "Reperul עין אל קוסייר este un izvor natural impresionant din regiunea Battir. Înconjurat de natura Palestinei, acesta oferă o răcorire plăcută în timpul drumețiilor. Acest loc combină frumusețea peisajului cu tradiția agricolă a orașului.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "Vizitatorii orașului palestinian Battir pot descoperi reperul natural Ein El Bascine. Acest izvor spumegant este o parte integrantă a sistemului local de apă. Este un subiect foto minunat în mijlocul vechilor livezi de măslini și terase.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "עין חניה", "text": "Izvor antic în Battir cu bazine istorice.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "Vena naturală de apă עין אל עמוד reprezintă un reper idilic în zona Battir. În peisajul deluros blând al Palestinei, acest izvor a furnizat întotdeauna apă valoroasă. Este un loc liniștit pentru a înțelege legătura dintre om și natură.", "category": "landmark", "coords": [35.127385, 31.711912]}], "en": [{"name": "Jerusalem Biblical Zoo", "text": "Zoo near Battir, known for its diverse wildlife.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "Horvat Kobi", "text": "Archaeological site in Battir.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Archaeological site in Battir.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Archaeological site in Battir.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "Hurvat Seadim", "text": "Ruins in Battir.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "Har Shalmon", "text": "Mountain peak near Battir.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "Beitar", "text": "Ancient ruins in Battir.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "Rubinstein memorial", "text": "Viewpoint in Battir.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "Al-Qabu", "text": "Ruins of the Al-Qabu settlement near Battir.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "Har Aminadav", "text": "Mountain peak near Battir.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "Yad Kennedy", "text": "Monument near Battir.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "Beitar Lookout", "text": "Viewpoint near Battir.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Ruins of an old house in Battir.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Ruins of old houses in Battir.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Carpenter's Ruins", "text": "Ruins in Battir.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Ruins of a tomb in Battir.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Viewpoint in Battir.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "Ein Kobi", "text": "The natural spring עין קובי is a refreshing scenic landmark in Palestinian Battir. The clear water and green surroundings make this place a popular destination for hikers. You can truly enjoy the untouched nature of the region here.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "Ein El-Baled;Ein Itamar", "text": "Historical spring in Battir.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "In the picturesque surroundings of Battir flows the عين الهدفة Al-Hadafeh water spring. This natural water spring is a defining landmark of the Palestinian landscape. Visitors can enjoy the cool water and admire the historical terraced landscape.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "Ein Aminadav", "text": "Hidden in the nature around Battir is the idyllic spring עינות עמינדב. This landmark of Palestine is known for its refreshing spring water. It is a peaceful resting place for anyone exploring rural Battir.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "Ein Seif", "text": "The historical landscape of Battir is enriched by the natural spring עין סיף. As a local landmark of Palestine, this water source attracts nature lovers. Guests can listen to the gentle babbling of the water and relax here.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "Ein Al Qseir", "text": "The landmark עין אל קוסייר is an impressive natural spring in the Battir region. Nestled in the nature of Palestine, it offers a cool refreshment during hikes. This place combines the scenic beauty with the agricultural tradition of the city.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "Visitors to the Palestinian city of Battir can discover the natural landmark Ein El Bascine. This bubbling spring is an integral part of the local water system. It is a wonderful photo opportunity amidst the old olive groves and terraces.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "Ein Haniya", "text": "Ancient spring in Battir with historical pools.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "The natural water vein עין אל עמוד represents an idyllic landmark in the Battir area. In the gentle rolling hills of Palestine, this spring has always provided valuable water. It is a tranquil place to understand the connection between humanity and nature.", "category": "landmark", "coords": [35.127385, 31.711912]}]},
+    id: "palestine-battir-history-v2", "sights": {"de": [{"name": "גן החיות התנכי", "text": "Zoo in der Nähe von Battir, bekannt für seine vielfältige Tierwelt.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "חורבת קובי", "text": "Archäologische Stätte in Battir.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Archäologische Stätte in Battir.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Archäologische Stätte in Battir.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "חורבת סעדים", "text": "Ruinen in Battir.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "הר שלמון", "text": "Berggipfel bei Battir.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "ביתר", "text": "Antike Ruinen in Battir.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "מצפה ארתור רובינשטיין", "text": "Aussichtspunkt in Battir.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "אלקבו", "text": "Ruinen der Siedlung Al-Qabu bei Battir.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "הר עמינדב", "text": "Berggipfel bei Battir.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "יד קנדי", "text": "Denkmal in der Nähe von Battir.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "מצפה ביתר", "text": "Aussichtspunkt bei Battir.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Ruinen eines alten Hauses in Battir.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Ruinen alter Häuser in Battir.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Khirbet Najjar", "text": "Ruinen in Battir.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Ruinen eines Grabes in Battir.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Aussichtspunkt in Battir.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "עין קובי", "text": "Die natürliche Quelle עין קובי ist ein erfrischendes landschaftliches Wahrzeichen im palästinensischen Battir. Das klare Wasser und die grüne Umgebung machen diesen Ort zu einem beliebten Ziel für Wanderer. Hier lässt sich die unberührte Natur der Region wunderbar genießen.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "עין איתמר", "text": "Historische Quelle in Battir.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "In der malerischen Umgebung von Battir entspringt die عين الهدفة Al-Hadafeh water spring. Diese natürliche Wasserquelle ist ein prägendes Wahrzeichen der palästinensischen Landschaft. Besucher können sich am kühlen Nass erfreuen und die historische Terrassenlandschaft bewundern.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "עינות עמינדב", "text": "Versteckt in der Natur um Battir findet man die idyllische Quelle עינות עמינדב. Dieses Wahrzeichen Palästinas ist für sein erfrischendes Quellwasser bekannt. Es ist ein friedlicher Rastplatz für alle, die das ländliche Battir erkunden.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "עין סיף", "text": "Die historische Landschaft von Battir wird durch die natürliche Quelle עין סיף bereichert. Als lokales Wahrzeichen Palästinas zieht dieses Wasservorkommen Naturliebhaber an. Gäste können hier dem sanften Plätschern lauschen und entspannen.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "עין אל קוסייר", "text": "Das Wahrzeichen עין אל קוסייר ist eine beeindruckende natürliche Quelle in der Region Battir. Eingebettet in die Natur Palästinas, bietet sie eine kühle Erfrischung auf Wanderungen. Dieser Ort verbindet die landschaftliche Schönheit mit der landwirtschaftlichen Tradition der Stadt.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "Besucher der palästinensischen Stadt Battir können das Naturwahrzeichen Ein El Bascine entdecken. Diese sprudelnde Quelle ist ein fester Bestandteil des lokalen Wassersystems. Sie ist ein wundervolles Fotomotiv inmitten der alten Olivenhaine und Terrassen.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "עין חניה", "text": "Antike Quelle in Battir mit historischen Becken.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "Die natürliche Wasserader עין אל עמוד stellt ein idyllisches Wahrzeichen in der Gegend von Battir dar. In der sanften Hügellandschaft Palästinas spendet diese Quelle seit jeher wertvolles Wasser. Es ist ein beschaulicher Ort, um die Verbindung von Mensch und Natur nachzuvollziehen.", "category": "landmark", "coords": [35.127385, 31.711912]}], "hu": [{"name": "גן החיות התנכי", "text": "Állatkert Battir közelében, amely gazdag állatvilágáról ismert.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "חורבת קובי", "text": "Régészeti lelőhely Battir városában.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Régészeti lelőhely Battir városában.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Régészeti lelőhely Battirban.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "חורבת סעדים", "text": "Romok Battirban.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "הר שלמון", "text": "Hegycsúcs Battir közelében.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "ביתר", "text": "Ókori romok Battirban.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "מצפה ארתור רובינשטיין", "text": "Kilátópont Battirban.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "אלקבו", "text": "Az Al-Qabu település romjai Battir közelében.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "הר עמינדב", "text": "Hegycsúcs Battir közelében.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "יד קנדי", "text": "Emlékmű Battir közelében.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "מצפה ביתר", "text": "Kilátópont Battir közelében.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Egy régi ház romjai Battirban.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Régi házak romjai Battirban.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Khirbet Najjar", "text": "Romok Battirban.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Egy sír romjai Battirban.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Kilátópont Battirban.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "עין קובי", "text": "Az עין קובי természetes forrás egy frissítő tájképi nevezetesség a palesztinai Battirban. A tiszta víz és a zöld környezet kedvelt célponttá teszi ezt a helyet a túrázók számára. Itt csodálatosan élvezhető a régió érintetlen természete.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "עין איתמר", "text": "Történelmi forrás Battirban.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "Battir festői környezetében fakad a عين الهدفة Al-Hadafeh water spring. Ez a természetes vízforrás a palesztin táj meghatározó nevezetessége. A látogatók élvezhetik a hűsítő vizet és megcsodálhatják a történelmi teraszos tájat.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "עינות עמינדב", "text": "Battir környékének természetében elrejtve található az idillikus עינות עמינדב forrás. Palesztina ezen nevezetessége frissítő forrásvizéről ismert. Békés pihenőhely mindazok számára, akik a vidéki Battirt fedezik fel.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "עין סיף", "text": "Battir történelmi táját az עין סיף természetes forrás gazdagítja. Palesztina helyi nevezetességeként ez a vízadó hely vonzza a természet szerelmeseit. A vendégek itt hallgathatják a lágy csobogást és megpihenhetnek.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "עין אל קוסייר", "text": "Az עין אל קוסייר nevezetesség egy lenyűgöző természetes forrás Battir régiójában. Palesztina természetébe ágyazva hűsítő felfrissülést nyújt a túrák során. Ez a hely ötvözi a festői szépséget a város mezőgazdasági hagyományaival.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "A palesztin Battir városának látogatói felfedezhetik az Ein El Bascine természeti nevezetességet. Ez a pezsgő forrás a helyi vízrendszer szerves része. Csodálatos fotótéma az öreg olajfaligetek és teraszok között.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "עין חניה", "text": "Ókori forrás Battirban történelmi medencékkel.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "Az עין אל עמוד természetes vízér egy idillikus nevezetességet képvisel Battir környékén. Palesztina szelíd dombvidékén ez a forrás ősidők óta értékes vizet ad. Ez egy szemlélődő hely az ember és a természet kapcsolatának megértésére.", "category": "landmark", "coords": [35.127385, 31.711912]}], "ro": [{"name": "גן החיות התנכי", "text": "Grădină zoologică în apropiere de Battir, cunoscută pentru diversitatea faunei.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "חורבת קובי", "text": "Sit arheologic în Battir.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Sit arheologic în Battir.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Sit arheologic în Battir.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "חורבת סעדים", "text": "Ruine în Battir.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "הר שלמון", "text": "Vârf montan lângă Battir.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "ביתר", "text": "Ruine antice în Battir.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "מצפה ארתור רובינשטיין", "text": "Punct de observație în Battir.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "אלקבו", "text": "Ruinele așezării Al-Qabu lângă Battir.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "הר עמינדב", "text": "Vârf montan lângă Battir.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "יד קנדי", "text": "Monument în apropiere de Battir.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "מצפה ביתר", "text": "Punct de observație lângă Battir.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Ruinele unei case vechi în Battir.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Ruinele unor case vechi în Battir.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Khirbet Najjar", "text": "Ruine în Battir.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Ruinele unui mormânt în Battir.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Punct de observație în Battir.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "עין קובי", "text": "Izvorul natural עין קובי este un reper peisagistic revigorant în orașul palestinian Battir. Apa limpede și împrejurimile verzi fac din acest loc o destinație populară pentru drumeți. Aici te poți bucura cu adevărat de natura neatinsă a regiunii.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "עין איתמר", "text": "Izvor istoric în Battir.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "În împrejurimile pitorești ale orașului Battir izvorăște عين الهدفة Al-Hadafeh water spring. Acest izvor natural de apă este un reper definitoriu al peisajului palestinian. Vizitatorii se pot bucura de apa rece și pot admira peisajul istoric terasat.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "עינות עמינדב", "text": "Ascuns în natura din jurul orașului Battir se găsește idilicul izvor עינות עמינדב. Acest reper din Palestina este cunoscut pentru apa sa de izvor revigorantă. Este un loc de odihnă pașnic pentru toți cei care explorează orașul rural Battir.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "Peisajul istoric din Battir", "text": "Peisajul istoric din Battir este îmbogățit de izvorul natural עין סיף. Ca un reper local al Palestinei, această sursă de apă atrage iubitorii de natură. Oaspeții pot asculta aici murmurul blând al apei și se pot relaxa.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "עין אל קוסייר", "text": "Reperul עין אל קוסייר este un izvor natural impresionant din regiunea Battir. Înconjurat de natura Palestinei, acesta oferă o răcorire plăcută în timpul drumețiilor. Acest loc combină frumusețea peisajului cu tradiția agricolă a orașului.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "Vizitatorii orașului palestinian Battir pot descoperi reperul natural Ein El Bascine. Acest izvor spumegant este o parte integrantă a sistemului local de apă. Este un subiect foto minunat în mijlocul vechilor livezi de măslini și terase.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "עין חניה", "text": "Izvor antic în Battir cu bazine istorice.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "Vena naturală de apă עין אל עמוד reprezintă un reper idilic în zona Battir. În peisajul deluros blând al Palestinei, acest izvor a furnizat întotdeauna apă valoroasă. Este un loc liniștit pentru a înțelege legătura dintre om și natură.", "category": "landmark", "coords": [35.127385, 31.711912]}], "en": [{"name": "Jerusalem Biblical Zoo", "text": "Zoo near Battir, known for its diverse wildlife.", "category": "family", "coords": [35.170209, 31.746515]}, {"name": "Horvat Kobi", "text": "Archaeological site in Battir.", "category": "historical", "coords": [35.12007, 31.728241]}, {"name": "חורבת וואלג'ה", "text": "Archaeological site in Battir.", "category": "historical", "coords": [35.149823, 31.742293]}, {"name": "מערת קבורה", "text": "Archaeological site in Battir.", "category": "historical", "coords": [35.146401, 31.742542]}, {"name": "Hurvat Seadim", "text": "Ruins in Battir.", "category": "historical", "coords": [35.129394, 31.751]}, {"name": "Har Shalmon", "text": "Mountain peak near Battir.", "category": "natural", "coords": [35.123422, 31.750873]}, {"name": "Beitar", "text": "Ancient ruins in Battir.", "category": "historical", "coords": [35.135606, 31.729811]}, {"name": "Rubinstein memorial", "text": "Viewpoint in Battir.", "category": "natural", "coords": [35.135164, 31.751516]}, {"name": "Al-Qabu", "text": "Ruins of the Al-Qabu settlement near Battir.", "category": "historical", "coords": [35.119156, 31.728283]}, {"name": "Har Aminadav", "text": "Mountain peak near Battir.", "category": "natural", "coords": [35.136404, 31.751626]}, {"name": "Yad Kennedy", "text": "Monument near Battir.", "category": "historical", "coords": [35.134756, 31.74929]}, {"name": "Beitar Lookout", "text": "Viewpoint near Battir.", "category": "natural", "coords": [35.142243, 31.741294]}, {"name": "بيت قديم Old house", "text": "Ruins of an old house in Battir.", "category": "historical", "coords": [35.1609, 31.726723]}, {"name": "بيوت قديمة Old houses", "text": "Ruins of old houses in Battir.", "category": "historical", "coords": [35.161913, 31.735004]}, {"name": "Carpenter's Ruins", "text": "Ruins in Battir.", "category": "historical", "coords": [35.149326, 31.723717]}, {"name": "Unamed Tomb", "text": "Ruins of a tomb in Battir.", "category": "historical", "coords": [35.152118, 31.72203]}, {"name": "פשוט מקום", "text": "Viewpoint in Battir.", "category": "natural", "coords": [35.110568, 31.731502]}, {"name": "Ein Kobi", "text": "The natural spring עין קובי is a refreshing scenic landmark in Palestinian Battir. The clear water and green surroundings make this place a popular destination for hikers. You can truly enjoy the untouched nature of the region here.", "category": "landmark", "coords": [35.11756, 31.725711]}, {"name": "Ein El-Baled;Ein Itamar", "text": "Historical spring in Battir.", "category": "landmark", "coords": [35.146989, 31.740959]}, {"name": "عين الهدفة Al-Hadafeh water spring", "text": "In the picturesque surroundings of Battir flows the عين الهدفة Al-Hadafeh water spring. This natural water spring is a defining landmark of the Palestinian landscape. Visitors can enjoy the cool water and admire the historical terraced landscape.", "category": "landmark", "coords": [35.154776, 31.733433]}, {"name": "Ein Aminadav", "text": "Hidden in the nature around Battir is the idyllic spring עינות עמינדב. This landmark of Palestine is known for its refreshing spring water. It is a peaceful resting place for anyone exploring rural Battir.", "category": "landmark", "coords": [35.133564, 31.754089]}, {"name": "Ein Seif", "text": "The historical landscape of Battir is enriched by the natural spring עין סיף. As a local landmark of Palestine, this water source attracts nature lovers. Guests can listen to the gentle babbling of the water and relax here.", "category": "landmark", "coords": [35.144287, 31.745964]}, {"name": "Ein Al Qseir", "text": "The landmark עין אל קוסייר is an impressive natural spring in the Battir region. Nestled in the nature of Palestine, it offers a cool refreshment during hikes. This place combines the scenic beauty with the agricultural tradition of the city.", "category": "landmark", "coords": [35.156242, 31.710579]}, {"name": "Ein El Bascine", "text": "Visitors to the Palestinian city of Battir can discover the natural landmark Ein El Bascine. This bubbling spring is an integral part of the local water system. It is a wonderful photo opportunity amidst the old olive groves and terraces.", "category": "landmark", "coords": [35.128735, 31.717792]}, {"name": "Ein Haniya", "text": "Ancient spring in Battir with historical pools.", "category": "landmark", "coords": [35.1563, 31.743512]}, {"name": "עין אל עמוד", "text": "The natural water vein עין אל עמוד represents an idyllic landmark in the Battir area. In the gentle rolling hills of Palestine, this spring has always provided valuable water. It is a tranquil place to understand the connection between humanity and nature.", "category": "landmark", "coords": [35.127385, 31.711912]}]},
     parent: "PS",
     type: "village",
     name: { de: "Battir", hu: "Battir", ro: "Battir", en: "Battir" },
@@ -2931,7 +2931,7 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-aboud-history-v2", "sights": {
       "de": [
             {
-                  "name": "المقاطع",
+                  "name": "mkata'",
                   "text": "mkata' ist eine archäologische Stätte in Aboud.",
                   "category": "historical",
                   "coords": [
@@ -2940,7 +2940,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "أثار دير سمعان",
+                  "name": "Raised convent Samaan",
                   "text": "Raised convent Samaan ist eine archäologische Stätte in Aboud.",
                   "category": "historical",
                   "coords": [
@@ -2985,7 +2985,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة الميسه",
+                  "name": "Mesah church",
                   "text": "Mesah church ist eine archäologische Stätte in Aboud.",
                   "category": "historical",
                   "coords": [
@@ -2994,7 +2994,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "שמורת טבע נחל שילה עילי",
+                  "name": "Nahal Shilo 'Illi Nature Reserve",
                   "text": "Nahal Shilo 'Illi Nature Reserve ist ein Naturschutzgebiet in Aboud.",
                   "category": "natural",
                   "coords": [
@@ -3003,7 +3003,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديرغسانة وسط البلدة القديم",
+                  "name": "Dirgasanah",
                   "text": "Dirgasanah ist eine Sehenswürdigkeit in Aboud.",
                   "category": "landmark",
                   "coords": [
@@ -3041,7 +3041,7 @@ export const palestineHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "المقاطع",
+                  "name": "mkata'",
                   "text": "A mkata' egy régészeti lelőhely Aboud városában.",
                   "category": "historical",
                   "coords": [
@@ -3050,7 +3050,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "أثار دير سمعان",
+                  "name": "Raised convent Samaan",
                   "text": "A Raised convent Samaan egy régészeti lelőhely Aboud városában.",
                   "category": "historical",
                   "coords": [
@@ -3095,7 +3095,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة الميسه",
+                  "name": "Mesah church",
                   "text": "A Mesah church egy régészeti lelőhely Aboud városában.",
                   "category": "historical",
                   "coords": [
@@ -3104,7 +3104,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "שמורת טבע נחל שילה עילי",
+                  "name": "Nahal Shilo 'Illi Nature Reserve",
                   "text": "A Nahal Shilo 'Illi Nature Reserve egy természetvédelmi terület Aboud városában.",
                   "category": "natural",
                   "coords": [
@@ -3113,7 +3113,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديرغسانة وسط البلدة القديم",
+                  "name": "Dirgasanah",
                   "text": "A Dirgasanah egy látványosság Aboud városában.",
                   "category": "landmark",
                   "coords": [
@@ -3151,7 +3151,7 @@ export const palestineHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "المقاطع",
+                  "name": "mkata'",
                   "text": "mkata' este un sit arheologic din Aboud.",
                   "category": "historical",
                   "coords": [
@@ -3160,7 +3160,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "أثار دير سمعان",
+                  "name": "Raised convent Samaan",
                   "text": "Raised convent Samaan este un sit arheologic din Aboud.",
                   "category": "historical",
                   "coords": [
@@ -3205,7 +3205,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة الميسه",
+                  "name": "Mesah church",
                   "text": "Mesah church este un sit arheologic situat în Aboud.",
                   "category": "historical",
                   "coords": [
@@ -3214,7 +3214,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "שמורת טבע נחל שילה עילי",
+                  "name": "Nahal Shilo 'Illi Nature Reserve",
                   "text": "Nahal Shilo 'Illi Nature Reserve este o rezervație naturală situată în Aboud.",
                   "category": "natural",
                   "coords": [
@@ -3223,7 +3223,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ديرغسانة وسط البلدة القديم",
+                  "name": "Dirgasanah",
                   "text": "Dirgasanah este o atracție turistică situată în Aboud.",
                   "category": "landmark",
                   "coords": [
@@ -3426,7 +3426,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الشعب",
+                  "name": "People's Museum",
                   "text": "Das People's Museum ist ein Museum in Jifna.",
                   "category": "museum",
                   "coords": [
@@ -3462,7 +3462,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "name": "Al Rozana Association for Culture and Heritage",
                   "text": "Die Al Rozana Association for Culture and Heritage ist eine Sehenswürdigkeit in Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3471,7 +3471,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيرك فلسطين",
+                  "name": "Palestine Circus",
                   "text": "Der Palestine Circus ist eine Sehenswürdigkeit in der Stadt Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3480,7 +3480,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مول بيرزيت",
+                  "name": "Birzeit Mall",
                   "text": "Birzeit Mall ist eine Sehenswürdigkeit und ein Einkaufsziel in Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3489,7 +3489,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "اثريات بيزنطية",
+                  "name": "Ancient Byzantine Fortress",
                   "text": "Die Ancient Byzantine Fortress ist eine historische Sehenswürdigkeit in Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3507,7 +3507,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل السيدنادي عمار",
+                  "name": "nadi ammar",
                   "text": "nadi ammar ist eine Sehenswürdigkeit in Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3516,7 +3516,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ישיבת בית אל",
+                  "name": "Beit Midrash",
                   "text": "Beit Midrash ist eine bedeutende Kult- und Studienstätte in Jifna.",
                   "category": "religious",
                   "coords": [
@@ -3545,7 +3545,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الشعب",
+                  "name": "People's Museum",
                   "text": "A People's Museum egy múzeum Jifnában.",
                   "category": "museum",
                   "coords": [
@@ -3581,7 +3581,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "name": "Al Rozana Association for Culture and Heritage",
                   "text": "Az Al Rozana Association for Culture and Heritage egy látványosság Jifnában.",
                   "category": "landmark",
                   "coords": [
@@ -3590,7 +3590,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيرك فلسطين",
+                  "name": "Palestine Circus",
                   "text": "A Palestine Circus egy látványosság Jifna városában.",
                   "category": "landmark",
                   "coords": [
@@ -3599,7 +3599,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مول بيرزيت",
+                  "name": "Birzeit Mall",
                   "text": "A Birzeit Mall egy látványosság és bevásárlóközpont Jifnában.",
                   "category": "landmark",
                   "coords": [
@@ -3608,7 +3608,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "اثريات بيزنطية",
+                  "name": "Ancient Byzantine Fortress",
                   "text": "Az Ancient Byzantine Fortress egy történelmi látványosság Jifnában.",
                   "category": "landmark",
                   "coords": [
@@ -3626,7 +3626,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل السيدنادي عمار",
+                  "name": "nadi ammar",
                   "text": "A nadi ammar egy látványosság Jifnában.",
                   "category": "landmark",
                   "coords": [
@@ -3635,7 +3635,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ישיבת בית אל",
+                  "name": "Beit Midrash",
                   "text": "A Beit Midrash egy kiemelkedő istentiszteleti és tanulmányi hely Jifnában.",
                   "category": "religious",
                   "coords": [
@@ -3664,7 +3664,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الشعب",
+                  "name": "People's Museum",
                   "text": "People's Museum este un muzeu situat în Jifna.",
                   "category": "museum",
                   "coords": [
@@ -3700,7 +3700,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "name": "Al Rozana Association for Culture and Heritage",
                   "text": "Al Rozana Association for Culture and Heritage este o atracție din Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3709,7 +3709,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيرك فلسطين",
+                  "name": "Palestine Circus",
                   "text": "Palestine Circus este o atracție situată în orașul Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3718,7 +3718,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "مول بيرزيت",
+                  "name": "Birzeit Mall",
                   "text": "Birzeit Mall este o atracție și o destinație de cumpărături din Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3727,7 +3727,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "اثريات بيزنطية",
+                  "name": "Ancient Byzantine Fortress",
                   "text": "Ancient Byzantine Fortress este o atracție istorică din Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3745,7 +3745,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل السيدنادي عمار",
+                  "name": "nadi ammar",
                   "text": "nadi ammar este o atracție aflată în Jifna.",
                   "category": "landmark",
                   "coords": [
@@ -3754,7 +3754,7 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ישיבת בית אל",
+                  "name": "Beit Midrash",
                   "text": "Beit Midrash este un important lăcaș de cult și studiu din Jifna.",
                   "category": "religious",
                   "coords": [

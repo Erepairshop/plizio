@@ -384,7 +384,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-al-ain-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حديقة العين للحيوانات",
+                  "name": "Al Ain Zoo",
                   "text": "Der Al Ain Zoo ist ein bekannter zoologischer Park in Al Ain.",
                   "category": "family",
                   "coords": [
@@ -467,7 +467,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حديقة العين للحيوانات",
+                  "name": "Al Ain Zoo",
                   "text": "Az Al Ain Zoo egy elismert állatkert Al Ain városában.",
                   "category": "family",
                   "coords": [
@@ -550,7 +550,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حديقة العين للحيوانات",
+                  "name": "Al Ain Zoo",
                   "text": "Al Ain Zoo este un parc zoologic renumit situat în Al Ain.",
                   "category": "family",
                   "coords": [

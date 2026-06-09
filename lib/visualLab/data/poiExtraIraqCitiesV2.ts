@@ -650,7 +650,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف سامراء",
+                  "name": "Samarra Museum",
                   "text": "Das Samarra Museum ist ein lokales Museum in Samarra.",
                   "category": "museum",
                   "coords": [
@@ -659,7 +659,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مدخل البوباز",
+                  "name": "check point",
                   "text": "Der check point bietet einen Aussichtspunkt in Samarra.",
                   "category": "natural",
                   "coords": [
@@ -668,7 +668,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متنزه سامراء",
+                  "name": "samarra park",
                   "text": "Der samarra park ist eine lokale Sehenswürdigkeit in Samarra.",
                   "category": "landmark",
                   "coords": [
@@ -677,7 +677,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متنزه سامراء 2",
+                  "name": "samarra park 2",
                   "text": "Der samarra park 2 ist eine weitere Sehenswürdigkeit in Samarra.",
                   "category": "landmark",
                   "coords": [
@@ -695,7 +695,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد الامامين علي الهادي والحسن العسكري",
+                  "name": "Al-Askari-Schrein",
                   "text": "Der Al-Askari-Schrein ist ein bedeutendes schiitisches Heiligtum in Samarra.",
                   "category": "religious",
                   "coords": [
@@ -715,7 +715,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف سامراء",
+                  "name": "Samarra Museum",
                   "text": "A Samarra Museum egy helyi múzeum Samarra városában.",
                   "category": "museum",
                   "coords": [
@@ -724,7 +724,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مدخل البوباز",
+                  "name": "check point",
                   "text": "A check point egy kilátópont Samarra városában.",
                   "category": "natural",
                   "coords": [
@@ -733,7 +733,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متنزه سامراء",
+                  "name": "samarra park",
                   "text": "A samarra park egy helyi látványosság Samarra városában.",
                   "category": "landmark",
                   "coords": [
@@ -742,7 +742,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متنزه سامراء 2",
+                  "name": "samarra park 2",
                   "text": "A samarra park 2 egy további látványosság Samarra városában.",
                   "category": "landmark",
                   "coords": [
@@ -760,7 +760,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد الامامين علي الهادي والحسن العسكري",
+                  "name": "Al-Askari-szentély",
                   "text": "Az Al-Askari-szentély egy jelentős síita muszlim szent hely Samarra városában.",
                   "category": "religious",
                   "coords": [
@@ -771,7 +771,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "جامع الملوية",
+                  "name": "Malwiya",
                   "text": "Malwiya este un sit arheologic notabil situat în Samarra.",
                   "category": "historical",
                   "coords": [
@@ -780,7 +780,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف سامراء",
+                  "name": "Samarra Museum",
                   "text": "Samarra Museum este un muzeu local situat în orașul Samarra.",
                   "category": "museum",
                   "coords": [
@@ -789,7 +789,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مدخل البوباز",
+                  "name": "Check point",
                   "text": "Check point este un punct de belvedere din Samarra.",
                   "category": "natural",
                   "coords": [
@@ -798,7 +798,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متنزه سامراء",
+                  "name": "Samarra park",
                   "text": "Samarra park este o atracție locală din Samarra.",
                   "category": "landmark",
                   "coords": [
@@ -807,7 +807,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متنزه سامراء 2",
+                  "name": "Samarra park 2",
                   "text": "Samarra park 2 este o altă atracție turistică din Samarra.",
                   "category": "landmark",
                   "coords": [
@@ -825,7 +825,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد الامامين علي الهادي والحسن العسكري",
+                  "name": "Al-Askari Shrine",
                   "text": "Al-Askari Shrine este un important altar și loc de cult șiit din Samarra.",
                   "category": "religious",
                   "coords": [
@@ -1019,7 +1019,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
     id: "zakho-cities-v2", "sights": {
       "de": [
             {
-                  "name": "هيبار",
+                  "name": "Hi-Bar",
                   "text": "Hi-Bar ist ein Museum in Zaxo.",
                   "category": "museum",
                   "coords": [
@@ -1028,7 +1028,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اوقاف",
+                  "name": "Ewqaf",
                   "text": "Ewqaf ist ein Museum in Zaxo.",
                   "category": "museum",
                   "coords": [
@@ -1064,7 +1064,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علي شارع السد",
+                  "name": "Ali Char' al-Sadd",
                   "text": "Ali Char' al-Sadd ist ein Aussichtspunkt in Zaxo.",
                   "category": "natural",
                   "coords": [
@@ -1082,7 +1082,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاميرة رادار",
+                  "name": "Speed Radar",
                   "text": "Der Speed Radar ist ein Aussichtspunkt in Zaxo.",
                   "category": "natural",
                   "coords": [
@@ -1091,7 +1091,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العمارة المائلة",
+                  "name": "schiefe Architektur",
                   "text": "Die schiefe Architektur ist eine Attraktion in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1109,7 +1109,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سندی کوزماتیك",
+                  "name": "Shadi Apotheke",
                   "text": "Die Shadi Apotheke ist eine Attraktion in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1118,7 +1118,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pira Delal | پڕا دەلال",
+                  "name": "Delal-Brücke",
                   "text": "Die Delal-Brücke ist eine historische Attraktion in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1127,7 +1127,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گورستانا زاخو",
+                  "name": "Friedhof von Zaxo",
                   "text": "Der Friedhof von Zaxo ist ein Denkmal in der Stadt.",
                   "category": "historical",
                   "coords": [
@@ -1136,7 +1136,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وارگەها دەلال",
+                  "name": "Wargeha Delal",
                   "text": "Wargeha Delal ist eine Attraktion in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1199,7 +1199,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پارکا ٢٦ گولانێ",
+                  "name": "26 Gulan Park",
                   "text": "Der 26 Gulan Park ist eine Attraktion in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1210,7 +1210,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "هيبار",
+                  "name": "Hi-Bar",
                   "text": "A Hi-Bar egy múzeum Zaxóban.",
                   "category": "museum",
                   "coords": [
@@ -1219,7 +1219,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اوقاف",
+                  "name": "Ewqaf",
                   "text": "Az Ewqaf egy múzeum Zaxóban.",
                   "category": "museum",
                   "coords": [
@@ -1255,7 +1255,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علي شارع السد",
+                  "name": "Ali Char' al-Sadd",
                   "text": "Az Ali Char' al-Sadd egy kilátó Zaxóban.",
                   "category": "natural",
                   "coords": [
@@ -1273,7 +1273,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاميرة رادار",
+                  "name": "Speed radar",
                   "text": "A Speed radar egy kilátó Zaxóban.",
                   "category": "natural",
                   "coords": [
@@ -1282,7 +1282,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العمارة المائلة",
+                  "name": "ferde építészet",
                   "text": "A ferde építészet egy látnivaló Zaxóban.",
                   "category": "landmark",
                   "coords": [
@@ -1300,7 +1300,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سندی کوزماتیك",
+                  "name": "Shadi gyógyszertár",
                   "text": "A Shadi gyógyszertár egy látnivaló Zaxóban.",
                   "category": "landmark",
                   "coords": [
@@ -1309,7 +1309,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pira Delal | پڕا دەلال",
+                  "name": "Delal-híd",
                   "text": "A Delal-híd egy történelmi látnivaló Zaxóban.",
                   "category": "landmark",
                   "coords": [
@@ -1318,7 +1318,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گورستانا زاخو",
+                  "name": "Zaxói temető",
                   "text": "A Zaxói temető egy emlékmű a városban.",
                   "category": "historical",
                   "coords": [
@@ -1327,7 +1327,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وارگەها دەلال",
+                  "name": "Wargeha Delal",
                   "text": "A Wargeha Delal egy látnivaló Zaxóban.",
                   "category": "landmark",
                   "coords": [
@@ -1390,7 +1390,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پارکا ٢٦ گولانێ",
+                  "name": "26 Gulan Park",
                   "text": "A 26 Gulan Park egy látnivaló Zaxóban.",
                   "category": "landmark",
                   "coords": [
@@ -1401,7 +1401,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "هيبار",
+                  "name": "Hi-Bar",
                   "text": "Hi-Bar este un muzeu în Zaxo.",
                   "category": "museum",
                   "coords": [
@@ -1410,7 +1410,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اوقاف",
+                  "name": "Ewqaf",
                   "text": "Ewqaf este un muzeu în Zaxo.",
                   "category": "museum",
                   "coords": [
@@ -1446,7 +1446,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علي شارع السد",
+                  "name": "Ali Char' al-Sadd",
                   "text": "Ali Char' al-Sadd este un punct de vedere în Zaxo.",
                   "category": "natural",
                   "coords": [
@@ -1464,7 +1464,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاميرة رادار",
+                  "name": "Speed radar",
                   "text": "Speed radar este un punct de vedere în Zaxo.",
                   "category": "natural",
                   "coords": [
@@ -1473,7 +1473,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العمارة المائلة",
+                  "name": "Arhitectura înclinată",
                   "text": "Arhitectura înclinată este o atracție în Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1491,7 +1491,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سندی کوزماتیك",
+                  "name": "Farmacia Shadi",
                   "text": "Farmacia Shadi este o atracție în Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1500,7 +1500,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pira Delal | پڕا دەلال",
+                  "name": "Podul Dalal",
                   "text": "Podul Dalal este o atracție istorică în Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1509,7 +1509,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گورستانا زاخو",
+                  "name": "Cimitirul din Zaxo",
                   "text": "Cimitirul din Zaxo este un monument în oraș.",
                   "category": "historical",
                   "coords": [
@@ -1518,7 +1518,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وارگەها دەلال",
+                  "name": "Wargeha Delal",
                   "text": "Wargeha Delal este o atracție în Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1581,7 +1581,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پارکا ٢٦ گولانێ",
+                  "name": "Parcul 26 Gulan",
                   "text": "Parcul 26 Gulan este o atracție în Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علي شارع السد",
+                  "name": "Ali Char' al-Sadd",
                   "text": "Ali Char' al-Sadd is a viewpoint in Zaxo.",
                   "category": "natural",
                   "coords": [
@@ -1664,7 +1664,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العمارة المائلة",
+                  "name": "leaning architecture",
                   "text": "The leaning architecture is an attraction in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1700,7 +1700,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گورستانا زاخو",
+                  "name": "cemetery of Zaxo",
                   "text": "The cemetery of Zaxo is a monument in the city.",
                   "category": "historical",
                   "coords": [
@@ -1709,7 +1709,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وارگەها دەلال",
+                  "name": "Wargeha Delal",
                   "text": "Wargeha Delal is an attraction in Zaxo.",
                   "category": "landmark",
                   "coords": [
@@ -1827,7 +1827,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
     id: "tal-afar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قلعة تلعفر الاثرية",
+                  "name": "historische Burg von Tal Afar",
                   "text": "Die historische Burg von Tal Afar ist eine bedeutende Festung und ein markantes Wahrzeichen der Stadt.",
                   "category": "castle",
                   "coords": [
@@ -1836,7 +1836,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باغلار",
+                  "name": "Baghlar",
                   "text": "Baghlar ist eine landschaftlich reizvolle lokale Attraktion in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1845,7 +1845,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المعلمين",
+                  "name": "Al-Mu'allimin",
                   "text": "Al-Mu'allimin ist eine Sehenswürdigkeit in der Stadt Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1863,7 +1863,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مشتل عباس جدو",
+                  "name": "Gärtnerei Abbas Jaddo",
                   "text": "Die Gärtnerei Abbas Jaddo ist eine lokale Grünfläche und Attraktion in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1872,7 +1872,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علوة.S",
+                  "name": "Diese lokale Attraktion",
                   "text": "Diese lokale Attraktion ist ein interessanter Ort für einen Besuch in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1881,7 +1881,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيناما لورد",
+                  "name": "Lord Cinema",
                   "text": "Das Lord Cinema ist eine beliebte Unterhaltungsattraktion in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1910,7 +1910,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة تلعفر الاثرية",
+                  "name": "történelmi Tal Afar vár",
                   "text": "A történelmi Tal Afar vár egy jelentős erődítmény és kiemelkedő nevezetesség a városban.",
                   "category": "castle",
                   "coords": [
@@ -1919,7 +1919,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باغلار",
+                  "name": "Baghlar",
                   "text": "A Baghlar egy festői helyi látványosság Tal Afarban.",
                   "category": "landmark",
                   "coords": [
@@ -1928,7 +1928,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المعلمين",
+                  "name": "Al-Mu'allimin",
                   "text": "Az Al-Mu'allimin egy érdekes hely Tal Afar városában.",
                   "category": "landmark",
                   "coords": [
@@ -1946,7 +1946,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مشتل عباس جدو",
+                  "name": "Abbas Jaddo Faiskola",
                   "text": "Az Abbas Jaddo Faiskola egy helyi zöldterület és látványosság Tal Afarban.",
                   "category": "landmark",
                   "coords": [
@@ -1964,7 +1964,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيناما لورد",
+                  "name": "Lord Mozi",
                   "text": "A Lord Mozi egy népszerű szórakoztató létesítmény Tal Afarban.",
                   "category": "landmark",
                   "coords": [
@@ -1993,7 +1993,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة تلعفر الاثرية",
+                  "name": "Castelul istoric Tal Afar",
                   "text": "Castelul istoric Tal Afar este o fortăreață importantă și un punct de reper proeminent în oraș.",
                   "category": "castle",
                   "coords": [
@@ -2002,7 +2002,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باغلار",
+                  "name": "Baghlar",
                   "text": "Baghlar este o atracție pitorească locală situată în Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2011,7 +2011,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المعلمين",
+                  "name": "Al-Mu'allimin",
                   "text": "Al-Mu'allimin este un punct de interes situat în orașul Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2029,7 +2029,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مشتل عباس جدو",
+                  "name": "Pepiniera Abbas Jaddo",
                   "text": "Pepiniera Abbas Jaddo este un spațiu verde local și o atracție în Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2038,7 +2038,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علوة.S",
+                  "name": "Această atracție locală",
                   "text": "Această atracție locală este un punct interesant de vizitat în Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2047,7 +2047,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيناما لورد",
+                  "name": "Lord Cinema",
                   "text": "Lord Cinema este o atracție de divertisment populară din Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2056,7 +2056,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سد",
+                  "name": "Acest sit",
                   "text": "Acest sit reprezintă atmosfera culturală generală și atracțiile din Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2076,7 +2076,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "قلعة تلعفر الاثرية",
+                  "name": "historical Tal Afar Castle",
                   "text": "The historical Tal Afar Castle is a significant fortress and prominent landmark in the city.",
                   "category": "castle",
                   "coords": [
@@ -2085,7 +2085,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باغلار",
+                  "name": "Baghlar",
                   "text": "Baghlar is a local scenic attraction situated in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المعلمين",
+                  "name": "Al-Mu'allimin",
                   "text": "Al-Mu'allimin is a point of interest located in the city of Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2112,7 +2112,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مشتل عباس جدو",
+                  "name": "Abbas Jaddo Nursery",
                   "text": "The Abbas Jaddo Nursery is a local green space and attraction in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علوة.S",
+                  "name": "This local attraction",
                   "text": "This local attraction is an interesting point to visit in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيناما لورد",
+                  "name": "Lord Cinema",
                   "text": "Lord Cinema is a popular entertainment attraction found in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2283,7 +2283,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
     id: "al-musayyib-cities-v2", "sights": {
       "de": [
             {
-                  "name": "كراج اولاد مسلم",
+                  "name": "Autoterminal der Söhne von Muslim",
                   "text": "Das Autoterminal der Söhne von Muslim ist eine Attraktion in Musayyib.",
                   "category": "landmark",
                   "coords": [
@@ -2292,7 +2292,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الغانمي للسيراميك ABG",
+                  "name": "Al-Ghanmi für Keramik",
                   "text": "Al-Ghanmi für Keramik ist eine Attraktion in Musayyib.",
                   "category": "landmark",
                   "coords": [
@@ -2303,7 +2303,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "كراج اولاد مسلم",
+                  "name": "Muslim fiai autóterminál",
                   "text": "A Muslim fiai autóterminál egy látnivaló Musayyibban.",
                   "category": "landmark",
                   "coords": [
@@ -2312,7 +2312,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الغانمي للسيراميك ABG",
+                  "name": "Al-Ghanmi kerámia",
                   "text": "Az Al-Ghanmi kerámia egy látnivaló Musayyibban.",
                   "category": "landmark",
                   "coords": [
@@ -2323,7 +2323,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "كراج اولاد مسلم",
+                  "name": "Terminalul auto al fiilor lui Muslim",
                   "text": "Terminalul auto al fiilor lui Muslim este o atracție în Musayyib.",
                   "category": "landmark",
                   "coords": [
@@ -2332,7 +2332,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الغانمي للسيراميك ABG",
+                  "name": "Al-Ghanmi pentru ceramică",
                   "text": "Al-Ghanmi pentru ceramică este o atracție în Musayyib.",
                   "category": "landmark",
                   "coords": [
@@ -2343,7 +2343,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "كراج اولاد مسلم",
+                  "name": "sons of Muslim car terminal",
                   "text": "The sons of Muslim car terminal is an attraction in Musayyib.",
                   "category": "landmark",
                   "coords": [
@@ -2493,7 +2493,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
     id: "abu-ghraib-cities-v2", "sights": {
       "de": [
             {
-                  "name": "محكمة ابوغريب",
+                  "name": "Gericht",
                   "text": "Das Gericht ist eine Burg in Abu Ghuraib.",
                   "category": "castle",
                   "coords": [
@@ -2513,7 +2513,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "محكمة ابوغريب",
+                  "name": "bíróság",
                   "text": "A bíróság egy vár Abu Ghuraibban.",
                   "category": "castle",
                   "coords": [
@@ -2522,7 +2522,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "تل أبو صفا",
+                  "name": "Tall Abu Safa",
                   "text": "A Tall Abu Safa egy hegycsúcs Abu Ghuraibban.",
                   "category": "natural",
                   "coords": [
@@ -2533,7 +2533,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "محكمة ابوغريب",
+                  "name": "Curtea",
                   "text": "Curtea este un castel în Abu Ghuraib.",
                   "category": "castle",
                   "coords": [
@@ -2542,7 +2542,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "تل أبو صفا",
+                  "name": "Tall Abu Safa",
                   "text": "Tall Abu Safa este un vârf în Abu Ghuraib.",
                   "category": "natural",
                   "coords": [
@@ -2660,7 +2660,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
     id: "rawandiz-cities-v2", "sights": {
       "de": [
             {
-                  "name": "رێباز محمد",
+                  "name": "Rebaz muhammad",
                   "text": "Rebaz muhammad ist ein Theater in der Stadt Rawanduz.",
                   "category": "cultural",
                   "coords": [
@@ -2750,7 +2750,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هۆڵی بۆنەکان",
+                  "name": "Holle bonakan",
                   "text": "Holle bonakan ist eine Sehenswürdigkeit in der Region von Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2759,7 +2759,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وەرداش",
+                  "name": "Wardash",
                   "text": "Wardash ist ein Denkmal in der Stadt Rawanduz.",
                   "category": "historical",
                   "coords": [
@@ -2768,7 +2768,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كانية قور",
+                  "name": "Kani qur",
                   "text": "Kani qur ist ein touristisches Ziel und eine Attraktion in Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2777,7 +2777,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وادی گەڕەک",
+                  "name": "Gali garak",
                   "text": "Gali garak ist ein landschaftlicher Anziehungspunkt in Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2786,7 +2786,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پانک - شنگڵبانە",
+                  "name": "Pank, Shingilbana",
                   "text": "Pank, Shingilbana ist eine Attraktion in der Stadt Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2815,7 +2815,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "رێباز محمد",
+                  "name": "Rebaz muhammad",
                   "text": "A Rebaz muhammad egy színház Rawanduz városában.",
                   "category": "cultural",
                   "coords": [
@@ -2905,7 +2905,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هۆڵی بۆنەکان",
+                  "name": "Holle bonakan",
                   "text": "A Holle bonakan egy látványosság Rawanduz régiójában.",
                   "category": "landmark",
                   "coords": [
@@ -2914,7 +2914,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وەرداش",
+                  "name": "Wardash",
                   "text": "A Wardash egy emlékmű Rawanduz városában.",
                   "category": "historical",
                   "coords": [
@@ -2923,7 +2923,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كانية قور",
+                  "name": "Kani qur",
                   "text": "A Kani qur egy turisztikai célpont és látványosság Rawanduzban.",
                   "category": "landmark",
                   "coords": [
@@ -2932,7 +2932,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وادی گەڕەک",
+                  "name": "Gali garak",
                   "text": "A Gali garak egy természeti látványosság Rawanduz városában.",
                   "category": "landmark",
                   "coords": [
@@ -2941,7 +2941,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پانک - شنگڵبانە",
+                  "name": "Pank, Shingilbana",
                   "text": "A Pank, Shingilbana egy helyi látványosság Rawanduz városában.",
                   "category": "landmark",
                   "coords": [
@@ -2950,7 +2950,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دەروازەی خەرەندی ڕەواندز",
+                  "name": "Entrance to Rawandiz Canyon",
                   "text": "Az Entrance to Rawandiz Canyon egy lenyűgöző szurdok bejáratát jelöli Rawanduzban.",
                   "category": "landmark",
                   "coords": [
@@ -2970,7 +2970,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "رێباز محمد",
+                  "name": "Rebaz muhammad",
                   "text": "Rebaz muhammad este un teatru din orașul Rawanduz.",
                   "category": "cultural",
                   "coords": [
@@ -3060,7 +3060,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هۆڵی بۆنەکان",
+                  "name": "Holle bonakan",
                   "text": "Holle bonakan este o atracție turistică din regiunea Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3069,7 +3069,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وەرداش",
+                  "name": "Wardash",
                   "text": "Wardash este un monument situat în orașul Rawanduz.",
                   "category": "historical",
                   "coords": [
@@ -3078,7 +3078,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كانية قور",
+                  "name": "Kani qur",
                   "text": "Kani qur este o destinație turistică și atracție în Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3087,7 +3087,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وادی گەڕەک",
+                  "name": "Gali garak",
                   "text": "Gali garak este o atracție pitorească din Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3096,7 +3096,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پانک - شنگڵبانە",
+                  "name": "Pank, Shingilbana",
                   "text": "Pank, Shingilbana este o atracție locală situată în Rawanduz.",
                   "category": "landmark",
                   "coords": [

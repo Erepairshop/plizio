@@ -467,7 +467,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العريمي بوليفارد",
+                  "name": "Al-Araimi Boulevard",
                   "text": "Al-Araimi Boulevard ist ein Aussichtspunkt in Sib.",
                   "category": "natural",
                   "coords": [
@@ -514,7 +514,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العريمي بوليفارد",
+                  "name": "Al-Araimi Boulevard",
                   "text": "Az Al-Araimi Boulevard egy kilátó Sib városában.",
                   "category": "natural",
                   "coords": [
@@ -561,7 +561,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "العريمي بوليفارد",
+                  "name": "Al-Araimi Boulevard",
                   "text": "Al-Araimi Boulevard este un punct de belvedere situat în Sib.",
                   "category": "natural",
                   "coords": [
@@ -672,7 +672,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "muttrah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قصر العلم",
+                  "name": "Al Alam Palace",
                   "text": "Der Al Alam Palace ist ein repräsentatives Schloss des Sultans in Matrah.",
                   "category": "castle",
                   "coords": [
@@ -681,7 +681,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة الميراني",
+                  "name": "Fort Al-Mirani",
                   "text": "Das Fort Al-Mirani ist eine bedeutende portugiesische Festung aus dem 16. Jahrhundert am Hafen von Matrah.",
                   "category": "fortress",
                   "coords": [
@@ -690,7 +690,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف الوطني",
+                  "name": "National Museum in Matrah",
                   "text": "Das National Museum in Matrah ist eine wichtige Einrichtung, die das kulturelle Erbe des Landes präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -699,7 +699,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف بيت البرندة",
+                  "name": "Bait Al Baranda Museum",
                   "text": "Das Bait Al Baranda Museum ist ein historisches Museum in Matrah, das in einem traditionellen Haus untergebracht ist.",
                   "category": "museum",
                   "coords": [
@@ -717,7 +717,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الزبير",
+                  "name": "Bait Al Zubair",
                   "text": "Bait Al Zubair ist ein Museum in Matrah.",
                   "category": "museum",
                   "coords": [
@@ -735,7 +735,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف المكان والناس",
+                  "name": "Place & People Museum",
                   "text": "Das Place & People Museum ist ein Museum in Matrah.",
                   "category": "museum",
                   "coords": [
@@ -744,7 +744,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة مطرح",
+                  "name": "Mutrah Fort",
                   "text": "Das Mutrah Fort ist eine Festung in Matrah.",
                   "category": "fortress",
                   "coords": [
@@ -753,7 +753,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف العماني الفرنسي",
+                  "name": "Oman French Museum",
                   "text": "Das Oman French Museum ist ein Museum in Matrah.",
                   "category": "museum",
                   "coords": [
@@ -809,7 +809,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قصر العلم",
+                  "name": "Al Alam Palace",
                   "text": "Az Al Alam Palace az ománi szultán nevezetes ünnepi kastélya Matrah városában.",
                   "category": "castle",
                   "coords": [
@@ -818,7 +818,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة الميراني",
+                  "name": "Fort Al-Mirani",
                   "text": "A Fort Al-Mirani egy 16. századi portugál erőd, amely Matrah kikötőjére néz.",
                   "category": "fortress",
                   "coords": [
@@ -827,7 +827,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف الوطني",
+                  "name": "Matrah városában található National Museum",
                   "text": "A Matrah városában található National Museum az ország kulturális örökségét bemutató jelentős intézmény.",
                   "category": "museum",
                   "coords": [
@@ -836,7 +836,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف بيت البرندة",
+                  "name": "Bait Al Baranda Museum",
                   "text": "A Bait Al Baranda Museum egy hagyományos házban működő történelmi múzeum Matrah városában.",
                   "category": "museum",
                   "coords": [
@@ -854,7 +854,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الزبير",
+                  "name": "Bait Al Zubair",
                   "text": "A Bait Al Zubair egy múzeum Matrah városában.",
                   "category": "museum",
                   "coords": [
@@ -872,7 +872,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف المكان والناس",
+                  "name": "Place & People Museum",
                   "text": "A Place & People Museum egy múzeum Matrah városában.",
                   "category": "museum",
                   "coords": [
@@ -881,7 +881,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة مطرح",
+                  "name": "Mutrah Fort",
                   "text": "A Mutrah Fort egy erőd Matrah városában.",
                   "category": "fortress",
                   "coords": [
@@ -890,7 +890,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف العماني الفرنسي",
+                  "name": "Oman French Museum",
                   "text": "Az Oman French Museum egy múzeum Matrah városában.",
                   "category": "museum",
                   "coords": [
@@ -946,7 +946,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قصر العلم",
+                  "name": "Al Alam Palace",
                   "text": "Al Alam Palace este un palat ceremonial important al Sultanului în Matrah.",
                   "category": "castle",
                   "coords": [
@@ -955,7 +955,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة الميراني",
+                  "name": "Fort Al-Mirani",
                   "text": "Fort Al-Mirani este un fort portughez din secolul al XVI-lea care domină portul din Matrah.",
                   "category": "fortress",
                   "coords": [
@@ -964,7 +964,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف الوطني",
+                  "name": "National Museum din Matrah",
                   "text": "National Museum din Matrah este o instituție importantă care expune moștenirea culturală a țării.",
                   "category": "museum",
                   "coords": [
@@ -973,7 +973,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف بيت البرندة",
+                  "name": "Bait Al Baranda Museum",
                   "text": "Bait Al Baranda Museum este un muzeu istoric găzduit într-o casă tradițională din Matrah.",
                   "category": "museum",
                   "coords": [
@@ -991,7 +991,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الزبير",
+                  "name": "Bait Al Zubair",
                   "text": "Bait Al Zubair este un muzeu în Matrah.",
                   "category": "museum",
                   "coords": [
@@ -1009,7 +1009,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف المكان والناس",
+                  "name": "Place & People Museum",
                   "text": "Place & People Museum este un muzeu în Matrah.",
                   "category": "museum",
                   "coords": [
@@ -1018,7 +1018,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة مطرح",
+                  "name": "Mutrah Fort",
                   "text": "Mutrah Fort este un fort în Matrah.",
                   "category": "fortress",
                   "coords": [
@@ -1027,7 +1027,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المتحف العماني الفرنسي",
+                  "name": "Oman French Museum",
                   "text": "Oman French Museum este un muzeu în Matrah.",
                   "category": "museum",
                   "coords": [
@@ -1494,7 +1494,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "bahla-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قلعة بهلا",
+                  "name": "Bahla Fort",
                   "text": "Bahla Fort ist eine bekannte Burg in Bahla, die als UNESCO-Weltkulturerbe anerkannt ist.",
                   "category": "castle",
                   "coords": [
@@ -1523,7 +1523,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة بهلا",
+                  "name": "Bahla Fort",
                   "text": "A Bahla Fort egy híres vár Bahla városában, amely az UNESCO világörökség része.",
                   "category": "castle",
                   "coords": [
@@ -1552,7 +1552,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة بهلا",
+                  "name": "Bahla Fort",
                   "text": "Bahla Fort este un castel notabil din Bahla, recunoscut ca sit al Patrimoniului Mondial UNESCO.",
                   "category": "castle",
                   "coords": [
@@ -1940,7 +1940,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "saham-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حصن صحم الشامخ",
+                  "name": "Saham Fort",
                   "text": "Das Saham Fort ist eine historische Burg an der Küste in der Stadt Saham.",
                   "category": "castle",
                   "coords": [
@@ -1951,7 +1951,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حصن صحم الشامخ",
+                  "name": "Saham erőd",
                   "text": "A Saham erőd egy történelmi kastély, amely a tengerparton található Saham városában.",
                   "category": "castle",
                   "coords": [
@@ -1962,7 +1962,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حصن صحم الشامخ",
+                  "name": "Fortul Saham",
                   "text": "Fortul Saham este un castel istoric situat pe coastă, în orașul Saham.",
                   "category": "castle",
                   "coords": [
@@ -2318,7 +2318,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جبعة البقت",
+                  "name": "Jabaat al Baqt",
                   "text": "A Jabaat al Baqt egy hegycsúcs Al Hamra területén.",
                   "category": "natural",
                   "coords": [
@@ -2347,7 +2347,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جبعة البقت",
+                  "name": "Jabaat al Baqt",
                   "text": "Jabaat al Baqt este un vârf montan situat în Al Hamra.",
                   "category": "natural",
                   "coords": [
@@ -2456,7 +2456,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية خور طاقة",
+                  "name": "Khawr Taqah Reserve",
                   "text": "Das Khawr Taqah Reserve ist ein Naturschutzgebiet in der Stadt Taqah.",
                   "category": "natural",
                   "coords": [
@@ -2465,7 +2465,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية خور روري",
+                  "name": "Khawr Rawri Reserve",
                   "text": "Das Khawr Rawri Reserve ist ein geschütztes Naturschutzgebiet in der Stadt Taqah.",
                   "category": "natural",
                   "coords": [
@@ -2494,7 +2494,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية خور طاقة",
+                  "name": "Khawr Taqah Reserve",
                   "text": "A Khawr Taqah Reserve egy természetvédelmi terület Taqah városában.",
                   "category": "natural",
                   "coords": [
@@ -2503,7 +2503,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية خور روري",
+                  "name": "Khawr Rawri Reserve",
                   "text": "A Khawr Rawri Reserve egy védett természetvédelmi terület Taqah városában.",
                   "category": "natural",
                   "coords": [
@@ -2532,7 +2532,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية خور طاقة",
+                  "name": "Rezervația Khawr Taqah",
                   "text": "Rezervația Khawr Taqah este o rezervație naturală situată în orașul Taqah.",
                   "category": "natural",
                   "coords": [
@@ -2541,7 +2541,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية خور روري",
+                  "name": "Rezervația Khawr Rawri",
                   "text": "Rezervația Khawr Rawri este o rezervație naturală protejată din orașul Taqah.",
                   "category": "natural",
                   "coords": [
@@ -2686,7 +2686,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "جبل مجلي",
+                  "name": "Jabal Majali",
                   "text": "A Jabal Majali egy hegycsúcs Thumrait területén.",
                   "category": "natural",
                   "coords": [
@@ -2697,7 +2697,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "جبل مجلي",
+                  "name": "Jabal Majali",
                   "text": "Jabal Majali este un vârf montan situat în Thumrait.",
                   "category": "natural",
                   "coords": [
@@ -2925,7 +2925,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "adam-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حارة البوسعيد",
+                  "name": "Old Adam",
                   "text": "Old Adam ist eine Burg in Adam.",
                   "category": "castle",
                   "coords": [
@@ -2954,7 +2954,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حارة البوسعيد",
+                  "name": "Old Adam",
                   "text": "Az Old Adam egy vár Adam városában.",
                   "category": "castle",
                   "coords": [
@@ -2983,7 +2983,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حارة البوسعيد",
+                  "name": "Old Adam",
                   "text": "Old Adam este un castel situat în Adam.",
                   "category": "castle",
                   "coords": [

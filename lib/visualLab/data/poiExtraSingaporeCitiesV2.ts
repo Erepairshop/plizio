@@ -9807,7 +9807,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "Das Buddha Tooth Relic Museum ist ein bemerkenswertes Museum in Orchard Road.",
                   "category": "museum",
                   "coords": [
@@ -10277,7 +10277,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "A Buddha Tooth Relic Museum egy jelentős múzeum Orchard Roadon.",
                   "category": "museum",
                   "coords": [
@@ -10747,7 +10747,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "Buddha Tooth Relic Museum este un muzeu notabil situat în Orchard Road.",
                   "category": "museum",
                   "coords": [
@@ -13713,7 +13713,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "Das Buddha Tooth Relic Museum ist eine kulturelle Einrichtung und ein Museum in der Gegend von Kampong Glam.",
                   "category": "museum",
                   "coords": [
@@ -14183,7 +14183,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "A Buddha Tooth Relic Museum egy kulturális intézmény és múzeum Kampong Glam környékén.",
                   "category": "museum",
                   "coords": [
@@ -14653,7 +14653,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Muzeul Buddha Tooth Relic",
                   "text": "Muzeul Buddha Tooth Relic este o instituție culturală și un muzeu situat în zona Kampong Glam.",
                   "category": "museum",
                   "coords": [
@@ -16647,7 +16647,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "Buddha Tooth Relic Museum ist ein Museum in Downtown Core.",
                   "category": "museum",
                   "coords": [
@@ -17569,7 +17569,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Museum",
                   "text": "Buddha Tooth Relic Museum este un muzeu din Downtown Core.",
                   "category": "museum",
                   "coords": [

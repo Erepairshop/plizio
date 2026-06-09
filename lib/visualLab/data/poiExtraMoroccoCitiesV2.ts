@@ -24,7 +24,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place des Nations Unies ساحة الأمم المتحدة",
+                  "name": "United Nations Square",
                   "text": "Der United Nations Square ist ein belebter öffentlicher Platz und wichtiges Handelszentrum im Herzen von Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -42,7 +42,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "name": "Parc de la Ligue Arabe",
                   "text": "Der Parc de la Ligue Arabe ist der größte öffentliche Park in der Stadt Casablanca.",
                   "category": "park",
                   "coords": [
@@ -51,7 +51,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Temple Beth El معبد بيت إيل",
+                  "name": "Beth El Synagoge",
                   "text": "Die Beth El Synagoge ist ein jüdisches Gotteshaus in Casablanca.",
                   "category": "religious",
                   "coords": [
@@ -60,7 +60,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "name": "Parc du Vélodrome",
                   "text": "Der Parc du Vélodrome ist eine öffentliche Grünanlage in Casablanca.",
                   "category": "park",
                   "coords": [
@@ -87,7 +87,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa des Arts دار الفنون",
+                  "name": "Villa des Arts",
                   "text": "Die Villa des Arts ist ein Museum für zeitgenössische Kunst in Casablanca.",
                   "category": "museum",
                   "coords": [
@@ -141,7 +141,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق بنجدية",
+                  "name": "Dieser traditionelle Markt",
                   "text": "Dieser traditionelle Markt ist eine lokale Einkaufsattraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -150,7 +150,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elmanjra قسارية المنجرة",
+                  "name": "Elmanjra",
                   "text": "Elmanjra ist ein Handelsmarkt und eine Besucherattraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -186,7 +186,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية العطارين",
+                  "name": "Diese traditionelle Kissaria",
                   "text": "Diese traditionelle Kissaria ist eine beliebte Einkaufsattraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -204,7 +204,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "name": "Coupole Zevaco",
                   "text": "Die Coupole Zevaco ist eine ikonische kugelförmige architektonische Attraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -258,7 +258,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية أخماسي",
+                  "name": "Kissaria Akhmasi",
                   "text": "Kissaria Akhmasi ist ein lokaler Handelsmarkt in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -285,7 +285,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق البيض بالجملة",
+                  "name": "Dieser Großmarkt",
                   "text": "Dieser Großmarkt ist eine spezialisierte lokale Handelsattraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -294,7 +294,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الأمراء",
+                  "name": "Kissaria Al Oumara",
                   "text": "Kissaria Al Oumara ist eine Einzelhandelsattraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -330,7 +330,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز سوق الحبوس",
+                  "name": "Habous Market Center",
                   "text": "Das Habous Market Center ist eine traditionelle Attraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -348,7 +348,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الزاس",
+                  "name": "Kissaria Alsace",
                   "text": "Die Kissaria Alsace ist eine beliebte kommerzielle Galerie in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -357,7 +357,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج الياقوت",
+                  "name": "Dieses Turmgebäude",
                   "text": "Dieses Turmgebäude ist eine architektonische und kommerzielle Attraktion in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -375,7 +375,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "name": "Industrie- und Handelskammer",
                   "text": "Die Industrie- und Handelskammer ist eine institutionelle Einrichtung in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -411,7 +411,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "name": "Joutia de Derb Ghallef",
                   "text": "Joutia de Derb Ghallef ist ein berühmter großer Flohmarkt in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -440,7 +440,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place des Nations Unies ساحة الأمم المتحدة",
+                  "name": "United Nations Square",
                   "text": "A United Nations Square egy nyüzsgő központi tér és jelentős kereskedelmi csomópont Casablanca szívében.",
                   "category": "landmark",
                   "coords": [
@@ -467,7 +467,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Temple Beth El معبد بيت إيل",
+                  "name": "Beth El Zsinagóga",
                   "text": "A Beth El Zsinagóga egy zsidó istentiszteleti hely Casablancában.",
                   "category": "religious",
                   "coords": [
@@ -476,7 +476,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "name": "Parc du Vélodrome",
                   "text": "A Parc du Vélodrome egy nyilvános zöldterület Casablancában.",
                   "category": "park",
                   "coords": [
@@ -503,7 +503,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa des Arts دار الفنون",
+                  "name": "Villa des Arts",
                   "text": "A Villa des Arts egy kortárs művészeteknek szentelt múzeum Casablancában.",
                   "category": "museum",
                   "coords": [
@@ -566,7 +566,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elmanjra قسارية المنجرة",
+                  "name": "Elmanjra",
                   "text": "Az Elmanjra egy kereskedelmi piac és látványosság Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -620,7 +620,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "name": "Coupole Zevaco",
                   "text": "A Coupole Zevaco egy ikonikus gömb alakú építészeti látványosság Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -674,7 +674,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية أخماسي",
+                  "name": "Kissaria Akhmasi",
                   "text": "A Kissaria Akhmasi egy helyi kereskedelmi piac Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -710,7 +710,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الأمراء",
+                  "name": "Kissaria Al Oumara",
                   "text": "A Kissaria Al Oumara egy kiskereskedelmi látványosság Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -746,7 +746,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز سوق الحبوس",
+                  "name": "Habous Market Center",
                   "text": "A Habous Market Center egy hagyományos látványosság Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -764,7 +764,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الزاس",
+                  "name": "Kissaria Alsace",
                   "text": "A Kissaria Alsace egy népszerű kereskedelmi galéria Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -791,7 +791,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "name": "Kereskedelmi és Iparkamara",
                   "text": "A Kereskedelmi és Iparkamara egy intézményi látványosság Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -827,7 +827,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "name": "Joutia de Derb Ghallef",
                   "text": "A Joutia de Derb Ghallef egy híres, hatalmas bolhapiac Casablancában.",
                   "category": "landmark",
                   "coords": [
@@ -856,7 +856,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place des Nations Unies ساحة الأمم المتحدة",
+                  "name": "Piața Națiunilor Unite",
                   "text": "Piața Națiunilor Unite este o piață publică plină de viață și un important centru comercial din inima orașului Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -874,7 +874,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "name": "Parc de la Ligue Arabe",
                   "text": "Parc de la Ligue Arabe este cel mai mare parc public din orașul Casablanca.",
                   "category": "park",
                   "coords": [
@@ -883,7 +883,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Temple Beth El معبد بيت إيل",
+                  "name": "Sinagoga Beth El",
                   "text": "Sinagoga Beth El este un lăcaș de cult evreiesc din Casablanca.",
                   "category": "religious",
                   "coords": [
@@ -892,7 +892,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "name": "Parc du Vélodrome",
                   "text": "Parc du Vélodrome este un spațiu verde public situat în Casablanca.",
                   "category": "park",
                   "coords": [
@@ -919,7 +919,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa des Arts دار الفنون",
+                  "name": "Villa des Arts",
                   "text": "Villa des Arts este un muzeu de artă contemporană din Casablanca.",
                   "category": "museum",
                   "coords": [
@@ -973,7 +973,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق بنجدية",
+                  "name": "Această piață tradițională",
                   "text": "Această piață tradițională este o atracție comercială locală din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -982,7 +982,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elmanjra قسارية المنجرة",
+                  "name": "Elmanjra",
                   "text": "Elmanjra este o piață comercială și o atracție pentru vizitatori în Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1018,7 +1018,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية العطارين",
+                  "name": "Această kissaria tradițională",
                   "text": "Această kissaria tradițională este o atracție populară pentru cumpărături în Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1036,7 +1036,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "name": "Coupole Zevaco",
                   "text": "Coupole Zevaco este o atracție arhitecturală sferică iconică din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1090,7 +1090,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية أخماسي",
+                  "name": "Kissaria Akhmasi",
                   "text": "Kissaria Akhmasi este o piață comercială locală din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1117,7 +1117,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق البيض بالجملة",
+                  "name": "Această piață angro",
                   "text": "Această piață angro este o atracție comercială locală specializată din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1126,7 +1126,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الأمراء",
+                  "name": "Kissaria Al Oumara",
                   "text": "Kissaria Al Oumara este o atracție de retail din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1162,7 +1162,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز سوق الحبوس",
+                  "name": "Centrul Pieței Habous",
                   "text": "Centrul Pieței Habous este o atracție tradițională în Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1180,7 +1180,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الزاس",
+                  "name": "Kissaria Alsace",
                   "text": "Kissaria Alsace este o galerie comercială populară din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج الياقوت",
+                  "name": "Această clădire turn",
                   "text": "Această clădire turn este o atracție arhitecturală și comercială din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "name": "Camera de Comerț și Industrie",
                   "text": "Camera de Comerț și Industrie este o atracție instituțională din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1243,7 +1243,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "name": "Joutia de Derb Ghallef",
                   "text": "Joutia de Derb Ghallef este o piață de vechituri faimoasă din Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1290,7 +1290,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "name": "Parc de la Ligue Arabe",
                   "text": "Parc de la Ligue Arabe is the largest public park in the city of Casablanca.",
                   "category": "park",
                   "coords": [
@@ -1308,7 +1308,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "name": "Parc du Vélodrome",
                   "text": "Parc du Vélodrome is a public green space located in Casablanca.",
                   "category": "park",
                   "coords": [
@@ -1335,7 +1335,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa des Arts دار الفنون",
+                  "name": "Villa des Arts",
                   "text": "Villa des Arts is a museum dedicated to contemporary art in Casablanca.",
                   "category": "museum",
                   "coords": [
@@ -1389,7 +1389,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق بنجدية",
+                  "name": "This traditional market",
                   "text": "This traditional market is a local shopping attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1398,7 +1398,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elmanjra قسارية المنجرة",
+                  "name": "Elmanjra",
                   "text": "Elmanjra is a commercial market and visitor attraction located in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1434,7 +1434,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية العطارين",
+                  "name": "This traditional kissaria",
                   "text": "This traditional kissaria is a popular shopping attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1452,7 +1452,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "name": "Coupole Zevaco",
                   "text": "Coupole Zevaco is an iconic globe-shaped architectural attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1506,7 +1506,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية أخماسي",
+                  "name": "Kissaria Akhmasi",
                   "text": "Kissaria Akhmasi is a local commercial market attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1533,7 +1533,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق البيض بالجملة",
+                  "name": "This wholesale market",
                   "text": "This wholesale market is a specialized local trading attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1542,7 +1542,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الأمراء",
+                  "name": "Kissaria Al Oumara",
                   "text": "Kissaria Al Oumara is a retail attraction situated in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1578,7 +1578,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز سوق الحبوس",
+                  "name": "Habous Market Center",
                   "text": "The Habous Market Center is a traditional and highly popular attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1596,7 +1596,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قيسارية الزاس",
+                  "name": "Kissaria Alsace",
                   "text": "Kissaria Alsace is a popular commercial gallery and attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1605,7 +1605,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج الياقوت",
+                  "name": "This tower building",
                   "text": "This tower building is an architectural and commercial attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1623,7 +1623,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "name": "Chamber of Commerce",
                   "text": "The Chamber of Commerce is an institutional attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1659,7 +1659,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "name": "Joutia de Derb Ghallef",
                   "text": "Joutia de Derb Ghallef is a famous massive flea market and attraction in Casablanca.",
                   "category": "landmark",
                   "coords": [
@@ -1796,7 +1796,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       en: ["Rabat was named a UNESCO World Heritage Site in 2012.", "The city became the capital of Morocco in 1912 under French rule.", "The Hassan Tower's mosque would have been the second largest in Islam.", "Rabat's population is approximately 580,000 (city proper).", "The Chellah necropolis contains Phoenician, Roman, and Marinid ruins.", "The Grand Theatre of Rabat was designed by architect Zaha Hadid.", "Rabat is the second largest city in Morocco after Casablanca.", "The University of Mohammed V, founded in 1957, is the city's top academic hub."],
     }, image: "/poi-images/ma-rabat-cities-v2.webp"},
   {
-    id: "ma-fes-cities-v2", "sights": {"de": [{"name": "Palais Royal القصر الملكي", "text": "Königspalast in Fes, ein historisches Bauwerk.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Museum in Fes.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Festung in Fes.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "باب السمارين Bab Semmarine", "text": "Historisches Tor in Fes.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil جنان السبيل", "text": "Die Jnan Sbil Gärten sind eine historische Parkanlage in Fes.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "Die Sehenswürdigkeit Cass-croute ist ein beliebtes lokales Ziel in Fes, Marokko. Als charakteristisches Wahrzeichen zieht sie die Blicke von Passanten und Touristen gleichermaßen an. Besucher können hier das einzigartige marokkanische Flair der Stadt spüren.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "Das Wahrzeichen Cremerie fügt sich nahtlos in das geschäftige Treiben von Fes in Marokko ein. Diese lokale Attraktion weckt das Interesse vieler Stadtbesucher durch ihren besonderen Charme. Es ist ein wunderbarer Ort, um kurz haltzumachen und die Umgebung auf sich wirken zu lassen.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "In der marokkanischen Stadt Fes wartet das markante Wahrzeichen Cofirad auf seine Entdeckung. Diese interessante Attraktion ist ein spannender Anlaufpunkt bei einem Spaziergang durch die Stadt. Gäste können hier einen weiteren Facettenreichtum der örtlichen Kulisse erleben.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "Cendrillon ist ein städtisches Wahrzeichen in der Metropole Fes in Marokko. Als Teil der städtischen Attraktionen verleiht es dem Viertel seinen eigenen Charakter. Reisende legen hier gerne einen Zwischenstopp ein, um das urbane marokkanische Leben zu beobachten.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Kunstzentrum in Fes.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Religiöse Stätte in Fes.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Kunstzentrum in Fes.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Kunstgalerie in Fes.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "Die Attraktion Sandwich Benmaseoud stellt ein interessantes Ziel in der marokkanischen Stadt Fes dar. Dieses lokale Wahrzeichen zieht die Aufmerksamkeit von Entdeckern und Passanten auf sich. Es bereichert das Stadtbild und lädt dazu ein, die Gegend näher zu erkunden.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Kunstgalerie in Fes.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "Das Wahrzeichen Grillade Brahim ist fester Bestandteil der städtischen Landschaft von Fes, Marokko. Solche charakteristischen Attraktionen machen den Charme der marokkanischen Metropole aus. Besucher schätzen diesen Ort während ihrer ausgiebigen Stadterkundungen.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "Die Salle des fêtes Jamai zählt zu den sehenswerten lokalen Wahrzeichen im marokkanischen Fes. Diese städtische Attraktion sticht durch ihre Präsenz im Straßenbild hervor. Sie ist ein spannendes Fotomotiv für alle, die die Architektur und das Flair von Fes festhalten möchten.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "Das New Boussole Travel befindet sich in der historischen Stadt Fes und gilt als lokales Wahrzeichen. Besucher Marokkos können diese Attraktion entdecken, während sie die belebten Straßen der Stadt erkunden.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "Der Standort der Royal air maroc in Fes ist als bemerkenswertes Wahrzeichen der Stadt bekannt. Reisende in Marokko werden diesen bestimmten Ort als Teil der lokalen Stadtlandschaft antreffen.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Historisches Denkmal in Fes.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "Das Quartier Mellah ist ein wichtiges Wahrzeichen, das in der Stadt Fes in Marokko eingebettet ist. Wer durch diese Gegend schlendert, kann die einzigartige Atmosphäre und die Anlage dieses traditionellen Viertels erleben.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Aussichtspunkt in Fes.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Kunstzentrum in Fes.", "category": "cultural", "coords": [-5.00282, 34.041957]}], "hu": [{"name": "Palais Royal القصر الملكي", "text": "Királyi palota Fesben, történelmi építmény.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Múzeum Fesben.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Erődítmény Fesben.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "باب السمارين Bab Semmarine", "text": "Történelmi kapu Fesben.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil جنان السبيل", "text": "A Jnan Sbil kertek egy történelmi park Fesben.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "A Cass-croute nevezetesség egy népszerű helyi úti cél a marokkói Fez városában. Jellegzetes látványosságként egyaránt vonzza a járókelők és a turisták tekintetét. A látogatók itt megtapasztalhatják a város egyedülálló marokkói hangulatát.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "A Cremerie nevű látványosság zökkenőmentesen illeszkedik a marokkói Fez nyüzsgő életébe. Ez a helyi attrakció különleges vonzerejével sok városnéző érdeklődését felkelti. Csodálatos hely egy rövid megállóra, hogy hagyjuk magunkra hatni a környezetet.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "A marokkói Fez városában a jellegzetes Cofirad nevezetesség vár felfedezésre. Ez az érdekes látványosság izgalmas megállóhely egy városi séta során. A vendégek itt a helyi kulisszák egy újabb arcát ismerhetik meg.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "A Cendrillon egy városi nevezetesség a marokkói Fez metropoliszban. A városi attrakciók részeként sajátos karaktert kölcsönöz a negyednek. Az utazók szívesen tartanak itt pihenőt, hogy megfigyeljék a városi marokkói életet.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Művészeti központ Fesben.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Vallási emlékhely Fesben.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Művészeti központ Fesben.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Művészeti galéria Fesben.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "A Sandwich Benmaseoud attrakció érdekes úti célt jelent a marokkói Fez városában. Ez a helyi látványosság felkelti a felfedezők és a járókelők figyelmét. Gazdagítja a városképet, és a környék alaposabb felfedezésére hívogat.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Művészeti galéria Fesben.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "A Grillade Brahim nevezetesség szerves része a marokkói Fez városi tájképének. Az ilyen jellegzetes attrakciók adják a marokkói metropolisz varázsát. A látogatók nagyra értékelik ezt a helyet a kiterjedt városnézések során.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "A Salle des fêtes Jamai a marokkói Fez egyik látványos helyi nevezetessége. Ez a városi attrakció kiemelkedik az utcaképből a jelenlétével. Izgalmas fotótéma mindazok számára, akik meg akarják örökíteni Fez építészetét és hangulatát.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "A történelmi Fes városában található New Boussole Travel egy helyi nevezetesség. A Marokkót felfedező látogatók a város nyüzsgő utcáin sétálva találkozhatnak ezzel a látványossággal.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "A Fesben található Royal air maroc helyszíne a város egyik figyelemre méltó nevezetességeként ismert. A Marokkóban utazók a helyi városkép részeként találkozhatnak ezzel a ponttal.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Történelmi emlékmű Fesben.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "A Quartier Mellah egy fontos nevezetesség, amely a marokkói Fes városában található. A területen sétálók megtapasztalhatják ennek a hagyományos negyednek az egyedi hangulatát és elrendezését.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Kilátópont Fesben.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Művészeti központ Fesben.", "category": "cultural", "coords": [-5.00282, 34.041957]}], "ro": [{"name": "Palais Royal القصر الملكي", "text": "Palatul Regal din Fes, o construcție istorică.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Muzeu în Fes.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Castel în Fes.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "باب السمارين Bab Semmarine", "text": "Poartă istorică în Fes.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil جنان السبيل", "text": "Grădinile Jnan Sbil sunt un parc istoric în Fes.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "Atracția Cass-croute este o destinație locală populară în Fes, Maroc. Ca reper caracteristic, atrage deopotrivă atenția trecătorilor și a turiștilor. Vizitatorii pot simți aici flerul marocan unic al orașului.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "Reperul Cremerie se integrează perfect în agitația din Fes, Maroc. Această atracție locală trezește interesul multor vizitatori ai orașului prin farmecul său deosebit. Este un loc minunat pentru a te opri un moment și a lăsa împrejurimile să te inspire.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "În orașul marocan Fes, reperul distinctiv Cofirad așteaptă să fie descoperit. Această atracție interesantă este un punct de oprire captivant în timpul unei plimbări prin oraș. Oaspeții pot experimenta aici o altă fațetă a decorului local.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "Cendrillon este un reper urban din metropola Fes din Maroc. Ca parte a atracțiilor urbane, conferă cartierului propriul său caracter. Călătorii se opresc cu plăcere aici pentru a observa viața urbană marocană.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Centru de artă în Fes.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Loc de atracție în Fes.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Centru de artă în Fes.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Galerie de artă în Fes.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "Atracția Sandwich Benmaseoud reprezintă o destinație interesantă în orașul marocan Fes. Acest reper local atrage atenția exploratorilor și a trecătorilor. Îmbogățește peisajul urban și invită la explorarea mai îndeaproape a zonei.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Galerie de artă în Fes.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "Reperul Grillade Brahim este o parte integrantă a peisajului urban din Fes, Maroc. Astfel de atracții caracteristice alcătuiesc farmecul metropolei marocane. Vizitatorii apreciază acest loc în timpul explorărilor lor extinse ale orașului.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "Salle des fêtes Jamai se numără printre reperele locale demne de văzut în Fes, Maroc. Această atracție urbană iese în evidență prin prezența sa pe stradă. Este un subiect foto interesant pentru toți cei care doresc să surprindă arhitectura și flerul din Fes.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "Situat în orașul istoric Fes, New Boussole Travel servește drept un punct de reper local. Vizitatorii care explorează Marocul pot găsi această atracție în timp ce navighează pe străzile vibrante ale orașului.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "Situată în Fes, locația Royal air maroc este recunoscută ca un reper notabil al orașului. Călătorii din Maroc vor întâlni acest loc specific ca parte a peisajului urban local.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Monument istoric în Fes.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "Quartier Mellah este un cartier de referință important situat în orașul Fes, Maroc. Cei care se plimbă prin zonă se pot aștepta să experimenteze atmosfera și dispunerea unică a acestui cartier tradițional.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Punct de observație în Fes.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Centru de artă în Fes.", "category": "cultural", "coords": [-5.00282, 34.041957]}], "en": [{"name": "Royal Palace", "text": "Royal Palace in Fes, a historic structure.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Museum in Fes.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Castle in Fes.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "Bab Semmarine", "text": "Historic monument in Fes.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil Gardens", "text": "Jnan Sbil Gardens are a historic park in Fes.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "The Cass-croute attraction is a popular local destination in Fes, Morocco. As a characteristic landmark, it catches the eye of passersby and tourists alike. Visitors can feel the unique Moroccan flair of the city here.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "The Cremerie landmark blends seamlessly into the hustle and bustle of Fes, Morocco. This local attraction piques the interest of many city visitors with its special charm. It is a wonderful place to stop briefly and take in the surroundings.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "In the Moroccan city of Fes, the distinctive Cofirad landmark waits to be discovered. This interesting attraction is an exciting stopping point during a walk through the city. Guests can experience another facet of the local scenery here.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "Cendrillon is an urban landmark in the metropolis of Fes, Morocco. As part of the city's attractions, it gives the neighborhood its own character. Travelers like to make a stopover here to observe urban Moroccan life.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Arts centre in Fes.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Attraction in Fes.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Arts centre in Fes.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Art gallery in Fes.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "The Sandwich Benmaseoud attraction represents an interesting destination in the Moroccan city of Fes. This local landmark attracts the attention of explorers and passersby. It enriches the cityscape and invites further exploration of the area.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Art gallery in Fes.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "The Grillade Brahim landmark is an integral part of the urban landscape of Fes, Morocco. Such characteristic attractions make up the charm of the Moroccan metropolis. Visitors appreciate this place during their extensive city explorations.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "The Salle des fêtes Jamai is among the local landmarks worth seeing in Fes, Morocco. This urban attraction stands out through its presence in the streetscape. It is an exciting photo opportunity for anyone wishing to capture the architecture and flair of Fes.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "Located in the historic city of Fes, New Boussole Travel serves as a local landmark. Visitors exploring Morocco can find this attraction while navigating the vibrant streets of the city.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "Situated in Fes, the Royal air maroc location is recognized as a notable city landmark. Travelers in Morocco will encounter this specific spot as part of the local urban landscape.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Historic monument in Fes.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "Quartier Mellah is an important landmark district nestled within the city of Fes, Morocco. Those wandering through the area can expect to experience the unique atmosphere and layout of this traditional quarter.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Viewpoint in Fes.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Arts centre in Fes.", "category": "cultural", "coords": [-5.00282, 34.041957]}]},
+    id: "ma-fes-cities-v2", "sights": {"de": [{"name": "Palais Royal القصر الملكي", "text": "Königspalast in Fes, ein historisches Bauwerk.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Museum in Fes.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Festung in Fes.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "باب السمارين Bab Semmarine", "text": "Historisches Tor in Fes.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil جنان السبيل", "text": "Die Jnan Sbil Gärten sind eine historische Parkanlage in Fes.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "Die Sehenswürdigkeit Cass-croute ist ein beliebtes lokales Ziel in Fes, Marokko. Als charakteristisches Wahrzeichen zieht sie die Blicke von Passanten und Touristen gleichermaßen an. Besucher können hier das einzigartige marokkanische Flair der Stadt spüren.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "Das Wahrzeichen Cremerie fügt sich nahtlos in das geschäftige Treiben von Fes in Marokko ein. Diese lokale Attraktion weckt das Interesse vieler Stadtbesucher durch ihren besonderen Charme. Es ist ein wunderbarer Ort, um kurz haltzumachen und die Umgebung auf sich wirken zu lassen.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "In der marokkanischen Stadt Fes wartet das markante Wahrzeichen Cofirad auf seine Entdeckung. Diese interessante Attraktion ist ein spannender Anlaufpunkt bei einem Spaziergang durch die Stadt. Gäste können hier einen weiteren Facettenreichtum der örtlichen Kulisse erleben.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "Cendrillon ist ein städtisches Wahrzeichen in der Metropole Fes in Marokko. Als Teil der städtischen Attraktionen verleiht es dem Viertel seinen eigenen Charakter. Reisende legen hier gerne einen Zwischenstopp ein, um das urbane marokkanische Leben zu beobachten.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Kunstzentrum in Fes.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Religiöse Stätte in Fes.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Kunstzentrum in Fes.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Kunstgalerie in Fes.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "Die Attraktion Sandwich Benmaseoud stellt ein interessantes Ziel in der marokkanischen Stadt Fes dar. Dieses lokale Wahrzeichen zieht die Aufmerksamkeit von Entdeckern und Passanten auf sich. Es bereichert das Stadtbild und lädt dazu ein, die Gegend näher zu erkunden.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Kunstgalerie in Fes.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "Das Wahrzeichen Grillade Brahim ist fester Bestandteil der städtischen Landschaft von Fes, Marokko. Solche charakteristischen Attraktionen machen den Charme der marokkanischen Metropole aus. Besucher schätzen diesen Ort während ihrer ausgiebigen Stadterkundungen.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "Die Salle des fêtes Jamai zählt zu den sehenswerten lokalen Wahrzeichen im marokkanischen Fes. Diese städtische Attraktion sticht durch ihre Präsenz im Straßenbild hervor. Sie ist ein spannendes Fotomotiv für alle, die die Architektur und das Flair von Fes festhalten möchten.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "Das New Boussole Travel befindet sich in der historischen Stadt Fes und gilt als lokales Wahrzeichen. Besucher Marokkos können diese Attraktion entdecken, während sie die belebten Straßen der Stadt erkunden.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "Der Standort der Royal air maroc in Fes ist als bemerkenswertes Wahrzeichen der Stadt bekannt. Reisende in Marokko werden diesen bestimmten Ort als Teil der lokalen Stadtlandschaft antreffen.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Historisches Denkmal in Fes.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "Das Quartier Mellah ist ein wichtiges Wahrzeichen, das in der Stadt Fes in Marokko eingebettet ist. Wer durch diese Gegend schlendert, kann die einzigartige Atmosphäre und die Anlage dieses traditionellen Viertels erleben.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Aussichtspunkt in Fes.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Kunstzentrum in Fes.", "category": "cultural", "coords": [-5.00282, 34.041957]}], "hu": [{"name": "Palais Royal القصر الملكي", "text": "Királyi palota Fesben, történelmi építmény.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Múzeum Fesben.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Erődítmény Fesben.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "باب السمارين Bab Semmarine", "text": "Történelmi kapu Fesben.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil kertek", "text": "A Jnan Sbil kertek egy történelmi park Fesben.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "A Cass-croute nevezetesség egy népszerű helyi úti cél a marokkói Fez városában. Jellegzetes látványosságként egyaránt vonzza a járókelők és a turisták tekintetét. A látogatók itt megtapasztalhatják a város egyedülálló marokkói hangulatát.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "A Cremerie nevű látványosság zökkenőmentesen illeszkedik a marokkói Fez nyüzsgő életébe. Ez a helyi attrakció különleges vonzerejével sok városnéző érdeklődését felkelti. Csodálatos hely egy rövid megállóra, hogy hagyjuk magunkra hatni a környezetet.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "A marokkói Fez városában a jellegzetes Cofirad nevezetesség vár felfedezésre. Ez az érdekes látványosság izgalmas megállóhely egy városi séta során. A vendégek itt a helyi kulisszák egy újabb arcát ismerhetik meg.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "A Cendrillon egy városi nevezetesség a marokkói Fez metropoliszban. A városi attrakciók részeként sajátos karaktert kölcsönöz a negyednek. Az utazók szívesen tartanak itt pihenőt, hogy megfigyeljék a városi marokkói életet.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Művészeti központ Fesben.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Vallási emlékhely Fesben.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Művészeti központ Fesben.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Művészeti galéria Fesben.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "A Sandwich Benmaseoud attrakció érdekes úti célt jelent a marokkói Fez városában. Ez a helyi látványosság felkelti a felfedezők és a járókelők figyelmét. Gazdagítja a városképet, és a környék alaposabb felfedezésére hívogat.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Művészeti galéria Fesben.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "A Grillade Brahim nevezetesség szerves része a marokkói Fez városi tájképének. Az ilyen jellegzetes attrakciók adják a marokkói metropolisz varázsát. A látogatók nagyra értékelik ezt a helyet a kiterjedt városnézések során.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "A Salle des fêtes Jamai a marokkói Fez egyik látványos helyi nevezetessége. Ez a városi attrakció kiemelkedik az utcaképből a jelenlétével. Izgalmas fotótéma mindazok számára, akik meg akarják örökíteni Fez építészetét és hangulatát.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "A történelmi Fes városában található New Boussole Travel egy helyi nevezetesség. A Marokkót felfedező látogatók a város nyüzsgő utcáin sétálva találkozhatnak ezzel a látványossággal.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "A Fesben található Royal air maroc helyszíne a város egyik figyelemre méltó nevezetességeként ismert. A Marokkóban utazók a helyi városkép részeként találkozhatnak ezzel a ponttal.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Történelmi emlékmű Fesben.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "A Quartier Mellah egy fontos nevezetesség, amely a marokkói Fes városában található. A területen sétálók megtapasztalhatják ennek a hagyományos negyednek az egyedi hangulatát és elrendezését.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Kilátópont Fesben.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Művészeti központ Fesben.", "category": "cultural", "coords": [-5.00282, 34.041957]}], "ro": [{"name": "Palais Royal القصر الملكي", "text": "Palatul Regal din Fes, o construcție istorică.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Muzeu în Fes.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Castel în Fes.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "باب السمارين Bab Semmarine", "text": "Poartă istorică în Fes.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil جنان السبيل", "text": "Grădinile Jnan Sbil sunt un parc istoric în Fes.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "Atracția Cass-croute este o destinație locală populară în Fes, Maroc. Ca reper caracteristic, atrage deopotrivă atenția trecătorilor și a turiștilor. Vizitatorii pot simți aici flerul marocan unic al orașului.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "Reperul Cremerie se integrează perfect în agitația din Fes, Maroc. Această atracție locală trezește interesul multor vizitatori ai orașului prin farmecul său deosebit. Este un loc minunat pentru a te opri un moment și a lăsa împrejurimile să te inspire.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "În orașul marocan Fes, reperul distinctiv Cofirad așteaptă să fie descoperit. Această atracție interesantă este un punct de oprire captivant în timpul unei plimbări prin oraș. Oaspeții pot experimenta aici o altă fațetă a decorului local.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "Cendrillon este un reper urban din metropola Fes din Maroc. Ca parte a atracțiilor urbane, conferă cartierului propriul său caracter. Călătorii se opresc cu plăcere aici pentru a observa viața urbană marocană.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Centru de artă în Fes.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Loc de atracție în Fes.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Centru de artă în Fes.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Galerie de artă în Fes.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "Atracția Sandwich Benmaseoud reprezintă o destinație interesantă în orașul marocan Fes. Acest reper local atrage atenția exploratorilor și a trecătorilor. Îmbogățește peisajul urban și invită la explorarea mai îndeaproape a zonei.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Galerie de artă în Fes.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "Reperul Grillade Brahim este o parte integrantă a peisajului urban din Fes, Maroc. Astfel de atracții caracteristice alcătuiesc farmecul metropolei marocane. Vizitatorii apreciază acest loc în timpul explorărilor lor extinse ale orașului.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "Salle des fêtes Jamai se numără printre reperele locale demne de văzut în Fes, Maroc. Această atracție urbană iese în evidență prin prezența sa pe stradă. Este un subiect foto interesant pentru toți cei care doresc să surprindă arhitectura și flerul din Fes.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "Situat în orașul istoric Fes, New Boussole Travel servește drept un punct de reper local. Vizitatorii care explorează Marocul pot găsi această atracție în timp ce navighează pe străzile vibrante ale orașului.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "Situată în Fes, locația Royal air maroc este recunoscută ca un reper notabil al orașului. Călătorii din Maroc vor întâlni acest loc specific ca parte a peisajului urban local.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Monument istoric în Fes.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "Quartier Mellah este un cartier de referință important situat în orașul Fes, Maroc. Cei care se plimbă prin zonă se pot aștepta să experimenteze atmosfera și dispunerea unică a acestui cartier tradițional.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Punct de observație în Fes.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Centru de artă în Fes.", "category": "cultural", "coords": [-5.00282, 34.041957]}], "en": [{"name": "Royal Palace", "text": "Royal Palace in Fes, a historic structure.", "category": "castle", "coords": [-4.993727, 34.055273]}, {"name": "Musée Meryem", "text": "Museum in Fes.", "category": "museum", "coords": [-5.009804, 34.038677]}, {"name": "Borj Sidi Bounafae", "text": "Castle in Fes.", "category": "castle", "coords": [-4.988737, 34.053403]}, {"name": "Bab Semmarine", "text": "Historic monument in Fes.", "category": "historical", "coords": [-4.989977, 34.054261]}, {"name": "Jnan Sbil Gardens", "text": "Jnan Sbil Gardens are a historic park in Fes.", "category": "park", "coords": [-4.987844, 34.058555]}, {"name": "Cass-croute", "text": "The Cass-croute attraction is a popular local destination in Fes, Morocco. As a characteristic landmark, it catches the eye of passersby and tourists alike. Visitors can feel the unique Moroccan flair of the city here.", "category": "landmark", "coords": [-4.997662, 34.045097]}, {"name": "Cremerie", "text": "The Cremerie landmark blends seamlessly into the hustle and bustle of Fes, Morocco. This local attraction piques the interest of many city visitors with its special charm. It is a wonderful place to stop briefly and take in the surroundings.", "category": "landmark", "coords": [-4.997296, 34.04036]}, {"name": "Cofirad", "text": "In the Moroccan city of Fes, the distinctive Cofirad landmark waits to be discovered. This interesting attraction is an exciting stopping point during a walk through the city. Guests can experience another facet of the local scenery here.", "category": "landmark", "coords": [-4.996762, 34.042342]}, {"name": "Cendrillon", "text": "Cendrillon is an urban landmark in the metropolis of Fes, Morocco. As part of the city's attractions, it gives the neighborhood its own character. Travelers like to make a stopover here to observe urban Moroccan life.", "category": "landmark", "coords": [-4.998513, 34.039714]}, {"name": "Word @ work", "text": "Arts centre in Fes.", "category": "cultural", "coords": [-4.998836, 34.037402]}, {"name": "Zaouia of Moulay Idriss II", "text": "Attraction in Fes.", "category": "landmark", "coords": [-4.987665, 34.054548]}, {"name": "Fly center plus", "text": "Arts centre in Fes.", "category": "cultural", "coords": [-4.996192, 34.037903]}, {"name": "Orientaliste Art Gallery", "text": "Art gallery in Fes.", "category": "museum", "coords": [-4.995425, 34.035815]}, {"name": "Sandwich Benmaseoud", "text": "The Sandwich Benmaseoud attraction represents an interesting destination in the Moroccan city of Fes. This local landmark attracts the attention of explorers and passersby. It enriches the cityscape and invites further exploration of the area.", "category": "landmark", "coords": [-4.985331, 34.024652]}, {"name": "Art shows alami", "text": "Art gallery in Fes.", "category": "museum", "coords": [-5.005712, 34.017663]}, {"name": "Grillade Brahim", "text": "The Grillade Brahim landmark is an integral part of the urban landscape of Fes, Morocco. Such characteristic attractions make up the charm of the Moroccan metropolis. Visitors appreciate this place during their extensive city explorations.", "category": "landmark", "coords": [-4.992407, 34.016813]}, {"name": "Salle des fêtes Jamai", "text": "The Salle des fêtes Jamai is among the local landmarks worth seeing in Fes, Morocco. This urban attraction stands out through its presence in the streetscape. It is an exciting photo opportunity for anyone wishing to capture the architecture and flair of Fes.", "category": "landmark", "coords": [-4.993713, 34.01635]}, {"name": "New Boussole Travel", "text": "Located in the historic city of Fes, New Boussole Travel serves as a local landmark. Visitors exploring Morocco can find this attraction while navigating the vibrant streets of the city.", "category": "landmark", "coords": [-5.006469, 34.013738]}, {"name": "Royal air maroc", "text": "Situated in Fes, the Royal air maroc location is recognized as a notable city landmark. Travelers in Morocco will encounter this specific spot as part of the local urban landscape.", "category": "landmark", "coords": [-4.998125, 34.043794]}, {"name": "Bab Dekkakin", "text": "Historic monument in Fes.", "category": "historical", "coords": [-4.991308, 34.058592]}, {"name": "Quartier Mellah", "text": "Quartier Mellah is an important landmark district nestled within the city of Fes, Morocco. Those wandering through the area can expect to experience the unique atmosphere and layout of this traditional quarter.", "category": "landmark", "coords": [-4.991981, 34.052949]}, {"name": "منزل يهودي", "text": "Viewpoint in Fes.", "category": "natural", "coords": [-4.992609, 34.051982]}, {"name": "Complexe Culturel Al Houria المركب الثقافي الحرية", "text": "Arts centre in Fes.", "category": "cultural", "coords": [-5.00282, 34.041957]}]},
     type: "city",
     parent: "MA-03",
     coords: [-5.0003, 34.0331],
@@ -2490,7 +2490,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Dar El Bacha\n دار الباشا",
+                  "name": "Acest muzeu din Marrakech",
                   "text": "Acest muzeu din Marrakech este situat într-un palat magnific care a aparținut odată lui Thami El Glaoui.",
                   "category": "museum",
                   "coords": [
@@ -2733,7 +2733,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquee Berrima مسجد بريمة",
+                  "name": "Această moschee istorică din Marrakech",
                   "text": "Această moschee istorică din Marrakech este strâns legată de kasbah-ul regal.",
                   "category": "religious",
                   "coords": [
@@ -3146,7 +3146,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais des Institutions Italienns قصر المؤسسات الإيطالية",
+                  "name": "Palace of Italian Institutions",
                   "text": "Der Palace of Italian Institutions ist ein historisches Kunstzentrum in Tanger.",
                   "category": "cultural",
                   "coords": [
@@ -3164,7 +3164,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée Tariq Ibn Ziad مسجد طارق بن زياد",
+                  "name": "Große Moschee von Tanger",
                   "text": "Die Große Moschee von Tanger ist ein historisches islamisches Gotteshaus im Herzen der Stadt.",
                   "category": "religious",
                   "coords": [
@@ -3211,7 +3211,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais des Institutions Italienns قصر المؤسسات الإيطالية",
+                  "name": "Palace of Italian Institutions",
                   "text": "A Palace of Italian Institutions egy történelmi művészeti központ Tangerben.",
                   "category": "cultural",
                   "coords": [
@@ -3229,7 +3229,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée Tariq Ibn Ziad مسجد طارق بن زياد",
+                  "name": "tangeri Nagymecset",
                   "text": "A tangeri Nagymecset egy történelmi iszlám istentiszteleti hely a város szívében.",
                   "category": "religious",
                   "coords": [
@@ -3238,7 +3238,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de San Andrés كنيسة القديس أندرو",
+                  "name": "Szent András-templom",
                   "text": "A Szent András-templom egy jól ismert anglikán istentiszteleti hely Tangerben.",
                   "category": "religious",
                   "coords": [
@@ -3276,7 +3276,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais des Institutions Italienns قصر المؤسسات الإيطالية",
+                  "name": "Palatul Instituțiilor Italiene",
                   "text": "Palatul Instituțiilor Italiene este un centru de artă istoric din Tanger.",
                   "category": "cultural",
                   "coords": [
@@ -3294,7 +3294,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée Tariq Ibn Ziad مسجد طارق بن زياد",
+                  "name": "Marea Moschee din Tanger",
                   "text": "Marea Moschee din Tanger este un lăcaș de cult islamic istoric situat în inima orașului.",
                   "category": "religious",
                   "coords": [
@@ -3303,7 +3303,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de San Andrés كنيسة القديس أندرو",
+                  "name": "Biserica Sf. Andrei",
                   "text": "Biserica Sf. Andrei este un cunoscut lăcaș de cult anglican situat în Tanger.",
                   "category": "religious",
                   "coords": [
@@ -3368,7 +3368,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de San Andrés كنيسة القديس أندرو",
+                  "name": "St. Andrew's Church",
                   "text": "St. Andrew's Church is a well-known Anglican place of worship located in Tangier.",
                   "category": "religious",
                   "coords": [
@@ -3521,7 +3521,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
     id: "ma-meknes-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+                  "name": "Mausoleum von Moulay Ismail",
                   "text": "Das Mausoleum von Moulay Ismail ist ein Museum in Meknès, das dem bedeutenden marokkanischen Sultan gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -3566,7 +3566,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بالقاري",
+                  "name": "Bab el Kari",
                   "text": "Bab el Kari ist eine Burganlage in Meknès.",
                   "category": "castle",
                   "coords": [
@@ -3575,7 +3575,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais Royal القصر الملكي",
+                  "name": "Palais Royal",
                   "text": "Das Palais Royal ist eine königliche Burganlage in Meknès.",
                   "category": "castle",
                   "coords": [
@@ -3602,7 +3602,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab bouamair باب بوعمير",
+                  "name": "Bab bouamair",
                   "text": "Bab bouamair ist ein historisches Denkmal in Meknès.",
                   "category": "historical",
                   "coords": [
@@ -3611,7 +3611,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "name": "Bab Rha",
                   "text": "Bab Rha ist ein historisches Tor und Denkmal in Meknès.",
                   "category": "historical",
                   "coords": [
@@ -3665,7 +3665,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساحة الهديم",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist eine öffentliche Sehenswürdigkeit in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3683,7 +3683,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب سيدي عمر",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist ein historisches Tor und eine Attraktion in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3692,7 +3692,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بريمة",
+                  "name": "Dieses Bauwerk",
                   "text": "Dieses Bauwerk ist ein historisches Denkmal in Meknès.",
                   "category": "historical",
                   "coords": [
@@ -3701,7 +3701,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الدار الكبيرة",
+                  "name": "Dieses Tor",
                   "text": "Dieses Tor ist eine Sehenswürdigkeit in der Stadt Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3710,7 +3710,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب تيزمي",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist eine lokale Touristenattraktion in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3719,7 +3719,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب فيلالة",
+                  "name": "Diese historische Stätte",
                   "text": "Diese historische Stätte ist eine Sehenswürdigkeit in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3728,7 +3728,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب عقبة زيدان",
+                  "name": "Dieses Tor",
                   "text": "Dieses Tor ist eine Sehenswürdigkeit in der Stadt Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3737,7 +3737,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الأنوار",
+                  "name": "Dieses Bauwerk",
                   "text": "Dieses Bauwerk ist eine Sehenswürdigkeit in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3755,7 +3755,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب سراغ",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist eine bemerkenswerte Sehenswürdigkeit in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3773,7 +3773,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بين القباب",
+                  "name": "Dieses architektonische Tor",
                   "text": "Dieses architektonische Tor ist eine Sehenswürdigkeit in Meknès.",
                   "category": "landmark",
                   "coords": [
@@ -3800,7 +3800,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "name": "Dieses Jugendhaus",
                   "text": "Dieses Jugendhaus ist ein Kunstzentrum in Meknès.",
                   "category": "cultural",
                   "coords": [
@@ -3847,7 +3847,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+                  "name": "Moulay Ismail mauzóleum",
                   "text": "A Moulay Ismail mauzóleum egy múzeum Mekneszben, amelyet a jelentős marokkói szultánnak szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -3892,7 +3892,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بالقاري",
+                  "name": "Bab el Kari",
                   "text": "A Bab el Kari egy kastélyépület Mekneszben.",
                   "category": "castle",
                   "coords": [
@@ -3901,7 +3901,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais Royal القصر الملكي",
+                  "name": "Palais Royal",
                   "text": "A Palais Royal egy királyi palota és kastély Mekneszben.",
                   "category": "castle",
                   "coords": [
@@ -3928,7 +3928,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab bouamair باب بوعمير",
+                  "name": "Bab bouamair",
                   "text": "A Bab bouamair egy történelmi emlékmű Meknesz városában.",
                   "category": "historical",
                   "coords": [
@@ -3937,7 +3937,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "name": "Bab Rha",
                   "text": "A Bab Rha egy történelmi kapu és emlékmű Mekneszben.",
                   "category": "historical",
                   "coords": [
@@ -4173,7 +4173,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+                  "name": "Mausoleul lui Moulay Ismail",
                   "text": "Mausoleul lui Moulay Ismail este un muzeu din Meknes, dedicat notabilului sultan marocan.",
                   "category": "museum",
                   "coords": [
@@ -4218,7 +4218,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بالقاري",
+                  "name": "Bab el Kari",
                   "text": "Bab el Kari este un castel situat în Meknes.",
                   "category": "castle",
                   "coords": [
@@ -4227,7 +4227,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais Royal القصر الملكي",
+                  "name": "Palais Royal",
                   "text": "Palais Royal este un castel și complex monumental din Meknes.",
                   "category": "castle",
                   "coords": [
@@ -4254,7 +4254,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab bouamair باب بوعمير",
+                  "name": "Bab bouamair",
                   "text": "Bab bouamair este un monument istoric situat în Meknes.",
                   "category": "historical",
                   "coords": [
@@ -4263,7 +4263,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "name": "Bab Rha",
                   "text": "Bab Rha este o poartă istorică și un monument din Meknes.",
                   "category": "historical",
                   "coords": [
@@ -4317,7 +4317,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساحة الهديم",
+                  "name": "Acest loc",
                   "text": "Acest loc este o atracție publică situată în Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4335,7 +4335,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب سيدي عمر",
+                  "name": "Acest loc",
                   "text": "Acest loc este o poartă istorică și o atracție în Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4344,7 +4344,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بريمة",
+                  "name": "Această structură",
                   "text": "Această structură este un monument istoric din Meknes.",
                   "category": "historical",
                   "coords": [
@@ -4353,7 +4353,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الدار الكبيرة",
+                  "name": "Această poartă",
                   "text": "Această poartă este o atracție situată în orașul Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4371,7 +4371,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب فيلالة",
+                  "name": "Acest sit istoric",
                   "text": "Acest sit istoric este o atracție situată în Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4380,7 +4380,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب عقبة زيدان",
+                  "name": "Această poartă",
                   "text": "Această poartă este o atracție în orașul Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4389,7 +4389,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الأنوار",
+                  "name": "Această structură",
                   "text": "Această structură este o atracție situată în Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4398,7 +4398,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الخميس",
+                  "name": "Această poartă",
                   "text": "Această poartă este recunoscută ca o atracție în Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4407,7 +4407,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب سراغ",
+                  "name": "Acest loc",
                   "text": "Acest loc este o atracție notabilă din Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4425,7 +4425,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بين القباب",
+                  "name": "Această poartă arhitecturală",
                   "text": "Această poartă arhitecturală este o atracție în Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4452,7 +4452,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "name": "Această casă de tineret",
                   "text": "Această casă de tineret este un centru de arte situat în Meknes.",
                   "category": "cultural",
                   "coords": [
@@ -4553,7 +4553,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palais Royal القصر الملكي",
+                  "name": "Palais Royal",
                   "text": "Palais Royal is a royal castle and monumental complex located in Meknes.",
                   "category": "castle",
                   "coords": [
@@ -4580,7 +4580,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab bouamair باب بوعمير",
+                  "name": "Bab bouamair",
                   "text": "Bab bouamair is a historical monument located in Meknes.",
                   "category": "historical",
                   "coords": [
@@ -4589,7 +4589,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "name": "Bab Rha",
                   "text": "Bab Rha is a historic gate and monument located in Meknes.",
                   "category": "historical",
                   "coords": [
@@ -4643,7 +4643,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساحة الهديم",
+                  "name": "This site",
                   "text": "This site is a public attraction located in Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4661,7 +4661,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب سيدي عمر",
+                  "name": "This site",
                   "text": "This site is a historical gate attraction in Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4670,7 +4670,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بريمة",
+                  "name": "This structure",
                   "text": "This structure is a historical monument located in Meknes.",
                   "category": "historical",
                   "coords": [
@@ -4679,7 +4679,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الدار الكبيرة",
+                  "name": "This gate",
                   "text": "This gate is an attraction located in the city of Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4697,7 +4697,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب فيلالة",
+                  "name": "This historical site",
                   "text": "This historical site is an attraction situated in Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4715,7 +4715,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب الأنوار",
+                  "name": "This structure",
                   "text": "This structure is an attraction located in Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4733,7 +4733,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب سراغ",
+                  "name": "This place",
                   "text": "This place is a notable attraction located in Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4751,7 +4751,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بين القباب",
+                  "name": "This architectural gate",
                   "text": "This architectural gate is an attraction in Meknes.",
                   "category": "landmark",
                   "coords": [
@@ -4778,7 +4778,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "name": "This youth house",
                   "text": "This youth house is an arts centre located in Meknes.",
                   "category": "cultural",
                   "coords": [
@@ -4910,7 +4910,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "روما",
+                  "name": "Roma",
                   "text": "Roma ist ein lokales Theater, das als Veranstaltungsort für darstellende Künste in Oujda dient.",
                   "category": "cultural",
                   "coords": [
@@ -5047,7 +5047,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "روما",
+                  "name": "Roma",
                   "text": "A Roma egy helyi színház, amely előadóművészeti helyszínként szolgál Oujdában.",
                   "category": "cultural",
                   "coords": [
@@ -5184,7 +5184,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "روما",
+                  "name": "Roma",
                   "text": "Roma este un teatru local care servește drept spațiu pentru artele spectacolului în Oujda.",
                   "category": "cultural",
                   "coords": [
@@ -5744,7 +5744,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وفاء اسم على مسمى",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist ein Museum in der Stadt Tétouan.",
                   "category": "museum",
                   "coords": [
@@ -5780,7 +5780,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jbel Dersa جبل درسة",
+                  "name": "Jbel Dersa",
                   "text": "Jbel Dersa ist ein Berggipfel in Tétouan.",
                   "category": "natural",
                   "coords": [
@@ -5926,7 +5926,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jbel Dersa جبل درسة",
+                  "name": "Jbel Dersa",
                   "text": "A Jbel Dersa egy hegycsúcs Tetuánban.",
                   "category": "natural",
                   "coords": [
@@ -6036,7 +6036,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وفاء اسم على مسمى",
+                  "name": "Acest loc",
                   "text": "Acest loc este un muzeu situat în orașul Tetouan.",
                   "category": "museum",
                   "coords": [
@@ -6072,7 +6072,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jbel Dersa جبل درسة",
+                  "name": "Jbel Dersa",
                   "text": "Jbel Dersa este un vârf muntos din Tetouan.",
                   "category": "natural",
                   "coords": [
@@ -6182,7 +6182,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وفاء اسم على مسمى",
+                  "name": "This site",
                   "text": "This site is a museum located in the city of Tetouan.",
                   "category": "museum",
                   "coords": [
@@ -6218,7 +6218,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jbel Dersa جبل درسة",
+                  "name": "Jbel Dersa",
                   "text": "Jbel Dersa is a mountain peak located in Tetouan.",
                   "category": "natural",
                   "coords": [
@@ -6338,7 +6338,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Connue comme la 'colombe blanche', une ville au fort caractère andalou.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tetouan-cities-v2.webp"},
   {
-    id: "ma-safi-cities-v2", "sights": {"de": [{"name": "Plage de Safi شاطئ آسفي", "text": "Die Plage de Safi ist ein beliebter öffentlicher Sandstrand in Marokko, der weite Ausblicke auf den Ozean und pure Erholung bietet. Familien und Einheimische versammeln sich hier, um zu schwimmen, entspannte Spaziergänge zu unternehmen und die unbeschwerte Atmosphäre zu genießen. Der Strand verspricht ein klassisches maritimes Erlebnis, bei dem das Rauschen der Wellen den Takt vorgibt. An sonnigen Wochenenden spürt man hier die lebendige lokale Kultur besonders gut.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "قصر البحر", "text": "Qasr al-Bahr, das Meerschloss, ist eine historische Küstenfestung in Safi.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "Das Tajine-Monument ist eine groß angelegte Skulptur, die die berühmte traditionelle Töpferei von Safi feiert.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agrou ( Porte de Agrou) باب آكرو", "text": "Bab Agro ist ein historisches Stadttor, das Teil der traditionellen Mauern in Safi ist.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba", "text": "Bab Shaaba ist ein altes Eingangstor, das das architektonische Erbe von Safi präsentiert.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid باب الخديد", "text": "Bab Alkhadid ist eines der historischen Denkmäler, die die alte Verteidigung von Safi bilden.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "باب الجديد", "text": "Das Neue Tor, oder Bab El Jdid, ist ein markantes historisches Denkmal in Safi.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara باب المعصرة", "text": "Bab Almaesara ist ein monumentales Stadttor, das einen Einblick in die Geschichte von Safi bietet.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Cité des Arts مديمة الفنون", "text": "Arts City ist eine lokale Galerie, die sich der Ausstellung regionaler und zeitgenössischer Kunstwerke in Safi widmet.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "Die portugiesische Kathedrale weist alte architektonische Ruinen aus der portugiesischen Zeit in Safi auf.", "category": "historical", "coords": [-9.2416, 32.298507]}], "hu": [{"name": "Plage de Safi شاطئ آسفي", "text": "A Plage de Safi egy népszerű nyilvános homokos strand, amely széles óceáni kilátást és kellemes pihenést kínál Marokkóban. Családok és helyiek gyűlnek itt össze úszni, sétálni és élvezni a laza, tengerparti légkört. Klasszikus vízparti élményt nyújt, ahol a hullámok ritmusa határozza meg a tempót. Egy napfényes hétvégén ellátogatva igazán megtapasztalható a pezsgő helyi kultúra.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "قصر البحر", "text": "A Qasr al-Bahr, vagyis a Tengeri Kastély egy történelmi tengerparti erőd Safiban.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "A Tajine emlékmű egy nagyszabású szobor, amely Safi híres hagyományos kerámiáját ünnepli.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agrou ( Porte de Agrou) باب آكرو", "text": "A Bab Agro egy történelmi városkapu, amely a safi hagyományos falak részét képezi.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba باب الشعبة", "text": "A Bab Shaaba egy régi bejárati kapu, amely Safi építészeti örökségét mutatja be.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid باب الخديد", "text": "A Bab Alkhadid az egyik történelmi műemlék, amely Safi régi védműveit alkotja.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "باب الجديد", "text": "Az Új Kapu, vagy Bab El Jdid egy kiemelkedő történelmi emlékmű Safiban.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara باب المعصرة", "text": "A Bab Almaesara egy monumentális városkapu, amely bepillantást enged Safi történetébe.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Cité des Arts مديمة الفنون", "text": "Az Arts City egy helyi galéria, amely regionális és kortárs művészeti alkotások bemutatásának szenteli magát Safiban.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "A portugál katedrális ősi építészeti romokat rejt a portugál korszakból Safiban.", "category": "historical", "coords": [-9.2416, 32.298507]}], "ro": [{"name": "Plage de Safi شاطئ آسفي", "text": "Plage de Safi este o plajă publică populară de nisip din Maroc, oferind vederi ample asupra oceanului și un cadru ideal de relaxare. Familiile și localnicii se adună aici pentru a înota, a se plimba pe mal și a se bucura de atmosfera dezinvoltă. Acest loc oferă o experiență clasică la malul mării, unde ritmul valurilor dictează starea de spirit. O vizită într-un weekend însorit dezvăluie farmecul autentic al culturii locale.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "قصر البحر", "text": "Qasr al-Bahr, sau Castelul Mării, este o cetate istorică de coastă situată în Safi.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "Monumentul Tajine este o sculptură la scară largă care celebrează faimoasa olărit tradițională din Safi.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agrou ( Porte de Agrou) باب آكرو", "text": "Bab Agro este o poartă istorică a orașului care face parte din zidurile tradiționale din Safi.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba باب الشعبة", "text": "Bab Shaaba este o veche poartă de intrare care prezintă moștenirea arhitecturală a orașului Safi.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid باب الخديد", "text": "Bab Alkhadid este unul dintre monumentele istorice care formează vechea apărare a orașului Safi.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "باب الجديد", "text": "Poarta Nouă, sau Bab El Jdid, este un monument istoric proeminent situat în Safi.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara باب المعصرة", "text": "Bab Almaesara este o poartă monumentală a orașului care oferă o privire în istoria orașului Safi.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Cité des Arts مديمة الفنون", "text": "Arts City este o galerie locală dedicată expunerii operelor de artă regionale și contemporane din Safi.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "Catedrala Portugheză prezintă ruine arhitecturale antice din epoca portugheză în Safi.", "category": "historical", "coords": [-9.2416, 32.298507]}], "en": [{"name": "Plage de Safi شاطئ آسفي", "text": "Plage de Safi is a popular public sandy beach that offers sweeping ocean views and coastal relaxation in Morocco. Families and locals gather here to swim, enjoy leisurely strolls, and bask in the easygoing atmosphere. It provides a straightforward, classic seaside experience where the rhythm of the waves sets the pace. Visiting on a sunny weekend gives a true sense of the vibrant local culture.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "قصر البحر", "text": "Qasr al-Bahr, or the Sea Castle, is a historical coastal fortress situated in Safi.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "The Tajine monument is a large-scale sculpture celebrating Safi's famous traditional pottery.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agro (Gate of Agrou)", "text": "Bab Agro is a historic city gate that forms part of the traditional walls in Safi.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba باب الشعبة", "text": "Bab Shaaba is an old entrance gate showcasing the architectural heritage of Safi.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid باب الخديد", "text": "Bab Alkhadid is one of the historic monuments forming the old defenses of Safi.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "باب الجديد", "text": "The New Gate, or Bab El Jdid, is a prominent historical monument located in Safi.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara باب المعصرة", "text": "Bab Almaesara is a monumental city gate offering a glimpse into the history of Safi.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Arts City", "text": "Arts City is a local gallery dedicated to displaying regional and contemporary artwork in Safi.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "The Portuguese Cathedral features ancient architectural ruins from the Portuguese era in Safi.", "category": "historical", "coords": [-9.2416, 32.298507]}]},
+    id: "ma-safi-cities-v2", "sights": {"de": [{"name": "Plage de Safi", "text": "Die Plage de Safi ist ein beliebter öffentlicher Sandstrand in Marokko, der weite Ausblicke auf den Ozean und pure Erholung bietet. Familien und Einheimische versammeln sich hier, um zu schwimmen, entspannte Spaziergänge zu unternehmen und die unbeschwerte Atmosphäre zu genießen. Der Strand verspricht ein klassisches maritimes Erlebnis, bei dem das Rauschen der Wellen den Takt vorgibt. An sonnigen Wochenenden spürt man hier die lebendige lokale Kultur besonders gut.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "Qasr al-Bahr, das Meerschloss", "text": "Qasr al-Bahr, das Meerschloss, ist eine historische Küstenfestung in Safi.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "Das Tajine-Monument ist eine groß angelegte Skulptur, die die berühmte traditionelle Töpferei von Safi feiert.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agro", "text": "Bab Agro ist ein historisches Stadttor, das Teil der traditionellen Mauern in Safi ist.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba", "text": "Bab Shaaba ist ein altes Eingangstor, das das architektonische Erbe von Safi präsentiert.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid باب الخديد", "text": "Bab Alkhadid ist eines der historischen Denkmäler, die die alte Verteidigung von Safi bilden.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "Neue Tor, oder Bab El Jdid", "text": "Das Neue Tor, oder Bab El Jdid, ist ein markantes historisches Denkmal in Safi.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara", "text": "Bab Almaesara ist ein monumentales Stadttor, das einen Einblick in die Geschichte von Safi bietet.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Arts City", "text": "Arts City ist eine lokale Galerie, die sich der Ausstellung regionaler und zeitgenössischer Kunstwerke in Safi widmet.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "Die portugiesische Kathedrale weist alte architektonische Ruinen aus der portugiesischen Zeit in Safi auf.", "category": "historical", "coords": [-9.2416, 32.298507]}], "hu": [{"name": "Plage de Safi", "text": "A Plage de Safi egy népszerű nyilvános homokos strand, amely széles óceáni kilátást és kellemes pihenést kínál Marokkóban. Családok és helyiek gyűlnek itt össze úszni, sétálni és élvezni a laza, tengerparti légkört. Klasszikus vízparti élményt nyújt, ahol a hullámok ritmusa határozza meg a tempót. Egy napfényes hétvégén ellátogatva igazán megtapasztalható a pezsgő helyi kultúra.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "Qasr al-Bahr, vagyis", "text": "A Qasr al-Bahr, vagyis a Tengeri Kastély egy történelmi tengerparti erőd Safiban.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "A Tajine emlékmű egy nagyszabású szobor, amely Safi híres hagyományos kerámiáját ünnepli.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agro", "text": "A Bab Agro egy történelmi városkapu, amely a safi hagyományos falak részét képezi.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba", "text": "A Bab Shaaba egy régi bejárati kapu, amely Safi építészeti örökségét mutatja be.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid", "text": "A Bab Alkhadid az egyik történelmi műemlék, amely Safi régi védműveit alkotja.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "Új Kapu, vagy Bab El Jdid", "text": "Az Új Kapu, vagy Bab El Jdid egy kiemelkedő történelmi emlékmű Safiban.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara", "text": "A Bab Almaesara egy monumentális városkapu, amely bepillantást enged Safi történetébe.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Arts City", "text": "Az Arts City egy helyi galéria, amely regionális és kortárs művészeti alkotások bemutatásának szenteli magát Safiban.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "A portugál katedrális ősi építészeti romokat rejt a portugál korszakból Safiban.", "category": "historical", "coords": [-9.2416, 32.298507]}], "ro": [{"name": "Plage de Safi", "text": "Plage de Safi este o plajă publică populară de nisip din Maroc, oferind vederi ample asupra oceanului și un cadru ideal de relaxare. Familiile și localnicii se adună aici pentru a înota, a se plimba pe mal și a se bucura de atmosfera dezinvoltă. Acest loc oferă o experiență clasică la malul mării, unde ritmul valurilor dictează starea de spirit. O vizită într-un weekend însorit dezvăluie farmecul autentic al culturii locale.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "Qasr al-Bahr, sau Castelul Mării", "text": "Qasr al-Bahr, sau Castelul Mării, este o cetate istorică de coastă situată în Safi.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "Monumentul Tajine este o sculptură la scară largă care celebrează faimoasa olărit tradițională din Safi.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agro", "text": "Bab Agro este o poartă istorică a orașului care face parte din zidurile tradiționale din Safi.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba", "text": "Bab Shaaba este o veche poartă de intrare care prezintă moștenirea arhitecturală a orașului Safi.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid", "text": "Bab Alkhadid este unul dintre monumentele istorice care formează vechea apărare a orașului Safi.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "Poarta Nouă, sau Bab El Jdid", "text": "Poarta Nouă, sau Bab El Jdid, este un monument istoric proeminent situat în Safi.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara", "text": "Bab Almaesara este o poartă monumentală a orașului care oferă o privire în istoria orașului Safi.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Arts City", "text": "Arts City este o galerie locală dedicată expunerii operelor de artă regionale și contemporane din Safi.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "Catedrala Portugheză prezintă ruine arhitecturale antice din epoca portugheză în Safi.", "category": "historical", "coords": [-9.2416, 32.298507]}], "en": [{"name": "Plage de Safi", "text": "Plage de Safi is a popular public sandy beach that offers sweeping ocean views and coastal relaxation in Morocco. Families and locals gather here to swim, enjoy leisurely strolls, and bask in the easygoing atmosphere. It provides a straightforward, classic seaside experience where the rhythm of the waves sets the pace. Visiting on a sunny weekend gives a true sense of the vibrant local culture.", "category": "recreational", "coords": [-9.251881, 32.316777]}, {"name": "Qasr al-Bahr, or the Sea Castle", "text": "Qasr al-Bahr, or the Sea Castle, is a historical coastal fortress situated in Safi.", "category": "castle", "coords": [-9.244062, 32.297155]}, {"name": "Tajine", "text": "The Tajine monument is a large-scale sculpture celebrating Safi's famous traditional pottery.", "category": "landmark", "coords": [-9.233904, 32.294873]}, {"name": "Bab Agro (Gate of Agrou)", "text": "Bab Agro is a historic city gate that forms part of the traditional walls in Safi.", "category": "historical", "coords": [-9.23817, 32.298588]}, {"name": "Bab Shaaba", "text": "Bab Shaaba is an old entrance gate showcasing the architectural heritage of Safi.", "category": "historical", "coords": [-9.239828, 32.299824]}, {"name": "Bab Alkhadid", "text": "Bab Alkhadid is one of the historic monuments forming the old defenses of Safi.", "category": "historical", "coords": [-9.241816, 32.297582]}, {"name": "New Gate, or Bab El Jdid", "text": "The New Gate, or Bab El Jdid, is a prominent historical monument located in Safi.", "category": "historical", "coords": [-9.240549, 32.297637]}, {"name": "Bab Almaesara", "text": "Bab Almaesara is a monumental city gate offering a glimpse into the history of Safi.", "category": "historical", "coords": [-9.243071, 32.298821]}, {"name": "Arts City", "text": "Arts City is a local gallery dedicated to displaying regional and contemporary artwork in Safi.", "category": "museum", "coords": [-9.237094, 32.296623]}, {"name": "Cathédrale Portugaise", "text": "The Portuguese Cathedral features ancient architectural ruins from the Portuguese era in Safi.", "category": "historical", "coords": [-9.2416, 32.298507]}]},
     type: "city",
     parent: "MA-07",
     coords: [-9.2372, 32.2994],
@@ -6842,7 +6842,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "name": "Place de l'Indépendance",
                   "text": "Der Place de l'Indépendance ist eine Sehenswürdigkeit in Taza.",
                   "category": "landmark",
                   "coords": [
@@ -6853,7 +6853,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Parc national de Tazekka منتزه تازكة",
+                  "name": "Tazekka Nemzeti Park",
                   "text": "A Tazekka Nemzeti Park egy természeti rezervátum Taza közelében, amely tájairól és barlangjairól ismert.",
                   "category": "natural",
                   "coords": [
@@ -6871,7 +6871,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "name": "Place de l'Indépendance",
                   "text": "A Place de l'Indépendance egy látványosság Taza városában.",
                   "category": "landmark",
                   "coords": [
@@ -6882,7 +6882,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parc national de Tazekka منتزه تازكة",
+                  "name": "Parcul Național Tazekka",
                   "text": "Parcul Național Tazekka este o rezervație naturală din Taza, cunoscută pentru peisajele sale diverse.",
                   "category": "natural",
                   "coords": [
@@ -6900,7 +6900,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "name": "Place de l'Indépendance",
                   "text": "Place de l'Indépendance este o atracție turistică situată în Taza.",
                   "category": "landmark",
                   "coords": [
@@ -6929,7 +6929,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "name": "Place de l'Indépendance",
                   "text": "Place de l'Indépendance is a prominent tourist attraction situated in Taza.",
                   "category": "landmark",
                   "coords": [
@@ -7007,7 +7007,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
     id: "ma-nador-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mar Chica bay خليج مارتشيكا",
+                  "name": "Bucht Mar Chica",
                   "text": "Die Bucht Mar Chica bietet einen malerischen Küstenausblick über eine große Lagune in Nador.",
                   "category": "natural",
                   "coords": [
@@ -7016,7 +7016,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أحب الناظور",
+                  "name": "Schild „I love Nador“",
                   "text": "Das Schild „I love Nador“ ist eine beliebte moderne Attraktion und ein Fotomotiv in der Stadt.",
                   "category": "landmark",
                   "coords": [
@@ -7027,7 +7027,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mar Chica bay خليج مارتشيكا",
+                  "name": "Mar Chica-öböl festői tengerparti kilátást nyújt",
                   "text": "A Mar Chica-öböl festői tengerparti kilátást nyújt egy nagy lagúnára Nadorban.",
                   "category": "natural",
                   "coords": [
@@ -7036,7 +7036,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أحب الناظور",
+                  "name": "„I love Nador” felirat",
                   "text": "Az „I love Nador” felirat egy népszerű modern látványosság és fotóhely a városban.",
                   "category": "landmark",
                   "coords": [
@@ -7056,7 +7056,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أحب الناظور",
+                  "name": "Semnul „I love Nador”",
                   "text": "Semnul „I love Nador” este o atracție modernă populară și un loc de fotografiat în oraș.",
                   "category": "landmark",
                   "coords": [
@@ -8102,7 +8102,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
     id: "ma-berkane-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مسرح الهواء الطلق",
+                  "name": "Dieses Freilichttheater",
                   "text": "Dieses Freilichttheater ist ein Veranstaltungsort in der Stadt Berkane.",
                   "category": "cultural",
                   "coords": [
@@ -8124,7 +8124,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مسرح الهواء الطلق",
+                  "name": "Acest teatru în aer liber",
                   "text": "Acest teatru în aer liber este un loc de divertisment în orașul Berkane.",
                   "category": "cultural",
                   "coords": [
@@ -8135,7 +8135,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "مسرح الهواء الطلق",
+                  "name": "This open-air theatre",
                   "text": "This open-air theatre is an entertainment venue in the city of Berkane.",
                   "category": "cultural",
                   "coords": [
@@ -8210,7 +8210,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La capitale de la production d'agrumes au Maroc.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-berkane-cities-v2.webp"},
   {
-    id: "ma-al-hoceima-cities-v2", "sights": {"de": [{"name": "Playa Quemado", "text": "Playa Quemado ist ein malerischer lokaler Strand in der lebhaften Küstenstadt Al Hoceima in Marokko. Er ist ein sehr beliebter Ort, um in Ruhe zu schwimmen oder einfach entspannt im angenehmen Sand zu liegen. Durch die gastfreundliche, lokale Atmosphäre fühlt man sich am Meer sofort willkommen. Ein gutes Buch und eine Strandmatte garantieren hier einen wunderbar erholsamen Tag am Ozean.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "An der Küste von Al Hoceima erstreckt sich die Playa Cala Bonita, ein charmanter mediterraner Strand in Marokko. Dieser malerische Küstenstreifen bietet eine wunderbare Kulisse für Schwimmrunden im klaren Wasser und friedliche Spaziergänge am Ufer. Die Besucher schätzen die ruhige, wohltuende Atmosphäre, welche die Schönheit des Mittelmeers unterstreicht. Es ist die perfekte Wahl für Liebhaber beschaulicher Sommermorgen am Strand.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "Der Place Rif ist ein belebter öffentlicher Platz und eine Attraktion, die als Treffpunkt in Al Hoceima dient.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "annar n imjahden", "text": "Der Mohammed V Square ist eine wichtige Stadtattraktion in Al Hoceima, die dem historischen König gewidmet ist.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "كورنيش مورو ڤييخو", "text": "Cornice Morro Viejo bietet einen wunderbaren erhöhten Aussichtspunkt über das Meer in Al Hoceima.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "فضاء ميرامار", "text": "Miramar Space ist ein Aussichtspunkt an der Küste, der einen Panoramablick auf das Mittelmeer von Al Hoceima bietet.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "مورو ڤييخو", "text": "Moro viejo ist ein malerischer Aussichtspunkt, der sich perfekt eignet, um die Schönheit der Küste von Al Hoceima zu genießen.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "شاطيء الرمود", "text": "Der Rmod Beach ist eine schöne Attraktion am Meer, die Sonne und Sand in Al Hoceima bietet.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "شاطيء إيزدي", "text": "Der Izdhi Beach ist eine reizvolle Küstenattraktion, die sich perfekt für einen Spaziergang am Meer in Al Hoceima eignet.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "شاطيء مقطوعة", "text": "Der Maktoâa Beach bietet eine natürliche Uferattraktion für Einheimische und Touristen in Al Hoceima.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "الرهبان", "text": "Los Frailes ist ein Aussichtspunkt an der Küste, der für seine dramatischen Klippen und den Meerblick in Al Hoceima bekannt ist.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "شاطيء المطاديرو", "text": "Matadero Beach ist eine kleine und entspannende Küstenattraktion in der Stadt Al Hoceima.", "category": "landmark", "coords": [-3.923375, 35.236735]}], "hu": [{"name": "Playa Quemado", "text": "A Playa Quemado egy festői, helyi strand Marokkóban, Al Hoceima élénk tengerparti városában. Kifejezetten kedvelt helyszín a kényelmes úszáshoz és a finom homokban való heverészéshez. A barátságos, közösségi atmoszféra miatt a látogatók azonnal otthon érzik magukat a tengerparton. Egy jó könyvvel és egy kényelmes strandgyékénnyel érkezve garantált a mélyen pihentető vízparti nap.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "Az Al Hoceima partjait díszítő Playa Cala Bonita egy bájos mediterrán strand Marokkóban. A festői partvonal csodás környezetet biztosít a tiszta vizű fürdőzéshez és a vízparti békés sétákhoz. A látogatók gyakran élvezik a nyugodt, pihentető atmoszférát, amely kiemeli a Földközi-tenger szépségét. Tökéletes választás azoknak, akik szeretik a csendes nyári reggeleket a tengerparton.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "A Place Rif egy nyüzsgő középület és látványosság, amely gyülekezőhelyként szolgál Al Hoceimában.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "annar n imjahden", "text": "A V. Mohammed tér a város egyik fő látványossága Al Hoceimában, amelyet a történelmi királynak szenteltek.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "كورنيش مورو ڤييخو", "text": "A Cornice Morro Viejo csodálatos, magaslati kilátópontot kínál a tengerre Al Hoceimában.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "فضاء ميرامار", "text": "A Miramar Space egy tengerparti kilátó, amely panorámás kilátást nyújt a Földközi-tengerre Al Hoceimából.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "مورو ڤييخو", "text": "A Moro viejo egy festői kilátó, amely tökéletes Al Hoceima tengerparti szépségének megcsodálásához.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "شاطيء الرمود", "text": "A Rmod Beach egy kedves tengerparti látványosság, amely napsütést és homokot kínál Al Hoceimában.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "شاطيء إيزدي", "text": "Az Izdhi Beach egy vonzó tengerparti látványosság, amely tökéletes egy tengerparti sétához Al Hoceimában.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "شاطيء مقطوعة", "text": "A Maktoâa Beach egy természetes partvonalú látványosság a helyiek és a turisták számára Al Hoceimában.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "الرهبان", "text": "A Los Frailes egy tengerparti kilátó, amely drámai szikláiról és tengeri kilátásáról ismert Al Hoceimában.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "شاطيء المطاديرو", "text": "A Matadero Beach egy kicsi és pihentető tengerparti látványosság Al Hoceima városában.", "category": "landmark", "coords": [-3.923375, 35.236735]}], "ro": [{"name": "Playa Quemado", "text": "Playa Quemado este o plajă locală pitorească, ascunsă în vibrantul oraș de coastă Al Hoceima din Maroc. Este un loc foarte apreciat atât pentru un înot relaxant, cât și pentru a sta confortabil pe nisipul plăcut. Atmosfera primitoare și comunitară îi face pe vizitatori să se simtă imediat ca acasă lângă mare. Venind cu o carte bună și o rogojină de plajă, vă asigurați o zi profund relaxantă.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "Împodobind coastele orașului Al Hoceima, Playa Cala Bonita este o fermecătoare plajă mediteraneană din Maroc. Litoralul pitoresc oferă un cadru minunat pentru a înota în ape limpezi și a face plimbări liniștite pe malul apei. Vizitatorii se bucură de o atmosferă calmă și relaxantă, care pune în valoare frumusețea Mării Mediterane. Este o alegere perfectă pentru cei care adoră diminețile senine de vară la plajă.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "Place Rif este o piață publică aglomerată și o atracție care servește drept loc de adunare în Al Hoceima.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "annar n imjahden", "text": "Piața Mohammed V este o atracție majoră a orașului dedicată regelui istoric din Al Hoceima.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "كورنيش مورو ڤييخو", "text": "Cornice Morro Viejo oferă un minunat punct de vedere înalt asupra mării în Al Hoceima.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "فضاء ميرامار", "text": "Miramar Space este un punct de belvedere de coastă care oferă priveliști panoramice ale Mediteranei din Al Hoceima.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "مورو ڤييخو", "text": "Moro viejo este o zonă de belvedere pitorească, perfectă pentru a admira frumusețea coastei din Al Hoceima.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "شاطيء الرمود", "text": "Plaja Rmod este o atracție frumoasă la malul mării care oferă soare și nisip în Al Hoceima.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "شاطيء إيزدي", "text": "Plaja Izdhi este o atracție de coastă atrăgătoare, perfectă pentru o plimbare pe malul mării în Al Hoceima.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "شاطيء مقطوعة", "text": "Plaja Maktoâa oferă o atracție naturală pe țărm pentru localnici și turiști în Al Hoceima.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "الرهبان", "text": "Los Frailes este un punct de belvedere de coastă cunoscut pentru stâncile sale dramatice și priveliștile mării din Al Hoceima.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "شاطيء المطاديرو", "text": "Plaja Matadero este o atracție de coastă mică și relaxantă din orașul Al Hoceima.", "category": "landmark", "coords": [-3.923375, 35.236735]}], "en": [{"name": "Playa Quemado", "text": "Playa Quemado is a picturesque local beach nestled in the lively coastal city of Al Hoceima, Morocco. It is a highly favored spot for both unhurried swimming and simply lounging on the pleasant sands. The inviting community atmosphere makes visitors feel immediately at home by the sea. Arriving with a good book and a beach mat guarantees a deeply relaxing coastal day.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "Gracing the shores of Al Hoceima, Playa Cala Bonita is a charming Mediterranean beach in Morocco. The scenic coastline provides a lovely setting for clear-water swimming and taking peaceful walks along the water's edge. Visitors often enjoy a calm, soothing atmosphere that highlights the beauty of the Mediterranean sea. It is a perfect choice for those who love serene summer mornings by the beach.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "Place Rif is a bustling public square and attraction serving as a gathering spot in Al Hoceima.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "Mohammed V Square", "text": "Mohammed V Square is a major city attraction dedicated to the historical king in Al Hoceima.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "Cornice Morro Viejo", "text": "Cornice Morro Viejo provides a wonderful elevated viewpoint over the sea in Al Hoceima.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "Miramar Space", "text": "Miramar Space is a coastal viewpoint offering panoramic sights of the Mediterranean from Al Hoceima.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "Moro viejo", "text": "Moro viejo is a scenic viewpoint area perfect for taking in the coastal beauty of Al Hoceima.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "Rmod Beach", "text": "Rmod Beach is a lovely seaside attraction offering sun and sand in Al Hoceima.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "Izdhi Beach", "text": "Izdhi Beach is an appealing coastal attraction perfect for a seaside walk in Al Hoceima.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "Maktoâa Beach", "text": "Maktoâa Beach provides a natural shoreline attraction for locals and tourists in Al Hoceima.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "Los Frailes", "text": "Los Frailes is a coastal viewpoint known for its dramatic cliffs and sea vistas in Al Hoceima.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "Matadero Beach", "text": "Matadero Beach is a small and relaxing coastal attraction within the city of Al Hoceima.", "category": "landmark", "coords": [-3.923375, 35.236735]}]},
+    id: "ma-al-hoceima-cities-v2", "sights": {"de": [{"name": "Playa Quemado", "text": "Playa Quemado ist ein malerischer lokaler Strand in der lebhaften Küstenstadt Al Hoceima in Marokko. Er ist ein sehr beliebter Ort, um in Ruhe zu schwimmen oder einfach entspannt im angenehmen Sand zu liegen. Durch die gastfreundliche, lokale Atmosphäre fühlt man sich am Meer sofort willkommen. Ein gutes Buch und eine Strandmatte garantieren hier einen wunderbar erholsamen Tag am Ozean.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "An der Küste von Al Hoceima erstreckt sich die Playa Cala Bonita, ein charmanter mediterraner Strand in Marokko. Dieser malerische Küstenstreifen bietet eine wunderbare Kulisse für Schwimmrunden im klaren Wasser und friedliche Spaziergänge am Ufer. Die Besucher schätzen die ruhige, wohltuende Atmosphäre, welche die Schönheit des Mittelmeers unterstreicht. Es ist die perfekte Wahl für Liebhaber beschaulicher Sommermorgen am Strand.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "Der Place Rif ist ein belebter öffentlicher Platz und eine Attraktion, die als Treffpunkt in Al Hoceima dient.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "annar n imjahden", "text": "Der Mohammed V Square ist eine wichtige Stadtattraktion in Al Hoceima, die dem historischen König gewidmet ist.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "كورنيش مورو ڤييخو", "text": "Cornice Morro Viejo bietet einen wunderbaren erhöhten Aussichtspunkt über das Meer in Al Hoceima.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "Miramar Space", "text": "Miramar Space ist ein Aussichtspunkt an der Küste, der einen Panoramablick auf das Mittelmeer von Al Hoceima bietet.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "Moro viejo", "text": "Moro viejo ist ein malerischer Aussichtspunkt, der sich perfekt eignet, um die Schönheit der Küste von Al Hoceima zu genießen.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "Rmod Beach", "text": "Der Rmod Beach ist eine schöne Attraktion am Meer, die Sonne und Sand in Al Hoceima bietet.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "Izdhi Beach", "text": "Der Izdhi Beach ist eine reizvolle Küstenattraktion, die sich perfekt für einen Spaziergang am Meer in Al Hoceima eignet.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "Maktoâa Beach", "text": "Der Maktoâa Beach bietet eine natürliche Uferattraktion für Einheimische und Touristen in Al Hoceima.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "Los Frailes", "text": "Los Frailes ist ein Aussichtspunkt an der Küste, der für seine dramatischen Klippen und den Meerblick in Al Hoceima bekannt ist.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "Matadero Beach", "text": "Matadero Beach ist eine kleine und entspannende Küstenattraktion in der Stadt Al Hoceima.", "category": "landmark", "coords": [-3.923375, 35.236735]}], "hu": [{"name": "Playa Quemado", "text": "A Playa Quemado egy festői, helyi strand Marokkóban, Al Hoceima élénk tengerparti városában. Kifejezetten kedvelt helyszín a kényelmes úszáshoz és a finom homokban való heverészéshez. A barátságos, közösségi atmoszféra miatt a látogatók azonnal otthon érzik magukat a tengerparton. Egy jó könyvvel és egy kényelmes strandgyékénnyel érkezve garantált a mélyen pihentető vízparti nap.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "Az Al Hoceima partjait díszítő Playa Cala Bonita egy bájos mediterrán strand Marokkóban. A festői partvonal csodás környezetet biztosít a tiszta vizű fürdőzéshez és a vízparti békés sétákhoz. A látogatók gyakran élvezik a nyugodt, pihentető atmoszférát, amely kiemeli a Földközi-tenger szépségét. Tökéletes választás azoknak, akik szeretik a csendes nyári reggeleket a tengerparton.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "A Place Rif egy nyüzsgő középület és látványosság, amely gyülekezőhelyként szolgál Al Hoceimában.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "annar n imjahden", "text": "A V. Mohammed tér a város egyik fő látványossága Al Hoceimában, amelyet a történelmi királynak szenteltek.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "Cornice Morro Viejo csodálatos, magaslati kilátópontot kínál", "text": "A Cornice Morro Viejo csodálatos, magaslati kilátópontot kínál a tengerre Al Hoceimában.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "Miramar Space", "text": "A Miramar Space egy tengerparti kilátó, amely panorámás kilátást nyújt a Földközi-tengerre Al Hoceimából.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "Moro viejo", "text": "A Moro viejo egy festői kilátó, amely tökéletes Al Hoceima tengerparti szépségének megcsodálásához.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "Rmod Beach", "text": "A Rmod Beach egy kedves tengerparti látványosság, amely napsütést és homokot kínál Al Hoceimában.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "Izdhi Beach", "text": "Az Izdhi Beach egy vonzó tengerparti látványosság, amely tökéletes egy tengerparti sétához Al Hoceimában.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "Maktoâa Beach", "text": "A Maktoâa Beach egy természetes partvonalú látványosság a helyiek és a turisták számára Al Hoceimában.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "Los Frailes", "text": "A Los Frailes egy tengerparti kilátó, amely drámai szikláiról és tengeri kilátásáról ismert Al Hoceimában.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "Matadero Beach", "text": "A Matadero Beach egy kicsi és pihentető tengerparti látványosság Al Hoceima városában.", "category": "landmark", "coords": [-3.923375, 35.236735]}], "ro": [{"name": "Playa Quemado", "text": "Playa Quemado este o plajă locală pitorească, ascunsă în vibrantul oraș de coastă Al Hoceima din Maroc. Este un loc foarte apreciat atât pentru un înot relaxant, cât și pentru a sta confortabil pe nisipul plăcut. Atmosfera primitoare și comunitară îi face pe vizitatori să se simtă imediat ca acasă lângă mare. Venind cu o carte bună și o rogojină de plajă, vă asigurați o zi profund relaxantă.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "Împodobind coastele orașului Al Hoceima, Playa Cala Bonita este o fermecătoare plajă mediteraneană din Maroc. Litoralul pitoresc oferă un cadru minunat pentru a înota în ape limpezi și a face plimbări liniștite pe malul apei. Vizitatorii se bucură de o atmosferă calmă și relaxantă, care pune în valoare frumusețea Mării Mediterane. Este o alegere perfectă pentru cei care adoră diminețile senine de vară la plajă.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "Place Rif este o piață publică aglomerată și o atracție care servește drept loc de adunare în Al Hoceima.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "annar n imjahden", "text": "Piața Mohammed V este o atracție majoră a orașului dedicată regelui istoric din Al Hoceima.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "كورنيش مورو ڤييخو", "text": "Cornice Morro Viejo oferă un minunat punct de vedere înalt asupra mării în Al Hoceima.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "Miramar Space", "text": "Miramar Space este un punct de belvedere de coastă care oferă priveliști panoramice ale Mediteranei din Al Hoceima.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "Moro viejo", "text": "Moro viejo este o zonă de belvedere pitorească, perfectă pentru a admira frumusețea coastei din Al Hoceima.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "Plaja Rmod", "text": "Plaja Rmod este o atracție frumoasă la malul mării care oferă soare și nisip în Al Hoceima.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "Plaja Izdhi", "text": "Plaja Izdhi este o atracție de coastă atrăgătoare, perfectă pentru o plimbare pe malul mării în Al Hoceima.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "شاطيء مقطوعة", "text": "Plaja Maktoâa oferă o atracție naturală pe țărm pentru localnici și turiști în Al Hoceima.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "Los Frailes", "text": "Los Frailes este un punct de belvedere de coastă cunoscut pentru stâncile sale dramatice și priveliștile mării din Al Hoceima.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "Plaja Matadero", "text": "Plaja Matadero este o atracție de coastă mică și relaxantă din orașul Al Hoceima.", "category": "landmark", "coords": [-3.923375, 35.236735]}], "en": [{"name": "Playa Quemado", "text": "Playa Quemado is a picturesque local beach nestled in the lively coastal city of Al Hoceima, Morocco. It is a highly favored spot for both unhurried swimming and simply lounging on the pleasant sands. The inviting community atmosphere makes visitors feel immediately at home by the sea. Arriving with a good book and a beach mat guarantees a deeply relaxing coastal day.", "category": "recreational", "coords": [-3.926074, 35.243945]}, {"name": "Playa Cala Bonita", "text": "Gracing the shores of Al Hoceima, Playa Cala Bonita is a charming Mediterranean beach in Morocco. The scenic coastline provides a lovely setting for clear-water swimming and taking peaceful walks along the water's edge. Visitors often enjoy a calm, soothing atmosphere that highlights the beauty of the Mediterranean sea. It is a perfect choice for those who love serene summer mornings by the beach.", "category": "recreational", "coords": [-3.922947, 35.234645]}, {"name": "Place Rif", "text": "Place Rif is a bustling public square and attraction serving as a gathering spot in Al Hoceima.", "category": "landmark", "coords": [-3.928327, 35.241081]}, {"name": "Mohammed V Square", "text": "Mohammed V Square is a major city attraction dedicated to the historical king in Al Hoceima.", "category": "landmark", "coords": [-3.929676, 35.245182]}, {"name": "Cornice Morro Viejo", "text": "Cornice Morro Viejo provides a wonderful elevated viewpoint over the sea in Al Hoceima.", "category": "natural", "coords": [-3.922108, 35.241206]}, {"name": "Miramar Space", "text": "Miramar Space is a coastal viewpoint offering panoramic sights of the Mediterranean from Al Hoceima.", "category": "natural", "coords": [-3.928736, 35.242419]}, {"name": "Moro viejo", "text": "Moro viejo is a scenic viewpoint area perfect for taking in the coastal beauty of Al Hoceima.", "category": "natural", "coords": [-3.920517, 35.241033]}, {"name": "Rmod Beach", "text": "Rmod Beach is a lovely seaside attraction offering sun and sand in Al Hoceima.", "category": "landmark", "coords": [-3.965728, 35.243738]}, {"name": "Izdhi Beach", "text": "Izdhi Beach is an appealing coastal attraction perfect for a seaside walk in Al Hoceima.", "category": "landmark", "coords": [-3.963093, 35.245354]}, {"name": "Maktoâa Beach", "text": "Maktoâa Beach provides a natural shoreline attraction for locals and tourists in Al Hoceima.", "category": "landmark", "coords": [-3.918911, 35.229623]}, {"name": "Los Frailes", "text": "Los Frailes is a coastal viewpoint known for its dramatic cliffs and sea vistas in Al Hoceima.", "category": "natural", "coords": [-3.929535, 35.261559]}, {"name": "Matadero Beach", "text": "Matadero Beach is a small and relaxing coastal attraction within the city of Al Hoceima.", "category": "landmark", "coords": [-3.923375, 35.236735]}]},
     type: "city",
     parent: "MA-01",
     coords: [-3.9372, 35.2517],
@@ -9182,7 +9182,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
     id: "ma-azrou-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "name": "Ifrane-Nationalpark",
                   "text": "Der Ifrane-Nationalpark ist ein Naturschutzgebiet bei Azrou, das für seine Atlaszedernwälder bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -9202,7 +9202,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "name": "Ifrane Nemzeti Park",
                   "text": "Az Ifrane Nemzeti Park egy természeti rezervátum Azrou közelében, amely Atlaszcédrus-erdőiről híres.",
                   "category": "natural",
                   "coords": [
@@ -9222,7 +9222,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "name": "Parcul Național Ifrane",
                   "text": "Parcul Național Ifrane este o rezervație naturală lângă Azrou, faimoasă pentru pădurile sale de cedru de Atlas.",
                   "category": "natural",
                   "coords": [
@@ -9716,7 +9716,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La ville la plus importante à proximité des célèbres gorges du Todra.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tinghir-cities-v2.webp"},
   {
-    id: "ma-zagora-cities-v2", "sights": {"de": [{"name": "Tombouctou 52 jours", "text": "Ein interessanter Anziehungspunkt in Zagora.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora", "text": "Der Aussichtspunkt Zagora bietet einen weiten Blick über die gleichnamige Stadt und ist eine markante Naturattraktion in Marokko. Gäste, die an diesem malerischen Ort ankommen, werden mit einem weiten Panorama der umliegenden Stadt- und Wüstenlandschaft belohnt.", "category": "natural", "coords": [-5.840339, 30.322816]}], "hu": [{"name": "Tombouctou 52 jours", "text": "Érdekes látnivaló Zagorában.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora زاكورة", "text": "Az azonos nevű városra nyíló pazar kilátást kínáló Zagora kilátó egy kiemelkedő természeti látványosság Marokkóban. A festői helyre érkező vendégeket a környező városi és sivatagi táj kiterjedt panorámája jutalmazza.", "category": "natural", "coords": [-5.840339, 30.322816]}], "ro": [{"name": "Tombouctou 52 jours", "text": "Un punct de atracție interesant în Zagora.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora زاكورة", "text": "Oferind o vedere panoramică asupra orașului cu același nume, punctul de belvedere Zagora este o atracție naturală proeminentă în Maroc. Oaspeții care ajung în acest loc pitoresc vor fi răsplătiți cu o panoramă vastă a peisajului urban și deșertic înconjurător.", "category": "natural", "coords": [-5.840339, 30.322816]}], "en": [{"name": "Tombouctou 52 jours", "text": "An interesting attraction in Zagora.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora زاكورة", "text": "Offering sweeping views over the city of the same name, the Zagora viewpoint is a prominent natural attraction in Morocco. Guests arriving at this scenic spot will be rewarded with an expansive panorama of the surrounding urban and desert landscape.", "category": "natural", "coords": [-5.840339, 30.322816]}]},
+    id: "ma-zagora-cities-v2", "sights": {"de": [{"name": "Tombouctou 52 jours", "text": "Ein interessanter Anziehungspunkt in Zagora.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora", "text": "Der Aussichtspunkt Zagora bietet einen weiten Blick über die gleichnamige Stadt und ist eine markante Naturattraktion in Marokko. Gäste, die an diesem malerischen Ort ankommen, werden mit einem weiten Panorama der umliegenden Stadt- und Wüstenlandschaft belohnt.", "category": "natural", "coords": [-5.840339, 30.322816]}], "hu": [{"name": "Tombouctou 52 jours", "text": "Érdekes látnivaló Zagorában.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "azonos nevű városra nyíló pazar kilátást kínáló Zagora kilátó", "text": "Az azonos nevű városra nyíló pazar kilátást kínáló Zagora kilátó egy kiemelkedő természeti látványosság Marokkóban. A festői helyre érkező vendégeket a környező városi és sivatagi táj kiterjedt panorámája jutalmazza.", "category": "natural", "coords": [-5.840339, 30.322816]}], "ro": [{"name": "Tombouctou 52 jours", "text": "Un punct de atracție interesant în Zagora.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora زاكورة", "text": "Oferind o vedere panoramică asupra orașului cu același nume, punctul de belvedere Zagora este o atracție naturală proeminentă în Maroc. Oaspeții care ajung în acest loc pitoresc vor fi răsplătiți cu o panoramă vastă a peisajului urban și deșertic înconjurător.", "category": "natural", "coords": [-5.840339, 30.322816]}], "en": [{"name": "Tombouctou 52 jours", "text": "An interesting attraction in Zagora.", "category": "landmark", "coords": [-5.842278, 30.323434]}, {"name": "Zagora زاكورة", "text": "Offering sweeping views over the city of the same name, the Zagora viewpoint is a prominent natural attraction in Morocco. Guests arriving at this scenic spot will be rewarded with an expansive panorama of the surrounding urban and desert landscape.", "category": "natural", "coords": [-5.840339, 30.322816]}]},
     type: "city",
     parent: "MA-08",
     coords: [-5.8381, 30.3306],
@@ -10592,7 +10592,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
     id: "ma-ifrane-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "name": "Ifrane-Nationalpark",
                   "text": "Der Ifrane-Nationalpark ist bekannt für seine Zedernwälder und Berberaffen.",
                   "category": "natural",
                   "coords": [
@@ -10619,7 +10619,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Statue de Lion تمثال الأسد",
+                  "name": "Löwenstatue",
                   "text": "Die Löwenstatue ist ein berühmtes Wahrzeichen von Ifrane.",
                   "category": "historical",
                   "coords": [
@@ -10668,7 +10668,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "name": "Parcul Național Ifrane",
                   "text": "Parcul Național Ifrane este cunoscut pentru pădurile sale de cedru și macacii berberi.",
                   "category": "natural",
                   "coords": [
@@ -10695,7 +10695,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Statue de Lion تمثال الأسد",
+                  "name": "Statuia leului",
                   "text": "Statuia leului este un simbol celebru al orașului Ifrane.",
                   "category": "historical",
                   "coords": [
@@ -10860,7 +10860,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مكتب الوطني للماء الصالح لشرب - مصلحة الخدمات",
+                  "name": "Această locație",
                   "text": "Această locație este desemnată ca punct de belvedere în Tan-Tan.",
                   "category": "natural",
                   "coords": [

@@ -1969,7 +1969,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qa-al-zubarah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "الزبارة",
+                  "name": "Al Zubarah Archaeological Site",
                   "text": "Al Zubarah Archaeological Site ist eine bekannte Attraktion in Al Zubarah.",
                   "category": "landmark",
                   "coords": [
@@ -1991,7 +1991,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "الزبارة",
+                  "name": "Al Zubarah Archaeological Site",
                   "text": "Al Zubarah Archaeological Site este o atracție notabilă situată în Al Zubarah.",
                   "category": "landmark",
                   "coords": [
@@ -2111,7 +2111,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حديقة حيوان الدوحة",
+                  "name": "Doha Zoo",
                   "text": "A Doha Zoo egy állatkert Muaither városában.",
                   "category": "family",
                   "coords": [
@@ -2140,7 +2140,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حديقة حيوان الدوحة",
+                  "name": "Doha Zoo",
                   "text": "Doha Zoo este un parc zoologic situat în Muaither.",
                   "category": "family",
                   "coords": [

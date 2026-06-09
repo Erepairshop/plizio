@@ -690,7 +690,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hong Kong Science Museum",
                   "text": "Das Hong Kong Science Museum ist ein interaktives Wissenschaftsmuseum in Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -717,7 +717,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "Das Hong Kong Heritage Discovery Centre ist ein Museum für lokale Geschichte in Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -726,7 +726,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "name": "Hong Kong Visual Arts Centre",
                   "text": "Das Hong Kong Visual Arts Centre ist ein Kunstmuseum in Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -735,7 +735,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery in Causeway Bay",
                   "text": "Die City Gallery in Causeway Bay ist ein Museum zur Stadtplanung.",
                   "category": "museum",
                   "coords": [
@@ -744,7 +744,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "name": "Health Education Exhibition and Resource Centre",
                   "text": "Das Health Education Exhibition and Resource Centre ist ein Museum in Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -753,7 +753,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Hong Kong Space Museum",
                   "text": "Das Hong Kong Space Museum ist ein Planetarium und Weltraummuseum in Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -762,7 +762,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "name": "ehemalige Hauptquartier der Marinepolizei in Causeway Bay",
                   "text": "Das ehemalige Hauptquartier der Marinepolizei in Causeway Bay ist ein historisches Denkmal.",
                   "category": "historical",
                   "coords": [
@@ -771,7 +771,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "Justice Place ist ein historisches Regierungsgebäude in Causeway Bay.",
                   "category": "historical",
                   "coords": [
@@ -780,7 +780,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "新光戲院大劇場 Sunbeam Theatre",
+                  "name": "Sunbeam Theatre",
                   "text": "Das Sunbeam Theatre ist ein bekanntes Theater in Causeway Bay.",
                   "category": "cultural",
                   "coords": [
@@ -798,7 +798,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hong Kong Arts Centre",
                   "text": "Das Hong Kong Arts Centre ist ein Zentrum für zeitgenössische Kunst in Causeway Bay.",
                   "category": "cultural",
                   "coords": [
@@ -807,7 +807,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "name": "China Congregational Church",
                   "text": "Die China Congregational Church ist eine historische Kirche in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -816,7 +816,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "name": "St. John's Cathedral in Causeway Bay",
                   "text": "Die St. John's Cathedral in Causeway Bay ist die älteste anglikanische Kirche Hongkongs.",
                   "category": "religious",
                   "coords": [
@@ -825,7 +825,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "東蓮覺苑 Tung Lin Kok Yuen",
+                  "name": "Tung Lin Kok Yuen",
                   "text": "Tung Lin Kok Yuen ist ein buddhistischer Tempel in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -834,7 +834,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "紅磡聖母堂 St. Mary's Church Hung Hom",
+                  "name": "St. Mary's Church in Causeway Bay",
                   "text": "Die St. Mary's Church in Causeway Bay ist eine religiöse Stätte.",
                   "category": "religious",
                   "coords": [
@@ -843,7 +843,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "銅鑼灣天后古廟 Causeway Bay Tin Hau Temple",
+                  "name": "Tin Hau Tempel in Causeway Bay",
                   "text": "Der Tin Hau Tempel in Causeway Bay ist eine traditionelle religiöse Stätte.",
                   "category": "religious",
                   "coords": [
@@ -852,7 +852,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港聖公會 Hong Kong Sheng Kung Hui",
+                  "name": "Hong Kong Sheng Kung Hui",
                   "text": "Die Hong Kong Sheng Kung Hui ist die anglikanische Kirchengemeinde in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -861,7 +861,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "name": "Masjid Ammar und Osman Ramju Sadick Islamic Centre",
                   "text": "Das Masjid Ammar und Osman Ramju Sadick Islamic Centre ist eine Moschee in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -870,7 +870,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "蓮花宮 Lin Fa Temple",
+                  "name": "Lin Fa Tempel",
                   "text": "Der Lin Fa Tempel ist ein historischer Tempel in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -879,7 +879,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "name": "Pak Tai Tempel in Wan Chai",
                   "text": "Der Pak Tai Tempel in Wan Chai ist eine religiöse Stätte in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -888,7 +888,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "幻彩詠香江 Symphony of Lights",
+                  "name": "Symphony of Lights",
                   "text": "Die Symphony of Lights ist eine bekannte Lichtshow in Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -897,7 +897,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "諾士佛臺 Knutsford Terrace",
+                  "name": "Knutsford Terrace",
                   "text": "Knutsford Terrace ist eine belebte Straße in Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -906,7 +906,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "Das Hong Kong Observation Wheel bietet einen Blick über Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -924,7 +924,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔街市 Wanchai Market",
+                  "name": "Wanchai Market",
                   "text": "Der Wanchai Market ist ein traditioneller Markt in Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -933,7 +933,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "渣甸山 Jardine's Lookout",
+                  "name": "Jardine's Lookout",
                   "text": "Jardine's Lookout ist ein beliebter Aussichtspunkt in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -942,7 +942,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聶高信山 Mount Nicholson",
+                  "name": "Mount Nicholson",
                   "text": "Mount Nicholson ist ein bekannter Berg in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -951,7 +951,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "紅香爐峰 Hung Heung Lo Fung",
+                  "name": "Hung Heung Lo Fung",
                   "text": "Hung Heung Lo Fung ist ein Berg in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -960,7 +960,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "金馬倫山 Mount Cameron",
+                  "name": "Mount Cameron",
                   "text": "Mount Cameron ist ein Berg in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -969,7 +969,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "寶馬山 Braemar Hill",
+                  "name": "Braemar Hill",
                   "text": "Braemar Hill ist ein bekannter Hügel in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -978,7 +978,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "小馬山 Siu Ma Shan",
+                  "name": "Siu Ma Shan",
                   "text": "Siu Ma Shan ist ein Berg in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -987,7 +987,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "Signal Hill ist ein Hügel in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -996,7 +996,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦山 Mount Gough",
+                  "name": "Mount Gough",
                   "text": "Mount Gough ist ein Berg in Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1005,7 +1005,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "Der Kowloon Park ist eine große Grünanlage in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1014,7 +1014,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "夏慤花園 Harcourt Garden",
+                  "name": "Harcourt Garden",
                   "text": "Der Harcourt Garden ist ein Garten in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1023,7 +1023,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "市政局百周年紀念花園 Centenary Garden",
+                  "name": "Centenary Garden",
                   "text": "Der Centenary Garden ist ein Garten in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1032,7 +1032,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港公園 Hong Kong Park",
+                  "name": "Hong Kong Park",
                   "text": "Der Hong Kong Park ist ein zentraler Park in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1041,7 +1041,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "和黃公園 Hutchison Park",
+                  "name": "Hutchison Park",
                   "text": "Der Hutchison Park ist eine Grünanlage in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1050,7 +1050,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "添馬公園 Tamar Park",
+                  "name": "Tamar Park",
                   "text": "Der Tamar Park ist ein Park in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1059,7 +1059,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "遮打花園 Chater Garden",
+                  "name": "Chater Garden",
                   "text": "Der Chater Garden ist ein bekannter Garten in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1068,7 +1068,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "博覽海濱花園 Expo Promenade",
+                  "name": "Expo Promenade",
                   "text": "Die Expo Promenade ist eine Parkanlage in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1077,7 +1077,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港禮賓府 Government House",
+                  "name": "Government House in Causeway Bay",
                   "text": "Das Government House in Causeway Bay ist die offizielle Residenz.",
                   "category": "landmark",
                   "coords": [
@@ -1086,7 +1086,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+                  "name": "Central and Western District Promenade in Causeway Bay",
                   "text": "Die Central and Western District Promenade in Causeway Bay ist ein öffentlicher Park am Wasser.",
                   "category": "park",
                   "coords": [
@@ -1104,7 +1104,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "循道衛理聯合教會北角堂 Chinese Methodist Church (North Point)",
+                  "name": "Chinese Methodist Church",
                   "text": "Die Chinese Methodist Church ist ein religiöses Gebäude in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1113,7 +1113,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖若瑟堂 St. Joseph's Church",
+                  "name": "St. Joseph's Church",
                   "text": "St. Joseph's Church ist eine Kirche in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1122,7 +1122,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督科學教會香港第一分會 First Church of Christ Scientist",
+                  "name": "First Church of Christ Scientist",
                   "text": "Die First Church of Christ Scientist ist ein religiöser Ort in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督君王小堂 Christ the King Chapel",
+                  "name": "Christ the King Chapel",
                   "text": "Christ the King Chapel ist eine Kapelle in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖瑪加利大堂 St. Margaret's Church",
+                  "name": "St. Margaret's Church",
                   "text": "St. Margaret's Church ist eine Kirche in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1149,7 +1149,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖猶達聖堂 St. Jude's Catholic Church",
+                  "name": "St. Jude's Catholic Church",
                   "text": "St. Jude's Catholic Church ist eine katholische Kirche in Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1158,7 +1158,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "花園道 Garden Road",
+                  "name": "Garden Road",
                   "text": "Garden Road ist eine bekannte Attraktion in Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "港灣道花園 Harbour Road Garden",
+                  "name": "Harbour Road Garden",
                   "text": "Der Harbour Road Garden ist eine grüne Oase in Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -1187,7 +1187,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hongkongi Tudományos Múzeum",
                   "text": "A Hongkongi Tudományos Múzeum egy interaktív tudományos múzeum Causeway Bay-ben.",
                   "category": "museum",
                   "coords": [
@@ -1196,7 +1196,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "警隊博物館 Police Museum",
+                  "name": "Causeway Bay-i Hongkongi Rendőrségi Múzeum",
                   "text": "A Causeway Bay-i Hongkongi Rendőrségi Múzeum a helyi rendőrség történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1205,7 +1205,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hongkongi Történeti Múzeum Causeway Bay-ben",
                   "text": "A Hongkongi Történeti Múzeum Causeway Bay-ben a régió mozgalmas történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1214,7 +1214,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hongkongi Örökségkutató Központ",
                   "text": "A Hongkongi Örökségkutató Központ egy helytörténeti múzeum Causeway Bay-ben.",
                   "category": "museum",
                   "coords": [
@@ -1223,7 +1223,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "name": "Hongkongi Vizuális Művészeti Központ",
                   "text": "A Hongkongi Vizuális Művészeti Központ egy művészeti múzeum Causeway Bay-ben.",
                   "category": "museum",
                   "coords": [
@@ -1232,7 +1232,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery Causeway Bay-ben",
                   "text": "A City Gallery Causeway Bay-ben a várostervezéssel foglalkozó múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1241,7 +1241,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "name": "Egészségnevelési Kiállítás és Erőforrás Központ",
                   "text": "A Egészségnevelési Kiállítás és Erőforrás Központ egy múzeum Causeway Bay-ben.",
                   "category": "museum",
                   "coords": [
@@ -1250,7 +1250,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Hongkongi Űrmúzeum",
                   "text": "A Hongkongi Űrmúzeum egy planetárium és űrmúzeum Causeway Bay-ben.",
                   "category": "museum",
                   "coords": [
@@ -1259,7 +1259,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "name": "volt tengeri rendőrségi főkapitányság Causeway Bay-ben",
                   "text": "A volt tengeri rendőrségi főkapitányság Causeway Bay-ben egy történelmi emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -1268,7 +1268,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "A Justice Place egy történelmi kormányzati épület Causeway Bay-ben.",
                   "category": "historical",
                   "coords": [
@@ -1277,7 +1277,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "新光戲院大劇場 Sunbeam Theatre",
+                  "name": "Sunbeam Színház",
                   "text": "A Sunbeam Színház egy jól ismert színház Causeway Bay-ben.",
                   "category": "cultural",
                   "coords": [
@@ -1286,7 +1286,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文化中心 Hong Kong Cultural Centre",
+                  "name": "Hongkongi Kulturális Központ",
                   "text": "A Hongkongi Kulturális Központ egy jelentős művészeti központ Causeway Bay-ben.",
                   "category": "cultural",
                   "coords": [
@@ -1295,7 +1295,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hongkongi Művészeti Központ",
                   "text": "A Hongkongi Művészeti Központ a kortárs művészet központja Causeway Bay-ben.",
                   "category": "cultural",
                   "coords": [
@@ -1304,7 +1304,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "name": "Kínai Gyülekezeti Egyház",
                   "text": "A Kínai Gyülekezeti Egyház egy történelmi templom Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1322,7 +1322,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "東蓮覺苑 Tung Lin Kok Yuen",
+                  "name": "Tung Lin Kok Yuen",
                   "text": "A Tung Lin Kok Yuen egy buddhista templom Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1331,7 +1331,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "紅磡聖母堂 St. Mary's Church Hung Hom",
+                  "name": "Szent Mária-templom Causeway Bay-ben",
                   "text": "A Szent Mária-templom Causeway Bay-ben egy istentiszteleti hely.",
                   "category": "religious",
                   "coords": [
@@ -1340,7 +1340,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "銅鑼灣天后古廟 Causeway Bay Tin Hau Temple",
+                  "name": "Causeway Bay-i Tin Hau-templom",
                   "text": "A Causeway Bay-i Tin Hau-templom egy hagyományos istentiszteleti hely.",
                   "category": "religious",
                   "coords": [
@@ -1349,7 +1349,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港聖公會 Hong Kong Sheng Kung Hui",
+                  "name": "Hongkongi Sheng Kung Hui",
                   "text": "A Hongkongi Sheng Kung Hui az anglikán egyházközösség Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1358,7 +1358,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "name": "Masjid Ammar és Osman Ramju Sadick Iszlám Központ",
                   "text": "A Masjid Ammar és Osman Ramju Sadick Iszlám Központ egy mecset Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1367,7 +1367,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "蓮花宮 Lin Fa Temple",
+                  "name": "Lin Fa-templom",
                   "text": "A Lin Fa-templom egy történelmi templom Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1376,7 +1376,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "name": "Wan Chai-i Pak Tai-templom",
                   "text": "A Wan Chai-i Pak Tai-templom egy istentiszteleti hely Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1385,7 +1385,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "幻彩詠香江 Symphony of Lights",
+                  "name": "Symphony of Lights",
                   "text": "A Symphony of Lights egy jól ismert fénybemutató Causeway Bay-ben.",
                   "category": "landmark",
                   "coords": [
@@ -1394,7 +1394,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "諾士佛臺 Knutsford Terrace",
+                  "name": "Knutsford Terrace",
                   "text": "A Knutsford Terrace egy nyüzsgő utca Causeway Bay-ben.",
                   "category": "landmark",
                   "coords": [
@@ -1421,7 +1421,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔街市 Wanchai Market",
+                  "name": "Wanchai piac",
                   "text": "A Wanchai piac egy hagyományos piac Causeway Bay-ben.",
                   "category": "landmark",
                   "coords": [
@@ -1430,7 +1430,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "渣甸山 Jardine's Lookout",
+                  "name": "Jardine's Lookout",
                   "text": "A Jardine's Lookout egy népszerű kilátópont Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1439,7 +1439,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聶高信山 Mount Nicholson",
+                  "name": "Mount Nicholson",
                   "text": "A Mount Nicholson egy jól ismert hegy Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1448,7 +1448,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "紅香爐峰 Hung Heung Lo Fung",
+                  "name": "Hung Heung Lo Fung",
                   "text": "A Hung Heung Lo Fung egy hegy Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1457,7 +1457,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "金馬倫山 Mount Cameron",
+                  "name": "Mount Cameron",
                   "text": "A Mount Cameron egy hegy Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1466,7 +1466,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "寶馬山 Braemar Hill",
+                  "name": "Braemar Hill",
                   "text": "A Braemar Hill egy jól ismert domb Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1475,7 +1475,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "小馬山 Siu Ma Shan",
+                  "name": "Siu Ma Shan",
                   "text": "A Siu Ma Shan egy hegy Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1484,7 +1484,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "A Signal Hill egy domb Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1493,7 +1493,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦山 Mount Gough",
+                  "name": "Mount Gough",
                   "text": "A Mount Gough egy hegy Causeway Bay-ben.",
                   "category": "natural",
                   "coords": [
@@ -1502,7 +1502,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "A Kowloon Park egy nagy zöldterület Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "夏慤花園 Harcourt Garden",
+                  "name": "Harcourt kert",
                   "text": "A Harcourt kert egy kert Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1520,7 +1520,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "市政局百周年紀念花園 Centenary Garden",
+                  "name": "Centenary kert",
                   "text": "A Centenary kert egy kert Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1529,7 +1529,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港公園 Hong Kong Park",
+                  "name": "Hongkongi Park",
                   "text": "A Hongkongi Park egy központi park Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1538,7 +1538,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "和黃公園 Hutchison Park",
+                  "name": "Hutchison Park",
                   "text": "A Hutchison Park egy zöldterület Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1547,7 +1547,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "添馬公園 Tamar Park",
+                  "name": "Tamar Park",
                   "text": "A Tamar Park egy park Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1556,7 +1556,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "遮打花園 Chater Garden",
+                  "name": "Chater Garden",
                   "text": "A Chater Garden egy jól ismert kert Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "博覽海濱花園 Expo Promenade",
+                  "name": "Expo Promenade",
                   "text": "Az Expo Promenade egy park Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1574,7 +1574,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港禮賓府 Government House",
+                  "name": "Government House Causeway Bay-ben",
                   "text": "A Government House Causeway Bay-ben a hivatalos rezidencia.",
                   "category": "landmark",
                   "coords": [
@@ -1583,7 +1583,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+                  "name": "Causeway Bay-i Central and Western District Promenade",
                   "text": "A Causeway Bay-i Central and Western District Promenade egy nyilvános vízparti park.",
                   "category": "park",
                   "coords": [
@@ -1592,7 +1592,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港賽馬博物館 The Hong Kong Racing Museum",
+                  "name": "Causeway Bay-i Hong Kong Racing Museum",
                   "text": "A Causeway Bay-i Hong Kong Racing Museum a lóversenyzés történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1601,7 +1601,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "循道衛理聯合教會北角堂 Chinese Methodist Church (North Point)",
+                  "name": "Chinese Methodist Church",
                   "text": "A Chinese Methodist Church egy vallási épület Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1610,7 +1610,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖若瑟堂 St. Joseph's Church",
+                  "name": "St. Joseph's Church",
                   "text": "A St. Joseph's Church egy templom Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1619,7 +1619,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督科學教會香港第一分會 First Church of Christ Scientist",
+                  "name": "First Church of Christ Scientist",
                   "text": "A First Church of Christ Scientist egy vallási helyszín Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1628,7 +1628,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督君王小堂 Christ the King Chapel",
+                  "name": "Christ the King Chapel",
                   "text": "A Christ the King Chapel egy kápolna Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖瑪加利大堂 St. Margaret's Church",
+                  "name": "St. Margaret's Church",
                   "text": "A St. Margaret's Church egy templom Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1646,7 +1646,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖猶達聖堂 St. Jude's Catholic Church",
+                  "name": "St. Jude's Catholic Church",
                   "text": "A St. Jude's Catholic Church egy katolikus templom Causeway Bay-ben.",
                   "category": "religious",
                   "coords": [
@@ -1655,7 +1655,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "花園道 Garden Road",
+                  "name": "Garden Road",
                   "text": "A Garden Road egy ismert látnivaló Causeway Bay-ben.",
                   "category": "landmark",
                   "coords": [
@@ -1664,7 +1664,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "港灣道花園 Harbour Road Garden",
+                  "name": "Harbour Road Garden",
                   "text": "A Harbour Road Garden egy zöld oázis Causeway Bay-ben.",
                   "category": "park",
                   "coords": [
@@ -1684,7 +1684,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Muzeul de Știință din Hong Kong",
                   "text": "Muzeul de Știință din Hong Kong este un muzeu științific interactiv în Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -1711,7 +1711,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Centrul de Descoperire a Patrimoniului din Hong Kong",
                   "text": "Centrul de Descoperire a Patrimoniului din Hong Kong este un muzeu de istorie locală în Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -1720,7 +1720,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "name": "Centrul de Arte Vizuale din Hong Kong",
                   "text": "Centrul de Arte Vizuale din Hong Kong este un muzeu de artă în Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -1729,7 +1729,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery din Causeway Bay",
                   "text": "City Gallery din Causeway Bay este un muzeu dedicat planificării urbane.",
                   "category": "museum",
                   "coords": [
@@ -1738,7 +1738,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "name": "Centrul de Expoziții și Resurse pentru Educația Sănătății",
                   "text": "Centrul de Expoziții și Resurse pentru Educația Sănătății este un muzeu în Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -1747,7 +1747,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Muzeul Spațial din Hong Kong",
                   "text": "Muzeul Spațial din Hong Kong este un planetariu și muzeu spațial în Causeway Bay.",
                   "category": "museum",
                   "coords": [
@@ -1756,7 +1756,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "name": "Fostul sediu al poliției maritime din Causeway Bay",
                   "text": "Fostul sediu al poliției maritime din Causeway Bay este un monument istoric.",
                   "category": "historical",
                   "coords": [
@@ -1765,7 +1765,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "Justice Place este o clădire guvernamentală istorică în Causeway Bay.",
                   "category": "historical",
                   "coords": [
@@ -1774,7 +1774,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "新光戲院大劇場 Sunbeam Theatre",
+                  "name": "Sunbeam Theatre",
                   "text": "Sunbeam Theatre este un teatru bine cunoscut în Causeway Bay.",
                   "category": "cultural",
                   "coords": [
@@ -1783,7 +1783,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文化中心 Hong Kong Cultural Centre",
+                  "name": "Centrul Cultural din Hong Kong",
                   "text": "Centrul Cultural din Hong Kong este un centru artistic important în Causeway Bay.",
                   "category": "cultural",
                   "coords": [
@@ -1792,7 +1792,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Centrul de Arte din Hong Kong",
                   "text": "Centrul de Arte din Hong Kong este un centru de artă contemporană în Causeway Bay.",
                   "category": "cultural",
                   "coords": [
@@ -1801,7 +1801,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "name": "Biserica Congregațională Chineză",
                   "text": "Biserica Congregațională Chineză este o biserică istorică în Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1810,7 +1810,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "name": "Catedrala Sf. Ioan din Causeway Bay",
                   "text": "Catedrala Sf. Ioan din Causeway Bay este cea mai veche biserică anglicană din Hong Kong.",
                   "category": "religious",
                   "coords": [
@@ -1819,7 +1819,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "東蓮覺苑 Tung Lin Kok Yuen",
+                  "name": "Tung Lin Kok Yuen",
                   "text": "Tung Lin Kok Yuen este un templu budist în Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1828,7 +1828,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "紅磡聖母堂 St. Mary's Church Hung Hom",
+                  "name": "Biserica Sf. Maria din Causeway Bay",
                   "text": "Biserica Sf. Maria din Causeway Bay este un lăcaș de cult.",
                   "category": "religious",
                   "coords": [
@@ -1837,7 +1837,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "銅鑼灣天后古廟 Causeway Bay Tin Hau Temple",
+                  "name": "Templul Tin Hau din Causeway Bay",
                   "text": "Templul Tin Hau din Causeway Bay este un lăcaș de cult tradițional.",
                   "category": "religious",
                   "coords": [
@@ -1846,7 +1846,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港聖公會 Hong Kong Sheng Kung Hui",
+                  "name": "Hong Kong Sheng Kung Hui",
                   "text": "Hong Kong Sheng Kung Hui este comunitatea bisericească anglicană din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1855,7 +1855,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "name": "Masjid Ammar și Centrul Islamic Osman Ramju Sadick",
                   "text": "Masjid Ammar și Centrul Islamic Osman Ramju Sadick este o moschee în Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1864,7 +1864,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "蓮花宮 Lin Fa Temple",
+                  "name": "Templul Lin Fa",
                   "text": "Templul Lin Fa este un templu istoric în Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1873,7 +1873,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "name": "Templul Pak Tai din Wan Chai",
                   "text": "Templul Pak Tai din Wan Chai este un lăcaș de cult în Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -1882,7 +1882,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "幻彩詠香江 Symphony of Lights",
+                  "name": "Symphony of Lights",
                   "text": "Symphony of Lights este un spectacol de lumini cunoscut în Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -1891,7 +1891,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "諾士佛臺 Knutsford Terrace",
+                  "name": "Knutsford Terrace",
                   "text": "Knutsford Terrace este o stradă animată în Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -1909,7 +1909,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "怡和午砲 Noonday Gun",
+                  "name": "Noonday Gun din Causeway Bay",
                   "text": "Noonday Gun din Causeway Bay este trasă tradițional în fiecare zi la ora 12.",
                   "category": "landmark",
                   "coords": [
@@ -1918,7 +1918,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔街市 Wanchai Market",
+                  "name": "Wanchai Market",
                   "text": "Wanchai Market este o piață tradițională în Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -1927,7 +1927,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "渣甸山 Jardine's Lookout",
+                  "name": "Jardine's Lookout",
                   "text": "Jardine's Lookout este un punct de belvedere popular în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1936,7 +1936,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聶高信山 Mount Nicholson",
+                  "name": "Mount Nicholson",
                   "text": "Mount Nicholson este un munte cunoscut în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1945,7 +1945,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "紅香爐峰 Hung Heung Lo Fung",
+                  "name": "Hung Heung Lo Fung",
                   "text": "Hung Heung Lo Fung este un munte în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1954,7 +1954,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "金馬倫山 Mount Cameron",
+                  "name": "Mount Cameron",
                   "text": "Mount Cameron este un munte în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1963,7 +1963,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "寶馬山 Braemar Hill",
+                  "name": "Braemar Hill",
                   "text": "Braemar Hill este un deal cunoscut în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1972,7 +1972,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "小馬山 Siu Ma Shan",
+                  "name": "Siu Ma Shan",
                   "text": "Siu Ma Shan este un munte în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1981,7 +1981,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "Signal Hill este un deal în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1990,7 +1990,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦山 Mount Gough",
+                  "name": "Mount Gough",
                   "text": "Mount Gough este un munte în Causeway Bay.",
                   "category": "natural",
                   "coords": [
@@ -1999,7 +1999,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "Kowloon Park este un spațiu verde mare în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2008,7 +2008,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "夏慤花園 Harcourt Garden",
+                  "name": "Harcourt Garden",
                   "text": "Harcourt Garden este o grădină în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2017,7 +2017,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "市政局百周年紀念花園 Centenary Garden",
+                  "name": "Centenary Garden",
                   "text": "Centenary Garden este o grădină în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2026,7 +2026,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港公園 Hong Kong Park",
+                  "name": "Hong Kong Park",
                   "text": "Hong Kong Park este un parc central în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2035,7 +2035,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "和黃公園 Hutchison Park",
+                  "name": "Hutchison Park",
                   "text": "Hutchison Park este un spațiu verde în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2044,7 +2044,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "添馬公園 Tamar Park",
+                  "name": "Tamar Park",
                   "text": "Tamar Park este un parc în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2053,7 +2053,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "遮打花園 Chater Garden",
+                  "name": "Chater Garden",
                   "text": "Chater Garden este o grădină cunoscută în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2062,7 +2062,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "博覽海濱花園 Expo Promenade",
+                  "name": "Expo Promenade",
                   "text": "Expo Promenade este un parc în Causeway Bay.",
                   "category": "park",
                   "coords": [
@@ -2071,7 +2071,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港禮賓府 Government House",
+                  "name": "Government House din Causeway Bay",
                   "text": "Government House din Causeway Bay este reședința oficială.",
                   "category": "landmark",
                   "coords": [
@@ -2080,7 +2080,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+                  "name": "Central and Western District Promenade din Causeway Bay",
                   "text": "Central and Western District Promenade din Causeway Bay este un parc public pe malul apei.",
                   "category": "park",
                   "coords": [
@@ -2098,7 +2098,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "循道衛理聯合教會北角堂 Chinese Methodist Church (North Point)",
+                  "name": "Biserica Metodistă Chineză",
                   "text": "Biserica Metodistă Chineză este o clădire religioasă din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -2107,7 +2107,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖若瑟堂 St. Joseph's Church",
+                  "name": "Biserica Sf. Iosif",
                   "text": "Biserica Sf. Iosif este o biserică din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -2116,7 +2116,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督科學教會香港第一分會 First Church of Christ Scientist",
+                  "name": "Prima Biserică a lui Hristos Scientist",
                   "text": "Prima Biserică a lui Hristos Scientist este un lăcaș de cult din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -2125,7 +2125,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督君王小堂 Christ the King Chapel",
+                  "name": "Capela Hristos Rege",
                   "text": "Capela Hristos Rege este o capelă din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -2134,7 +2134,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖瑪加利大堂 St. Margaret's Church",
+                  "name": "Biserica Sf. Margareta",
                   "text": "Biserica Sf. Margareta este o biserică din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -2143,7 +2143,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖猶達聖堂 St. Jude's Catholic Church",
+                  "name": "Biserica Catolică Sf. Iuda",
                   "text": "Biserica Catolică Sf. Iuda este o biserică catolică din Causeway Bay.",
                   "category": "religious",
                   "coords": [
@@ -2152,7 +2152,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "花園道 Garden Road",
+                  "name": "Garden Road",
                   "text": "Garden Road este o atracție cunoscută din Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -2161,7 +2161,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "港灣道花園 Harbour Road Garden",
+                  "name": "Grădina Harbour Road",
                   "text": "Grădina Harbour Road este o oază verde din Causeway Bay.",
                   "category": "park",
                   "coords": [

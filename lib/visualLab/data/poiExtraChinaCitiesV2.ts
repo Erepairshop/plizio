@@ -231,7 +231,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "ningbo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "浙海关旧址博物馆",
+                  "name": "Ningpo Customs Site Museum",
                   "text": "Ningpo Customs Site Museum ist ein bemerkenswertes Museum in Ningbo. Es präsentiert die Geschichte des ehemaligen Zollamtes von Zhejiang.",
                   "category": "museum",
                   "coords": [
@@ -240,7 +240,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天一阁博物馆",
+                  "name": "Tianyi Pavilion Museum",
                   "text": "Tianyi Pavilion Museum ist ein bemerkenswertes Museum in Ningbo. Es beherbergt das älteste noch existierende private Bibliotheksgebäude in China.",
                   "category": "museum",
                   "coords": [
@@ -249,7 +249,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "茶文化博物馆",
+                  "name": "Yuan's Former Residence - Ningbo Tea Culture Museum",
                   "text": "Yuan's Former Residence - Ningbo Tea Culture Museum ist ein bemerkenswertes Museum in Ningbo. Es befindet sich in einem traditionellen Wohnhaus am Mondsee, das der lokalen Teekultur gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -258,7 +258,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波英国领事馆旧址",
+                  "name": "Former British Consulate in Ningbo",
                   "text": "Former British Consulate in Ningbo ist ein bemerkenswertes Museum in Ningbo. Die Stätte bewahrt das historische Gebäude, das den britischen diplomatischen Aktivitäten in der Region diente.",
                   "category": "museum",
                   "coords": [
@@ -267,7 +267,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大方岳第",
+                  "name": "Moon Lake Old Picture Exhibition Hall",
                   "text": "Moon Lake Old Picture Exhibition Hall ist ein bemerkenswertes Museum in Ningbo. Es stellt alte Fotografien aus, die die Geschichte und die Veränderungen der Gegend um den Mondsee dokumentieren.",
                   "category": "museum",
                   "coords": [
@@ -276,7 +276,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波美术馆",
+                  "name": "Ningbo Museum of Art",
                   "text": "Ningbo Museum of Art ist eine bemerkenswerte Galerie in Ningbo. Es ist eine bedeutende Institution für zeitgenössische Kunst, die sich auf dem Gelände des ehemaligen Hafengebäudes der Stadt befindet.",
                   "category": "museum",
                   "coords": [
@@ -285,7 +285,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波逸夫剧院",
+                  "name": "Ningbo Yifu Theatre",
                   "text": "Ningbo Yifu Theatre ist ein bemerkenswertes Theater in Ningbo. Es ist ein prominenter kultureller Veranstaltungsort der Stadt, der nach dem Philanthropen Run Run Shaw benannt ist.",
                   "category": "cultural",
                   "coords": [
@@ -294,7 +294,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛教居士林",
+                  "name": "Ningbo Buddhist Lodge",
                   "text": "Ningbo Buddhist Lodge ist eine bedeutende Kultstätte in Ningbo. Sie fungiert als herausragendes Zentrum für buddhistische Laien in der Stadt.",
                   "category": "religious",
                   "coords": [
@@ -303,7 +303,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波圣母升天堂",
+                  "name": "Our Lady of the Assumption Cathedral",
                   "text": "Our Lady of the Assumption Cathedral ist eine bedeutende Kultstätte in Ningbo. Sie dient als eine wichtige historische katholische Kathedrale in der Region.",
                   "category": "religious",
                   "coords": [
@@ -312,7 +312,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波耶稣圣心堂",
+                  "name": "Sacred Heart Cathedral",
                   "text": "Sacred Heart Cathedral ist eine bedeutende Kultstätte in Ningbo. Es handelt sich um eine große historische katholische Kirche, die für die örtliche Diözese von zentraler Bedeutung ist.",
                   "category": "religious",
                   "coords": [
@@ -330,7 +330,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波府城隍庙",
+                  "name": "Temple of Ningbo's Patron Deity",
                   "text": "Temple of Ningbo's Patron Deity ist eine bedeutende Kultstätte in Ningbo. Auch bekannt als der Stadtgott-Tempel, ist es eine wichtige Stätte der lokalen traditionellen Religion.",
                   "category": "religious",
                   "coords": [
@@ -348,7 +348,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天宁寺塔",
+                  "name": "Tianning Temple Tower",
                   "text": "Tianning Temple Tower ist eine bemerkenswerte Touristenattraktion in Ningbo. Diese antike Struktur ist ein gut erhaltener Überrest des historischen Tianning-Tempels.",
                   "category": "landmark",
                   "coords": [
@@ -357,7 +357,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "李氏宗祠",
+                  "name": "Li's Ancestral Temple",
                   "text": "Li's Ancestral Temple ist eine bemerkenswerte Touristenattraktion in Ningbo. Es ist eine traditionelle Ahnenhalle, die der Abstammung der lokalen Familie Li gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -384,7 +384,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波老外滩",
+                  "name": "Ningbo Old Bund",
                   "text": "Ningbo Old Bund ist eine bemerkenswerte Touristenattraktion in Ningbo. Es ist einer der ältesten ausländischen Bunds in China und zeichnet sich durch historische Architektur im Kolonialstil aus.",
                   "category": "landmark",
                   "coords": [
@@ -393,7 +393,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波邮政局旧址",
+                  "name": "Ningbo Post Bureau in Jiangbei",
                   "text": "Ningbo Post Bureau in Jiangbei ist eine bemerkenswerte Touristenattraktion in Ningbo. Die Stätte bewahrt das historische Gebäude der ehemaligen Post in diesem Gebiet.",
                   "category": "landmark",
                   "coords": [
@@ -402,7 +402,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张苍水纪念馆",
+                  "name": "Former residence of Zhangcangshui",
                   "text": "Former residence of Zhangcangshui ist eine bemerkenswerte Touristenattraktion in Ningbo. Der Ort ist historisch bedeutsam als Heimat des Ming-Dynastie-Loyalisten Zhang Cangshui.",
                   "category": "landmark",
                   "coords": [
@@ -411,7 +411,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "新江桥",
+                  "name": "Xinjiang Bridge",
                   "text": "Xinjiang Bridge ist eine bemerkenswerte Brücke in Ningbo. Sie ist ein wichtiges Infrastrukturobjekt, das den Verkehr über das Flusssystem der Stadt erleichtert.",
                   "category": "landmark",
                   "coords": [
@@ -420,7 +420,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬江大桥",
+                  "name": "Yongjiang Bridge",
                   "text": "Yongjiang Bridge ist eine bemerkenswerte Brücke in Ningbo. Es handelt sich um eine große Spannweite, die den Fluss Yongjiang überquert.",
                   "category": "landmark",
                   "coords": [
@@ -429,7 +429,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "解放桥",
+                  "name": "Jiefang Bridge",
                   "text": "Jiefang Bridge ist eine bemerkenswerte Brücke in Ningbo. Sie dient als wichtige Kreuzungsverbindung innerhalb der städtischen Infrastruktur.",
                   "category": "landmark",
                   "coords": [
@@ -447,7 +447,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "外滩大桥",
+                  "name": "Waitan Bridge",
                   "text": "Die Waitan Bridge ist eine bekannte Brücke in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -456,7 +456,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "江厦桥",
+                  "name": "Jiangxia Bridge",
                   "text": "Die Jiangxia Bridge ist eine bekannte Brücke in der Stadt Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -465,7 +465,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "灵桥",
+                  "name": "Lingqiao Bridge",
                   "text": "Die Lingqiao Bridge ist eine markante Brücke in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -474,7 +474,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "琴桥",
+                  "name": "Qinqiao Bridge",
                   "text": "Die Qinqiao Bridge ist eine bekannte Brücke in der Stadt Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -483,7 +483,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "新典桥",
+                  "name": "Xindian Bridge",
                   "text": "Die Xindian Bridge ist eine bekannte Brücke in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -492,7 +492,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "长丰桥",
+                  "name": "Changfeng Bridge",
                   "text": "Die Changfeng Bridge ist eine markante Brücke in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -501,7 +501,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "澄浪桥",
+                  "name": "Chenglang Bridge",
                   "text": "Die Chenglang Bridge ist eine bekannte Brücke in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -510,7 +510,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "兴宁桥",
+                  "name": "Xingning Bridge",
                   "text": "Die Xingning Bridge ist eine bekannte Brückenstruktur in der Stadt Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -519,7 +519,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "月湖清真寺",
+                  "name": "Yuehu-Moschee",
                   "text": "Die Yuehu-Moschee ist ein bekanntes Gotteshaus in Ningbo.",
                   "category": "religious",
                   "coords": [
@@ -546,7 +546,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波大剧院",
+                  "name": "Ningbo Grand Theater",
                   "text": "Das Ningbo Grand Theater ist ein Veranstaltungsort für Theateraufführungen in Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -555,7 +555,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "林宅",
+                  "name": "Lins Residenz in der Zijin Street",
                   "text": "Lins Residenz in der Zijin Street ist eine lokale Touristenattraktion in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -564,7 +564,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波教育博物馆",
+                  "name": "Ningbo Education Museum",
                   "text": "Das Ningbo Education Museum ist ein Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -573,7 +573,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "屠呦呦旧居陈列馆",
+                  "name": "Tu Youyou Museum",
                   "text": "Das Tu Youyou Museum ist ein Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -600,7 +600,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波老外滩展览馆",
+                  "name": "Ningbo Laowaitan Exhibition Hall",
                   "text": "Die Ningbo Laowaitan Exhibition Hall ist ein lokales Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -627,7 +627,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国保险博物馆",
+                  "name": "China Insurance Museum",
                   "text": "Das China Insurance Museum ist ein Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -672,7 +672,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波音乐厅",
+                  "name": "Ningbo Concert Hall",
                   "text": "Die Ningbo Concert Hall ist ein Veranstaltungsort in Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -692,7 +692,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "浙海关旧址博物馆",
+                  "name": "Ningpo Customs Site Museum",
                   "text": "A Ningpo Customs Site Museum egy jelentős múzeum Ningbóban. Az egykori zhejiangi vámhivatal történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -701,7 +701,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天一阁博物馆",
+                  "name": "Tianyi Pavilion Museum",
                   "text": "A Tianyi Pavilion Museum egy jelentős múzeum Ningbóban. Ez Kína legrégebbi fennmaradt magánkönyvtárának épülete.",
                   "category": "museum",
                   "coords": [
@@ -710,7 +710,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "茶文化博物馆",
+                  "name": "Yuan's Former Residence - Ningbo Tea Culture Museum",
                   "text": "A Yuan's Former Residence - Ningbo Tea Culture Museum egy jelentős múzeum Ningbóban. A Hold-tó partján álló hagyományos rezidencia ad otthont a helyi teakultúrát bemutató kiállításnak.",
                   "category": "museum",
                   "coords": [
@@ -719,7 +719,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波英国领事馆旧址",
+                  "name": "Former British Consulate in Ningbo",
                   "text": "A Former British Consulate in Ningbo egy jelentős múzeum Ningbóban. A helyszín megőrizte azt a történelmi épületet, amely a brit diplomáciai tevékenységet szolgálta a régióban.",
                   "category": "museum",
                   "coords": [
@@ -728,7 +728,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大方岳第",
+                  "name": "Moon Lake Old Picture Exhibition Hall",
                   "text": "A Moon Lake Old Picture Exhibition Hall egy jelentős múzeum Ningbóban. Olyan régi fényképeket állít ki, amelyek a Hold-tó környékének történetét és változásait dokumentálják.",
                   "category": "museum",
                   "coords": [
@@ -737,7 +737,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波美术馆",
+                  "name": "Ningbo Museum of Art",
                   "text": "A Ningbo Museum of Art egy jelentős galéria Ningbóban. Ez egy fő kortárs művészeti intézmény, amely a város egykori kikötőépületének helyén található.",
                   "category": "museum",
                   "coords": [
@@ -746,7 +746,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波逸夫剧院",
+                  "name": "Ningbo Yifu Theatre",
                   "text": "A Ningbo Yifu Theatre egy jelentős színház Ningbóban. A város egyik kiemelkedő kulturális helyszíne, amelyet a filantróp Run Run Shaw-ról neveztek el.",
                   "category": "cultural",
                   "coords": [
@@ -755,7 +755,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛教居士林",
+                  "name": "Ningbo Buddhist Lodge",
                   "text": "A Ningbo Buddhist Lodge egy jelentős istentiszteleti hely Ningbóban. A város buddhista világi hívőinek kiemelkedő központjaként működik.",
                   "category": "religious",
                   "coords": [
@@ -764,7 +764,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波圣母升天堂",
+                  "name": "Our Lady of the Assumption Cathedral",
                   "text": "A Our Lady of the Assumption Cathedral egy jelentős istentiszteleti hely Ningbóban. A régió fontos történelmi katolikus katedrálisaként szolgál.",
                   "category": "religious",
                   "coords": [
@@ -773,7 +773,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波耶稣圣心堂",
+                  "name": "Sacred Heart Cathedral",
                   "text": "A Sacred Heart Cathedral egy jelentős istentiszteleti hely Ningbóban. Ez egy fontos történelmi katolikus templom, amely a helyi egyházmegye központja.",
                   "category": "religious",
                   "coords": [
@@ -782,7 +782,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "七塔寺",
+                  "name": "Qita Temple",
                   "text": "A Qita Temple egy jelentős istentiszteleti hely Ningbóban. A város városi területének egyik legfontosabb buddhista templomaként tartják számon.",
                   "category": "religious",
                   "coords": [
@@ -791,7 +791,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波府城隍庙",
+                  "name": "Temple of Ningbo's Patron Deity",
                   "text": "A Temple of Ningbo's Patron Deity egy jelentős istentiszteleti hely Ningbóban. A Városvédő Isten templomaként is ismert helyszín a helyi hagyományos vallás kulcsfontosságú központja.",
                   "category": "religious",
                   "coords": [
@@ -800,7 +800,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天封塔",
+                  "name": "Tianfeng Pagoda",
                   "text": "A Tianfeng Pagoda egy jelentős turisztikai látványosság Ningbóban. Ez egy történelmi torony, amely a város ikonikus szimbóluma.",
                   "category": "landmark",
                   "coords": [
@@ -809,7 +809,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天宁寺塔",
+                  "name": "Tianning Temple Tower",
                   "text": "A Tianning Temple Tower egy jelentős turisztikai látványosság Ningbóban. Ez az ősi építmény a történelmi Tianning-templom jól megőrzött maradványa.",
                   "category": "landmark",
                   "coords": [
@@ -818,7 +818,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "李氏宗祠",
+                  "name": "Li's Ancestral Temple",
                   "text": "A Li's Ancestral Temple egy jelentős turisztikai látványosság Ningbóban. Ez egy hagyományos ősi csarnok, amelyet a helyi Li család leszármazottainak szenteltek.",
                   "category": "landmark",
                   "coords": [
@@ -836,7 +836,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波鼓楼",
+                  "name": "Ningbo Drum Tower",
                   "text": "A Ningbo Drum Tower egy jelentős turisztikai látványosság Ningbóban. Ez egy történelmi építészeti mérföldkő a város központi részén.",
                   "category": "landmark",
                   "coords": [
@@ -845,7 +845,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波老外滩",
+                  "name": "Ningbo Old Bund",
                   "text": "A Ningbo Old Bund egy jelentős turisztikai látványosság Ningbóban. Kína egyik legrégebbi külföldi rakpartja, amely történelmi gyarmati stílusú építészettel büszkélkedhet.",
                   "category": "landmark",
                   "coords": [
@@ -854,7 +854,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波邮政局旧址",
+                  "name": "Ningbo Post Bureau in Jiangbei",
                   "text": "A Ningbo Post Bureau in Jiangbei egy jelentős turisztikai látványosság Ningbóban. A helyszín a terület egykori postai szolgálatának történelmi épületét őrzi.",
                   "category": "landmark",
                   "coords": [
@@ -863,7 +863,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张苍水纪念馆",
+                  "name": "Former residence of Zhangcangshui",
                   "text": "A Former residence of Zhangcangshui egy jelentős turisztikai látványosság Ningbóban. A helyszín történelmileg jelentős, mivel a Ming-dinasztia hűségesének, Zhang Cangshuinak az otthona volt.",
                   "category": "landmark",
                   "coords": [
@@ -872,7 +872,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "新江桥",
+                  "name": "Xinjiang Bridge",
                   "text": "A Xinjiang Bridge egy jelentős híd Ningbóban. Kulcsfontosságú infrastrukturális elem, amely megkönnyíti a közlekedést a város folyórendszerén keresztül.",
                   "category": "landmark",
                   "coords": [
@@ -881,7 +881,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬江大桥",
+                  "name": "Yongjiang Bridge",
                   "text": "A Yongjiang Bridge egy jelentős híd Ningbóban. Ez egy hatalmas átkelő, amely a Yongjiang folyót íveli át.",
                   "category": "landmark",
                   "coords": [
@@ -890,7 +890,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "解放桥",
+                  "name": "Jiefang Bridge",
                   "text": "A Jiefang Bridge egy jelentős híd Ningbóban. Fontos átkelési kapcsolatként szolgál a városi infrastruktúrán belül.",
                   "category": "landmark",
                   "coords": [
@@ -908,7 +908,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "外滩大桥",
+                  "name": "Waitan Bridge",
                   "text": "A Waitan Bridge egy nevezetes híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -917,7 +917,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "江厦桥",
+                  "name": "Jiangxia Bridge",
                   "text": "A Jiangxia Bridge egy ismert híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -926,7 +926,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "灵桥",
+                  "name": "Lingqiao Bridge",
                   "text": "A Lingqiao Bridge egy kiemelkedő híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -935,7 +935,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "琴桥",
+                  "name": "Qinqiao Bridge",
                   "text": "A Qinqiao Bridge egy nevezetes híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -944,7 +944,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "新典桥",
+                  "name": "Xindian Bridge",
                   "text": "A Xindian Bridge egy ismert híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -953,7 +953,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "长丰桥",
+                  "name": "Changfeng Bridge",
                   "text": "A Changfeng Bridge egy kiemelkedő híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -962,7 +962,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "澄浪桥",
+                  "name": "Chenglang Bridge",
                   "text": "A Chenglang Bridge egy nevezetes híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -971,7 +971,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "兴宁桥",
+                  "name": "Xingning Bridge",
                   "text": "A Xingning Bridge egy ismert híd Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -980,7 +980,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "月湖清真寺",
+                  "name": "Yuehu mecset",
                   "text": "A Yuehu mecset egy nevezetes imahely Ningbo városában.",
                   "category": "religious",
                   "coords": [
@@ -998,7 +998,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高丽使馆遗址",
+                  "name": "Ningbo-Korea Csere Történetének Kiállítóterme",
                   "text": "A Ningbo-Korea Csere Történetének Kiállítóterme egy nevezetes kulturális látványosság Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -1007,7 +1007,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波大剧院",
+                  "name": "Ningbo Grand Theater",
                   "text": "A Ningbo Grand Theater egy színház Ningbo városában.",
                   "category": "cultural",
                   "coords": [
@@ -1016,7 +1016,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "林宅",
+                  "name": "Lin-rezidencia",
                   "text": "A Lin-rezidencia a Zijin utcában egy helyi turisztikai látványosság Ningbo városában.",
                   "category": "landmark",
                   "coords": [
@@ -1025,7 +1025,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波教育博物馆",
+                  "name": "Ningbo Education Museum",
                   "text": "A Ningbo Education Museum egy múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1034,7 +1034,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "屠呦呦旧居陈列馆",
+                  "name": "Tu Youyou Museum",
                   "text": "A Tu Youyou Museum egy múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1061,7 +1061,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波老外滩展览馆",
+                  "name": "Ningbo Laowaitan Exhibition Hall",
                   "text": "A Ningbo Laowaitan Exhibition Hall egy helyi múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1088,7 +1088,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国保险博物馆",
+                  "name": "China Insurance Museum",
                   "text": "A China Insurance Museum egy múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1133,7 +1133,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波音乐厅",
+                  "name": "Ningbo Concert Hall",
                   "text": "A Ningbo Concert Hall egy előadóterem Ningbo városában.",
                   "category": "cultural",
                   "coords": [
@@ -1153,7 +1153,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "浙海关旧址博物馆",
+                  "name": "Ningpo Customs Site Museum",
                   "text": "Ningpo Customs Site Museum este un muzeu notabil situat în Ningbo. Acesta prezintă istoria fostului birou vamal din Zhejiang.",
                   "category": "museum",
                   "coords": [
@@ -1162,7 +1162,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天一阁博物馆",
+                  "name": "Tianyi Pavilion Museum",
                   "text": "Tianyi Pavilion Museum este un muzeu notabil situat în Ningbo. Găzduiește cea mai veche clădire privată de bibliotecă existentă din China.",
                   "category": "museum",
                   "coords": [
@@ -1171,7 +1171,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "茶文化博物馆",
+                  "name": "Yuan's Former Residence - Ningbo Tea Culture Museum",
                   "text": "Yuan's Former Residence - Ningbo Tea Culture Museum este un muzeu notabil situat în Ningbo. Este găzduit într-o reședință tradițională de pe Lacul Lunii, dedicată culturii locale a ceaiului.",
                   "category": "museum",
                   "coords": [
@@ -1180,7 +1180,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波英国领事馆旧址",
+                  "name": "Former British Consulate in Ningbo",
                   "text": "Former British Consulate in Ningbo este un muzeu notabil situat în Ningbo. Situl păstrează clădirea istorică care a servit operațiunilor diplomatice britanice din regiune.",
                   "category": "museum",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大方岳第",
+                  "name": "Moon Lake Old Picture Exhibition Hall",
                   "text": "Moon Lake Old Picture Exhibition Hall este un muzeu notabil situat în Ningbo. Expune fotografii vechi care documentează istoria și schimbările din zona Lacului Lunii.",
                   "category": "museum",
                   "coords": [
@@ -1198,7 +1198,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波美术馆",
+                  "name": "Ningbo Museum of Art",
                   "text": "Ningbo Museum of Art este o galerie notabilă situată în Ningbo. Este o instituție importantă de artă contemporană situată pe locul fostei clădiri a portului orașului.",
                   "category": "museum",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波逸夫剧院",
+                  "name": "Ningbo Yifu Theatre",
                   "text": "Ningbo Yifu Theatre este un teatru notabil situat în Ningbo. Este o locație culturală proeminentă din oraș, numită după filantropul Run Run Shaw.",
                   "category": "cultural",
                   "coords": [
@@ -1216,7 +1216,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛教居士林",
+                  "name": "Ningbo Buddhist Lodge",
                   "text": "Ningbo Buddhist Lodge este un lăcaș de cult notabil situat în Ningbo. Funcționează ca un centru proeminent pentru laicii budiști din oraș.",
                   "category": "religious",
                   "coords": [
@@ -1225,7 +1225,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波圣母升天堂",
+                  "name": "Our Lady of the Assumption Cathedral",
                   "text": "Our Lady of the Assumption Cathedral este un lăcaș de cult notabil situat în Ningbo. Servește ca o importantă catedrală catolică istorică din regiune.",
                   "category": "religious",
                   "coords": [
@@ -1234,7 +1234,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波耶稣圣心堂",
+                  "name": "Sacred Heart Cathedral",
                   "text": "Sacred Heart Cathedral este un lăcaș de cult notabil situat în Ningbo. Este o importantă biserică catolică istorică, centrală pentru dieceza locală.",
                   "category": "religious",
                   "coords": [
@@ -1243,7 +1243,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "七塔寺",
+                  "name": "Qita Temple",
                   "text": "Qita Temple este un lăcaș de cult notabil situat în Ningbo. Este recunoscut ca fiind unul dintre templele budiste majore din zona urbană a orașului.",
                   "category": "religious",
                   "coords": [
@@ -1252,7 +1252,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波府城隍庙",
+                  "name": "Temple of Ningbo's Patron Deity",
                   "text": "Temple of Ningbo's Patron Deity este un lăcaș de cult notabil situat în Ningbo. Cunoscut și sub numele de Templul Zeului Orașului, este un sit cheie al religiei tradiționale locale.",
                   "category": "religious",
                   "coords": [
@@ -1261,7 +1261,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天封塔",
+                  "name": "Tianfeng Pagoda",
                   "text": "Tianfeng Pagoda este o atracție turistică notabilă situată în Ningbo. Este un turn istoric care servește drept simbol iconic al orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1270,7 +1270,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天宁寺塔",
+                  "name": "Tianning Temple Tower",
                   "text": "Tianning Temple Tower este o atracție turistică notabilă situată în Ningbo. Această structură antică este o rămășiță bine conservată a templului istoric Tianning.",
                   "category": "landmark",
                   "coords": [
@@ -1279,7 +1279,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "李氏宗祠",
+                  "name": "Li's Ancestral Temple",
                   "text": "Li's Ancestral Temple este o atracție turistică notabilă situată în Ningbo. Este un hol tradițional ancestral dedicat descendenței familiei locale Li.",
                   "category": "landmark",
                   "coords": [
@@ -1297,7 +1297,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波鼓楼",
+                  "name": "Ningbo Drum Tower",
                   "text": "Ningbo Drum Tower este o atracție turistică notabilă situată în Ningbo. Este un punct de reper arhitectural istoric din zona centrală a orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1306,7 +1306,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波老外滩",
+                  "name": "Ningbo Old Bund",
                   "text": "Ningbo Old Bund este o atracție turistică notabilă situată în Ningbo. Este unul dintre cele mai vechi porturi străine din China, având arhitectură istorică în stil colonial.",
                   "category": "landmark",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波邮政局旧址",
+                  "name": "Ningbo Post Bureau in Jiangbei",
                   "text": "Ningbo Post Bureau in Jiangbei este o atracție turistică notabilă situată în Ningbo. Situl păstrează clădirea istorică a fostului serviciu poștal din zonă.",
                   "category": "landmark",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张苍水纪念馆",
+                  "name": "Former residence of Zhangcangshui",
                   "text": "Former residence of Zhangcangshui este o atracție turistică notabilă situată în Ningbo. Situl este semnificativ istoric ca locuință a loialistului dinastiei Ming, Zhang Cangshui.",
                   "category": "landmark",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "新江桥",
+                  "name": "Xinjiang Bridge",
                   "text": "Xinjiang Bridge este un pod notabil situat în Ningbo. Este o piesă cheie de infrastructură care facilitează traficul pe sistemul fluvial al orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1342,7 +1342,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬江大桥",
+                  "name": "Yongjiang Bridge",
                   "text": "Yongjiang Bridge este un pod notabil situat în Ningbo. Este un tronson major care traversează râul Yongjiang.",
                   "category": "landmark",
                   "coords": [
@@ -1351,7 +1351,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "解放桥",
+                  "name": "Jiefang Bridge",
                   "text": "Jiefang Bridge este un pod notabil situat în Ningbo. Acesta servește drept o importantă legătură de traversare în cadrul infrastructurii urbane.",
                   "category": "landmark",
                   "coords": [
@@ -1369,7 +1369,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "外滩大桥",
+                  "name": "Waitan Bridge",
                   "text": "Waitan Bridge este un pod notabil situat în Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1378,7 +1378,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "江厦桥",
+                  "name": "Jiangxia Bridge",
                   "text": "Jiangxia Bridge este un pod recunoscut din orașul Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1387,7 +1387,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "灵桥",
+                  "name": "Lingqiao Bridge",
                   "text": "Lingqiao Bridge este un pod important situat în Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1396,7 +1396,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "琴桥",
+                  "name": "Qinqiao Bridge",
                   "text": "Qinqiao Bridge este un pod notabil din orașul Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1405,7 +1405,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "新典桥",
+                  "name": "Xindian Bridge",
                   "text": "Xindian Bridge este un pod recunoscut din Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1414,7 +1414,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "长丰桥",
+                  "name": "Changfeng Bridge",
                   "text": "Changfeng Bridge este un pod important situat în Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1423,7 +1423,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "澄浪桥",
+                  "name": "Chenglang Bridge",
                   "text": "Chenglang Bridge este un pod notabil situat în Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1432,7 +1432,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "兴宁桥",
+                  "name": "Xingning Bridge",
                   "text": "Xingning Bridge este o structură de pod recunoscută în orașul Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1441,7 +1441,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "月湖清真寺",
+                  "name": "Moscheea Yuehu",
                   "text": "Moscheea Yuehu este un lăcaș de cult notabil situat în Ningbo.",
                   "category": "religious",
                   "coords": [
@@ -1459,7 +1459,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高丽使馆遗址",
+                  "name": "Sala de expoziții a istoriei schimburilor Ningbo-Coreea",
                   "text": "Sala de expoziții a istoriei schimburilor Ningbo-Coreea este o atracție culturală notabilă din Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1468,7 +1468,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波大剧院",
+                  "name": "Ningbo Grand Theater",
                   "text": "Ningbo Grand Theater este un teatru situat în Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -1477,7 +1477,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "林宅",
+                  "name": "Reședința lui Lin de pe strada Zijin",
                   "text": "Reședința lui Lin de pe strada Zijin este o atracție turistică locală din Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -1486,7 +1486,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波教育博物馆",
+                  "name": "Ningbo Education Museum",
                   "text": "Ningbo Education Museum este un muzeu din Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1495,7 +1495,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "屠呦呦旧居陈列馆",
+                  "name": "Tu Youyou Museum",
                   "text": "Tu Youyou Museum este un muzeu situat în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1522,7 +1522,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波老外滩展览馆",
+                  "name": "Ningbo Laowaitan Exhibition Hall",
                   "text": "Ningbo Laowaitan Exhibition Hall este un muzeu local situat în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1549,7 +1549,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国保险博物馆",
+                  "name": "China Insurance Museum",
                   "text": "China Insurance Museum este un muzeu situat în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1594,7 +1594,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波音乐厅",
+                  "name": "Ningbo Concert Hall",
                   "text": "Ningbo Concert Hall este o sală de spectacole din Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -3432,7 +3432,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "foshan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "李众胜堂祖铺 李众胜堂祖铺",
+                  "name": "Li Chung Shing Tong Ancestral Shop",
                   "text": "Der Li Chung Shing Tong Ancestral Shop ist ein bekanntes Museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3441,7 +3441,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山祖庙",
+                  "name": "Foshan Ancestral Temple",
                   "text": "Der Foshan Ancestral Temple ist ein sehr bekanntes Museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3468,7 +3468,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山乐园",
+                  "name": "Foshan Amusement Park Recreation Center",
                   "text": "Das Foshan Amusement Park Recreation Center ist ein Freizeitpark in Foshan.",
                   "category": "family",
                   "coords": [
@@ -3477,7 +3477,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "琼花大剧院（佛山市影剧院）",
+                  "name": "Foshan City Theater",
                   "text": "Das Foshan City Theater ist ein lokales Theater in Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3495,7 +3495,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "广东粤剧博物馆",
+                  "name": "Guangdong Cantonese Opera Museum",
                   "text": "Das Guangdong Cantonese Opera Museum ist ein lokales Museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3504,7 +3504,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山粤剧院",
+                  "name": "Foshan Cantonese Opera Theatre",
                   "text": "Das Foshan Cantonese Opera Theatre ist ein Theater in Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3531,7 +3531,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "亚洲艺术公园",
+                  "name": "Asia Arts Park",
                   "text": "Der Asia Arts Park ist ein öffentlicher Park in Foshan.",
                   "category": "park",
                   "coords": [
@@ -3540,7 +3540,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "文华公园",
+                  "name": "Wenhua Park",
                   "text": "Der Wenhua Park ist ein Erholungspark in Foshan.",
                   "category": "park",
                   "coords": [
@@ -3569,7 +3569,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "李众胜堂祖铺 李众胜堂祖铺",
+                  "name": "Li Chung Shing Tong Ancestral Shop",
                   "text": "A Li Chung Shing Tong Ancestral Shop egy nevezetes múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3578,7 +3578,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山祖庙",
+                  "name": "Foshan Ancestral Temple",
                   "text": "A Foshan Ancestral Temple egy széles körben ismert múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3605,7 +3605,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山乐园",
+                  "name": "Foshan Amusement Park Recreation Center",
                   "text": "A Foshan Amusement Park Recreation Center egy vidámpark Foshan városában.",
                   "category": "family",
                   "coords": [
@@ -3614,7 +3614,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "琼花大剧院（佛山市影剧院）",
+                  "name": "Foshan City Theater",
                   "text": "A Foshan City Theater egy helyi színház Foshan városában.",
                   "category": "cultural",
                   "coords": [
@@ -3632,7 +3632,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "广东粤剧博物馆",
+                  "name": "Guangdong Cantonese Opera Museum",
                   "text": "A Guangdong Cantonese Opera Museum egy helyi múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3641,7 +3641,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山粤剧院",
+                  "name": "Foshan Cantonese Opera Theatre",
                   "text": "A Foshan Cantonese Opera Theatre egy színház Foshan városában.",
                   "category": "cultural",
                   "coords": [
@@ -3668,7 +3668,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "亚洲艺术公园",
+                  "name": "Asia Arts Park",
                   "text": "Az Asia Arts Park egy közpark Foshan városában.",
                   "category": "park",
                   "coords": [
@@ -3677,7 +3677,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "文华公园",
+                  "name": "Wenhua Park",
                   "text": "A Wenhua Park egy szabadidőpark Foshan városában.",
                   "category": "park",
                   "coords": [
@@ -3706,7 +3706,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "李众胜堂祖铺 李众胜堂祖铺",
+                  "name": "Magazinul Ancestral Li Chung Shing Tong",
                   "text": "Magazinul Ancestral Li Chung Shing Tong este un muzeu notabil situat în Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3715,7 +3715,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山祖庙",
+                  "name": "Templul Ancestral din Foshan",
                   "text": "Templul Ancestral din Foshan este un muzeu foarte recunoscut din Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3742,7 +3742,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山乐园",
+                  "name": "Foshan Amusement Park Recreation Center",
                   "text": "Foshan Amusement Park Recreation Center este un parc de distracții situat în Foshan.",
                   "category": "family",
                   "coords": [
@@ -3751,7 +3751,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "琼花大剧院（佛山市影剧院）",
+                  "name": "Foshan City Theater",
                   "text": "Foshan City Theater este un teatru local din Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3769,7 +3769,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "广东粤剧博物馆",
+                  "name": "Guangdong Cantonese Opera Museum",
                   "text": "Guangdong Cantonese Opera Museum este un muzeu local din Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3778,7 +3778,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山粤剧院",
+                  "name": "Foshan Cantonese Opera Theatre",
                   "text": "Foshan Cantonese Opera Theatre este un teatru din Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3805,7 +3805,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "亚洲艺术公园",
+                  "name": "Asia Arts Park",
                   "text": "Asia Arts Park este un parc public situat în Foshan.",
                   "category": "park",
                   "coords": [
@@ -3814,7 +3814,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "文华公园",
+                  "name": "Wenhua Park",
                   "text": "Wenhua Park este un parc de agrement situat în Foshan.",
                   "category": "park",
                   "coords": [
@@ -4001,7 +4001,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "dongguan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "迎恩门城楼",
+                  "name": "Ying'enmen",
                   "text": "Ying'enmen ist eine historische Burganlage in Dongguan.",
                   "category": "castle",
                   "coords": [
@@ -4010,7 +4010,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞博物馆",
+                  "name": "Dongguan Museum",
                   "text": "Das Dongguan Museum ist ein informatives Museum in der Stadt Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4019,7 +4019,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "可园博物馆",
+                  "name": "Keyuan Museum",
                   "text": "Das Keyuan Museum ist ein kulturelles Museum in Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4037,7 +4037,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "森晖博物馆",
+                  "name": "Senhui Museum",
                   "text": "Das Senhui Museum ist ein lokales Museum in Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4055,7 +4055,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "岭南美术馆",
+                  "name": "Lingnan Art Museum",
                   "text": "Das Lingnan Art Museum ist ein Kunstzentrum in der Stadt Dongguan.",
                   "category": "cultural",
                   "coords": [
@@ -4066,7 +4066,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "迎恩门城楼",
+                  "name": "Ying'enmen",
                   "text": "A Ying'enmen egy történelmi várkastély Dongguanban.",
                   "category": "castle",
                   "coords": [
@@ -4075,7 +4075,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞博物馆",
+                  "name": "Dongguan Museum",
                   "text": "A Dongguan Museum egy informatív múzeum Dongguan városában.",
                   "category": "museum",
                   "coords": [
@@ -4084,7 +4084,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "可园博物馆",
+                  "name": "Keyuan Museum",
                   "text": "A Keyuan Museum egy kulturális múzeum Dongguanban.",
                   "category": "museum",
                   "coords": [
@@ -4102,7 +4102,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "森晖博物馆",
+                  "name": "Senhui Museum",
                   "text": "A Senhui Museum egy helyi múzeum Dongguanban.",
                   "category": "museum",
                   "coords": [
@@ -4120,7 +4120,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "岭南美术馆",
+                  "name": "Lingnan Művészeti Múzeum",
                   "text": "A Lingnan Művészeti Múzeum egy művészeti központ Dongguan városában.",
                   "category": "cultural",
                   "coords": [
@@ -4131,7 +4131,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "迎恩门城楼",
+                  "name": "Ying'enmen",
                   "text": "Ying'enmen este o structură istorică de castel situată în Dongguan.",
                   "category": "castle",
                   "coords": [
@@ -4140,7 +4140,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞博物馆",
+                  "name": "Muzeul Dongguan",
                   "text": "Muzeul Dongguan este un muzeu informativ situat în orașul Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4149,7 +4149,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "可园博物馆",
+                  "name": "Muzeul Keyuan",
                   "text": "Muzeul Keyuan este un muzeu cultural situat în Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4167,7 +4167,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "森晖博物馆",
+                  "name": "Muzeul Senhui",
                   "text": "Muzeul Senhui este un muzeu local situat în Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4185,7 +4185,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "岭南美术馆",
+                  "name": "Lingnan Art Museum",
                   "text": "Lingnan Art Museum este un centru de artă din orașul Dongguan.",
                   "category": "cultural",
                   "coords": [
@@ -4419,7 +4419,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "changzhou-cities-v2", "sights": {
       "de": [
             {
-                  "name": "中华恐龙园",
+                  "name": "China Dinosaur Park",
                   "text": "Der China Dinosaur Park ist ein weithin bekannter Freizeitpark in Changzhou.",
                   "category": "family",
                   "coords": [
@@ -4428,7 +4428,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州规划展览馆",
+                  "name": "Changzhou Museum of Urban Planning",
                   "text": "Das Changzhou Museum of Urban Planning ist ein Museum für Stadtplanung in Changzhou.",
                   "category": "museum",
                   "coords": [
@@ -4437,7 +4437,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州大剧院",
+                  "name": "Changzhou Grand Theater",
                   "text": "Das Changzhou Grand Theater ist ein Theatergebäude in Changzhou.",
                   "category": "cultural",
                   "coords": [
@@ -4455,7 +4455,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "冒险港",
+                  "name": "Maoxiangang",
                   "text": "Maoxiangang ist eine Attraktion in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4473,7 +4473,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梦幻庄园",
+                  "name": "Menghuan Zhuangyuan",
                   "text": "Menghuan Zhuangyuan ist eine Attraktion in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4482,7 +4482,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "暴宝探险营",
+                  "name": "Baobao Tanxianying",
                   "text": "Das Baobao Tanxianying ist eine Attraktion in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4491,7 +4491,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "魔幻雨林",
+                  "name": "Mohuan Yulin",
                   "text": "Mohuan Yulin ist eine Attraktion in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4500,7 +4500,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州美术馆",
+                  "name": "Kunstmuseum Changzhou",
                   "text": "Das Kunstmuseum Changzhou ist eine Galerie in der Stadt Changzhou.",
                   "category": "museum",
                   "coords": [
@@ -4511,7 +4511,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "中华恐龙园",
+                  "name": "China Dinosaur Park",
                   "text": "A China Dinosaur Park egy széles körben ismert vidámpark Changzhou városában.",
                   "category": "family",
                   "coords": [
@@ -4520,7 +4520,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州规划展览馆",
+                  "name": "Changzhou Várostervezési Múzeum",
                   "text": "A Changzhou Várostervezési Múzeum egy várostervezési múzeum Changzhou városában.",
                   "category": "museum",
                   "coords": [
@@ -4529,7 +4529,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州大剧院",
+                  "name": "Changzhou Grand Theater",
                   "text": "A Changzhou Grand Theater egy színház Changzhou városában.",
                   "category": "cultural",
                   "coords": [
@@ -4538,7 +4538,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "疯狂恐龙人",
+                  "name": "Fengkuang Konglongren látványosság Changzhou városában várja",
                   "text": "A Fengkuang Konglongren látványosság Changzhou városában várja az érdeklődőket.",
                   "category": "landmark",
                   "coords": [
@@ -4547,7 +4547,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "冒险港",
+                  "name": "Maoxiangang",
                   "text": "A Maoxiangang egy látványosság Changzhou városában.",
                   "category": "landmark",
                   "coords": [
@@ -4592,7 +4592,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州美术馆",
+                  "name": "Changzhou Művészeti Múzeum",
                   "text": "A Changzhou Művészeti Múzeum egy galéria Changzhou városában.",
                   "category": "museum",
                   "coords": [
@@ -4603,7 +4603,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "中华恐龙园",
+                  "name": "China Dinosaur Park",
                   "text": "China Dinosaur Park este un parc tematic foarte recunoscut situat în Changzhou.",
                   "category": "family",
                   "coords": [
@@ -4612,7 +4612,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州规划展览馆",
+                  "name": "Muzeul de Planificare Urbană Changzhou",
                   "text": "Muzeul de Planificare Urbană Changzhou este un muzeu din Changzhou.",
                   "category": "museum",
                   "coords": [
@@ -4621,7 +4621,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州大剧院",
+                  "name": "Marele Teatru Changzhou",
                   "text": "Marele Teatru Changzhou este un teatru situat în orașul Changzhou.",
                   "category": "cultural",
                   "coords": [
@@ -4630,7 +4630,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "疯狂恐龙人",
+                  "name": "Atracția Fengkuang Konglongren",
                   "text": "Atracția Fengkuang Konglongren este situată în Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4639,7 +4639,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "冒险港",
+                  "name": "Atracția Maoxiangang",
                   "text": "Atracția Maoxiangang este situată în orașul Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4648,7 +4648,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鲁布拉",
+                  "name": "Atracția Lubula",
                   "text": "Atracția Lubula este situată în orașul Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4666,7 +4666,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "暴宝探险营",
+                  "name": "Atracția Baobao Tanxianying",
                   "text": "Atracția Baobao Tanxianying este situată în Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4684,7 +4684,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州美术馆",
+                  "name": "Muzeul de Artă Changzhou",
                   "text": "Muzeul de Artă Changzhou este o galerie situată în Changzhou.",
                   "category": "museum",
                   "coords": [
@@ -4776,7 +4776,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "常州美术馆",
+                  "name": "Changzhou Art Museum",
                   "text": "The Changzhou Art Museum is a gallery located in the city of Changzhou.",
                   "category": "museum",
                   "coords": [
@@ -4868,7 +4868,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "datong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "魁星文化博物馆",
+                  "name": "Dies",
                   "text": "Dies ist ein lokales Museum in der Stadt Datong.",
                   "category": "museum",
                   "coords": [
@@ -4877,7 +4877,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国雕塑博物馆",
+                  "name": "China Sculpture Museum",
                   "text": "Das China Sculpture Museum ist eine museale Einrichtung in Datong.",
                   "category": "museum",
                   "coords": [
@@ -4886,7 +4886,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大同规划展览馆",
+                  "name": "Diese Einrichtung",
                   "text": "Diese Einrichtung ist ein Museum in der Stadt Datong.",
                   "category": "museum",
                   "coords": [
@@ -4913,7 +4913,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "平城纪念馆",
+                  "name": "Dies",
                   "text": "Dies ist ein lokales Museum in Datong.",
                   "category": "museum",
                   "coords": [
@@ -4922,7 +4922,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "四牌楼",
+                  "name": "Sipailou",
                   "text": "Sipailou ist ein bedeutendes historisches Denkmal und traditionelles Torbauwerk in Datong.",
                   "category": "historical",
                   "coords": [
@@ -4940,7 +4940,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "代王府",
+                  "name": "Dai Wangfu",
                   "text": "Dai Wangfu ist eine lokale Touristenattraktion in Datong.",
                   "category": "landmark",
                   "coords": [
@@ -4949,7 +4949,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "九龙壁景区",
+                  "name": "Dieses Landschaftsgebiet",
                   "text": "Dieses Landschaftsgebiet ist eine beliebte Attraktion in Datong.",
                   "category": "landmark",
                   "coords": [
@@ -4958,7 +4958,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "圆通寺",
+                  "name": "Yuantong-Tempel",
                   "text": "Der Yuantong-Tempel ist eine lokale Sehenswürdigkeit in der Stadt Datong.",
                   "category": "landmark",
                   "coords": [
@@ -4985,7 +4985,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "华严寺",
+                  "name": "Huayan-Tempel",
                   "text": "Der Huayan-Tempel ist eine wichtige buddhistische Kulturerbestätte und ein antiker Architekturkomplex in Datong.",
                   "category": "landmark",
                   "coords": [
@@ -4994,7 +4994,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "善化寺",
+                  "name": "Shanhua-Tempel",
                   "text": "Der Shanhua-Tempel ist eine gut erhaltene antike Kulturerbestätte und ein buddhistischer Tempel in Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5014,7 +5014,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国雕塑博物馆",
+                  "name": "Kínai Szobrászati Múzeum",
                   "text": "A Kínai Szobrászati Múzeum egy kulturális létesítmény Datongban.",
                   "category": "museum",
                   "coords": [
@@ -5059,7 +5059,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "四牌楼",
+                  "name": "Sipailou",
                   "text": "A Sipailou egy jelentős történelmi emlékmű és hagyományos kapuépítmény Datongban.",
                   "category": "historical",
                   "coords": [
@@ -5077,7 +5077,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "代王府",
+                  "name": "Dai Wangfu",
                   "text": "A Dai Wangfu egy helyi turisztikai látványosság Datongban.",
                   "category": "landmark",
                   "coords": [
@@ -5095,7 +5095,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "圆通寺",
+                  "name": "Yuantong-templom",
                   "text": "A Yuantong-templom egy helyi látványosság Datong városában.",
                   "category": "landmark",
                   "coords": [
@@ -5104,7 +5104,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鼓楼",
+                  "name": "Dobtorony",
                   "text": "A Dobtorony egy jelentős műemléképület és történelmi nevezetesség Datongban.",
                   "category": "landmark",
                   "coords": [
@@ -5122,7 +5122,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "华严寺",
+                  "name": "Huayan-templom",
                   "text": "A Huayan-templom egy fontos buddhista örökségi helyszín és ősi építészeti komplexum Datongban.",
                   "category": "landmark",
                   "coords": [
@@ -5131,7 +5131,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "善化寺",
+                  "name": "Shanhua-templom",
                   "text": "A Shanhua-templom egy jól karbantartott ősi örökségi helyszín és buddhista templom Datongban.",
                   "category": "landmark",
                   "coords": [
@@ -5142,7 +5142,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "魁星文化博物馆",
+                  "name": "Acesta",
                   "text": "Acesta este un muzeu local din orașul Datong.",
                   "category": "museum",
                   "coords": [
@@ -5151,7 +5151,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国雕塑博物馆",
+                  "name": "China Sculpture Museum",
                   "text": "China Sculpture Museum este o instituție muzeală din Datong.",
                   "category": "museum",
                   "coords": [
@@ -5160,7 +5160,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大同规划展览馆",
+                  "name": "Această instituție",
                   "text": "Această instituție este un muzeu din orașul Datong.",
                   "category": "museum",
                   "coords": [
@@ -5187,7 +5187,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "平城纪念馆",
+                  "name": "Acesta",
                   "text": "Acesta este un muzeu local din Datong.",
                   "category": "museum",
                   "coords": [
@@ -5196,7 +5196,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "四牌楼",
+                  "name": "Sipailou",
                   "text": "Sipailou este un monument istoric notabil și o structură tradițională de poartă în Datong.",
                   "category": "historical",
                   "coords": [
@@ -5214,7 +5214,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "代王府",
+                  "name": "Dai Wangfu",
                   "text": "Dai Wangfu este o atracție turistică locală situată în Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5223,7 +5223,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "九龙壁景区",
+                  "name": "Această zonă pitorească",
                   "text": "Această zonă pitorească este o atracție populară situată în Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5232,7 +5232,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "圆通寺",
+                  "name": "Templul Yuantong",
                   "text": "Templul Yuantong este o atracție locală aflată în orașul Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5241,7 +5241,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鼓楼",
+                  "name": "Turnul Tobei",
                   "text": "Turnul Tobei este o clădire de patrimoniu semnificativă și un punct de reper istoric în Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5250,7 +5250,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "关帝庙",
+                  "name": "Acest Templu Guandi",
                   "text": "Acest Templu Guandi este un lăcaș de cult notabil din Datong dedicat lui Guan Yu.",
                   "category": "religious",
                   "coords": [
@@ -5259,7 +5259,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "华严寺",
+                  "name": "Templul Huayan",
                   "text": "Templul Huayan este un important sit de patrimoniu budist și un complex arhitectural antic în Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5268,7 +5268,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "善化寺",
+                  "name": "Templul Shanhua",
                   "text": "Templul Shanhua este un sit de patrimoniu antic bine conservat și un templu budist în Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5279,7 +5279,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "en": [
             {
-                  "name": "魁星文化博物馆",
+                  "name": "This",
                   "text": "This is a local museum situated in the city of Datong.",
                   "category": "museum",
                   "coords": [
@@ -5297,7 +5297,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大同规划展览馆",
+                  "name": "This facility",
                   "text": "This facility is a museum located in the city of Datong.",
                   "category": "museum",
                   "coords": [
@@ -5324,7 +5324,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "平城纪念馆",
+                  "name": "This",
                   "text": "This is a local museum situated in Datong.",
                   "category": "museum",
                   "coords": [
@@ -5333,7 +5333,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "四牌楼",
+                  "name": "Sipailou",
                   "text": "Sipailou is a notable historical monument and traditional archway structure in Datong.",
                   "category": "historical",
                   "coords": [
@@ -5360,7 +5360,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "九龙壁景区",
+                  "name": "This scenic area",
                   "text": "This scenic area is a popular attraction located in Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5369,7 +5369,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "圆通寺",
+                  "name": "Yuantong Temple",
                   "text": "Yuantong Temple is a local attraction found in the city of Datong.",
                   "category": "landmark",
                   "coords": [
@@ -5387,7 +5387,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "关帝庙",
+                  "name": "This Guandi Temple",
                   "text": "This Guandi Temple is a notable place of worship dedicated to Guan Yu in Datong.",
                   "category": "religious",
                   "coords": [
@@ -5594,7 +5594,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "卜奎清真寺",
+                  "name": "Moscheea Bukui",
                   "text": "Moscheea Bukui este cea mai veche moschee din provincia Heilongjiang.",
                   "category": "religious",
                   "coords": [
@@ -5711,7 +5711,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳市文化馆",
+                  "name": "Luoyang City Cultural Center",
                   "text": "Das Luoyang City Cultural Center ist eine museumähnliche Einrichtung in Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -5720,7 +5720,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳博物馆",
+                  "name": "Luoyang Museum",
                   "text": "Das Luoyang Museum ist eine bedeutende kulturelle Einrichtung in Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -5729,7 +5729,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "name": "Diese Einrichtung",
                   "text": "Diese Einrichtung ist ein lokales Museum in Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -5738,7 +5738,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街",
+                  "name": "Diese Stätte",
                   "text": "Diese Stätte ist eine archäologische Attraktion in der Stadt Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5747,7 +5747,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "含嘉仓遗址",
+                  "name": "Dies",
                   "text": "Dies ist eine archäologische Stätte in Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5765,7 +5765,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "玄武门遗址",
+                  "name": "Dies",
                   "text": "Dies ist eine lokale archäologische Stätte in der Stadt Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5774,7 +5774,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "丽景门",
+                  "name": "Lijingmen-Tor",
                   "text": "Das Lijingmen-Tor ist eine bekannte Touristenattraktion in Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -5783,7 +5783,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛邑古城",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist eine Touristenattraktion in Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -5792,7 +5792,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "name": "Dieses Landschaftsgebiet",
                   "text": "Dieses Landschaftsgebiet ist eine beliebte Attraktion in der Stadt Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -5801,7 +5801,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "name": "Dies",
                   "text": "Dies ist eine bekannte Touristenattraktion in Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -5810,7 +5810,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "name": "Dieser Ort",
                   "text": "Dieser Ort ist eine lokale Attraktion für Besucher in Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -5819,7 +5819,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "西大街",
+                  "name": "West Street",
                   "text": "Die West Street ist eine lokale Touristenattraktion in der Stadt Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -5828,7 +5828,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "周公庙",
+                  "name": "Zhougong-Tempel",
                   "text": "Der Zhougong-Tempel ist ein lokales Denkmal in Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5857,7 +5857,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳市文化馆",
+                  "name": "Luoyang Városi Kulturális Központ",
                   "text": "A Luoyang Városi Kulturális Központ egy múzeumi intézmény Luoyangban.",
                   "category": "museum",
                   "coords": [
@@ -5866,7 +5866,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳博物馆",
+                  "name": "Luoyang Múzeum",
                   "text": "A Luoyang Múzeum egy jelentős kulturális intézmény Luoyangban.",
                   "category": "museum",
                   "coords": [
@@ -5920,7 +5920,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "丽景门",
+                  "name": "Lijingmen-kapu",
                   "text": "A Lijingmen-kapu egy kiemelkedő turisztikai látványosság Luoyangban.",
                   "category": "landmark",
                   "coords": [
@@ -5965,7 +5965,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "西大街",
+                  "name": "West Street",
                   "text": "A West Street egy helyi turisztikai látványosság Luoyang városában.",
                   "category": "landmark",
                   "coords": [
@@ -5974,7 +5974,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "周公庙",
+                  "name": "Zhougong-templom",
                   "text": "A Zhougong-templom egy helyi emlékmű Luoyangban.",
                   "category": "historical",
                   "coords": [
@@ -6003,7 +6003,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳市文化馆",
+                  "name": "Centrul Cultural al Orașului Luoyang",
                   "text": "Centrul Cultural al Orașului Luoyang este o instituție cu caracter muzeal din Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -6012,7 +6012,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳博物馆",
+                  "name": "Muzeul Luoyang",
                   "text": "Muzeul Luoyang este o instituție culturală semnificativă din Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -6021,7 +6021,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "name": "Această facilitate",
                   "text": "Această facilitate este un muzeu local dedicat, situat în Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -6030,7 +6030,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街",
+                  "name": "Acest sit",
                   "text": "Acest sit este o atracție arheologică din orașul Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6039,7 +6039,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "含嘉仓遗址",
+                  "name": "Acesta",
                   "text": "Acesta este un sit arheologic situat în Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6057,7 +6057,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "玄武门遗址",
+                  "name": "Acesta",
                   "text": "Acesta este un sit arheologic local situat în orașul Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6066,7 +6066,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "丽景门",
+                  "name": "Poarta Lijingmen",
                   "text": "Poarta Lijingmen este o atracție turistică proeminentă din Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6075,7 +6075,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛邑古城",
+                  "name": "Această locație",
                   "text": "Această locație este o atracție turistică aflată în Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6084,7 +6084,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "name": "Această zonă pitorească",
                   "text": "Această zonă pitorească este o atracție populară în orașul Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6093,7 +6093,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "name": "Aceasta",
                   "text": "Aceasta este o atracție turistică notabilă situată în Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6102,7 +6102,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "name": "Acest sit",
                   "text": "Acest sit este o atracție locală pentru vizitatorii din Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6111,7 +6111,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "西大街",
+                  "name": "West Street",
                   "text": "West Street este o atracție turistică locală în orașul Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6120,7 +6120,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "周公庙",
+                  "name": "Templul Zhougong",
                   "text": "Templul Zhougong este un monument local situat în Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6149,7 +6149,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳市文化馆",
+                  "name": "Luoyang City Cultural Center",
                   "text": "The Luoyang City Cultural Center is a museum-like institution in Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -6167,7 +6167,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "name": "This facility",
                   "text": "This facility is a dedicated local museum situated in Luoyang.",
                   "category": "museum",
                   "coords": [
@@ -6176,7 +6176,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街",
+                  "name": "This site",
                   "text": "This site is an archaeological attraction in the city of Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6185,7 +6185,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "含嘉仓遗址",
+                  "name": "This",
                   "text": "This is an archaeological site located in Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6203,7 +6203,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "玄武门遗址",
+                  "name": "This",
                   "text": "This is a local archaeological site situated in the city of Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6230,7 +6230,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "name": "This scenic area",
                   "text": "This scenic area is a popular attraction within the city of Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6239,7 +6239,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "name": "This",
                   "text": "This is a notable tourist attraction located in Luoyang.",
                   "category": "landmark",
                   "coords": [
@@ -6248,7 +6248,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "name": "This site",
                   "text": "This site is a local attraction for visitors in Luoyang.",
                   "category": "landmark",
                   "coords": [

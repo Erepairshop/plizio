@@ -2685,7 +2685,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     id: "ziway-cities-v2", "sights": {
       "de": [
             {
-                  "name": "프리프트 레스토랑",
+                  "name": "Dieses Restaurant",
                   "text": "Dieses Restaurant ist eine kulinarische Attraktion in der Stadt Batu.",
                   "category": "landmark",
                   "coords": [
@@ -2707,7 +2707,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "프리프트 레스토랑",
+                  "name": "Acest restaurant",
                   "text": "Acest restaurant este o atracție culinară situată în orașul Batu.",
                   "category": "landmark",
                   "coords": [
@@ -2718,7 +2718,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "프리프트 레스토랑",
+                  "name": "This restaurant",
                   "text": "This restaurant is a dining attraction located in the city of Batu.",
                   "category": "landmark",
                   "coords": [

@@ -438,7 +438,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-hawally-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف بيت العثمان",
+                  "name": "Bait-Alothman-Museum",
                   "text": "Das Bait-Alothman-Museum ist eine kulturelle Einrichtung in Hawally. Es beherbergt Ausstellungen über das traditionelle kuwaitische Leben und seine Geschichte.",
                   "category": "museum",
                   "coords": [
@@ -447,7 +447,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حولي بارك",
+                  "name": "Hawally Park",
                   "text": "Der Hawally Park ist ein beliebter Freizeitpark in der Stadt Hawally. Er bietet verschiedene Fahrgeschäfte und Attraktionen für die Unterhaltung der ganzen Familie.",
                   "category": "family",
                   "coords": [
@@ -456,7 +456,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tariq-Rajab-Museum",
                   "text": "Das Tariq-Rajab-Museum ist ein angesehenes Museum in Hawally. Es zeigt eine umfangreiche Sammlung islamischer Kunst und Artefakte.",
                   "category": "museum",
                   "coords": [
@@ -465,7 +465,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الشيخ عبدالله السالم الثقافي",
+                  "name": "Sheikh Abdullah Al-Salem Cultural Centre",
                   "text": "Das Sheikh Abdullah Al-Salem Cultural Centre ist ein großer Museumskomplex in Hawally. Er bietet umfangreiche Ausstellungen zu Wissenschaft, Naturgeschichte und Raumfahrt.",
                   "category": "museum",
                   "coords": [
@@ -474,7 +474,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah-Al-Jaber-Schultheater",
                   "text": "Das Abdullah-Al-Jaber-Schultheater ist ein Veranstaltungsort in Hawally. Es beherbergt eine Vielzahl von lokalen Theaterproduktionen.",
                   "category": "cultural",
                   "coords": [
@@ -494,7 +494,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف بيت العثمان",
+                  "name": "Bait Alothman Múzeum",
                   "text": "A Bait Alothman Múzeum egy kulturális intézmény Hawallyban. A hagyományos kuvaiti életről és történelemről szóló kiállításoknak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -503,7 +503,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حولي بارك",
+                  "name": "Hawally Park",
                   "text": "A Hawally Park egy népszerű vidámpark Hawally városában. Különféle túrákat és látványosságokat kínál a családi szórakozáshoz.",
                   "category": "family",
                   "coords": [
@@ -512,7 +512,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tariq Radzsáb Múzeum",
                   "text": "A Tariq Radzsáb Múzeum egy tekintélyes múzeum Hawallyban. Az iszlám művészet és műtárgyak hatalmas gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -521,7 +521,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الشيخ عبدالله السالم الثقافي",
+                  "name": "Sheikh Abdullah Al-Salem Kulturális Központ",
                   "text": "A Sheikh Abdullah Al-Salem Kulturális Központ egy jelentős múzeumkomplexum Hawallyban. Kiterjedt kiállításokkal rendelkezik a tudomány, a természetrajz és az űr témakörében.",
                   "category": "museum",
                   "coords": [
@@ -530,7 +530,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Dzsáber Iskolai Színház",
                   "text": "Az Abdullah Al-Dzsáber Iskolai Színház egy előadóterem Hawallyban. Különféle helyi színházi produkcióknak ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -550,7 +550,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف بيت العثمان",
+                  "name": "Muzeul Bait Alothman",
                   "text": "Muzeul Bait Alothman este o instituție culturală situată în Hawally. Acesta găzduiește expoziții despre viața tradițională și istoria kuweitiană.",
                   "category": "museum",
                   "coords": [
@@ -559,7 +559,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حولي بارك",
+                  "name": "Parcul Hawally",
                   "text": "Parcul Hawally este un parc tematic popular situat în orașul Hawally. Acesta dispune de diverse atracții și locuri de divertisment pentru familie.",
                   "category": "family",
                   "coords": [
@@ -568,7 +568,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Muzeul Tariq Rajab",
                   "text": "Muzeul Tariq Rajab este un muzeu apreciat situat în Hawally. Acesta expune o colecție vastă de artă și artefacte islamice.",
                   "category": "museum",
                   "coords": [
@@ -577,7 +577,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الشيخ عبدالله السالم الثقافي",
+                  "name": "Centrul Cultural Sheikh Abdullah Al-Salem",
                   "text": "Centrul Cultural Sheikh Abdullah Al-Salem este un complex muzeal major din Hawally. Acesta prezintă expoziții extinse despre știință, istorie naturală și spațiu.",
                   "category": "museum",
                   "coords": [
@@ -586,7 +586,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Teatrul Școlii Abdullah Al-Jaber",
                   "text": "Teatrul Școlii Abdullah Al-Jaber este un spațiu de spectacole situat în Hawally. Acesta găzduiește o varietate de producții teatrale locale.",
                   "category": "cultural",
                   "coords": [
@@ -642,7 +642,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theatre",
                   "text": "The Abdullah Al-Jaber School Theatre is a performance venue located in Hawally. It hosts a variety of local theatrical productions.",
                   "category": "cultural",
                   "coords": [
@@ -707,7 +707,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-farwaniya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حديقة الحيوان",
+                  "name": "Kuwait Zoo",
                   "text": "Kuwait Zoo ist ein Zoo in Farwaniya.",
                   "category": "family",
                   "coords": [
@@ -718,7 +718,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حديقة الحيوان",
+                  "name": "Kuwait Zoo",
                   "text": "A Kuwait Zoo egy állatkert Farwaniya városában.",
                   "category": "family",
                   "coords": [
@@ -729,7 +729,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حديقة الحيوان",
+                  "name": "Kuwait Zoo",
                   "text": "Kuwait Zoo este o grădină zoologică în Farwaniya.",
                   "category": "family",
                   "coords": [
@@ -849,7 +849,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "النادي البحري الرياضي الكويتي",
+                  "name": "Kuwait Sea Club",
                   "text": "Der Kuwait Sea Club ist ein Küstenstrandziel in Salmiya. Er bietet Wassersportaktivitäten und Entspannung am Meer.",
                   "category": "recreational",
                   "coords": [
@@ -876,7 +876,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الإمام زين العابدين",
+                  "name": "Zain-al-Abidin-Moschee",
                   "text": "Die Zain-al-Abidin-Moschee ist ein bemerkenswertes Gotteshaus in Salmiya. Sie dient als wichtige religiöse Stätte für die lokale muslimische Gemeinde.",
                   "category": "religious",
                   "coords": [
@@ -896,7 +896,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "النادي البحري الرياضي الكويتي",
+                  "name": "Kuvait Sea Club",
                   "text": "A Kuvait Sea Club egy tengerparti úti cél Szalmijában. Szabadidős vízi tevékenységeket és tengerparti pihenést biztosít.",
                   "category": "recreational",
                   "coords": [
@@ -923,7 +923,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الإمام زين العابدين",
+                  "name": "Imam Zayn Al-Aabideen mecset",
                   "text": "Az Imam Zayn Al-Aabideen mecset egy figyelemre méltó istentiszteleti hely Szalmijában. Fontos vallási helyszínként szolgál a helyi muszlim közösség számára.",
                   "category": "religious",
                   "coords": [
@@ -943,7 +943,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "النادي البحري الرياضي الكويتي",
+                  "name": "Kuwait Sea Club",
                   "text": "Kuwait Sea Club este o destinație de plajă pe coastă situată în Salmiya. Oferă activități acvatice de agrement și relaxare la malul mării.",
                   "category": "recreational",
                   "coords": [
@@ -970,7 +970,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الإمام زين العابدين",
+                  "name": "Moscheea Imam Zayn Al-Aabideen",
                   "text": "Moscheea Imam Zayn Al-Aabideen este un lăcaș de cult notabil situat în Salmiya. Acesta servește ca un sit religios important pentru comunitatea musulmană locală.",
                   "category": "religious",
                   "coords": [
@@ -1242,7 +1242,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-khaitan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حديقة الحيوان",
+                  "name": "Kuwait Zoo",
                   "text": "Der Kuwait Zoo ist ein Tierpark in der Stadt Khaitan. Er beherbergt eine Vielzahl von Tierarten, die der Öffentlichkeit präsentiert werden.",
                   "category": "family",
                   "coords": [
@@ -1253,7 +1253,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حديقة الحيوان",
+                  "name": "Kuvait Állatkert",
                   "text": "A Kuvait Állatkert egy állatpark Haitan városában. Számos vadon élő állatfajnak ad otthont, amelyeket a nagyközönség is megtekinthet.",
                   "category": "family",
                   "coords": [
@@ -1264,7 +1264,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حديقة الحيوان",
+                  "name": "Grădina Zoologică din Kuweit",
                   "text": "Grădina Zoologică din Kuweit este un parc de animale situat în orașul Khaitan. Aceasta găzduiește o mare varietate de specii de faună sălbatică pentru vizionare publică.",
                   "category": "family",
                   "coords": [
@@ -1518,7 +1518,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tariq Rajab Museum",
                   "text": "Das Tariq Rajab Museum ist ein Museum in Rumaithiya.",
                   "category": "museum",
                   "coords": [
@@ -1527,7 +1527,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الإمام زين العابدين",
+                  "name": "Imam Zayn Al-Aabideen Mosque",
                   "text": "Die Imam Zayn Al-Aabideen Mosque ist ein schiitisches Gotteshaus in Rumaithiya.",
                   "category": "religious",
                   "coords": [
@@ -1547,7 +1547,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tariq Rajab Museum",
                   "text": "A Tariq Rajab Museum egy múzeum Rumaithiya városában.",
                   "category": "museum",
                   "coords": [
@@ -1556,7 +1556,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الإمام زين العابدين",
+                  "name": "Imam Zayn Al-Aabideen Mosque",
                   "text": "Az Imam Zayn Al-Aabideen Mosque egy síita mecset Rumaithiya városában.",
                   "category": "religious",
                   "coords": [
@@ -1576,7 +1576,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tariq Rajab Museum",
                   "text": "Tariq Rajab Museum este un muzeu în orașul Rumaithiya.",
                   "category": "museum",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الإمام زين العابدين",
+                  "name": "Imam Zayn Al-Aabideen Mosque",
                   "text": "Imam Zayn Al-Aabideen Mosque este un lăcaș de cult șiit din orașul Rumaithiya.",
                   "category": "religious",
                   "coords": [
@@ -2186,7 +2186,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-fintas-cities-v2", "sights": {
       "de": [
             {
-                  "name": "شاطئ أبو الحصانية العام",
+                  "name": "Abu Hasaniya Public Beach",
                   "text": "Abu Hasaniya Public Beach ist ein Küstenerholungsgebiet in Fintas.",
                   "category": "recreational",
                   "coords": [
@@ -2197,7 +2197,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "شاطئ أبو الحصانية العام",
+                  "name": "Abu Hasaniya Public Beach",
                   "text": "Az Abu Hasaniya Public Beach egy tengerparti rekreációs terület Fintasban.",
                   "category": "recreational",
                   "coords": [
@@ -2208,7 +2208,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "شاطئ أبو الحصانية العام",
+                  "name": "Abu Hasaniya Public Beach",
                   "text": "Abu Hasaniya Public Beach este o zonă de recreere pe coastă în Fintas.",
                   "category": "recreational",
                   "coords": [
@@ -2613,7 +2613,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-sulaibikhat-cities-v2", "sights": {
       "de": [
             {
-                  "name": "محمية طيور خليج الصليبخات",
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
                   "text": "Das Gulf of Sulaibikhat Bird Sanctuary ist ein Naturschutzgebiet in der Stadt Sulaibikhat.",
                   "category": "natural",
                   "coords": [
@@ -2624,7 +2624,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "محمية طيور خليج الصليبخات",
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
                   "text": "A Gulf of Sulaibikhat Bird Sanctuary egy természetvédelmi terület Sulaibikhat városában.",
                   "category": "natural",
                   "coords": [
@@ -2635,7 +2635,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "محمية طيور خليج الصليبخات",
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
                   "text": "Gulf of Sulaibikhat Bird Sanctuary este o rezervație naturală în orașul Sulaibikhat.",
                   "category": "natural",
                   "coords": [
@@ -2702,7 +2702,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-shuwaikh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "دار الأوبرا الكويتية",
+                  "name": "Kuwait Opera House",
                   "text": "Das Kuwait Opera House ist ein bedeutender Veranstaltungsort für Theater und Kultur in Shuwaikh.",
                   "category": "cultural",
                   "coords": [
@@ -2711,7 +2711,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عكاز",
+                  "name": "Akkaz",
                   "text": "Akkaz ist eine bemerkenswerte archäologische Stätte in Shuwaikh.",
                   "category": "historical",
                   "coords": [
@@ -2731,7 +2731,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "دار الأوبرا الكويتية",
+                  "name": "Kuwait Opera House",
                   "text": "A Kuwait Opera House egy jelentős színházi és kulturális helyszín Suvajh városában.",
                   "category": "cultural",
                   "coords": [
@@ -2760,7 +2760,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "دار الأوبرا الكويتية",
+                  "name": "Kuwait Opera House",
                   "text": "Kuwait Opera House este o importantă locație teatrală și culturală situată în Shuwaikh.",
                   "category": "cultural",
                   "coords": [
@@ -2769,7 +2769,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عكاز",
+                  "name": "Akkaz",
                   "text": "Akkaz este un sit arheologic notabil situat în Shuwaikh.",
                   "category": "historical",
                   "coords": [
@@ -2952,7 +2952,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-surra-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حولي بارك",
+                  "name": "Hawally Park",
                   "text": "Hawally Park ist ein Freizeitpark in der Stadt Surra.",
                   "category": "family",
                   "coords": [
@@ -2972,7 +2972,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حولي بارك",
+                  "name": "Hawally Park",
                   "text": "A Hawally Park egy vidámpark Surra városában.",
                   "category": "family",
                   "coords": [
@@ -2992,7 +2992,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حولي بارك",
+                  "name": "Hawally Park",
                   "text": "Hawally Park este un parc de distracții din orașul Surra.",
                   "category": "family",
                   "coords": [

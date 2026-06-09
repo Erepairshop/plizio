@@ -1402,7 +1402,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلعة تيرة",
+                  "name": "Fort Taiire",
                   "text": "A Fort Taiire egy régészeti lelőhely Mokka városában.",
                   "category": "historical",
                   "coords": [
@@ -1413,7 +1413,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعة تيرة",
+                  "name": "Fort Taiire",
                   "text": "Fort Taiire este un sit arheologic situat în Mokka.",
                   "category": "historical",
                   "coords": [

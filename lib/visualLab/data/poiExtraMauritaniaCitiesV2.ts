@@ -51,7 +51,7 @@ export const mauritaniaCitiesV2: POI[] = [
     id: "mauritania-nouadhibou-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ehl lekhdeym أهل لخديم",
+                  "name": "Ehl lekhdeym",
                   "text": "Ehl lekhdeym ist eine Sehenswürdigkeit in Nouadhibou.",
                   "category": "landmark",
                   "coords": [
@@ -62,7 +62,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ehl lekhdeym أهل لخديم",
+                  "name": "Ehl lekhdeym",
                   "text": "Az Ehl lekhdeym egy látványosság Nouadhibou területén.",
                   "category": "landmark",
                   "coords": [
@@ -73,7 +73,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ehl lekhdeym أهل لخديم",
+                  "name": "Ehl lekhdeym",
                   "text": "Ehl lekhdeym este o atracție situată în Nouadhibou.",
                   "category": "landmark",
                   "coords": [
@@ -84,7 +84,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Ehl lekhdeym أهل لخديم",
+                  "name": "Ehl lekhdeym",
                   "text": "Ehl lekhdeym is an attraction found in Nouadhibou.",
                   "category": "landmark",
                   "coords": [
@@ -276,7 +276,7 @@ export const mauritaniaCitiesV2: POI[] = [
     id: "mauritania-zouerat-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "Das Musée de Zouérat ist ein lokales Museum in der Stadt Zouérat.",
                   "category": "museum",
                   "coords": [
@@ -285,7 +285,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "name": "Med Cheikhe",
                   "text": "Med Cheikhe ist eine Touristenattraktion in der Stadt Zouérat.",
                   "category": "landmark",
                   "coords": [
@@ -296,7 +296,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "A Musée de Zouérat egy helyi múzeum Zouérat városában.",
                   "category": "museum",
                   "coords": [
@@ -305,7 +305,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "name": "Med Cheikhe",
                   "text": "A Med Cheikhe egy turisztikai látványosság Zouérat városában.",
                   "category": "landmark",
                   "coords": [
@@ -316,7 +316,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "Musée de Zouérat este un muzeu local cu expoziții în orașul Zouérat.",
                   "category": "museum",
                   "coords": [
@@ -325,7 +325,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "name": "Med Cheikhe",
                   "text": "Med Cheikhe este o atracție turistică de vizitat în orașul Zouérat.",
                   "category": "landmark",
                   "coords": [
@@ -336,7 +336,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "Musée de Zouérat is a local museum exhibiting artifacts in the city of Zouérat.",
                   "category": "museum",
                   "coords": [
@@ -1975,7 +1975,7 @@ export const mauritaniaCitiesV2: POI[] = [
     id: "mauritania-zouerat-nord-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "Das Musée de Zouérat ist ein Museum in Zouérat-Nord.",
                   "category": "museum",
                   "coords": [
@@ -1984,7 +1984,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "name": "Med Cheikhe",
                   "text": "Med Cheikhe ist eine Attraktion in Zouérat-Nord.",
                   "category": "landmark",
                   "coords": [
@@ -1995,7 +1995,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "A Musée de Zouérat egy múzeum Zouérat-Nord városában.",
                   "category": "museum",
                   "coords": [
@@ -2004,7 +2004,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "name": "Med Cheikhe",
                   "text": "A Med Cheikhe egy látnivaló Zouérat-Nord területén.",
                   "category": "landmark",
                   "coords": [
@@ -2015,7 +2015,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "Musée de Zouérat este un muzeu din Zouérat-Nord.",
                   "category": "museum",
                   "coords": [
@@ -2024,7 +2024,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "name": "Med Cheikhe",
                   "text": "Med Cheikhe este o atracție în Zouérat-Nord.",
                   "category": "landmark",
                   "coords": [
@@ -2035,7 +2035,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Musée de Zouérat متحف الزويرات",
+                  "name": "Musée de Zouérat",
                   "text": "Musée de Zouérat is a museum situated in Zouérat-Nord.",
                   "category": "museum",
                   "coords": [
@@ -2101,7 +2101,7 @@ export const mauritaniaCitiesV2: POI[] = [
     id: "mauritania-boghe-nord-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "name": "Toufndé Baba Lamine",
                   "text": "Toufndé Baba Lamine ist ein lokaler Strandbereich in Boghé-Nord.",
                   "category": "recreational",
                   "coords": [
@@ -2110,7 +2110,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maison de Jeunes دار الشباب",
+                  "name": "Maison de Jeunes",
                   "text": "Das Maison de Jeunes ist ein kommunales Kunstzentrum in Boghé-Nord.",
                   "category": "cultural",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "name": "Toufndé Baba Lamine",
                   "text": "A Toufndé Baba Lamine egy helyi strand Boghé-Nord területén.",
                   "category": "recreational",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maison de Jeunes دار الشباب",
+                  "name": "Maison de Jeunes",
                   "text": "A Maison de Jeunes egy közösségi művészeti központ Boghé-Nord városában.",
                   "category": "cultural",
                   "coords": [
@@ -2141,7 +2141,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "name": "Toufndé Baba Lamine",
                   "text": "Toufndé Baba Lamine este o plajă locală situată în Boghé-Nord.",
                   "category": "recreational",
                   "coords": [
@@ -2150,7 +2150,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maison de Jeunes دار الشباب",
+                  "name": "Maison de Jeunes",
                   "text": "Maison de Jeunes este un centru de arte comunitar situat în Boghé-Nord.",
                   "category": "cultural",
                   "coords": [
@@ -2161,7 +2161,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "name": "Toufndé Baba Lamine",
                   "text": "Toufndé Baba Lamine is a local beach area situated in Boghé-Nord.",
                   "category": "recreational",
                   "coords": [
@@ -2170,7 +2170,7 @@ export const mauritaniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maison de Jeunes دار الشباب",
+                  "name": "Maison de Jeunes",
                   "text": "Maison de Jeunes is a community arts centre located in Boghé-Nord.",
                   "category": "cultural",
                   "coords": [

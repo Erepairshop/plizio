@@ -1341,7 +1341,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоопарк",
+                  "name": "Zoo in Dubasari",
                   "text": "Der Zoo in Dubasari ist ein Ort, an dem Familien verschiedene Tiere beobachten können.",
                   "category": "family",
                   "coords": [
@@ -1361,7 +1361,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоопарк",
+                  "name": "dubasari állatkertben",
                   "text": "A dubasari állatkertben a családok különféle állatokat tekinthetnek meg.",
                   "category": "family",
                   "coords": [
@@ -1401,7 +1401,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоопарк",
+                  "name": "zoo in Dubasari",
                   "text": "The zoo in Dubasari is a place where families can see various animals.",
                   "category": "family",
                   "coords": [
