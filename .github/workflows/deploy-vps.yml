@@ -170,6 +170,9 @@ jobs:
         env:
           OUT_DIR: out
           GEN_LIMIT: '0'
+          # 16GB heap: a POI-szám + city-tips/FAQ/sights adat memóriában
+          # túllépte a node default ~4GB-ot (2026-06-09 OOM 160K fájlnál).
+          NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/generate-poi-html.mts
 
       - name: Reuse POI HTMLs from current release (UI-only commit)
