@@ -220,6 +220,17 @@ try {
   if (fs.existsSync(fp)) CLIMATE = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// Pick the first STRING among [lang, en, de] from a FAQ q/a object. Some Flash
+// FAQ outputs emit a non-string (array/object) for a lang → guard, else .trim()
+// throws and kills the whole 152K POI HTML gen (2026-06-09 build crash).
+function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
+  if (!o) return "";
+  for (const k of [lang, "en", "de"]) {
+    const v = o[k];
+    if (typeof v === "string" && v.trim()) return v.trim();
+  }
+  return "";
+}
 function renderFAQ(poi: POI, lang: Lang): string {
   const items = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (!items || items.length === 0) return "";
@@ -230,16 +241,16 @@ function renderFAQ(poi: POI, lang: Lang): string {
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
-    const q = (it.q?.[lang] || it.q?.en || it.q?.de || "").trim();
-    const a = (it.a?.[lang] || it.a?.en || it.a?.de || "").trim();
+    const q = pickFaqStr(it.q, lang);
+    const a = pickFaqStr(it.a, lang);
     if (!q || !a) return "";
     return `<details class="plz-faq-item"${i === 0 ? " open" : ""}><summary><span class="plz-faq-q">${escapeHtml(q)}</span><svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></summary><div class="plz-faq-a">${escapeHtml(a)}</div></details>`;
   }).filter(Boolean).join("");
   if (!accordion) return "";
   // Schema.org FAQPage JSON-LD (lang-aware)
   const mainEntity = items.map((it) => {
-    const q = (it.q?.[lang] || it.q?.en || it.q?.de || "").trim();
-    const a = (it.a?.[lang] || it.a?.en || it.a?.de || "").trim();
+    const q = pickFaqStr(it.q, lang);
+    const a = pickFaqStr(it.a, lang);
     if (!q || !a) return null;
     return { "@type": "Question", "name": q, "acceptedAnswer": { "@type": "Answer", "text": a } };
   }).filter(Boolean);
