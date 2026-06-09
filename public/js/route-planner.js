@@ -72,6 +72,11 @@
     + '.plz-rp-regen{width:100%;padding:.6rem;border-radius:999px;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);color:#e6ecf3;font-weight:600;cursor:pointer}'
     + '.plz-rp-regen:hover{background:rgba(255,255,255,.12)}'
     + '.plz-rp-credit{font-size:.7rem;color:rgba(230,236,243,.38);margin:.7rem 0 0;text-align:center}'
+    + '.plz-rp-row>label{position:relative}'
+    + '.plz-rp-ac{position:absolute;top:100%;left:0;right:0;z-index:30;background:#0e1626;border:1px solid rgba(255,255,255,.18);border-radius:9px;margin-top:2px;max-height:240px;overflow-y:auto;box-shadow:0 10px 28px rgba(0,0,0,.55)}'
+    + '.plz-rp-ac-item{padding:.42rem .6rem;cursor:pointer;display:flex;flex-direction:column;gap:1px}'
+    + '.plz-rp-ac-item:hover,.plz-rp-ac-item.on{background:rgba(76,198,255,.18)}'
+    + '.plz-rp-ac-item .nm{font-size:.86rem;color:#e6ecf3}.plz-rp-ac-item .sub{font-size:.72rem;color:rgba(230,236,243,.5)}'
     + '@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}';
   if (!document.getElementById("plz-rp-css")) {
     var st = document.createElement("style"); st.id = "plz-rp-css"; st.textContent = CSS; document.head.appendChild(st);
@@ -120,6 +125,60 @@
         return j.features[0].geometry.coordinates;
       });
   }
+
+  // ── Autocomplete (egyértelmű hely-választás, megöli a "rossz Lauingen" gondot) ──
+  function attachAC(input) {
+    if (!input) return;
+    var label = input.parentNode;
+    var box = document.createElement("div"); box.className = "plz-rp-ac"; box.style.display = "none";
+    label.appendChild(box);
+    var t = null, items = [], sel = -1;
+    function close() { box.style.display = "none"; box.innerHTML = ""; items = []; sel = -1; }
+    function choose(it) { input.value = it.label; input.dataset.lon = it.coords[0]; input.dataset.lat = it.coords[1]; close(); }
+    input.addEventListener("input", function () {
+      input.removeAttribute("data-lon"); input.removeAttribute("data-lat"); // gépelés → a kiválasztott koord érvénytelen
+      var q = input.value.trim();
+      if (t) clearTimeout(t);
+      if (q.length < 2) { close(); return; }
+      t = setTimeout(function () {
+        fetch("https://photon.komoot.io/api?limit=6&lang=" + GEO_LANG + "&q=" + encodeURIComponent(q))
+          .then(function (r) { return r.json(); })
+          .then(function (j) {
+            items = (j.features || []).map(function (f) {
+              var p = f.properties || {}, nm = p.name || "";
+              var extra = [p.city, p.county].filter(function (x) { return x && x !== nm; }).slice(0, 1).join("");
+              var sub = [extra, p.state, p.country || p.countrycode].filter(Boolean).join(" · ");
+              return { label: nm, sub: sub, coords: f.geometry.coordinates };
+            }).filter(function (it) { return it.label; });
+            if (!items.length) { close(); return; }
+            box.innerHTML = items.map(function (it, i) { return '<div class="plz-rp-ac-item" data-i="' + i + '"><span class="nm">' + esc(it.label) + '</span><span class="sub">' + esc(it.sub) + '</span></div>'; }).join("");
+            box.style.display = ""; sel = -1;
+            box.querySelectorAll(".plz-rp-ac-item").forEach(function (elx) { elx.addEventListener("mousedown", function (e) { e.preventDefault(); choose(items[+elx.dataset.i]); }); });
+          }).catch(function () { close(); });
+      }, 280);
+    });
+    input.addEventListener("keydown", function (e) {
+      if (box.style.display === "none") return;
+      if (e.key === "ArrowDown") { e.preventDefault(); sel = Math.min(sel + 1, items.length - 1); }
+      else if (e.key === "ArrowUp") { e.preventDefault(); sel = Math.max(sel - 1, 0); }
+      else if (e.key === "Enter" && sel >= 0) { e.preventDefault(); e.stopImmediatePropagation(); choose(items[sel]); return; }
+      else if (e.key === "Escape") { close(); return; }
+      else return;
+      box.querySelectorAll(".plz-rp-ac-item").forEach(function (elx, i) { elx.classList.toggle("on", i === sel); });
+    });
+    input.addEventListener("blur", function () { setTimeout(close, 180); });
+  }
+  attachAC($(".plz-rp-origin")); attachAC($(".plz-rp-dest")); attachAC($(".plz-rp-via"));
+
+  // koord-feloldás: ha a user a legördülőből választott (dataset coords) → azt; különben geocode limit=1; üres → fallback
+  function inputCoords(sel, fallback) {
+    var elx = $(sel); if (!elx) return Promise.resolve(fallback || null);
+    if (elx.dataset.lon && elx.dataset.lat) return Promise.resolve([parseFloat(elx.dataset.lon), parseFloat(elx.dataset.lat)]);
+    var v = elx.value.trim();
+    if (!v) return Promise.resolve(fallback || null);
+    if (sel === ".plz-rp-dest" && DEST_PREFILL.coords && DEST_PREFILL.name && v === DEST_PREFILL.name) return Promise.resolve(DEST_PREFILL.coords);
+    return geocode(v);
+  }
   function plan(req) {
     return fetch(WORKER, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(req) })
       .then(function (r) { return r.json(); })
@@ -138,17 +197,19 @@
 
   function go() {
     var stt = $(".plz-rp-status"), res = $(".plz-rp-result");
-    var o = $(".plz-rp-origin").value.trim(), v = $(".plz-rp-via").value.trim();
+    var oEl = $(".plz-rp-origin"), dEl = $(".plz-rp-dest");
+    var hasOrigin = oEl && (oEl.dataset.lon || oEl.value.trim());
+    var hasDestVal = (dEl && (dEl.dataset.lon || dEl.value.trim())) || DEST_PREFILL.coords;
     var stops = parseInt($(".plz-rp-stops").value, 10);
-    if (!o || (hasDest && !$(".plz-rp-dest").value.trim() && !DEST_PREFILL.coords)) { stt.textContent = C.needBoth; return; }
+    if (!hasOrigin || !hasDestVal) { stt.textContent = C.needBoth; return; }
     stt.textContent = C.searching; res.style.display = "none";
     var reqServices = Array.prototype.map.call(M.querySelectorAll(".plz-rp-svc:checked"), function (c) { return c.value; });
     var tiers = ({ AB: ["A", "B"], A: ["A"], B: ["B"], ABC: ["A", "B", "C"] })[$(".plz-rp-tier").value] || ["A", "B"];
     var bufferKm = parseInt($(".plz-rp-buffer").value, 10) || 20;
     var origin, destination, destName = destNameNow();
-    Promise.all([geocode(o), resolveDest(), v ? geocode(v) : Promise.resolve(null)]).then(function (r) {
+    Promise.all([inputCoords(".plz-rp-origin"), inputCoords(".plz-rp-dest", DEST_PREFILL.coords), inputCoords(".plz-rp-via")]).then(function (r) {
       origin = r[0]; destination = r[1]; var baseAnchors = r[2] ? [r[2]] : [];
-      if (!destination) throw new Error(C.needBoth);
+      if (!origin || !destination) throw new Error(C.needBoth);
       stt.textContent = C.routing;
       lastReq = { origin: origin, destination: destination, baseAnchors: baseAnchors, stops: stops, mode: mode, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm, destName: destName };
       return plan({ origin: origin, destination: destination, anchors: baseAnchors, stops: stops, mode: mode, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm });
