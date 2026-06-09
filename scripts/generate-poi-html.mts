@@ -1401,7 +1401,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
       var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&'+(typeof e[5]==='string'?'pano='+e[5]+'&':'')+'viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
-        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/'+encodeURIComponent(e[0])+'/@'+e[1]+','+e[2]+',17z" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
+        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/'+encodeURIComponent(e[0].replace(/ß/g,'ss'))+'/@'+e[1]+','+e[2]+',17z" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
       var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
       return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
     }).join('');
@@ -2280,13 +2280,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const svUrl = svHref(slat, slng);
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       } else {
-        // Nincs SV: Maps-pin ikon. A nev + VIEWPORT-bias path-form (`/@lat,lng,17z`):
-        // a Google a koordinata kornyeken keresi a nevet -> a tenyleges hely
-        // listing-oldalara (kep/nyitvatartas) old fel, NEM dob csak ures pint a
-        // koordra. A viewport megakadalyozza, hogy azonos nevu tavoli hiresebb
-        // helyre ugorjon (pl. Karolyi-kastely Carei -> Fuzerradvany) — a sima
-        // koord-only query viszont csak pint adott, listing nelkul (user 2026-06-09).
-        const nm = encodeURIComponent(s.name.replace(/\s+/g, " ").trim());
+        // Nincs SV: Maps-pin ikon. Nev + viewport-bias path-form (/@lat,lng,17z):
+        // a Google a koord kornyeken keresi a nevet -> a tenyleges hely listing-
+        // oldalara (kep/nyitvatartas) old fel. ß->ss: a Google a nemet helyeket
+        // gyakran ss-sel listazza (Spaßinsel -> Spassinsel), kulonben nincs nev-
+        // match es nem ismeri fel (user 2026-06-09).
+        const nm = encodeURIComponent(s.name.replace(/ß/g, "ss").replace(/\s+/g, " ").trim());
         svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/${nm}/@${slat.toFixed(6)},${slng.toFixed(6)},17z" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       }
     }
