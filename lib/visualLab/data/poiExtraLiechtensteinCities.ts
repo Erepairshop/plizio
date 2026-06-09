@@ -33208,6 +33208,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Geschützter Landschaftsteil Drei Schwestern",
+                  "text": "Der Geschützte Landschaftsteil Drei Schwestern ist ein Naturschutzgebiet im Gebiet Silum. Es bewahrt wunderschöne Alpenlandschaften und bietet Wanderern eine ruhige Umgebung zur Erkundung.",
+                  "category": "natural",
+                  "coords": [
+                        -102.573508,
+                        -21.902738
+                  ]
             }
       ],
       "hu": [
@@ -33443,6 +33452,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Geschützter Landschaftsteil Drei Schwestern",
+                  "text": "A Geschützter Landschaftsteil Drei Schwestern egy védett természetvédelmi terület Silum térségében. Gyönyörű alpesi tájakat óv, és nyugodt környezetet kínál a túrázóknak a felfedezésre.",
+                  "category": "natural",
+                  "coords": [
+                        -102.573508,
+                        -21.902738
                   ]
             }
       ],
@@ -33680,6 +33698,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Geschützter Landschaftsteil Drei Schwestern",
+                  "text": "Geschützter Landschaftsteil Drei Schwestern este o rezervație naturală protejată în zona Silum. Protejează peisaje alpine frumoase și oferă drumeților un mediu liniștit pentru explorare.",
+                  "category": "natural",
+                  "coords": [
+                        -102.573508,
+                        -21.902738
+                  ]
             }
       ],
       "en": [
@@ -33915,6 +33942,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Geschützter Landschaftsteil Drei Schwestern",
+                  "text": "Geschützter Landschaftsteil Drei Schwestern is a protected nature reserve in the Silum area. It safeguards beautiful alpine landscapes and offers hikers a tranquil environment to explore.",
+                  "category": "natural",
+                  "coords": [
+                        -102.573508,
+                        -21.902738
                   ]
             }
       ]

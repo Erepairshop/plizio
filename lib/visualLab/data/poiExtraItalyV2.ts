@@ -14591,6 +14591,186 @@ export const poiExtraItalyV2: POI[] = [
                         8.523612,
                         45.890019
                   ]
+            },
+            {
+                  "name": "A Bacco",
+                  "text": "A Bacco ist ein markantes Denkmal in der Stadt Stresa. Es dient als öffentliche Ehrung und ist ein Anziehungspunkt für vorbeikommende Touristen.",
+                  "category": "historical",
+                  "coords": [
+                        8.531058,
+                        45.887066
+                  ]
+            },
+            {
+                  "name": "Monumento ad Alessandro Manzoni e Antonio Rosmini",
+                  "text": "Dieses Denkmal in Stresa ehrt die historischen Persönlichkeiten Alessandro Manzoni und Antonio Rosmini. Es ist ein bekanntes Wahrzeichen für alle, die das kulturelle Erbe der Stadt erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        8.543626,
+                        45.881501
+                  ]
+            },
+            {
+                  "name": "Mulino della Stria",
+                  "text": "Das Mulino della Stria umfasst historische Ruinen in Stresa. Besucher können die Überreste dieses alten Bauwerks betrachten und sich seine frühere Nutzung vorstellen.",
+                  "category": "historical",
+                  "coords": [
+                        8.559943,
+                        45.869888
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei lager",
+                  "text": "Dieses ergreifende Denkmal in Stresa erinnert an die Opfer der Konzentrationslager. Es bietet einen ruhigen Ort für Besinnung und historisches Gedenken.",
+                  "category": "historical",
+                  "coords": [
+                        8.538232,
+                        45.883483
+                  ]
+            },
+            {
+                  "name": "Cappella di Maria Ausiliatrice - Oratorio",
+                  "text": "Diese hübsche Kapelle und das Oratorium dienen als friedliche Kultstätte in Stresa. Ihr klassisches Design heißt sowohl einheimische Gläubige als auch Besucher willkommen.",
+                  "category": "religious",
+                  "coords": [
+                        8.536037,
+                        45.883218
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale dei Santi Giuseppe e Biagio",
+                  "text": "Diese den Heiligen Josef und Blasius gewidmete Pfarrkirche ist eine zentrale religiöse Stätte in Stresa. Das Gebäude besticht durch traditionelle Architektur und beherbergt regelmäßige Gemeindegottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        8.524029,
+                        45.887351
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria Assunta",
+                  "text": "Diese Pfarrkirche in Stresa ist Mariä Himmelfahrt gewidmet. Sie ist ein wichtiges spirituelles Zentrum und beherbergt wunderschöne religiöse Kunstwerke.",
+                  "category": "religious",
+                  "coords": [
+                        8.511157,
+                        45.882566
+                  ]
+            },
+            {
+                  "name": "Ex chiesa di San Carlo",
+                  "text": "Die ehemalige Kirche San Carlo ist ein historisches Gotteshaus in Stresa. Obwohl sich ihre Funktion geändert haben mag, behält sie ihren großen architektonischen Wert bei.",
+                  "category": "religious",
+                  "coords": [
+                        8.528996,
+                        45.885328
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Bernardo d'Aosta",
+                  "text": "Diese Pfarrkirche in Stresa ist dem Heiligen Bernhard von Aosta gewidmet. Sie bietet eine ruhige Atmosphäre für stilles Gebet und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        8.51085,
+                        45.888781
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna della Consolazione",
+                  "text": "Diese elegante Kirche in Stresa ist eine tröstende Kultstätte für die örtliche Gemeinde. Besucher können die gut erhaltene Fassade und das friedliche Innere bewundern.",
+                  "category": "religious",
+                  "coords": [
+                        8.512815,
+                        45.887874
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Magi",
+                  "text": "Diese den Heiligen Drei Königen gewidmete Kirche ist eine ansprechende religiöse Stätte in Stresa. Ihre einzigartige Widmung macht sie zu einem faszinierenden Halt für vorbeikommende Touristen.",
+                  "category": "religious",
+                  "coords": [
+                        8.546744,
+                        45.875399
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale della Santissima Trinità",
+                  "text": "Die Pfarrkirche der Heiligen Dreifaltigkeit ist ein wunderschönes spirituelles Wahrzeichen in Stresa. Das Gebäude verfügt über bemerkenswerte architektonische Details und beherbergt regelmäßige Messen.",
+                  "category": "religious",
+                  "coords": [
+                        8.554308,
+                        45.872505
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Sant'Albino",
+                  "text": "Diese dem Heiligen Albinus gewidmete Pfarrkirche befindet sich in Stresa. Sie bietet einen ruhigen Zufluchtsort für Gottesdienste und Gemeindeversammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        8.556724,
+                        45.864921
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele",
+                  "text": "Die Chiesa di San Michele ist eine charmante lokale Kultstätte in Stresa. Sie ist ein Zeugnis der dauerhaften religiösen Traditionen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        8.542088,
+                        45.8833
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Biagio",
+                  "text": "Diese kleine Kirche in Stresa ist dem Heiligen Blasius gewidmet. Sie wird oft von Einheimischen für Gebete und stille Kontemplation besucht.",
+                  "category": "religious",
+                  "coords": [
+                        8.522463,
+                        45.886638
+                  ]
+            },
+            {
+                  "name": "Oratorio della Beata Vergine Addolorata",
+                  "text": "Dieses Oratorium in Stresa ist der Muttergottes der Schmerzen gewidmet. Es dient als schöner und intimer Raum für Andacht und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        8.508674,
+                        45.899179
+                  ]
+            },
+            {
+                  "name": "Chiesa della Presentazione di Maria Vergine",
+                  "text": "Diese Kirche in Stresa ist der Darstellung der Jungfrau Maria gewidmet. Ihre schöne Architektur macht sie zu einem lohnenden Halt für alle, die sich für religiöse Gebäude interessieren.",
+                  "category": "religious",
+                  "coords": [
+                        8.554389,
+                        45.875951
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Grato d'Aosta",
+                  "text": "Diese Pfarrkirche in Stresa ehrt den Heiligen Gratus von Aosta. Sie ist nach wie vor ein aktives Zentrum für lokale liturgische Gottesdienste und Feiern.",
+                  "category": "religious",
+                  "coords": [
+                        8.506899,
+                        45.89518
+                  ]
+            },
+            {
+                  "name": "Santuario del Santissimo Crocifisso",
+                  "text": "Das Heiligtum des Heiligen Kruzifixes ist ein bedeutender Pilger- und Gottesdienstort in Stresa. Besucher kommen, um seine sakrale Kunst zu bewundern und seine tiefe spirituelle Atmosphäre zu erleben.",
+                  "category": "religious",
+                  "coords": [
+                        8.544593,
+                        45.879676
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Albino",
+                  "text": "Die Chiesa di Sant'Albino ist ein traditionelles Gotteshaus, das der Gemeinde von Stresa dient. Sie bietet einen Einblick in die historische religiöse Architektur der Region.",
+                  "category": "religious",
+                  "coords": [
+                        8.560683,
+                        45.867319
+                  ]
             }
       ],
       "hu": [
@@ -14736,6 +14916,186 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.523612,
                         45.890019
+                  ]
+            },
+            {
+                  "name": "A Bacco",
+                  "text": "Az A Bacco egy jellegzetes emlékmű Stresa városában. Nyilvános tiszteletadásként és a tranzit turisták érdeklődési pontjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        8.531058,
+                        45.887066
+                  ]
+            },
+            {
+                  "name": "Monumento ad Alessandro Manzoni e Antonio Rosmini",
+                  "text": "Ez a stresai emlékmű Alessandro Manzoni és Antonio Rosmini történelmi alakjai előtt tiszteleg. Jól ismert tájékozódási pont a város kulturális örökségét felfedezők számára.",
+                  "category": "historical",
+                  "coords": [
+                        8.543626,
+                        45.881501
+                  ]
+            },
+            {
+                  "name": "Mulino della Stria",
+                  "text": "A Mulino della Stria történelmi romokat foglal magában Stresában. A látogatók megfigyelhetik a régi építmény maradványait, és elképzelhetik múltbeli funkcióját.",
+                  "category": "historical",
+                  "coords": [
+                        8.559943,
+                        45.869888
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei lager",
+                  "text": "Ez a megható stresai emlékmű a koncentrációs táborok áldozatainak állít emléket. Csendes helyet kínál a reflexióra és a történelmi emlékezésre.",
+                  "category": "historical",
+                  "coords": [
+                        8.538232,
+                        45.883483
+                  ]
+            },
+            {
+                  "name": "Cappella di Maria Ausiliatrice - Oratorio",
+                  "text": "Ez a kedves kápolna és oratórium békés istentiszteleti helyként szolgál Stresában. Klasszikus kialakítása szeretettel várja a helyi hívőket és a látogatókat egyaránt.",
+                  "category": "religious",
+                  "coords": [
+                        8.536037,
+                        45.883218
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale dei Santi Giuseppe e Biagio",
+                  "text": "A Szent Józsefnek és Balázsnak szentelt plébániatemplom Stresa központi vallási helyszíne. Az épület hagyományos építészeti jegyekkel rendelkezik, és rendszeres közösségi istentiszteleteknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        8.524029,
+                        45.887351
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria Assunta",
+                  "text": "Ez a stresai plébániatemplom Szűz Mária mennybevételének van szentelve. Fontos spirituális központként áll, belsejében gyönyörű vallási alkotásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        8.511157,
+                        45.882566
+                  ]
+            },
+            {
+                  "name": "Ex chiesa di San Carlo",
+                  "text": "A volt San Carlo templom egy történelmi istentiszteleti hely Stresában. Bár funkciója megváltozhatott, továbbra is jelentős építészeti értéket képvisel.",
+                  "category": "religious",
+                  "coords": [
+                        8.528996,
+                        45.885328
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Bernardo d'Aosta",
+                  "text": "A Stresában található plébániatemplom Aostai Szent Bernátnak van szentelve. Nyugodt légkört biztosít a csendes imádkozáshoz és az elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        8.51085,
+                        45.888781
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna della Consolazione",
+                  "text": "Ez az elegáns stresai templom a helyi közösség megnyugtató istentiszteleti helye. A látogatók megcsodálhatják jól karbantartott homlokzatát és békés belső terét.",
+                  "category": "religious",
+                  "coords": [
+                        8.512815,
+                        45.887874
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Magi",
+                  "text": "A Háromkirályoknak szentelt templom egy vonzó vallási helyszín Stresában. Egyedülálló felajánlása lenyűgöző megállóvá teszi az áthaladó turisták számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.546744,
+                        45.875399
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale della Santissima Trinità",
+                  "text": "A Szentháromság plébániatemplom egy gyönyörű spirituális tájékozódási pont Stresában. Az épület figyelemre méltó építészeti részletekkel rendelkezik, és rendszeres miséknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        8.554308,
+                        45.872505
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Sant'Albino",
+                  "text": "A Szent Albinnak szentelt plébániatemplom Stresában található. Csendes menedéket kínál az istentiszteletek és a közösségi összejövetelek számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.556724,
+                        45.864921
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele",
+                  "text": "A Chiesa di San Michele egy bájos helyi istentiszteleti hely Stresában. A város tartós vallási hagyományainak bizonyítékaként áll.",
+                  "category": "religious",
+                  "coords": [
+                        8.542088,
+                        45.8833
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Biagio",
+                  "text": "Ez a kis stresai templom Szent Balázsnak van szentelve. A helyiek gyakran látogatják imádkozás és csendes elmélkedés céljából.",
+                  "category": "religious",
+                  "coords": [
+                        8.522463,
+                        45.886638
+                  ]
+            },
+            {
+                  "name": "Oratorio della Beata Vergine Addolorata",
+                  "text": "Ez a stresai oratórium a Fájdalmas Anyának van szentelve. Gyönyörű és meghitt térként szolgál az áhítat és az elmélkedés számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.508674,
+                        45.899179
+                  ]
+            },
+            {
+                  "name": "Chiesa della Presentazione di Maria Vergine",
+                  "text": "A Szűz Mária bemutatásának szentelt templom Stresában található. Szép építészete érdemes megállóvá teszi a vallási épületek iránt érdeklődők számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.554389,
+                        45.875951
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Grato d'Aosta",
+                  "text": "Ez a stresai plébániatemplom Aostai Szent Gratus előtt tiszteleg. Továbbra is a helyi liturgikus istentiszteletek és ünnepségek aktív központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.506899,
+                        45.89518
+                  ]
+            },
+            {
+                  "name": "Santuario del Santissimo Crocifisso",
+                  "text": "A Szent Feszület Szentélye jelentős zarándok- és istentiszteleti hely Stresában. A látogatók azért jönnek, hogy megcsodálják szakrális művészetét és megtapasztalják mély spirituális légkörét.",
+                  "category": "religious",
+                  "coords": [
+                        8.544593,
+                        45.879676
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Albino",
+                  "text": "A Chiesa di Sant'Albino egy hagyományos istentiszteleti hely, amely a stresai közösséget szolgálja. Bepillantást enged a régió történelmi vallási építészetébe.",
+                  "category": "religious",
+                  "coords": [
+                        8.560683,
+                        45.867319
                   ]
             }
       ],
@@ -14883,6 +15243,186 @@ export const poiExtraItalyV2: POI[] = [
                         8.523612,
                         45.890019
                   ]
+            },
+            {
+                  "name": "A Bacco",
+                  "text": "A Bacco este un monument distinctiv situat în orașul Stresa. Reprezintă un omagiu public și un punct de interes pentru turiștii în trecere.",
+                  "category": "historical",
+                  "coords": [
+                        8.531058,
+                        45.887066
+                  ]
+            },
+            {
+                  "name": "Monumento ad Alessandro Manzoni e Antonio Rosmini",
+                  "text": "Acest monument din Stresa îi onorează pe personajele istorice Alessandro Manzoni și Antonio Rosmini. Este un reper cunoscut pentru cei care explorează patrimoniul cultural al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        8.543626,
+                        45.881501
+                  ]
+            },
+            {
+                  "name": "Mulino della Stria",
+                  "text": "Mulino della Stria prezintă ruine istorice situate în Stresa. Vizitatorii pot observa rămășițele acestei vechi structuri și își pot imagina utilitatea ei din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        8.559943,
+                        45.869888
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei lager",
+                  "text": "Acest monument emoționant din Stresa comemorează victimele lagărelor de concentrare. Oferă un loc liniștit pentru reflecție și amintire istorică.",
+                  "category": "historical",
+                  "coords": [
+                        8.538232,
+                        45.883483
+                  ]
+            },
+            {
+                  "name": "Cappella di Maria Ausiliatrice - Oratorio",
+                  "text": "Această capelă și oratoriu fermecător servește ca un lăcaș de cult liniștit în Stresa. Designul său clasic întâmpină atât credincioșii locali, cât și vizitatorii.",
+                  "category": "religious",
+                  "coords": [
+                        8.536037,
+                        45.883218
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale dei Santi Giuseppe e Biagio",
+                  "text": "Dedicată Sfinților Iosif și Blasiu, această biserică parohială este un loc religios central în Stresa. Clădirea prezintă o arhitectură tradițională și găzduiește slujbe comunitare regulate.",
+                  "category": "religious",
+                  "coords": [
+                        8.524029,
+                        45.887351
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria Assunta",
+                  "text": "Această biserică parohială din Stresa este dedicată Adormirii Maicii Domnului. Reprezintă un important centru spiritual, cu opere de artă religioasă frumoase în interior.",
+                  "category": "religious",
+                  "coords": [
+                        8.511157,
+                        45.882566
+                  ]
+            },
+            {
+                  "name": "Ex chiesa di San Carlo",
+                  "text": "Fosta biserică San Carlo este un lăcaș de cult istoric situat în Stresa. Deși funcția sa s-ar fi putut schimba, își păstrează valoarea arhitecturală semnificativă.",
+                  "category": "religious",
+                  "coords": [
+                        8.528996,
+                        45.885328
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Bernardo d'Aosta",
+                  "text": "Situată în Stresa, această biserică parohială este dedicată Sfântului Bernard de Aosta. Oferă o atmosferă senină pentru rugăciune liniștită și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        8.51085,
+                        45.888781
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna della Consolazione",
+                  "text": "Această biserică elegantă din Stresa este un lăcaș de cult reconfortant pentru comunitatea locală. Vizitatorii îi pot admira fațada bine conservată și interiorul pașnic.",
+                  "category": "religious",
+                  "coords": [
+                        8.512815,
+                        45.887874
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Magi",
+                  "text": "Dedicată Celor Trei Magi, această biserică este un loc religios atrăgător din Stresa. Dedicația sa unică o face o oprire fascinantă pentru turiștii în trecere.",
+                  "category": "religious",
+                  "coords": [
+                        8.546744,
+                        45.875399
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale della Santissima Trinità",
+                  "text": "Biserica parohială Sfânta Treime este un frumos reper spiritual din Stresa. Clădirea prezintă detalii arhitecturale notabile și găzduiește slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        8.554308,
+                        45.872505
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Sant'Albino",
+                  "text": "Această biserică parohială dedicată Sfântului Albin este situată în Stresa. Oferă un refugiu liniștit pentru închinare și adunări comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        8.556724,
+                        45.864921
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele",
+                  "text": "Chiesa di San Michele este un lăcaș de cult local fermecător din Stresa. Stă ca o mărturie a tradițiilor religioase de durată ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        8.542088,
+                        45.8833
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Biagio",
+                  "text": "Această mică biserică din Stresa este dedicată Sfântului Blasiu. Este adesea vizitată de localnici pentru rugăciune și contemplare tăcută.",
+                  "category": "religious",
+                  "coords": [
+                        8.522463,
+                        45.886638
+                  ]
+            },
+            {
+                  "name": "Oratorio della Beata Vergine Addolorata",
+                  "text": "Acest oratoriu din Stresa este dedicat Maicii Domnului Îndurerate. Servește ca un spațiu frumos și intim pentru devotament și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        8.508674,
+                        45.899179
+                  ]
+            },
+            {
+                  "name": "Chiesa della Presentazione di Maria Vergine",
+                  "text": "Dedicată Prezentării Fecioarei Maria, această biserică este situată în Stresa. Arhitectura sa frumoasă o face o oprire utilă pentru cei interesați de clădirile religioase.",
+                  "category": "religious",
+                  "coords": [
+                        8.554389,
+                        45.875951
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Grato d'Aosta",
+                  "text": "Această biserică parohială din Stresa îl onorează pe Sfântul Gratus de Aosta. Rămâne un centru activ pentru slujbele și sărbătorile liturgice locale.",
+                  "category": "religious",
+                  "coords": [
+                        8.506899,
+                        45.89518
+                  ]
+            },
+            {
+                  "name": "Santuario del Santissimo Crocifisso",
+                  "text": "Sanctuarul Sfintei Cruci este un loc de pelerinaj și închinare semnificativ în Stresa. Vizitatorii vin să-i admire arta sacră și să experimenteze atmosfera sa spirituală profundă.",
+                  "category": "religious",
+                  "coords": [
+                        8.544593,
+                        45.879676
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Albino",
+                  "text": "Chiesa di Sant'Albino este un lăcaș de cult tradițional care deservește comunitatea din Stresa. Oferă o privire asupra arhitecturii religioase istorice a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        8.560683,
+                        45.867319
+                  ]
             }
       ],
       "en": [
@@ -15028,6 +15568,186 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.523612,
                         45.890019
+                  ]
+            },
+            {
+                  "name": "A Bacco",
+                  "text": "A Bacco is a distinctive monument situated in the town of Stresa. It stands as a public tribute and a point of interest for passing tourists.",
+                  "category": "historical",
+                  "coords": [
+                        8.531058,
+                        45.887066
+                  ]
+            },
+            {
+                  "name": "Monumento ad Alessandro Manzoni e Antonio Rosmini",
+                  "text": "This monument in Stresa honors the historical figures Alessandro Manzoni and Antonio Rosmini. It is a well-known landmark for those exploring the town's cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        8.543626,
+                        45.881501
+                  ]
+            },
+            {
+                  "name": "Mulino della Stria",
+                  "text": "Mulino della Stria features historic ruins located within Stresa. Visitors can observe the remnants of this old structure and imagine its past utility.",
+                  "category": "historical",
+                  "coords": [
+                        8.559943,
+                        45.869888
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei lager",
+                  "text": "This poignant monument in Stresa commemorates the victims of concentration camps. It offers a quiet place for reflection and historical remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        8.538232,
+                        45.883483
+                  ]
+            },
+            {
+                  "name": "Cappella di Maria Ausiliatrice - Oratorio",
+                  "text": "This lovely chapel and oratory serves as a peaceful place of worship in Stresa. Its classic design welcomes both local worshippers and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        8.536037,
+                        45.883218
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale dei Santi Giuseppe e Biagio",
+                  "text": "Dedicated to Saints Joseph and Blaise, this parish church is a central religious site in Stresa. The building features traditional architecture and hosts regular community services.",
+                  "category": "religious",
+                  "coords": [
+                        8.524029,
+                        45.887351
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria Assunta",
+                  "text": "This parish church in Stresa is dedicated to the Assumption of Mary. It stands as an important spiritual center with beautiful religious artwork inside.",
+                  "category": "religious",
+                  "coords": [
+                        8.511157,
+                        45.882566
+                  ]
+            },
+            {
+                  "name": "Ex chiesa di San Carlo",
+                  "text": "The former church of San Carlo is a historic place of worship located in Stresa. Though its function may have changed, it retains significant architectural value.",
+                  "category": "religious",
+                  "coords": [
+                        8.528996,
+                        45.885328
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Bernardo d'Aosta",
+                  "text": "Located in Stresa, this parish church is dedicated to St. Bernard of Aosta. It provides a serene atmosphere for quiet prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        8.51085,
+                        45.888781
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna della Consolazione",
+                  "text": "This elegant church in Stresa is a comforting place of worship for the local community. Visitors can admire its well-preserved facade and peaceful interior.",
+                  "category": "religious",
+                  "coords": [
+                        8.512815,
+                        45.887874
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Magi",
+                  "text": "Dedicated to the Three Wise Men, this church is an appealing religious site in Stresa. Its unique dedication makes it a fascinating stop for passing tourists.",
+                  "category": "religious",
+                  "coords": [
+                        8.546744,
+                        45.875399
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale della Santissima Trinità",
+                  "text": "The Holy Trinity Parish Church is a beautiful spiritual landmark in Stresa. The building features notable architectural details and hosts regular mass.",
+                  "category": "religious",
+                  "coords": [
+                        8.554308,
+                        45.872505
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Sant'Albino",
+                  "text": "This parish church dedicated to Saint Albinus is located in Stresa. It offers a quiet refuge for worship and community gathering.",
+                  "category": "religious",
+                  "coords": [
+                        8.556724,
+                        45.864921
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Michele",
+                  "text": "Chiesa di San Michele is a charming local place of worship in Stresa. It stands as a testament to the town's enduring religious traditions.",
+                  "category": "religious",
+                  "coords": [
+                        8.542088,
+                        45.8833
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Biagio",
+                  "text": "This small church in Stresa is dedicated to Saint Blaise. It is often visited by locals for prayer and quiet contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        8.522463,
+                        45.886638
+                  ]
+            },
+            {
+                  "name": "Oratorio della Beata Vergine Addolorata",
+                  "text": "This oratory in Stresa is dedicated to Our Lady of Sorrows. It serves as a beautiful and intimate space for devotion and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        8.508674,
+                        45.899179
+                  ]
+            },
+            {
+                  "name": "Chiesa della Presentazione di Maria Vergine",
+                  "text": "Dedicated to the Presentation of the Virgin Mary, this church is situated in Stresa. Its lovely architecture makes it a worthwhile stop for those interested in religious buildings.",
+                  "category": "religious",
+                  "coords": [
+                        8.554389,
+                        45.875951
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di San Grato d'Aosta",
+                  "text": "This parish church in Stresa honors Saint Gratus of Aosta. It remains an active center for local liturgical services and celebrations.",
+                  "category": "religious",
+                  "coords": [
+                        8.506899,
+                        45.89518
+                  ]
+            },
+            {
+                  "name": "Santuario del Santissimo Crocifisso",
+                  "text": "The Sanctuary of the Holy Crucifix is a significant place of pilgrimage and worship in Stresa. Visitors come to admire its sacred art and experience its deep spiritual atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        8.544593,
+                        45.879676
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Albino",
+                  "text": "Chiesa di Sant'Albino is a traditional place of worship serving the Stresa community. It offers a glimpse into the region's historical religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.560683,
+                        45.867319
                   ]
             }
       ]

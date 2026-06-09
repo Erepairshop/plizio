@@ -271,7 +271,8 @@ function svHref(lat: number, lng: number): string {
 // Inline pegman SVG (Street View figura) — orange badge, white figure.
 const SV_PEGMAN_SVG = `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><circle cx="12" cy="4.4" r="2.5" fill="currentColor"/><path d="M12 7.6c-2 0-3.3 1.2-3.3 3v3.6c0 .5.4 1 1 1h.3l.4 4.9c0 .5.5.9 1 .9h1.2c.5 0 1-.4 1-.9l.4-4.9h.3c.6 0 1-.5 1-1v-3.6c0-1.8-1.3-3-3.3-3z" fill="currentColor"/></svg>`;
 // Maps pin SVG — sightokhoz, ahol NINCS Street View: direkt Google Maps
-// hely-profil link (nev+koord query -> a Maps a listing-oldalra oldja fel).
+// hely-profil link (nev + viewport-bias /@lat,lng,17z -> a Maps a koord
+// kornyeken keresi a nevet, a listing-oldalra old fel, nem csak pint dob).
 const GMAPS_PIN_SVG = `<svg viewBox="0 0 24 24" width="13" height="13" fill="none" aria-hidden="true"><path d="M12 2c-3.9 0-7 3.1-7 7 0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z" fill="currentColor"/><circle cx="12" cy="9" r="2.6" fill="#fff"/></svg>`;
 // Loaded once at startup. Used in renderSightCard to inject image when
 // the sight itself doesn't have an explicit image URL.
@@ -1389,7 +1390,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
       var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&'+(typeof e[5]==='string'?'pano='+e[5]+'&':'')+'viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
-        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/?api=1&query='+e[1]+'%2C'+e[2]+'" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
+        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/'+encodeURIComponent(e[0])+'/@'+e[1]+','+e[2]+',17z" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
       var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
       return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
     }).join('');
@@ -2268,11 +2269,14 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const svUrl = svHref(slat, slng);
         svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
       } else {
-        // Nincs SV: Maps-pin ikon, CSAK koord query. A nev NEM mehet bele:
-        // a Google a nevet sulyozza es azonos nevu hiresebb helyre ugrik
-        // (pl. Karolyi-kastely Carei -> Fuzerradvany), a koordot eldobja.
-        const q = encodeURIComponent(`${slat.toFixed(5)},${slng.toFixed(5)}`);
-        svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
+        // Nincs SV: Maps-pin ikon. A nev + VIEWPORT-bias path-form (`/@lat,lng,17z`):
+        // a Google a koordinata kornyeken keresi a nevet -> a tenyleges hely
+        // listing-oldalara (kep/nyitvatartas) old fel, NEM dob csak ures pint a
+        // koordra. A viewport megakadalyozza, hogy azonos nevu tavoli hiresebb
+        // helyre ugorjon (pl. Karolyi-kastely Carei -> Fuzerradvany) — a sima
+        // koord-only query viszont csak pint adott, listing nelkul (user 2026-06-09).
+        const nm = encodeURIComponent(s.name.replace(/\s+/g, " ").trim());
+        svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/${nm}/@${slat.toFixed(6)},${slng.toFixed(6)},17z" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       }
     }
     return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}${sightCatBadge(s)}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
