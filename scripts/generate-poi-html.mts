@@ -1532,6 +1532,100 @@ try{if(window.umami&&window.umami.track)window.umami.track('infocard_open',{});}
 });})();</script>`;
 }
 
+// ── A→B útvonaltervező (autós + Wohnmobil), POI = cél előtöltve ──────────────
+// TESZT: egyelőre csak ezekre a POI-kra rendereljük (1 éles teszt-route).
+const ROUTE_PLANNER_TEST = new Set<string>(["lyon"]);
+// Statikus címkék (HTML-ben) + dinamikus stringek (data-copy JSON, a route-planner.js olvassa).
+const RP_COPY: Record<string, Record<string, string>> = {
+  de: { h: "Routenplaner — Auto & Wohnmobil", sub: "Von wo startest du? Wir bauen die Route hierher, mit Stopps und Länder-Hinweisen unterwegs.", to: "Ziel", from: "Start", fromPh: "z.B. München", via: "Über (optional)", viaPh: "z.B. Zagreb", nights: "Übernachtungs-Stopps", vehicle: "Fahrzeug", car: "🚗 Auto", camper: "🚐 Wohnmobil", filter: "Nur Stopps mit (optional):", water: "💧 Wasser", dump: "♻️ Entsorgung", power: "🔌 Strom", wc: "🚻 WC", shower: "🚿 Dusche", tierAB: "Stellplätze + Camping", tierA: "Nur Stellplätze", tierB: "Nur Camping", tierABC: "Auch Natur-/Rastplätze", b10: "Umweg max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Route planen" },
+  hu: { h: "Útvonaltervező — Autó & Lakóautó", sub: "Honnan indulsz? Megtervezzük az utat ide, útközbeni megállókkal és ország-tudnivalókkal.", to: "Cél", from: "Indulás", fromPh: "pl. Budapest", via: "Érintve (opcionális)", viaPh: "pl. Zagreb", nights: "Éjszakai megállók", vehicle: "Jármű", car: "🚗 Autó", camper: "🚐 Lakóautó", filter: "Csak megállók ezzel (opcionális):", water: "💧 Víz", dump: "♻️ Ürítő", power: "🔌 Áram", wc: "🚻 WC", shower: "🚿 Zuhany", tierAB: "Stellplatz + kemping", tierA: "Csak Stellplatz", tierB: "Csak kemping", tierABC: "Pihenő-/natúrhelyek is", b10: "Kitérő max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Útvonal tervezése" },
+  en: { h: "Route planner — Car & Motorhome", sub: "Where do you start? We build the route here, with stops and country notes along the way.", to: "Destination", from: "Start", fromPh: "e.g. Munich", via: "Via (optional)", viaPh: "e.g. Zagreb", nights: "Overnight stops", vehicle: "Vehicle", car: "🚗 Car", camper: "🚐 Motorhome", filter: "Only stops with (optional):", water: "💧 Water", dump: "♻️ Disposal", power: "🔌 Power", wc: "🚻 Toilets", shower: "🚿 Shower", tierAB: "Aires + campsites", tierA: "Aires only", tierB: "Campsites only", tierABC: "Also rest/nature areas", b10: "Detour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Plan route" },
+  ro: { h: "Planificator traseu — Mașină & Rulotă", sub: "De unde pleci? Construim traseul până aici, cu opriri și informații pe țări.", to: "Destinație", from: "Plecare", fromPh: "ex. Cluj", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "🚗 Mașină", camper: "🚐 Rulotă", filter: "Doar opriri cu (opțional):", water: "💧 Apă", dump: "♻️ Golire", power: "🔌 Curent", wc: "🚻 Toaletă", shower: "🚿 Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifică traseul" },
+  fr: { h: "Planificateur d'itinéraire — Voiture & Camping-car", sub: "D'où partez-vous ? Nous construisons l'itinéraire jusqu'ici, avec des étapes et des infos par pays.", to: "Destination", from: "Départ", fromPh: "ex. Paris", via: "Via (optionnel)", viaPh: "ex. Zagreb", nights: "Étapes nuitées", vehicle: "Véhicule", car: "🚗 Voiture", camper: "🚐 Camping-car", filter: "Étapes avec (optionnel) :", water: "💧 Eau", dump: "♻️ Vidange", power: "🔌 Électricité", wc: "🚻 WC", shower: "🚿 Douche", tierAB: "Aires + campings", tierA: "Aires seulement", tierB: "Campings seulement", tierABC: "Aussi aires nature/repos", b10: "Détour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifier l'itinéraire" },
+};
+const RP_DYN: Record<string, Record<string, string>> = {
+  de: { notFound: "Ort nicht gefunden", needOrigin: "Bitte Startort eingeben.", searching: "📍 Ort wird gesucht…", routing: "🛣️ Route wird berechnet…", km: "km", hrs: "Std.", nights: "Übernachtungen", matchStops: "passende Stopps", mapsAll: "Ganze Route in Maps", advisory: "Länder-Hinweise", toll: "Maut", lez: "Umweltzone", overnight: "Übernachten", mandatory: "Pflicht", keepStop: "diesen Stopp behalten", day: "TAG", dest: "ZIEL", swipe: "← Karten wischen →", regen: "Neu generieren — behaltene Stopps fixieren", regenKept: "🔄 Route mit behaltenen Stopps…", regenNew: "🔄 Neue Variante…" },
+  hu: { notFound: "A hely nem található", needOrigin: "Add meg az indulási helyet.", searching: "📍 Hely keresése…", routing: "🛣️ Útvonal számítása…", km: "km", hrs: "óra", nights: "éjszaka", matchStops: "találó megálló", mapsAll: "Teljes útvonal Mapsben", advisory: "Ország-tudnivalók", toll: "Útdíj", lez: "Környezeti zóna", overnight: "Éjszakázás", mandatory: "Kötelező", keepStop: "ezt a megállót megtartom", day: "NAP", dest: "CÉL", swipe: "← húzd a kártyákat →", regen: "Újragenerálás — megtartottak rögzítése", regenKept: "🔄 Útvonal a megtartottakkal…", regenNew: "🔄 Új variáció…" },
+  en: { notFound: "Place not found", needOrigin: "Please enter a start point.", searching: "📍 Locating…", routing: "🛣️ Calculating route…", km: "km", hrs: "h", nights: "nights", matchStops: "matching stops", mapsAll: "Whole route in Maps", advisory: "Country notes", toll: "Toll", lez: "Low-emission zone", overnight: "Overnight", mandatory: "Required", keepStop: "keep this stop", day: "DAY", dest: "GOAL", swipe: "← swipe cards →", regen: "Regenerate — fix kept stops", regenKept: "🔄 Route with kept stops…", regenNew: "🔄 New variant…" },
+  ro: { notFound: "Locul nu a fost găsit", needOrigin: "Introdu punctul de plecare.", searching: "📍 Se caută locul…", routing: "🛣️ Se calculează traseul…", km: "km", hrs: "ore", nights: "nopți", matchStops: "opriri potrivite", mapsAll: "Tot traseul în Maps", advisory: "Informații pe țări", toll: "Taxă drum", lez: "Zonă ecologică", overnight: "Înnoptare", mandatory: "Obligatoriu", keepStop: "păstrează această oprire", day: "ZIUA", dest: "ȚINTĂ", swipe: "← glisează cardurile →", regen: "Regenerează — fixează opririle păstrate", regenKept: "🔄 Traseu cu opririle păstrate…", regenNew: "🔄 Variantă nouă…" },
+  fr: { notFound: "Lieu introuvable", needOrigin: "Entrez un point de départ.", searching: "📍 Recherche du lieu…", routing: "🛣️ Calcul de l'itinéraire…", km: "km", hrs: "h", nights: "nuitées", matchStops: "étapes correspondantes", mapsAll: "Tout l'itinéraire dans Maps", advisory: "Infos par pays", toll: "Péage", lez: "Zone à faibles émissions", overnight: "Nuitée", mandatory: "Obligatoire", keepStop: "garder cette étape", day: "JOUR", dest: "BUT", swipe: "← faites glisser →", regen: "Régénérer — fixer les étapes gardées", regenKept: "🔄 Itinéraire avec étapes gardées…", regenNew: "🔄 Nouvelle variante…" },
+};
+function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
+  if (!ROUTE_PLANNER_TEST.has(poi.id)) return "";
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
+  const lng = Number(poi.coords[0]), lat = Number(poi.coords[1]);
+  if (!isFinite(lng) || !isFinite(lat)) return "";
+  const T = RP_COPY[lang] || RP_COPY.en;
+  const dyn = RP_DYN[lang] || RP_DYN.en;
+  const stopsOpts = [1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 2 ? " selected" : ""}>${n}</option>`).join("");
+  const svc = [["water", T.water], ["dump", T.dump], ["power", T.power], ["toilets", T.wc], ["shower", T.shower]]
+    .map(([v, l]) => `<label class="plz-rp-svcl"><input type="checkbox" class="plz-rp-svc" value="${v}"> ${escapeHtml(l)}</label>`).join("");
+  const copyJson = escapeHtml(JSON.stringify(dyn));
+  const css = `<style>
+.plz-rp{margin:1.4rem 0;background:rgba(0,8,20,.55);border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:1rem 1.05rem 1.15rem}
+.plz-rp-head h2{font-size:1.1rem;margin:0 0 .2rem;color:#e6ecf3;display:flex;align-items:center;gap:.4rem}
+.plz-rp-head .plz-rp-to{font-size:.72rem;font-weight:700;color:#0a0f1c;background:#4cc6ff;border-radius:999px;padding:.12rem .55rem;margin-left:.2rem}
+.plz-rp-head p{font-size:.84rem;color:rgba(230,236,243,.62);margin:.15rem 0 .8rem}
+.plz-rp-row{display:flex;flex-wrap:wrap;gap:.6rem;margin-bottom:.6rem}
+.plz-rp-row>label,.plz-rp-vehicle{flex:1 1 160px;display:flex;flex-direction:column;font-size:.74rem;color:rgba(230,236,243,.6);gap:.25rem}
+.plz-rp input,.plz-rp select{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:9px;padding:.5rem .6rem;color:#e6ecf3;font-size:.9rem;color-scheme:dark}
+.plz-rp input:focus,.plz-rp select:focus{outline:none;border-color:#4cc6ff}
+.plz-rp-vehbtns{display:flex;border:1px solid rgba(255,255,255,.14);border-radius:9px;overflow:hidden}
+.plz-rp-mode{flex:1;padding:.5rem;background:rgba(255,255,255,.04);color:rgba(230,236,243,.6);border:none;cursor:pointer;font-size:.85rem}
+.plz-rp-mode[aria-selected="true"]{background:#4cc6ff;color:#0a0f1c;font-weight:700}
+.plz-rp-filters{display:flex;flex-wrap:wrap;gap:.45rem;align-items:center;margin:.2rem 0 .7rem}
+.plz-rp-flabel{flex:1 0 100%;font-size:.74rem;color:rgba(230,236,243,.6)}
+.plz-rp-svcl{font-size:.8rem;color:#e6ecf3;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:999px;padding:.28rem .6rem;cursor:pointer;display:inline-flex;gap:.25rem;align-items:center}
+.plz-rp-tier,.plz-rp-buffer{font-size:.82rem}
+.plz-rp-go{width:100%;padding:.7rem;border:none;border-radius:999px;background:linear-gradient(135deg,#4cc6ff,#7dd87a);color:#06121f;font-weight:800;font-size:.98rem;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:.4rem}
+.plz-rp-go:hover{opacity:.92}
+.plz-rp-status{text-align:center;font-size:.82rem;color:rgba(230,236,243,.6);min-height:1.1em;margin-top:.5rem}
+.plz-rp-result{margin-top:1rem;display:flex;flex-direction:column;gap:.9rem}
+.plz-rp-summary{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1.1rem;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:.7rem .9rem}
+.plz-rp-stat b{font-size:1.35rem;color:#e6ecf3}.plz-rp-stat{font-size:.78rem;color:rgba(230,236,243,.6)}
+.plz-rp-mapsall{margin-left:auto;background:linear-gradient(135deg,#4cc6ff,#7dd87a);color:#06121f;font-weight:700;font-size:.82rem;padding:.4rem .8rem;border-radius:999px;text-decoration:none}
+.plz-rp-adv{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:12px;padding:.7rem .9rem}
+.plz-rp-adv h3{font-size:.92rem;margin:0 0 .5rem;color:#e6ecf3}
+.plz-rp-advc{background:rgba(255,255,255,.05);border-radius:9px;padding:.45rem .6rem;margin-bottom:.4rem}
+.plz-rp-advc summary{cursor:pointer;font-weight:600;color:#e6ecf3;font-size:.86rem}
+.plz-rp-advc summary span{color:rgba(230,236,243,.45);font-size:.76rem}
+.plz-rp-advb{font-size:.82rem;color:rgba(230,236,243,.78);margin-top:.4rem;display:flex;flex-direction:column;gap:.2rem}
+.plz-rp-muted{color:rgba(230,236,243,.45)}.plz-rp-advnote{font-size:.74rem;margin:.4rem 0 0}
+.plz-rp-deck{display:flex;gap:.7rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.2rem .1rem .6rem;scrollbar-width:thin}
+.plz-rp-card{flex:0 0 min(86%,330px);scroll-snap-align:center}
+.plz-rp-cardfb{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:.8rem}
+.plz-rp-cardfb h4{margin:.3rem 0;color:#e6ecf3;font-size:.95rem}.plz-rp-cardfb a{color:#4cc6ff;text-decoration:none;font-size:.84rem}
+.plz-rp-badge{font-size:.72rem;font-weight:700;color:#4cc6ff;letter-spacing:.05em}
+.plz-rp-keep{display:flex;align-items:center;gap:.35rem;font-size:.8rem;color:rgba(230,236,243,.65);margin-top:.5rem;cursor:pointer}
+.plz-rp-swipe{text-align:center;font-size:.74rem;color:rgba(230,236,243,.4);margin:.1rem 0}
+.plz-rp-regen{width:100%;padding:.6rem;border-radius:999px;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);color:#e6ecf3;font-weight:600;cursor:pointer}
+.plz-rp-regen:hover{background:rgba(255,255,255,.12)}
+.plz-rp-credit{font-size:.7rem;color:rgba(230,236,243,.38);margin:.7rem 0 0;text-align:center}
+@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}
+</style>`;
+  return `${css}<section class="plz-rp" id="plz-route-planner" data-lng="${lng}" data-lat="${lat}" data-dest="${escapeHtml(name)}" data-lang="${lang}" data-copy="${copyJson}">
+  <div class="plz-rp-head"><h2>${escapeHtml(T.h)}<span class="plz-rp-to">${escapeHtml(T.to)}: ${escapeHtml(name)}</span></h2><p>${escapeHtml(T.sub)}</p></div>
+  <div class="plz-rp-row">
+    <label>${escapeHtml(T.from)}<input class="plz-rp-origin" type="text" placeholder="${escapeHtml(T.fromPh)}"></label>
+    <label>${escapeHtml(T.via)}<input class="plz-rp-via" type="text" placeholder="${escapeHtml(T.viaPh)}"></label>
+  </div>
+  <div class="plz-rp-row">
+    <label>${escapeHtml(T.nights)}<select class="plz-rp-stops">${stopsOpts}</select></label>
+    <div class="plz-rp-vehicle">${escapeHtml(T.vehicle)}<div class="plz-rp-vehbtns"><button type="button" class="plz-rp-mode" data-mode="car" aria-selected="true">${escapeHtml(T.car)}</button><button type="button" class="plz-rp-mode" data-mode="camper" aria-selected="false">${escapeHtml(T.camper)}</button></div></div>
+  </div>
+  <div class="plz-rp-filters"><span class="plz-rp-flabel">${escapeHtml(T.filter)}</span>${svc}
+    <select class="plz-rp-tier"><option value="AB">${escapeHtml(T.tierAB)}</option><option value="A">${escapeHtml(T.tierA)}</option><option value="B">${escapeHtml(T.tierB)}</option><option value="ABC">${escapeHtml(T.tierABC)}</option></select>
+    <select class="plz-rp-buffer"><option value="10">${escapeHtml(T.b10)}</option><option value="20" selected>${escapeHtml(T.b20)}</option><option value="30">${escapeHtml(T.b30)}</option><option value="50">${escapeHtml(T.b50)}</option></select>
+  </div>
+  <button type="button" class="plz-rp-go">${escapeHtml(T.plan)}</button>
+  <div class="plz-rp-status"></div>
+  <div class="plz-rp-result" style="display:none"></div>
+  <p class="plz-rp-credit">© OpenStreetMap contributors · OpenRouteService</p>
+</section>
+<script defer src="/js/stop-card.js"></script>
+<script defer src="/js/route-planner.js"></script>`;
+}
+
 function renderCityItinerary(poi: POI, lang: Lang): string {
   const tier = (poi as { tier?: number }).tier ?? 2;
   const data = loadItinerary(poi.id, tier);
@@ -2754,6 +2848,7 @@ ready();})();</script>
   ${"" /* renderRouteInfo: kivéve amíg a SAJÁT camper/gyalogos útvonal-tervező el nem készül — addig csak GMaps-re tudott linkelni + a közeli-helyek duplikálták a csillagtérképet (user 2026-06-04) */}
   ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
+  ${renderRoutePlanner(poi, lang, name)}
   <div id="sec-sights">
   ${sightsHtml}
   ${infoCardHtml ? "" : renderSightRadius(poi, lang)}
