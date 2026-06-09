@@ -7,6 +7,7 @@ import CookieConsent from "@/components/CookieConsent";
 import JsonLd from "@/components/JsonLd";
 import GlobalOverlays from "@/components/GlobalOverlays";
 import MapPrefetcher from "@/components/MapPrefetcher";
+import SiteFooterNav from "@/components/SiteFooterNav";
 import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/schema";
 
 const caveat = Caveat({
@@ -136,6 +137,9 @@ export default function RootLayout({
           <GlobalOverlays />
           <MapPrefetcher />
         </LanguageProvider>
+        {/* Crawlable HTML site map — server-rendered, in every page's static HTML
+            (the homepage itself returns null at SSR, so its links must live here). */}
+        <SiteFooterNav />
         <CookieConsent />
         <ServiceWorkerRegister />
       </body>
