@@ -1333,7 +1333,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-poipet-cities-v2", "sights": {
       "de": [
             {
-                  "name": "สะพานมิตรภาพไทย–กัมพูชา (อรัญประเทศ–ปอยเปต)",
+                  "name": "Thai-Cambodia Friendship Bridge",
                   "text": "Brücke an der Grenze in Poipet.",
                   "category": "landmark",
                   "coords": [
@@ -1344,7 +1344,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "สะพานมิตรภาพไทย–กัมพูชา (อรัญประเทศ–ปอยเปต)",
+                  "name": "Thai-Cambodia Friendship Bridge",
                   "text": "Határhíd Poipetben.",
                   "category": "landmark",
                   "coords": [
@@ -1355,7 +1355,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "สะพานมิตรภาพไทย–กัมพูชา (อรัญประเทศ–ปอยเปต)",
+                  "name": "Thai-Cambodia Friendship Bridge",
                   "text": "Pod la graniță în Poipet.",
                   "category": "landmark",
                   "coords": [

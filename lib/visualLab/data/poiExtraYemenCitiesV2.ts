@@ -310,7 +310,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "seiyun-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قصر سيئون",
+                  "name": "Seiyun Palace",
                   "text": "Ein ehemaliger Sultanspalast in Seiyun, der heute ein Museum beherbergt.",
                   "category": "museum",
                   "coords": [
@@ -330,7 +330,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قصر سيئون",
+                  "name": "Seiyun Palace",
                   "text": "Egykori szultáni palota Seiyunban, amely ma múzeumnak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -339,7 +339,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حصن الفلس",
+                  "name": "Al-Fals Fort",
                   "text": "Egy erődítmény történelmi romjai Seiyun városában.",
                   "category": "historical",
                   "coords": [
@@ -350,7 +350,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قصر سيئون",
+                  "name": "Seiyun Palace",
                   "text": "Un fost palat al sultanului din Seiyun, care acum găzduiește un muzeu.",
                   "category": "museum",
                   "coords": [
@@ -359,7 +359,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حصن الفلس",
+                  "name": "Al-Fals Fort",
                   "text": "Ruinele istorice ale unei fortificații din Seiyun.",
                   "category": "historical",
                   "coords": [
@@ -984,7 +984,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "جبل حلحال",
+                  "name": "Jabal Halhal",
                   "text": "Jellegzetes hegycsúcs Yarim régiójában.",
                   "category": "natural",
                   "coords": [
@@ -995,7 +995,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "جبل حلحال",
+                  "name": "Jabal Halhal",
                   "text": "Un vârf muntos proeminent în regiunea Yarim.",
                   "category": "natural",
                   "coords": [
@@ -1150,7 +1150,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
     id: "ash-shihr-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف المحضار",
+                  "name": "Al-Mahdhar Museum",
                   "text": "Ein lokales Museum in Ash Shihr, das kulturelle Exponate zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1159,7 +1159,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حصن بن عياش",
+                  "name": "Bin Ayyash Fort",
                   "text": "Eine historische Festungsanlage zum Schutz der Stadt Ash Shihr.",
                   "category": "fortress",
                   "coords": [
@@ -1177,7 +1177,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الخيشة",
+                  "name": "Al-Khaisha",
                   "text": "Archäologische Fundstätte mit alten Ruinen in Ash Shihr.",
                   "category": "historical",
                   "coords": [
@@ -1188,7 +1188,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف المحضار",
+                  "name": "Al-Mahdhar Museum",
                   "text": "Helyi múzeum Ash Shihrben, amely kulturális tárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -1197,7 +1197,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حصن بن عياش",
+                  "name": "Bin Ayyash Fort",
                   "text": "Történelmi erődítmény Ash Shihr városának védelmére.",
                   "category": "fortress",
                   "coords": [
@@ -1206,7 +1206,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرير",
+                  "name": "Mareer",
                   "text": "Egy régi település történelmi maradványai Ash Shihr közelében.",
                   "category": "historical",
                   "coords": [
@@ -1215,7 +1215,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الخيشة",
+                  "name": "Al-Khaisha",
                   "text": "Régészeti lelőhely ősi romokkal Ash Shihrben.",
                   "category": "historical",
                   "coords": [
@@ -1226,7 +1226,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف المحضار",
+                  "name": "Al-Mahdhar Museum",
                   "text": "Un muzeu local în Ash Shihr care expune obiecte culturale.",
                   "category": "museum",
                   "coords": [
@@ -1235,7 +1235,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حصن بن عياش",
+                  "name": "Bin Ayyash Fort",
                   "text": "O fortificație istorică pentru protecția orașului Ash Shihr.",
                   "category": "fortress",
                   "coords": [
@@ -1244,7 +1244,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرير",
+                  "name": "Mareer",
                   "text": "Vestigii istorice ale unei vechi așezări de lângă Ash Shihr.",
                   "category": "historical",
                   "coords": [
@@ -1253,7 +1253,7 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الخيشة",
+                  "name": "Al-Khaisha",
                   "text": "Sit arheologic cu ruine antice în Ash Shihr.",
                   "category": "historical",
                   "coords": [

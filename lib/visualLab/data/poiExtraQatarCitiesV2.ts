@@ -86,7 +86,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "Eine Sehenswürdigkeit in Al Rayyan.",
                   "category": "landmark",
                   "coords": [
@@ -115,7 +115,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "Látnivaló Al Rayyanban.",
                   "category": "landmark",
                   "coords": [
@@ -144,7 +144,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "Un obiectiv turistic în Al Rayyan.",
                   "category": "landmark",
                   "coords": [
@@ -173,7 +173,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "An attraction in Al Rayyan.",
                   "category": "landmark",
                   "coords": [
@@ -927,7 +927,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qa-umm-salal-ali-cities-v2", "sights": {
       "de": [
             {
-                  "name": "شقة أم العمد",
+                  "name": "Umm Al-Amad Apartment",
                   "text": "شقة أم العمد ist ein Aussichtspunkt in der Stadt Umm Salal Ali.",
                   "category": "natural",
                   "coords": [
@@ -938,7 +938,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "شقة أم العمد",
+                  "name": "Umm Al-Amad Apartment",
                   "text": "A شقة أم العمد egy kilátópont Umm Salal Ali városában.",
                   "category": "natural",
                   "coords": [
@@ -949,7 +949,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "شقة أم العمد",
+                  "name": "Umm Al-Amad Apartment",
                   "text": "شقة أم العمد este un punct de belvedere situat în orașul Umm Salal Ali.",
                   "category": "natural",
                   "coords": [
@@ -960,7 +960,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "شقة أم العمد",
+                  "name": "Umm Al-Amad Apartment",
                   "text": "شقة أم العمد is a viewpoint located in the city of Umm Salal Ali.",
                   "category": "natural",
                   "coords": [
@@ -1980,7 +1980,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "الزبارة",
+                  "name": "Al Zubarah",
                   "text": "A(z) Al Zubarah Archaeological Site egy nevezetes látványosság Al Zubarah területén.",
                   "category": "landmark",
                   "coords": [
@@ -2100,7 +2100,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "هين ist eine lokale Sehenswürdigkeit in der Stadt Muaither.",
                   "category": "landmark",
                   "coords": [
@@ -2129,7 +2129,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "A هين egy helyi látványosság Muaither városában.",
                   "category": "landmark",
                   "coords": [
@@ -2158,7 +2158,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "هين este o atracție locală aflată în orașul Muaither.",
                   "category": "landmark",
                   "coords": [
@@ -2187,7 +2187,7 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هين",
+                  "name": "Hin",
                   "text": "هين is a local attraction found in the city of Muaither.",
                   "category": "landmark",
                   "coords": [

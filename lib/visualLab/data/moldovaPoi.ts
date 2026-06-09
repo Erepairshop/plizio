@@ -863,7 +863,7 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Баня",
+                  "name": "Banya",
                   "text": "Ein Ort zum Schwimmen und für Wassererholung in Tiraspol.",
                   "category": "family",
                   "coords": [
@@ -1108,7 +1108,7 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Баня",
+                  "name": "Banya",
                   "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Tiraspol településen.",
                   "category": "family",
                   "coords": [
@@ -1353,7 +1353,7 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Баня",
+                  "name": "Banya",
                   "text": "Un loc pentru înot și recreere acvatică în Tiraspol.",
                   "category": "family",
                   "coords": [
@@ -1598,7 +1598,7 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Баня",
+                  "name": "Banya",
                   "text": "A place for swimming and water recreation in Tiraspol.",
                   "category": "family",
                   "coords": [

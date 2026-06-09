@@ -411,7 +411,7 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-pozarevac-economic-center-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Бамбиланд",
+                  "name": "Bambiland",
                   "text": "Diese familienfreundliche Attraktion in Pozarevac Economic Center bietet verschiedene Aktivitäten für alle Altersgruppen.",
                   "category": "family",
                   "coords": [
@@ -422,7 +422,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бамбиланд",
+                  "name": "Bambiland",
                   "text": "Ez a családbarát látványosság Pozarevac Economic Center városában különféle tevékenységeket kínál minden korosztály számára.",
                   "category": "family",
                   "coords": [
@@ -433,7 +433,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бамбиланд",
+                  "name": "Bambiland",
                   "text": "Această atracție de familie din Pozarevac Economic Center oferă diverse activități pentru toate vârstele.",
                   "category": "family",
                   "coords": [
@@ -444,7 +444,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Бамбиланд",
+                  "name": "Bambiland",
                   "text": "This family-friendly attraction in Pozarevac Economic Center offers various activities for all ages.",
                   "category": "family",
                   "coords": [
@@ -1266,7 +1266,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool",
                   "text": "Diese Schwimmeinrichtung in Zajecar Industrial Hub bietet Platz zum Schwimmen und zur Erholung.",
                   "category": "family",
                   "coords": [
@@ -1385,7 +1385,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool",
                   "text": "Ez a Zajecar Industrial Hub városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
                   "category": "family",
                   "coords": [
@@ -1504,7 +1504,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool",
                   "text": "Această unitate de înot din Zajecar Industrial Hub oferă un loc pentru înot și recreere.",
                   "category": "family",
                   "coords": [
@@ -1815,7 +1815,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен",
+                  "name": "City Pool",
                   "text": "Dieses Schwimmbad in Prokuplje bietet ein Becken zum Schwimmen.",
                   "category": "family",
                   "coords": [
@@ -1871,7 +1871,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен",
+                  "name": "City Pool",
                   "text": "Ez a prokupljei úszómedence egy medencét kínál az úszáshoz.",
                   "category": "family",
                   "coords": [
@@ -1927,7 +1927,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен",
+                  "name": "City Pool",
                   "text": "Această piscină din Prokuplje oferă un bazin pentru înot.",
                   "category": "family",
                   "coords": [
@@ -1983,7 +1983,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен",
+                  "name": "City Pool",
                   "text": "This swimming pool in Prokuplje offers a pool for swimming.",
                   "category": "family",
                   "coords": [

@@ -256,7 +256,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر الثقافة",
+                  "name": "Palace of Culture",
                   "text": "قصر الثقافة ist ein Theater in Al-Mansura.",
                   "category": "cultural",
                   "coords": [
@@ -265,7 +265,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح المنصورة القومي",
+                  "name": "Mansoura National Theater",
                   "text": "مسرح المنصورة القومي ist ein Theater in Al-Mansura.",
                   "category": "cultural",
                   "coords": [
@@ -274,7 +274,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار بن لقمان",
+                  "name": "Dar Ibn Luqman",
                   "text": "دار بن لقمان ist ein Museum in Al-Mansura.",
                   "category": "museum",
                   "coords": [
@@ -303,7 +303,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر الثقافة",
+                  "name": "Palace of Culture",
                   "text": "A قصر الثقافة egy színház Al-Mansura városában.",
                   "category": "cultural",
                   "coords": [
@@ -312,7 +312,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح المنصورة القومي",
+                  "name": "Mansoura National Theater",
                   "text": "A مسرح المنصورة القومي egy színház Al-Mansura városában.",
                   "category": "cultural",
                   "coords": [
@@ -321,7 +321,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار بن لقمان",
+                  "name": "Dar Ibn Luqman",
                   "text": "A دار بن لقمان egy múzeum Al-Mansura városában.",
                   "category": "museum",
                   "coords": [
@@ -350,7 +350,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر الثقافة",
+                  "name": "Palace of Culture",
                   "text": "قصر الثقافة este un teatru în Al-Mansura.",
                   "category": "cultural",
                   "coords": [
@@ -359,7 +359,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح المنصورة القومي",
+                  "name": "Mansoura National Theater",
                   "text": "مسرح المنصورة القومي este un teatru în Al-Mansura.",
                   "category": "cultural",
                   "coords": [
@@ -368,7 +368,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار بن لقمان",
+                  "name": "Dar Ibn Luqman",
                   "text": "دار بن لقمان este un muzeu în Al-Mansura.",
                   "category": "museum",
                   "coords": [
@@ -397,7 +397,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر الثقافة",
+                  "name": "Palace of Culture",
                   "text": "قصر الثقافة is a theatre in Al-Mansura.",
                   "category": "cultural",
                   "coords": [
@@ -406,7 +406,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح المنصورة القومي",
+                  "name": "Mansoura National Theater",
                   "text": "مسرح المنصورة القومي is a theatre in Al-Mansura.",
                   "category": "cultural",
                   "coords": [
@@ -415,7 +415,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار بن لقمان",
+                  "name": "Dar Ibn Luqman",
                   "text": "دار بن لقمان is a museum in Al-Mansura.",
                   "category": "museum",
                   "coords": [
@@ -541,7 +541,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "asyut-cities-v2", "sights": {
       "de": [
             {
-                  "name": "المدينة الجامعية للطلبة",
+                  "name": "Student University City",
                   "text": "المدينة الجامعية للطلبة ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -550,7 +550,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جراجات الجامعة",
+                  "name": "University Garages",
                   "text": "جراجات الجامعة ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -559,7 +559,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المبني الإداري",
+                  "name": "Administrative Building",
                   "text": "المبني الإداري ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -568,7 +568,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم كمونة",
+                  "name": "Kamouna Restaurant",
                   "text": "مطعم كمونة ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -577,7 +577,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شقة هالة",
+                  "name": "Hala Apartment",
                   "text": "شقة هالة ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -586,7 +586,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ارسالية كندا",
+                  "name": "Canadian Mission",
                   "text": "ارسالية كندا ist eine Attraktion in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -606,7 +606,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "المدينة الجامعية للطلبة",
+                  "name": "Student University City",
                   "text": "A المدينة الجامعية للطلبة egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -615,7 +615,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جراجات الجامعة",
+                  "name": "University Garages",
                   "text": "A جراجات الجامعة egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -624,7 +624,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المبني الإداري",
+                  "name": "Administrative Building",
                   "text": "A المبني الإداري egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -633,7 +633,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم كمونة",
+                  "name": "Kamouna Restaurant",
                   "text": "A مطعم كمونة egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -642,7 +642,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شقة هالة",
+                  "name": "Hala Apartment",
                   "text": "A شقة هالة egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -651,7 +651,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ارسالية كندا",
+                  "name": "Canadian Mission",
                   "text": "Az ارسالية كندا egy látványosság Assiutban.",
                   "category": "landmark",
                   "coords": [
@@ -671,7 +671,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "المدينة الجامعية للطلبة",
+                  "name": "Student University City",
                   "text": "المدينة الجامعية للطلبة este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -680,7 +680,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جراجات الجامعة",
+                  "name": "University Garages",
                   "text": "جراجات الجامعة este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -689,7 +689,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المبني الإداري",
+                  "name": "Administrative Building",
                   "text": "المبني الإداري este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -698,7 +698,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم كمونة",
+                  "name": "Kamouna Restaurant",
                   "text": "مطعم كمونة este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -707,7 +707,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شقة هالة",
+                  "name": "Hala Apartment",
                   "text": "شقة هالة este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -716,7 +716,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ارسالية كندا",
+                  "name": "Canadian Mission",
                   "text": "ارسالية كندا este o atracție în Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -736,7 +736,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "المدينة الجامعية للطلبة",
+                  "name": "Student University City",
                   "text": "المدينة الجامعية للطلبة is an attraction in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -745,7 +745,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جراجات الجامعة",
+                  "name": "University Garages",
                   "text": "جراجات الجامعة is an attraction in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -754,7 +754,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المبني الإداري",
+                  "name": "Administrative Building",
                   "text": "المبني الإداري is an attraction in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -763,7 +763,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مطعم كمونة",
+                  "name": "Kamouna Restaurant",
                   "text": "مطعم كمونة is an attraction in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -772,7 +772,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شقة هالة",
+                  "name": "Hala Apartment",
                   "text": "شقة هالة is an attraction in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -781,7 +781,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ارسالية كندا",
+                  "name": "Canadian Mission",
                   "text": "ارسالية كندا is an attraction in Assiut.",
                   "category": "landmark",
                   "coords": [
@@ -1172,7 +1172,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "beni-suef-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف بنى سويف",
+                  "name": "Beni Suef Museum",
                   "text": "Das Museum von Beni Suef stellt regionale historische Altertümer aus.",
                   "category": "museum",
                   "coords": [
@@ -1181,7 +1181,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج سكني تجاري اداري",
+                  "name": "Mixed-Use Residential Commercial Tower",
                   "text": "برج سكني تجاري اداري ist ein ausgewiesener Strandbereich in Beni Suef.",
                   "category": "recreational",
                   "coords": [
@@ -1190,7 +1190,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "تمثال العبور",
+                  "name": "Crossing Statue",
                   "text": "تمثال العبور ist ein Denkmal in Beni Suef.",
                   "category": "historical",
                   "coords": [
@@ -1199,7 +1199,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ميدان المديرية",
+                  "name": "Mudiriyah Square",
                   "text": "ميدان المديرية ist ein Denkmal in Beni Suef.",
                   "category": "historical",
                   "coords": [
@@ -1210,7 +1210,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف بنى سويف",
+                  "name": "Beni Suef Museum",
                   "text": "A Beni Suef Múzeum regionális történelmi régiségeket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -1219,7 +1219,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج سكني تجاري اداري",
+                  "name": "Mixed-Use Residential Commercial Tower",
                   "text": "A برج سكني تجاري اداري egy tengerparti terület Beni Suef városában.",
                   "category": "recreational",
                   "coords": [
@@ -1228,7 +1228,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "تمثال العبور",
+                  "name": "Crossing Statue",
                   "text": "A تمثال العبور egy emlékmű Beni Suef városában.",
                   "category": "historical",
                   "coords": [
@@ -1237,7 +1237,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ميدان المديرية",
+                  "name": "Mudiriyah Square",
                   "text": "A ميدان المديرية egy emlékmű Beni Suef városában.",
                   "category": "historical",
                   "coords": [
@@ -1248,7 +1248,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف بنى سويف",
+                  "name": "Beni Suef Museum",
                   "text": "Muzeul din Beni Suef expune antichități istorice regionale.",
                   "category": "museum",
                   "coords": [
@@ -1257,7 +1257,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج سكني تجاري اداري",
+                  "name": "Mixed-Use Residential Commercial Tower",
                   "text": "برج سكني تجاري اداري este o zonă de plajă din Beni Suef.",
                   "category": "recreational",
                   "coords": [
@@ -1266,7 +1266,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "تمثال العبور",
+                  "name": "Crossing Statue",
                   "text": "تمثال العبور este un monument din Beni Suef.",
                   "category": "historical",
                   "coords": [
@@ -1275,7 +1275,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ميدان المديرية",
+                  "name": "Mudiriyah Square",
                   "text": "ميدان المديرية este un monument situat în Beni Suef.",
                   "category": "historical",
                   "coords": [
@@ -1295,7 +1295,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج سكني تجاري اداري",
+                  "name": "Mixed-Use Residential Commercial Tower",
                   "text": "برج سكني تجاري اداري is a designated beach area located in Beni Suef.",
                   "category": "recreational",
                   "coords": [
@@ -1304,7 +1304,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "تمثال العبور",
+                  "name": "Crossing Statue",
                   "text": "تمثال العبور is a local monument in Beni Suef.",
                   "category": "historical",
                   "coords": [
@@ -1313,7 +1313,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ميدان المديرية",
+                  "name": "Mudiriyah Square",
                   "text": "ميدان المديرية is a monument square situated in Beni Suef.",
                   "category": "historical",
                   "coords": [
@@ -1357,7 +1357,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["La pyramide de Meïdoum, à 30 km au nord, fut probablement achevée sous le pharaon Snéfrou.", "Beni Souef abrite l'une des plus grandes centrales électriques à turbine à gaz au monde (Siemens).", "L'université de Beni Souef a été fondée en 2005 en tant qu'université indépendante.", "La ville est réputée pour ses grandes cimenteries, dont l'une des plus vastes installations au monde.", "Beni Souef est située sur la ligne de chemin de fer principale reliant le Caire à Assouan.", "La région est leader dans la production égyptienne d'huiles aromatiques et d'herbes médicinales."],
     }, image: "/poi-images/beni-suef-cities-v2.webp"},
   {
-    id: "hurghada-cities-v2", "sights": {"de": [{"name": "Cinema", "text": "Das Cinema ist ein Theater in Hurghada.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "An der ägyptischen Küste von Hurghada erwartet Besucher der Family Beach 2. Wie der Name vermuten lässt, herrscht hier eine belebte und familienfreundliche Atmosphäre, die ideal für alle Altersgruppen ist. Gäste können sich auf ausgedehntes Sonnenbaden und Badespaß im Roten Meer freuen. Es empfiehlt sich, frühzeitig zu kommen, um sich einen schönen Schattenplatz für den Tag zu sichern.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "Das Red Sea Aquarium ist ein Aquarium in Hurghada.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "El Sawaki Camp ist ein Strand in Hurghada.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "كنيسة الإخوة الغردقة", "text": "كنيسة الإخوة الغردقة ist eine Attraktion in Hurghada.", "category": "landmark", "coords": [33.805279, 27.26238]}], "hu": [{"name": "Cinema", "text": "A Cinema egy színház Hurghadában.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "Az egyiptomi Hurghada partjainál várja a látogatókat a Family Beach 2. Ahogy a neve is sugallja, itt élénk és családbarát hangulat uralkodik, amely minden korosztály számára ideális. A vendégek hosszas napozásra és a Vörös-tengerben való fürdőzésre számíthatnak. Érdemes korán érkezni, hogy biztosítsunk magunknak egy kellemes árnyékos helyet a nap folyamán.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "A Red Sea Aquarium egy akvárium Hurghadában.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "Az El Sawaki Camp egy strand Hurghadában.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "كنيسة الإخوة الغردقة", "text": "A كنيسة الإخوة الغردقة egy látványosság Hurghadában.", "category": "landmark", "coords": [33.805279, 27.26238]}], "ro": [{"name": "Cinema", "text": "Cinema este un teatru din Hurghada.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "Pe coasta egipteană a orașului Hurghada, Family Beach 2 își așteaptă vizitatorii. Așa cum sugerează și numele, aici predomină o atmosferă plină de viață și prietenoasă cu familiile, ideală pentru toate grupele de vârstă. Oaspeții se pot aștepta la băi de soare îndelungate și înot în Marea Roșie. Este recomandat să ajungeți devreme pentru a vă asigura un loc plăcut la umbră pentru toată ziua.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "Red Sea Aquarium este un acvariu din Hurghada.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "El Sawaki Camp este o plajă în Hurghada.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "كنيسة الإخوة الغردقة", "text": "كنيسة الإخوة الغردقة este o atracție în Hurghada.", "category": "landmark", "coords": [33.805279, 27.26238]}], "en": [{"name": "Cinema", "text": "Cinema is a theatre in Hurghada.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "On the Egyptian coast of Hurghada, Family Beach 2 awaits its visitors. As the name suggests, a lively and family-friendly atmosphere prevails here, making it ideal for all ages. Guests can look forward to extensive sunbathing and swimming fun in the Red Sea. It is advisable to arrive early to secure a nice shaded spot for the day.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "The Red Sea Aquarium is an aquarium in Hurghada.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "El Sawaki Camp is a beach in Hurghada.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "كنيسة الإخوة الغردقة", "text": "كنيسة الإخوة الغردقة is an attraction in Hurghada.", "category": "landmark", "coords": [33.805279, 27.26238]}]},
+    id: "hurghada-cities-v2", "sights": {"de": [{"name": "Cinema", "text": "Das Cinema ist ein Theater in Hurghada.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "An der ägyptischen Küste von Hurghada erwartet Besucher der Family Beach 2. Wie der Name vermuten lässt, herrscht hier eine belebte und familienfreundliche Atmosphäre, die ideal für alle Altersgruppen ist. Gäste können sich auf ausgedehntes Sonnenbaden und Badespaß im Roten Meer freuen. Es empfiehlt sich, frühzeitig zu kommen, um sich einen schönen Schattenplatz für den Tag zu sichern.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "Das Red Sea Aquarium ist ein Aquarium in Hurghada.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "El Sawaki Camp ist ein Strand in Hurghada.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "Hurghada Brethren Church", "text": "كنيسة الإخوة الغردقة ist eine Attraktion in Hurghada.", "category": "landmark", "coords": [33.805279, 27.26238]}], "hu": [{"name": "Cinema", "text": "A Cinema egy színház Hurghadában.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "Az egyiptomi Hurghada partjainál várja a látogatókat a Family Beach 2. Ahogy a neve is sugallja, itt élénk és családbarát hangulat uralkodik, amely minden korosztály számára ideális. A vendégek hosszas napozásra és a Vörös-tengerben való fürdőzésre számíthatnak. Érdemes korán érkezni, hogy biztosítsunk magunknak egy kellemes árnyékos helyet a nap folyamán.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "A Red Sea Aquarium egy akvárium Hurghadában.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "Az El Sawaki Camp egy strand Hurghadában.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "Hurghada Brethren Church", "text": "A كنيسة الإخوة الغردقة egy látványosság Hurghadában.", "category": "landmark", "coords": [33.805279, 27.26238]}], "ro": [{"name": "Cinema", "text": "Cinema este un teatru din Hurghada.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "Pe coasta egipteană a orașului Hurghada, Family Beach 2 își așteaptă vizitatorii. Așa cum sugerează și numele, aici predomină o atmosferă plină de viață și prietenoasă cu familiile, ideală pentru toate grupele de vârstă. Oaspeții se pot aștepta la băi de soare îndelungate și înot în Marea Roșie. Este recomandat să ajungeți devreme pentru a vă asigura un loc plăcut la umbră pentru toată ziua.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "Red Sea Aquarium este un acvariu din Hurghada.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "El Sawaki Camp este o plajă în Hurghada.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "Hurghada Brethren Church", "text": "كنيسة الإخوة الغردقة este o atracție în Hurghada.", "category": "landmark", "coords": [33.805279, 27.26238]}], "en": [{"name": "Cinema", "text": "Cinema is a theatre in Hurghada.", "category": "cultural", "coords": [33.8248, 27.245323]}, {"name": "Family Beach 2", "text": "On the Egyptian coast of Hurghada, Family Beach 2 awaits its visitors. As the name suggests, a lively and family-friendly atmosphere prevails here, making it ideal for all ages. Guests can look forward to extensive sunbathing and swimming fun in the Red Sea. It is advisable to arrive early to secure a nice shaded spot for the day.", "category": "recreational", "coords": [33.840498, 27.248454]}, {"name": "Red Sea Aquarium", "text": "The Red Sea Aquarium is an aquarium in Hurghada.", "category": "family", "coords": [33.819116, 27.261642]}, {"name": "El Sawaki Camp", "text": "El Sawaki Camp is a beach in Hurghada.", "category": "recreational", "coords": [33.824324, 27.259127]}, {"name": "Hurghada Brethren Church", "text": "كنيسة الإخوة الغردقة is an attraction in Hurghada.", "category": "landmark", "coords": [33.805279, 27.26238]}]},
     type: "city",
     parent: "EG-BA",
     coords: [33.8116, 27.2579],
@@ -1545,7 +1545,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "banha-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مختار خضر",
+                  "name": "Mukhtar Khadr Castle",
                   "text": "مختار خضر ist eine Burg in der Stadt Banha.",
                   "category": "castle",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مختار خضر",
+                  "name": "Mukhtar Khadr Castle",
                   "text": "A مختار خضر egy vár Banha városában.",
                   "category": "castle",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مختار خضر",
+                  "name": "Mukhtar Khadr Castle",
                   "text": "مختار خضر este un castel din Banha.",
                   "category": "castle",
                   "coords": [
@@ -1605,7 +1605,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "مختار خضر",
+                  "name": "Mukhtar Khadr Castle",
                   "text": "مختار خضر is a castle located in Banha.",
                   "category": "castle",
                   "coords": [
@@ -2112,7 +2112,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار مناسبات",
+                  "name": "Event Hall",
                   "text": "دار مناسبات ist ein Theater in der Stadt Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار المناسبات",
+                  "name": "Event Hall",
                   "text": "دار المناسبات ist ein Theater in Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2231,7 +2231,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار مناسبات",
+                  "name": "Event Hall",
                   "text": "A دار مناسبات egy színház Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2240,7 +2240,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار المناسبات",
+                  "name": "Event Hall",
                   "text": "A دار المناسبات egy színház Desuk városában.",
                   "category": "cultural",
                   "coords": [
@@ -2350,7 +2350,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار مناسبات",
+                  "name": "Event Hall",
                   "text": "دار مناسبات este un teatru situat în orașul Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2359,7 +2359,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار المناسبات",
+                  "name": "Event Hall",
                   "text": "دار المناسبات este un teatru situat în Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2469,7 +2469,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار مناسبات",
+                  "name": "Event Hall",
                   "text": "دار مناسبات is a theatre located in the city of Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -2478,7 +2478,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دار المناسبات",
+                  "name": "Event Hall",
                   "text": "دار المناسبات is a theatre located in Desuk.",
                   "category": "cultural",
                   "coords": [
@@ -3013,7 +3013,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "abu-tij-cities-v2", "sights": {
       "de": [
             {
-                  "name": "نهضة قداسة ابو تيج",
+                  "name": "Abu Tig Religious Celebration",
                   "text": "نهضة قداسة ابو تيج ist eine Attraktion in der Stadt Abu Tig.",
                   "category": "landmark",
                   "coords": [
@@ -3022,7 +3022,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "انجيلية ابوتيج",
+                  "name": "Evangelical Church Abu Tig",
                   "text": "انجيلية ابوتيج ist eine lokale Attraktion in der Stadt Abu Tig.",
                   "category": "landmark",
                   "coords": [
@@ -3033,7 +3033,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "نهضة قداسة ابو تيج",
+                  "name": "Abu Tig Religious Celebration",
                   "text": "A نهضة قداسة ابو تيج egy látványosság Abu Tig városában.",
                   "category": "landmark",
                   "coords": [
@@ -3042,7 +3042,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "انجيلية ابوتيج",
+                  "name": "Evangelical Church Abu Tig",
                   "text": "A انجيلية ابوتيج egy helyi látványosság Abu Tig városában.",
                   "category": "landmark",
                   "coords": [
@@ -3053,7 +3053,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "نهضة قداسة ابو تيج",
+                  "name": "Abu Tig Religious Celebration",
                   "text": "نهضة قداسة ابو تيج este o atracție situată în orașul Abu Tig.",
                   "category": "landmark",
                   "coords": [
@@ -3062,7 +3062,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "انجيلية ابوتيج",
+                  "name": "Evangelical Church Abu Tig",
                   "text": "انجيلية ابوتيج este o atracție locală situată în orașul Abu Tig.",
                   "category": "landmark",
                   "coords": [
@@ -3073,7 +3073,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "نهضة قداسة ابو تيج",
+                  "name": "Abu Tig Religious Celebration",
                   "text": "نهضة قداسة ابو تيج is an attraction located in the city of Abu Tig.",
                   "category": "landmark",
                   "coords": [
@@ -3082,7 +3082,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "انجيلية ابوتيج",
+                  "name": "Evangelical Church Abu Tig",
                   "text": "انجيلية ابوتيج is a local attraction situated in the city of Abu Tig.",
                   "category": "landmark",
                   "coords": [
@@ -3147,7 +3147,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد زغلول",
+                  "name": "Zaghloul Mosque",
                   "text": "Die Ruinen der مسجد زغلول (Zaghloul-Moschee) sind eine historische Stätte in Rosette.",
                   "category": "historical",
                   "coords": [
@@ -3194,7 +3194,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد زغلول",
+                  "name": "Zaghloul Mosque",
                   "text": "A مسجد زغلول (Zaghloul-mecset) romjai egy történelmi helyszín Rosette városában.",
                   "category": "historical",
                   "coords": [
@@ -3223,7 +3223,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف رشيد",
+                  "name": "Rashid Museum",
                   "text": "Muzeul Național Rashid din Rosette expune artefacte din istoria islamică și locală.",
                   "category": "museum",
                   "coords": [
@@ -3241,7 +3241,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد زغلول",
+                  "name": "Zaghloul Mosque",
                   "text": "Ruinele مسجد زغلول (Moscheea Zaghloul) sunt un sit istoric situat în Rosette.",
                   "category": "historical",
                   "coords": [
@@ -3288,7 +3288,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد زغلول",
+                  "name": "Zaghloul Mosque",
                   "text": "The ruins of مسجد زغلول (Zaghloul Mosque) are a historical site located in Rosette.",
                   "category": "historical",
                   "coords": [
@@ -3388,7 +3388,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "deir-mawas-cities-v2", "sights": {
       "de": [
             {
-                  "name": "انجيلية بني عمران",
+                  "name": "Evangelical Church Bani Imran",
                   "text": "انجيلية بني عمران ist eine Touristenattraktion in der Stadt Dair Mawas.",
                   "category": "landmark",
                   "coords": [
@@ -3399,7 +3399,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "انجيلية بني عمران",
+                  "name": "Evangelical Church Bani Imran",
                   "text": "A انجيلية بني عمران egy turisztikai látványosság Dair Mawas városában.",
                   "category": "landmark",
                   "coords": [
@@ -3410,7 +3410,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "انجيلية بني عمران",
+                  "name": "Evangelical Church Bani Imran",
                   "text": "انجيلية بني عمران este o atracție turistică situată în orașul Dair Mawas.",
                   "category": "landmark",
                   "coords": [
@@ -3421,7 +3421,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "انجيلية بني عمران",
+                  "name": "Evangelical Church Bani Imran",
                   "text": "انجيلية بني عمران is a tourist attraction located in the city of Dair Mawas.",
                   "category": "landmark",
                   "coords": [
@@ -3673,7 +3673,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أم عبيدة",
+                  "name": "Umm Ubaydah",
                   "text": "Umm Ubaydah történelmi romokat rejt Siwa városában.",
                   "category": "historical",
                   "coords": [
@@ -3720,7 +3720,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أم عبيدة",
+                  "name": "Umm Ubaydah",
                   "text": "Umm Ubaydah cuprinde ruine istorice situate în Siwa.",
                   "category": "historical",
                   "coords": [
@@ -3767,7 +3767,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "أم عبيدة",
+                  "name": "Umm Ubaydah",
                   "text": "Umm Ubaydah features historical ruins located in Siwa.",
                   "category": "historical",
                   "coords": [
@@ -4256,7 +4256,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة سيرابيس",
+                  "name": "Serapis Chapel",
                   "text": "Die Serapis-Kapelle umfasst antike Ruinen in Luxor.",
                   "category": "historical",
                   "coords": [
@@ -4366,7 +4366,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة سيرابيس",
+                  "name": "Serapis Chapel",
                   "text": "A Szerápisz-kápolna ókori romokat rejt Luxor városában.",
                   "category": "historical",
                   "coords": [
@@ -4476,7 +4476,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كنيسة سيرابيس",
+                  "name": "Serapis Chapel",
                   "text": "Capela lui Serapis prezintă ruine antice situate în Luxor.",
                   "category": "historical",
                   "coords": [

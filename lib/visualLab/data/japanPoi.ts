@@ -539,7 +539,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大阪市水道発祥之地",
+                  "name": "Birthplace of Osaka Waterworks",
                   "text": "Dieses Denkmal in Osaka erinnert an den Geburtsort der städtischen Wasserwerke.",
                   "category": "historical",
                   "coords": [
@@ -991,7 +991,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大阪浮世絵美術館",
+                  "name": "Osaka Ukiyo-e Museum",
                   "text": "Az Osaka Ukiyoe Múzeum tradicionális művészetet bemutató galéria Oszakában.",
                   "category": "museum",
                   "coords": [
@@ -1018,7 +1018,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大阪市水道発祥之地",
+                  "name": "Birthplace of Osaka Waterworks",
                   "text": "Ez az oszakai emlékmű a város vízművének szülőhelyének állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -1497,7 +1497,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大阪市水道発祥之地",
+                  "name": "Birthplace of Osaka Waterworks",
                   "text": "Acest monument din Osaka comemorează locul de naștere al uzinelor de apă ale orașului.",
                   "category": "historical",
                   "coords": [
@@ -1515,7 +1515,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "難波宮八角殿跡",
+                  "name": "Naniwa Palace Octagonal Hall Ruins",
                   "text": "Clădirea Octogonală face parte din ruinele istorice ale Palatului Naniwa din Osaka.",
                   "category": "historical",
                   "coords": [
@@ -2051,7 +2051,7 @@ export const japanCities: POI[] = [
     id: "jp-kyoto", "sights": {
       "de": [
             {
-                  "name": "京都市学校歴史博物館",
+                  "name": "Kyoto School History Museum",
                   "text": "Ein Museum in Kyoto, das der Geschichte des japanischen Schulwesens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2060,7 +2060,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "藤井斉成会有鄰館",
+                  "name": "Fujii Yurinkan Museum",
                   "text": "Ein privates Museum in Kyoto mit einer Sammlung chinesischer und japanischer Kunst.",
                   "category": "museum",
                   "coords": [
@@ -2069,7 +2069,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "柳原銀行記念資料館",
+                  "name": "Yanagihara Bank Memorial Museum",
                   "text": "Ein Museum in Kyoto, das an die Geschichte der Yanagihara-Bank erinnert.",
                   "category": "museum",
                   "coords": [
@@ -2096,7 +2096,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギア専用劇場",
+                  "name": "Gear Theater",
                   "text": "Ein bekanntes Theater in Kyoto, das für seine nonverbalen Aufführungen berühmt ist.",
                   "category": "cultural",
                   "coords": [
@@ -2105,7 +2105,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギオンコーナー",
+                  "name": "Gion Corner",
                   "text": "Ein Theater im Gion-Viertel von Kyoto, das traditionelle japanische Künste präsentiert.",
                   "category": "cultural",
                   "coords": [
@@ -2114,7 +2114,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "興正寺",
+                  "name": "Kosho-ji Temple",
                   "text": "Ein buddhistischer Tempel der Jodo-Shinshu-Sekte in der Stadt Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -2123,7 +2123,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "平等寺",
+                  "name": "Byodo-ji Temple",
                   "text": "Ein buddhistischer Tempel in Kyoto, der auch als Inaba-do bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -2132,7 +2132,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白峯神宮",
+                  "name": "Shiramine Shrine",
                   "text": "Ein Shinto-Schrein in Kyoto, der besonders bei Sportlern und Ballsportfans beliebt ist.",
                   "category": "religious",
                   "coords": [
@@ -2141,7 +2141,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "養源院",
+                  "name": "Yogen-in Temple",
                   "text": "Ein Tempel in Kyoto, der für seine blutbefleckten Decken und bemalten Türen bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -2150,7 +2150,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "六道珍皇寺",
+                  "name": "Rokudo Chinno-ji Temple",
                   "text": "Ein Tempel in Kyoto, der mit Legenden über den Zugang zur Unterwelt verbunden ist.",
                   "category": "religious",
                   "coords": [
@@ -2159,7 +2159,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本法寺",
+                  "name": "Honpo-ji Temple",
                   "text": "Ein buddhistischer Tempel in Kyoto mit einem vom Künstler Hon'ami Koetsu entworfenen Garten.",
                   "category": "religious",
                   "coords": [
@@ -2168,7 +2168,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宗林寺",
+                  "name": "Sorin-ji Temple",
                   "text": "Ein historischer buddhistischer Tempel im Stadtteil Higashiyama von Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -2186,7 +2186,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宗像神社",
+                  "name": "Munakata Shrine",
                   "text": "Ein Shinto-Schrein im Park des Kaiserpalastes von Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -2204,7 +2204,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都タワー",
+                  "name": "Kyoto Tower",
                   "text": "Ein markanter Aussichtsturm in Kyoto, der einen Panoramablick über die Stadt bietet.",
                   "category": "natural",
                   "coords": [
@@ -2213,7 +2213,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "吉田山",
+                  "name": "Mount Yoshida",
                   "text": "Ein Hügel in Kyoto, der für seine Schreine, Tempel und Wanderwege bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -2222,7 +2222,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸術センター",
+                  "name": "Kyoto Art Center",
                   "text": "Ein Kunstzentrum in einer ehemaligen Grundschule, das Ausstellungen und Aufführungen zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2231,7 +2231,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "幕末維新ミュージアム霊山歴史館",
+                  "name": "Ryozen Museum of History",
                   "text": "Ein Museum in Kyoto, das der Geschichte der Bakumatsu-Zeit und der Meiji-Restauration gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2240,7 +2240,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "高台寺掌美術館",
+                  "name": "Kodai-ji Sho Museum",
                   "text": "Ein Museum, das Kunst und Schätze des Kodai-ji-Tempels in Kyoto ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -2249,7 +2249,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都劇場 (Kyoto-Gekijo)",
+                  "name": "Kyoto Theater",
                   "text": "Ein modernes Theater, das sich im Gebäude des Bahnhofs Kyoto befindet.",
                   "category": "cultural",
                   "coords": [
@@ -2258,7 +2258,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "六波羅蜜寺",
+                  "name": "Rokuharamitsu-ji Temple",
                   "text": "Ein buddhistischer Tempel in Kyoto, der für seine Statue des Priesters Kuya bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -2267,7 +2267,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "金寶寺",
+                  "name": "Konpo-ji Temple",
                   "text": "Ein buddhistischer Tempel und Ort der Besinnung in Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -2285,7 +2285,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白沙村荘橋本関雪記念館",
+                  "name": "Hakusasonso Hashimoto Kansetsu Garden and Museum",
                   "text": "Ehemaliges Wohnhaus und Atelier des Malers Hashimoto Kansetsu mit Garten und Galerie.",
                   "category": "museum",
                   "coords": [
@@ -2294,7 +2294,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "二の丸御殿",
+                  "name": "Ninomaru Palace",
                   "text": "Der elegante Palast innerhalb der Burg Nijo, bekannt für seine Nachtigallenböden.",
                   "category": "castle",
                   "coords": [
@@ -2330,7 +2330,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都サムライ忍者体験ミュージアム",
+                  "name": "Kyoto Samurai and Ninja Museum",
                   "text": "Ein interaktives Museum in Kyoto über die Geschichte von Samurai und Ninja.",
                   "category": "museum",
                   "coords": [
@@ -2339,7 +2339,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本能寺大寶殿宝物館",
+                  "name": "Honno-ji Temple Treasure Hall",
                   "text": "Eine Schatzhalle innerhalb des Honnoji-Tempels, die historische Artefakte ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -2348,7 +2348,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都写真美術館 ギャラリー・ジャパネスク",
+                  "name": "Kyoto Museum of Photography",
                   "text": "Ein Fotografie-Museum in Kyoto, das japanische Fotokunst präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -2384,7 +2384,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery 素 moto",
+                  "name": "Gallery Moto",
                   "text": "Eine Kunstgalerie in Kyoto mit lokalen und internationalen Ausstellungen.",
                   "category": "museum",
                   "coords": [
@@ -2393,7 +2393,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸大美術ギャラリー＠KCUA（アクア）",
+                  "name": "KCUA Art Gallery",
                   "text": "Die Kunstgalerie der Kyoto City University of Arts mit vielfältigen Ausstellungen.",
                   "category": "museum",
                   "coords": [
@@ -2402,7 +2402,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "旧・道仙科学製陶所窯跡",
+                  "name": "Dosan Kiln Ruins",
                   "text": "Archäologische Überreste eines historischen wissenschaftlichen Töpferofens in Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -2411,7 +2411,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "西陣織会館",
+                  "name": "Nishijin Textile Center",
                   "text": "Ein Zentrum in Kyoto, das der Geschichte und Förderung der Nishijin-Weberei gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -2420,7 +2420,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "旧二条城の石垣",
+                  "name": "Former Nijo Castle Stone Wall",
                   "text": "Historische Überreste der Steinmauer der ehemaligen Burg Nijo in Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -2429,7 +2429,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "吉田泉殿の跡",
+                  "name": "Yoshida Izumidono Ruins",
                   "text": "Ein historisches Steinmonument in der Stadt Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -2456,7 +2456,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "石村亭",
+                  "name": "Ishimura-tei",
                   "text": "Ein traditionelles japanisches Herrenhaus mit Garten in Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -2474,7 +2474,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "KYOTO舞踏館",
+                  "name": "Kyoto Butoh-kan",
                   "text": "Ein spezialisiertes Theater in Kyoto für Butoh, eine Form des japanischen Tanztheaters.",
                   "category": "cultural",
                   "coords": [
@@ -2483,7 +2483,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "観峰文化センター",
+                  "name": "Kanpo Cultural Center",
                   "text": "Ein Kulturzentrum in Kyoto, das sich auf Kalligrafie und traditionelle Künste konzentriert.",
                   "category": "cultural",
                   "coords": [
@@ -2510,7 +2510,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "先斗町",
+                  "name": "Pontocho",
                   "text": "Eine stimmungsvolle Gasse in Kyoto, berühmt für ihre traditionellen Restaurants.",
                   "category": "landmark",
                   "coords": [
@@ -2528,7 +2528,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "最勝院奥の院",
+                  "name": "Saishoin Oku-no-in",
                   "text": "Ein ruhiger Schreinbereich innerhalb des Nanzen-ji-Tempelkomplexes in Kyoto.",
                   "category": "landmark",
                   "coords": [
@@ -2537,7 +2537,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "唐子の間",
+                  "name": "Karako-no-ma",
                   "text": "Ein bemerkenswerter Raum mit traditionellen Malereien in einem historischen Gebäude in Kyoto.",
                   "category": "landmark",
                   "coords": [
@@ -2546,7 +2546,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神泉苑",
+                  "name": "Shinsen-en",
                   "text": "Ein historischer Tempelgarten in Kyoto, der einst Teil des ursprünglichen Kaiserpalastes war.",
                   "category": "landmark",
                   "coords": [
@@ -2555,7 +2555,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "二条陣屋",
+                  "name": "Nijo Jinya",
                   "text": "Ein ehemaliges Gasthaus für Feudalherren in Kyoto mit verborgenen Verteidigungsmechanismen.",
                   "category": "landmark",
                   "coords": [
@@ -2564,7 +2564,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都三条会商店街",
+                  "name": "Kyoto Sanjo-kai Shopping Street",
                   "text": "Eine lange überdachte Einkaufsstraße in Kyoto mit einer Mischung aus Tradition und Moderne.",
                   "category": "landmark",
                   "coords": [
@@ -2575,7 +2575,7 @@ export const japanCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "京都市学校歴史博物館",
+                  "name": "Kyoto School History Museum",
                   "text": "Kiotói múzeum, amely a japán iskoláztatás történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2584,7 +2584,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "藤井斉成会有鄰館",
+                  "name": "Fujii Yurinkan Museum",
                   "text": "Magánmúzeum Kiotóban kínai és japán művészeti gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
@@ -2593,7 +2593,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "柳原銀行記念資料館",
+                  "name": "Yanagihara Bank Memorial Museum",
                   "text": "Kiotói múzeum, amely a Yanagihara Bank történetének állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -2611,7 +2611,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都市役所",
+                  "name": "Kyoto City Hall",
                   "text": "Kiotó városának jellegzetes városházi épülete.",
                   "category": "historical",
                   "coords": [
@@ -2620,7 +2620,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギア専用劇場",
+                  "name": "Gear Theater",
                   "text": "Népszerű kiotói színház, amely nonverbális előadásairól ismert.",
                   "category": "cultural",
                   "coords": [
@@ -2629,7 +2629,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギオンコーナー",
+                  "name": "Gion Corner",
                   "text": "Hagyományos japán előadóművészeti színház Kiotó Gion negyedében.",
                   "category": "cultural",
                   "coords": [
@@ -2638,7 +2638,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "興正寺",
+                  "name": "Kosho-ji Temple",
                   "text": "A Jodo Shinshu szekta buddhista temploma Kiotó városában.",
                   "category": "religious",
                   "coords": [
@@ -2647,7 +2647,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "平等寺",
+                  "name": "Byodo-ji Temple",
                   "text": "Buddhista templom Kiotóban, amelyet Inaba-do néven is ismernek.",
                   "category": "religious",
                   "coords": [
@@ -2656,7 +2656,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白峯神宮",
+                  "name": "Shiramine Shrine",
                   "text": "Sintoista szentély Kiotóban, amely a sportról és a labdajátékokról nevezetes.",
                   "category": "religious",
                   "coords": [
@@ -2665,7 +2665,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "養源院",
+                  "name": "Yogen-in Temple",
                   "text": "Kiotói templom, amely vérfoltos mennyezetéről és festett ajtóiról híres.",
                   "category": "religious",
                   "coords": [
@@ -2674,7 +2674,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "六道珍皇寺",
+                  "name": "Rokudo Chinno-ji Temple",
                   "text": "Kiotói templom, amely az alvilág kapujáról szóló legendákhoz kötődik.",
                   "category": "religious",
                   "coords": [
@@ -2683,7 +2683,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本法寺",
+                  "name": "Honpo-ji Temple",
                   "text": "Buddhista templom Kiotóban, kertjét Hon'ami Koetsu művész tervezte.",
                   "category": "religious",
                   "coords": [
@@ -2692,7 +2692,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宗林寺",
+                  "name": "Sorin-ji Temple",
                   "text": "Történelmi buddhista templom Kiotó Higashiyama negyedében.",
                   "category": "religious",
                   "coords": [
@@ -2701,7 +2701,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック河原町教会",
+                  "name": "Kawaramachi Catholic Church",
                   "text": "Xavéri Szent Ferencnek szentelt katolikus székesegyház Kiotóban.",
                   "category": "religious",
                   "coords": [
@@ -2710,7 +2710,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宗像神社",
+                  "name": "Munakata Shrine",
                   "text": "Sintoista szentély a Kiotói Császári Palota parkjában.",
                   "category": "religious",
                   "coords": [
@@ -2728,7 +2728,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都タワー",
+                  "name": "Kyoto Tower",
                   "text": "Kiotó jellegzetes kilátótornya, amely panorámás kilátást nyújt a városra.",
                   "category": "natural",
                   "coords": [
@@ -2737,7 +2737,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "吉田山",
+                  "name": "Mount Yoshida",
                   "text": "Domb Kiotóban, amely szentélyeiről, templomairól és túraútvonalairól ismert.",
                   "category": "natural",
                   "coords": [
@@ -2746,7 +2746,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸術センター",
+                  "name": "Kyoto Art Center",
                   "text": "Művészeti központ egy volt általános iskolában, amely kiállításoknak és előadásoknak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -2764,7 +2764,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "高台寺掌美術館",
+                  "name": "Kodai-ji Sho Museum",
                   "text": "A kiotói Kodai-dzsi templom művészeti kincseit bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2773,7 +2773,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都劇場 (Kyoto-Gekijo)",
+                  "name": "Kyoto Theater",
                   "text": "Modern színház a Kiotó pályaudvar épületében.",
                   "category": "cultural",
                   "coords": [
@@ -2782,7 +2782,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "六波羅蜜寺",
+                  "name": "Rokuharamitsu-ji Temple",
                   "text": "Buddhista templom Kiotóban, amely a Kuya papot ábrázoló szobráról híres.",
                   "category": "religious",
                   "coords": [
@@ -2791,7 +2791,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "金寶寺",
+                  "name": "Konpo-ji Temple",
                   "text": "Buddhista templom és vallási helyszín Kiotóban.",
                   "category": "religious",
                   "coords": [
@@ -2800,7 +2800,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "FUREAIKAN ART & CRAFTS 日図デザイン博物館",
+                  "name": "Kyoto Museum of Crafts and Design",
                   "text": "Kiotó gazdag hagyományos kézműves örökségét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2809,7 +2809,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白沙村荘橋本関雪記念館",
+                  "name": "Hakusasonso Hashimoto Kansetsu Garden and Museum",
                   "text": "Hasimoto Kanszecu festőművész egykori lakóháza és műterme kerttel és galériával.",
                   "category": "museum",
                   "coords": [
@@ -2818,7 +2818,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "二の丸御殿",
+                  "name": "Ninomaru Palace",
                   "text": "A Nidzsó-kastély elegáns palotája, amely „fülemülepadlójáról” nevezetes.",
                   "category": "castle",
                   "coords": [
@@ -2827,7 +2827,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本丸御殿",
+                  "name": "Honmaru Palace",
                   "text": "A kiotói Nidzsó-kastély belső palotakomplexuma.",
                   "category": "castle",
                   "coords": [
@@ -2854,7 +2854,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都サムライ忍者体験ミュージアム",
+                  "name": "Kyoto Samurai and Ninja Museum",
                   "text": "Interaktív múzeum Kiotóban, ahol a szamurájok és nindzsák történetét ismerhetjük meg.",
                   "category": "museum",
                   "coords": [
@@ -2863,7 +2863,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本能寺大寶殿宝物館",
+                  "name": "Honno-ji Temple Treasure Hall",
                   "text": "A Honnódzsi-templomon belüli kincstár, ahol történelmi tárgyakat őriznek.",
                   "category": "museum",
                   "coords": [
@@ -2872,7 +2872,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都写真美術館 ギャラリー・ジャパネスク",
+                  "name": "Kyoto Museum of Photography",
                   "text": "Fotóművészeti múzeum Kiotóban, amely japán fényképészek alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2908,7 +2908,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery 素 moto",
+                  "name": "Gallery Moto",
                   "text": "Kiotói művészeti galéria helyi és nemzetközi kiállításokkal.",
                   "category": "museum",
                   "coords": [
@@ -2917,7 +2917,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸大美術ギャラリー＠KCUA（アクア）",
+                  "name": "KCUA Art Gallery",
                   "text": "A Kiotói Városi Művészeti Egyetem galériája változatos kiállításokkal.",
                   "category": "museum",
                   "coords": [
@@ -2926,7 +2926,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "旧・道仙科学製陶所窯跡",
+                  "name": "Dosan Kiln Ruins",
                   "text": "Egy történelmi tudományos kerámiaégető kemence régészeti maradványai Kiotóban.",
                   "category": "historical",
                   "coords": [
@@ -2935,7 +2935,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "西陣織会館",
+                  "name": "Nishijin Textile Center",
                   "text": "A Nisidzsin szövés történetének és népszerűsítésének szentelt központ Kiotóban.",
                   "category": "historical",
                   "coords": [
@@ -2944,7 +2944,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "旧二条城の石垣",
+                  "name": "Former Nijo Castle Stone Wall",
                   "text": "Az egykori Nidzsó-kastély történelmi kőfalának maradványai Kiotóban.",
                   "category": "historical",
                   "coords": [
@@ -2953,7 +2953,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "吉田泉殿の跡",
+                  "name": "Yoshida Izumidono Ruins",
                   "text": "Történelmi kőemlék Kiotó városában.",
                   "category": "historical",
                   "coords": [
@@ -2980,7 +2980,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "石村亭",
+                  "name": "Ishimura-tei",
                   "text": "Hagyományos japán udvarház és kert Kiotóban.",
                   "category": "historical",
                   "coords": [
@@ -2998,7 +2998,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "KYOTO舞踏館",
+                  "name": "Kyoto Butoh-kan",
                   "text": "Kiotói színház, amely a butoh-ra, egy sajátos japán táncművészeti formára szakosodott.",
                   "category": "cultural",
                   "coords": [
@@ -3007,7 +3007,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "観峰文化センター",
+                  "name": "Kanpo Cultural Center",
                   "text": "Kiotói kulturális központ, amely a kalligráfiára és a hagyományos művészetekre összpontosít.",
                   "category": "cultural",
                   "coords": [
@@ -3016,7 +3016,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "gion 衹园",
+                  "name": "Gion",
                   "text": "Kiotó leghíresebb gésanegyede, amely hagyományos faházairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -3034,7 +3034,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "先斗町",
+                  "name": "Pontocho",
                   "text": "Hangulatos, szűk utca Kiotóban, amely hagyományos éttermeiről és teaházairól híres.",
                   "category": "landmark",
                   "coords": [
@@ -3052,7 +3052,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "最勝院奥の院",
+                  "name": "Saishoin Oku-no-in",
                   "text": "Csendes szentély a kiotói Nanzen-dzsi templomkomplexum területén.",
                   "category": "landmark",
                   "coords": [
@@ -3061,7 +3061,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "唐子の間",
+                  "name": "Karako-no-ma",
                   "text": "Hagyományos festményekkel díszített szoba egy történelmi kiotói épületben.",
                   "category": "landmark",
                   "coords": [
@@ -3070,7 +3070,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神泉苑",
+                  "name": "Shinsen-en",
                   "text": "Történelmi templomkert Kiotóban, amely egykor az eredeti császári palota része volt.",
                   "category": "landmark",
                   "coords": [
@@ -3079,7 +3079,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "二条陣屋",
+                  "name": "Nijo Jinya",
                   "text": "Egykori fogadó hűbérurak számára Kiotóban, rejtett védelmi megoldásokkal.",
                   "category": "landmark",
                   "coords": [
@@ -3088,7 +3088,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都三条会商店街",
+                  "name": "Kyoto Sanjo-kai Shopping Street",
                   "text": "Hosszú, fedett bevásárlóutca Kiotóban, hagyományos és modern üzletekkel.",
                   "category": "landmark",
                   "coords": [
@@ -3099,7 +3099,7 @@ export const japanCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "京都市学校歴史博物館",
+                  "name": "Kyoto School History Museum",
                   "text": "Un muzeu din Kyoto dedicat istoriei sistemului școlar japonez.",
                   "category": "museum",
                   "coords": [
@@ -3108,7 +3108,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "藤井斉成会有鄰館",
+                  "name": "Fujii Yurinkan Museum",
                   "text": "Un muzeu privat din Kyoto cu o colecție de artă chineză și japoneză.",
                   "category": "museum",
                   "coords": [
@@ -3117,7 +3117,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "柳原銀行記念資料館",
+                  "name": "Yanagihara Bank Memorial Museum",
                   "text": "Un muzeu din Kyoto care comemorează istoria Băncii Yanagihara.",
                   "category": "museum",
                   "coords": [
@@ -3135,7 +3135,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都市役所",
+                  "name": "Kyoto City Hall",
                   "text": "Clădirea impunătoare a primăriei orașului Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -3144,7 +3144,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギア専用劇場",
+                  "name": "Gear Theater",
                   "text": "Un teatru cunoscut din Kyoto, faimos pentru spectacolele sale non-verbale.",
                   "category": "cultural",
                   "coords": [
@@ -3153,7 +3153,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギオンコーナー",
+                  "name": "Gion Corner",
                   "text": "Un teatru din districtul Gion din Kyoto, care prezintă arte spectacolului tradiționale japoneze.",
                   "category": "cultural",
                   "coords": [
@@ -3162,7 +3162,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "興正寺",
+                  "name": "Kosho-ji Temple",
                   "text": "Un templu budist al sectei Jodo Shinshu situat în orașul Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -3171,7 +3171,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "平等寺",
+                  "name": "Byodo-ji Temple",
                   "text": "Un templu budist din Kyoto, cunoscut și sub numele de Inaba-do.",
                   "category": "religious",
                   "coords": [
@@ -3180,7 +3180,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白峯神宮",
+                  "name": "Shiramine Shrine",
                   "text": "Un altar shintoist din Kyoto, cunoscut pentru legătura sa cu sportul și jocurile cu mingea.",
                   "category": "religious",
                   "coords": [
@@ -3189,7 +3189,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "養源院",
+                  "name": "Yogen-in Temple",
                   "text": "Un templu din Kyoto renumit pentru tavanele pătate de sânge și ușile pictate.",
                   "category": "religious",
                   "coords": [
@@ -3198,7 +3198,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "六道珍皇寺",
+                  "name": "Rokudo Chinno-ji Temple",
                   "text": "Un templu din Kyoto asociat cu legendele despre poarta către lumea de dincolo.",
                   "category": "religious",
                   "coords": [
@@ -3207,7 +3207,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本法寺",
+                  "name": "Honpo-ji Temple",
                   "text": "Un templu budist din Kyoto cu o grădină proiectată de artistul Hon'ami Koetsu.",
                   "category": "religious",
                   "coords": [
@@ -3216,7 +3216,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宗林寺",
+                  "name": "Sorin-ji Temple",
                   "text": "Un templu budist istoric situat în districtul Higashiyama din Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -3225,7 +3225,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック河原町教会",
+                  "name": "Kawaramachi Catholic Church",
                   "text": "O catedrală catolică din Kyoto dedicată Sfântului Francisc Xavier.",
                   "category": "religious",
                   "coords": [
@@ -3234,7 +3234,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宗像神社",
+                  "name": "Munakata Shrine",
                   "text": "Un altar shintoist situat în parcul Palatului Imperial din Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -3252,7 +3252,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都タワー",
+                  "name": "Kyoto Tower",
                   "text": "Un turn de observație iconic din Kyoto, care oferă vedere panoramică asupra orașului.",
                   "category": "natural",
                   "coords": [
@@ -3261,7 +3261,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "吉田山",
+                  "name": "Mount Yoshida",
                   "text": "Un deal din Kyoto cunoscut pentru altarele, templele și traseele sale de drumeție.",
                   "category": "natural",
                   "coords": [
@@ -3270,7 +3270,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸術センター",
+                  "name": "Kyoto Art Center",
                   "text": "Un centru de artă într-o fostă școală primară, care găzduiește expoziții și spectacole.",
                   "category": "museum",
                   "coords": [
@@ -3279,7 +3279,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "幕末維新ミュージアム霊山歴史館",
+                  "name": "Ryozen Museum of History",
                   "text": "Un muzeu din Kyoto dedicat istoriei perioadei Bakumatsu și Restaurării Meiji.",
                   "category": "museum",
                   "coords": [
@@ -3288,7 +3288,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "高台寺掌美術館",
+                  "name": "Kodai-ji Sho Museum",
                   "text": "Un muzeu care expune artă și comori legate de templul Kodai-ji din Kyoto.",
                   "category": "museum",
                   "coords": [
@@ -3297,7 +3297,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都劇場 (Kyoto-Gekijo)",
+                  "name": "Kyoto Theater",
                   "text": "Un teatru modern situat în clădirea Gării Kyoto.",
                   "category": "cultural",
                   "coords": [
@@ -3306,7 +3306,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "六波羅蜜寺",
+                  "name": "Rokuharamitsu-ji Temple",
                   "text": "Un templu budist din Kyoto renumit pentru statuia preotului Kuya.",
                   "category": "religious",
                   "coords": [
@@ -3315,7 +3315,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "金寶寺",
+                  "name": "Konpo-ji Temple",
                   "text": "Un templu budist și loc de închinare situat în Kyoto.",
                   "category": "religious",
                   "coords": [
@@ -3324,7 +3324,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "FUREAIKAN ART & CRAFTS 日図デザイン博物館",
+                  "name": "Kyoto Museum of Crafts and Design",
                   "text": "Un muzeu din Kyoto care prezintă bogata moștenire a meșteșugurilor tradiționale ale orașului.",
                   "category": "museum",
                   "coords": [
@@ -3333,7 +3333,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白沙村荘橋本関雪記念館",
+                  "name": "Hakusasonso Hashimoto Kansetsu Garden and Museum",
                   "text": "Fosta reședință și atelier al pictorului Hashimoto Kansetsu, cu o grădină și o galerie de artă.",
                   "category": "museum",
                   "coords": [
@@ -3342,7 +3342,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "二の丸御殿",
+                  "name": "Ninomaru Palace",
                   "text": "Palatul elegant din interiorul Castelului Nijo, faimos pentru podelele sale „privighetoare”.",
                   "category": "castle",
                   "coords": [
@@ -3351,7 +3351,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本丸御殿",
+                  "name": "Honmaru Palace",
                   "text": "Complexul palatului interior al Castelului Nijo din Kyoto.",
                   "category": "castle",
                   "coords": [
@@ -3378,7 +3378,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都サムライ忍者体験ミュージアム",
+                  "name": "Kyoto Samurai and Ninja Museum",
                   "text": "Un muzeu interactiv din Kyoto unde vizitatorii pot învăța despre istoria samurailor și a ninja.",
                   "category": "museum",
                   "coords": [
@@ -3387,7 +3387,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本能寺大寶殿宝物館",
+                  "name": "Honno-ji Temple Treasure Hall",
                   "text": "O sală a comorilor în interiorul templului Honnoji, care expune artefacte istorice.",
                   "category": "museum",
                   "coords": [
@@ -3396,7 +3396,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都写真美術館 ギャラリー・ジャパネスク",
+                  "name": "Kyoto Museum of Photography",
                   "text": "Un muzeu de fotografie din Kyoto care prezintă arta fotografică japoneză.",
                   "category": "museum",
                   "coords": [
@@ -3432,7 +3432,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery 素 moto",
+                  "name": "Gallery Moto",
                   "text": "O galerie de artă din Kyoto care prezintă expoziții locale și internaționale.",
                   "category": "museum",
                   "coords": [
@@ -3441,7 +3441,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸大美術ギャラリー＠KCUA（アクア）",
+                  "name": "KCUA Art Gallery",
                   "text": "Galeria de artă a Universității de Arte din Kyoto, care găzduiește expoziții diverse.",
                   "category": "museum",
                   "coords": [
@@ -3450,7 +3450,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "旧・道仙科学製陶所窯跡",
+                  "name": "Dosan Kiln Ruins",
                   "text": "Rămășițele arheologice ale unui cuptor istoric de olărit din Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -3459,7 +3459,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "西陣織会館",
+                  "name": "Nishijin Textile Center",
                   "text": "Un centru din Kyoto dedicat istoriei și promovării țesăturilor Nishijin.",
                   "category": "historical",
                   "coords": [
@@ -3468,7 +3468,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "旧二条城の石垣",
+                  "name": "Former Nijo Castle Stone Wall",
                   "text": "Rămășițele istorice ale zidului de piatră al fostului Castel Nijo din Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -3477,7 +3477,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "吉田泉殿の跡",
+                  "name": "Yoshida Izumidono Ruins",
                   "text": "Un monument istoric din piatră situat în orașul Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -3504,7 +3504,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "石村亭",
+                  "name": "Ishimura-tei",
                   "text": "Un conac tradițional japonez și o grădină situată în Kyoto.",
                   "category": "historical",
                   "coords": [
@@ -3522,7 +3522,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "KYOTO舞踏館",
+                  "name": "Kyoto Butoh-kan",
                   "text": "Un teatru dedicat din Kyoto pentru Butoh, o formă de teatru dans japonez.",
                   "category": "cultural",
                   "coords": [
@@ -3531,7 +3531,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "観峰文化センター",
+                  "name": "Kanpo Cultural Center",
                   "text": "Un centru cultural din Kyoto axat pe caligrafie și arte tradiționale.",
                   "category": "cultural",
                   "coords": [
@@ -3540,7 +3540,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "gion 衹园",
+                  "name": "Gion",
                   "text": "Cel mai faimos district de gheișe din Kyoto, cunoscut pentru casele sale tradiționale din lemn.",
                   "category": "landmark",
                   "coords": [
@@ -3558,7 +3558,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "先斗町",
+                  "name": "Pontocho",
                   "text": "O alee îngustă și pitorească din Kyoto, faimoasă pentru restaurantele și ceainăriile sale tradiționale.",
                   "category": "landmark",
                   "coords": [
@@ -3576,7 +3576,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "最勝院奥の院",
+                  "name": "Saishoin Oku-no-in",
                   "text": "O zonă liniștită de altar situată în complexul templului Nanzen-ji din Kyoto.",
                   "category": "landmark",
                   "coords": [
@@ -3585,7 +3585,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "唐子の間",
+                  "name": "Karako-no-ma",
                   "text": "O cameră remarcabilă cu picturi tradiționale, situată într-o clădire istorică din Kyoto.",
                   "category": "landmark",
                   "coords": [
@@ -3594,7 +3594,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神泉苑",
+                  "name": "Shinsen-en",
                   "text": "O grădină istorică de templu din Kyoto, care a făcut parte odinioară din Palatul Imperial original.",
                   "category": "landmark",
                   "coords": [
@@ -3603,7 +3603,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "二条陣屋",
+                  "name": "Nijo Jinya",
                   "text": "Un fost han pentru domnii feudali din Kyoto, cunoscut pentru arhitectura defensivă și pasajele ascunse.",
                   "category": "landmark",
                   "coords": [
@@ -3612,7 +3612,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都三条会商店街",
+                  "name": "Kyoto Sanjo-kai Shopping Street",
                   "text": "O arcadă comercială acoperită din Kyoto, cu un amestec de magazine tradiționale și moderne.",
                   "category": "landmark",
                   "coords": [
@@ -3956,7 +3956,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery 素 moto",
+                  "name": "Gallery Moto",
                   "text": "An art gallery in Kyoto featuring local and international exhibitions.",
                   "category": "museum",
                   "coords": [
@@ -3965,7 +3965,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "京都芸大美術ギャラリー＠KCUA（アクア）",
+                  "name": "KCUA Art Gallery",
                   "text": "The art gallery of the Kyoto City University of Arts, hosting diverse exhibitions.",
                   "category": "museum",
                   "coords": [
@@ -4190,7 +4190,7 @@ export const japanCities: POI[] = [
     area: 827.83, image: "/poi-images/jp-kyoto.webp"
   },
   {
-    id: "jp-yokohama", "sights": {"de": [{"name": "三菱みなとみらい技術館", "text": "Ein Industriemuseum in Yokohama, das moderne Technologien und Luftfahrt präsentiert.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "海上保安資料館 横浜館", "text": "Ein Museum in Yokohama, das der japanischen Küstenwache gewidmet ist.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "そごう美術館", "text": "Ein Kunstmuseum im SOGO-Kaufhaus, das wechselnde Ausstellungen zeigt.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "ブリキのおもちゃ博物館", "text": "Ein Museum in Yokohama, das eine große Sammlung von historischem Blechspielzeug zeigt.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "日本郵船歴史博物館", "text": "Ein Museum zur Geschichte der Schifffahrt der japanischen Reederei NYK.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "横浜みなと博物館", "text": "Ein Museum am Hafen von Yokohama, das sich der maritimen Geschichte widmet.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "横浜ユーラシア文化館", "text": "Ein Museum, das sich mit dem kulturellen Austausch zwischen Europa und Asien befasst.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "馬の博物館", "text": "Ein Museum in Yokohama, das der Geschichte der Pferde und des Reitsports gewidmet ist.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "原鉄道模型博物館", "text": "Ein Museum, das eine beeindruckende Sammlung historischer Modelleisenbahnen zeigt.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "京急ミュージアム", "text": "Ein Technikmuseum, das der Geschichte der Keikyu-Eisenbahn gewidmet ist.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "横浜美術館", "text": "Eines der größten Kunstmuseen Japans, gelegen im Stadtteil Minato Mirai.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "山手111番館", "text": "Ein historisches westliches Gebäude im Yamate-Viertel von Yokohama.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "横浜人形の家", "text": "Ein Museum mit einer umfangreichen Sammlung von Puppen aus aller Welt.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "安藤百福発明記念館", "text": "Ein interaktives Museum, das der Erfindung der Instant-Nudeln gewidmet ist.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "神奈川県立歴史博物館", "text": "Ein Museum, das sich der Kulturgeschichte der Präfektur Kanagawa widmet.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "みなとみらいホール", "text": "Ein bedeutendes Konzerthaus in Yokohama, bekannt für seine hervorragende Akustik.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "横浜能楽堂", "text": "Ein Theater in Yokohama, das auf traditionelles japanisches Noh-Theater spezialisiert ist.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "関帝廟", "text": "Ein prachtvoller chinesischer Tempel im Viertel Chinatown von Yokohama.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "成田山横浜別院", "text": "Ein buddhistischer Tempel in Yokohama, ein Zweigtempel des berühmten Naritasan Shinshoji.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "媽祖廟", "text": "Ein Tempel in Yokohamas Chinatown, der der Meeresgöttin Mazu gewidmet ist.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "横浜港", "text": "Der große Seehafen von Yokohama, einer der wichtigsten Handelsplätze Japans.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "横浜赤レンガ倉庫", "text": "Ein historischer Komplex aus roten Backsteingebäuden, der heute Geschäfte und Cafés beherbergt.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "エリスマン邸", "text": "Ein elegantes westliches Wohnhaus aus dem Jahr 1927 im Yamate-Viertel.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "山下公園", "text": "Ein berühmter Park am Meer in Yokohama mit Blick auf den Hafen.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "臨港パーク", "text": "Ein weitläufiger Park direkt am Wasser im Viertel Minato Mirai.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "港の見える丘公園", "text": "Ein Park auf einem Hügel, der für seinen Panoramablick auf den Hafen bekannt ist.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "野毛山公園", "text": "Ein Stadtpark in Yokohama, der einen kleinen Zoo und Wanderwege umfasst.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "本牧山頂公園", "text": "Ein auf einem Hügel gelegener Park mit weitem Blick über die Stadt Yokohama.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "アメリカ山公園", "text": "Ein kleiner Park auf dem Dach einer Bahnstation im Yamate-Viertel.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "山手イタリア山庭園", "text": "Ein wunderschön angelegter Garten im westlichen Stil auf dem Yamate-Hügel.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "高島水際線公園", "text": "Ein moderner Park am Wasser im Stadtteil Takashima von Yokohama.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "横浜市立野毛山動物園", "text": "Ein kostenloser Zoo in Yokohama, der viele verschiedene Tierarten beherbergt.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "ドックヤードガーデン", "text": "Ein öffentlicher Platz in Yokohama, der in ein ehemaliges Trockendock integriert wurde.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "横浜公園", "text": "Ein öffentlicher Park in Yokohama, der für sein Baseballstadion und saisonale Blumen bekannt ist.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "神奈川公園", "text": "Eine städtische Grünanlage in Yokohama, die Raum für Erholung im Freien bietet.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "シルク博物館", "text": "Dieses Museum in Yokohama widmet sich der Geschichte und Herstellung von Seide.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "岩崎博物館（ゲーテ座記念）", "text": "Ein Museum in Yokohama, das Ausstellungen zu lokaler Kunst und Kultur zeigt.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "関内ホール", "text": "Ein lokaler Veranstaltungsort in Yokohama für Theateraufführungen und Konzerte.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "象の鼻パーク", "text": "Ein am Hafen gelegener Park in Yokohama mit Blick auf das Wasser.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "山手公園", "text": "Ein historischer Park in Yokohama, der als einer der ersten im westlichen Stil in Japan gilt.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "大通り公園", "text": "Ein langgestreckter Stadtpark in Yokohama, der zum Spazierengehen einlädt.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "海外移住資料館", "text": "Das 海外移住資料館 in Yokohama erzählt die bewegende Geschichte der japanischen Auswanderung nach Übersee. Dieses Museum fungiert als wichtiges Archiv für Dokumente und Erinnerungsstücke der Migranten. Interessierte können hier die vielfältigen Wege und Erfahrungen der Auswanderer nachvollziehen.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "神奈川県立埋蔵文化財センター", "text": "Ein Forschungszentrum und Museum für archäologische Funde der Präfektur Kanagawa.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "宮川香山眞葛ミュージアム", "text": "Ein Museum, das der traditionellen Makuzu-Keramik gewidmet ist.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi", "text": "Ein interaktives Museum, das Naturerlebnisse durch moderne Technologie vermittelt.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "Bunshin Tattoo Museum", "text": "Ein Museum in Yokohama, das die Kunst und Geschichte traditioneller Tätowierungen zeigt.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "うんこミュージアム YOKOHAMA", "text": "Ein einzigartiges, buntes Museum in Yokohama mit spielerischen Exponaten.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "Eine Galerie in Yokohama, die moderne Kunstwerke und wechselnde Ausstellungen präsentiert.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "横浜外国人墓地資料館", "text": "Ein Museum am Rande des berühmten Friedhofs, das die Geschichte der hier beigesetzten Ausländer erzählt.", "category": "museum", "coords": [139.652384, 35.439531]}], "hu": [{"name": "三菱みなとみらい技術館", "text": "Ipari múzeum Yokohamában, amely modern technológiákat és repülést mutat be.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "海上保安資料館 横浜館", "text": "A japán parti őrségnek szentelt múzeum Yokohamában.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "そごう美術館", "text": "A SOGO áruházban található művészeti múzeum időszaki kiállításokkal.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "ブリキのおもちゃ博物館", "text": "Bádogjátékokat bemutató múzeum Yokohamában, hatalmas gyűjteménnyel.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "日本郵船歴史博物館", "text": "A japán NYK hajózási társaság történetét bemutató múzeum.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "横浜みなと博物館", "text": "Yokohama kikötőjében található múzeum, amely a tengerészeti történelemnek szentelt.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "横浜ユーラシア文化館", "text": "Európa és Ázsia közötti kulturális kapcsolatokat bemutató múzeum.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "馬の博物館", "text": "Lovak történetének és a lovassportnak szentelt múzeum Yokohamában.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "原鉄道模型博物館", "text": "Lenyűgöző vasútmodell-gyűjteményt bemutató múzeum.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "京急ミュージアム", "text": "A Keikyu vasúttársaság történetének szentelt technikai múzeum.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "横浜美術館", "text": "Japán egyik legnagyobb művészeti múzeuma a Minato Mirai negyedben.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "山手111番館", "text": "Történelmi nyugati stílusú épület Yokohama Yamate negyedében.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "横浜人形の家", "text": "A világ minden tájáról származó babák gazdag gyűjteményét bemutató múzeum.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "安藤百福発明記念館", "text": "Az instant tészta feltalálásának szentelt interaktív múzeum.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "神奈川県立歴史博物館", "text": "Kanagawa prefektúra kultúrtörténetét bemutató múzeum.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "みなとみらいホール", "text": "Jelentős hangversenyterem Yokohamában, amely kiváló akusztikájáról ismert.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "横浜能楽堂", "text": "Hagyományos japán nó-színházra szakosodott teátrum Yokohamában.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "関帝廟", "text": "Pompás kínai templom Yokohama kínai negyedében.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "成田山横浜別院", "text": "Buddhista templom Yokohamában, a híres Naritasan Shinshoji fióktemploma.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "媽祖廟", "text": "Yokohama kínai negyedében található templom, amelyet Mazu tengeristennőnek szenteltek.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "横浜港", "text": "Yokohama hatalmas tengeri kikötője, Japán egyik legfontosabb kereskedelmi központja.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "横浜赤レンガ倉庫", "text": "Vörös téglás épületekből álló történelmi komplexum, amely ma üzleteknek és kávézóknak ad otthont.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "エリスマン邸", "text": "Elegáns nyugati stílusú lakóház 1927-ből a Yamate negyedben.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "山下公園", "text": "Híres tengerparti park Yokohamában, kilátással a kikötőre.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "臨港パーク", "text": "Tágas vízparti park a Minato Mirai negyedben.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "港の見える丘公園", "text": "Domboldali park, amely a kikötőre nyíló panorámás kilátásáról ismert.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "野毛山公園", "text": "Városi park Yokohamában, amely egy kis állatkertet és sétautakat is magában foglal.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "本牧山頂公園", "text": "Domboldali park, ahonnan tágas kilátás nyílik Yokohama városára.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "アメリカ山公園", "text": "Egy vasútállomás tetején kialakított kis park a Yamate negyedben.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "山手イタリア山庭園", "text": "Gyönyörűen kialakított nyugati stílusú kert a Yamate-dombon.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "高島水際線公園", "text": "Modern vízparti park Yokohama Takashima negyedében.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "横浜市立野毛山動物園", "text": "Ingyenes állatkert Yokohamában, amely számos különböző állatfajnak ad otthont.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "ドックヤードガーデン", "text": "Nyilvános tér Yokohamában, amelyet egy egykori szárazdokkba integráltak.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "横浜公園", "text": "Népszerű közpark Jokohamában, amely baseball-stadionjáról és szezonális virágairól ismert.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "神奈川公園", "text": "Városi zöldterület Jokohamában, amely kikapcsolódási lehetőséget nyújt a szabadban.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "シルク博物館", "text": "Ez a jokohamai múzeum a selyem történetének és gyártásának van szentelve.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "岩崎博物館（ゲーテ座記念）", "text": "Múzeum Jokohamában, amely helyi művészeti és kulturális kiállításokat mutat be.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "関内ホール", "text": "Helyi rendezvényhelyszín Jokohamában színházi előadásokhoz és koncertekhez.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "象の鼻パーク", "text": "Kikötő menti park Jokohamában, kilátással a vízpartra.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "山手公園", "text": "Történelmi park Jokohamában, az egyik első nyugati stílusú park Japánban.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "大通り公園", "text": "Hosszúkás városi park Jokohamában, amely ideális sétákhoz.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "海外移住資料館", "text": "A jokohamai 海外移住資料館 a japán tengerentúli kivándorlás megható történetét meséli el. Ez a múzeum a migránsok dokumentumainak és emléktárgyainak fontos archívumaként működik. Az érdeklődők itt nyomon követhetik a kivándorlók változatos útjait és tapasztalatait.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "神奈川県立埋蔵文化財センター", "text": "Kutatóközpont és múzeum Kanagava prefektúra régészeti leletei számára.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "宮川香山眞葛ミュージアム", "text": "A hagyományos Makuzu kerámiáknak szentelt múzeum.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi", "text": "Interaktív múzeum, amely modern technológiával mutatja be a természetet.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "文身歴史資料館", "text": "Jokohamai múzeum, amely a hagyományos tetoválások művészetét és történetét mutatja be.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "うんこミュージアム YOKOHAMA", "text": "Egyedülálló, színes múzeum Jokohamában játékos kiállítási tárgyakkal.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "Jokohamai galéria, amely modern műalkotásokat és időszaki kiállításokat mutat be.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "híres temető melletti múzeum, amely", "text": "A híres temető melletti múzeum, amely az itt eltemetett külföldiek történetét meséli el.", "category": "museum", "coords": [139.652384, 35.439531]}], "ro": [{"name": "三菱みなとみらい技術館", "text": "Un muzeu industrial din Yokohama care prezintă tehnologii moderne și aviație.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "海上保安資料館 横浜館", "text": "Un muzeu din Yokohama dedicat Gărzii de Coastă a Japoniei.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "そごう美術館", "text": "Un muzeu de artă situat în magazinul SOGO, care găzduiește expoziții temporare.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "ブリキのおもちゃ博物館", "text": "Un muzeu din Yokohama care expune o colecție vastă de jucării vechi din tablă.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "日本郵船歴史博物館", "text": "Un muzeu dedicat istoriei navigației liniei maritime japoneze NYK.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "横浜みなと博物館", "text": "Un muzeu situat în portul Yokohama, dedicat istoriei maritime.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "横浜ユーラシア文化館", "text": "Un muzeu care explorează schimburile culturale dintre Europa și Asia.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "馬の博物館", "text": "Un muzeu din Yokohama dedicat istoriei cailor și sportului ecvestru.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "原鉄道模型博物館", "text": "Un muzeu care expune o colecție impresionantă de modele de trenuri istorice.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "京急ミュージアム", "text": "Un muzeu tehnic dedicat istoriei căii ferate Keikyu.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "横浜美術館", "text": "Unul dintre cele mai mari muzee de artă din Japonia, situat în districtul Minato Mirai.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "山手111番館", "text": "O clădire istorică în stil occidental din cartierul Yamate al orașului Yokohama.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "横浜人形の家", "text": "Un muzeu care găzduiește o colecție vastă de păpuși din întreaga lume.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "安藤百福発明記念館", "text": "Un muzeu interactiv dedicat invenției tăițeilor instanți.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "神奈川県立歴史博物館", "text": "Un muzeu dedicat istoriei culturale a prefecturii Kanagawa.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "みなとみらいホール", "text": "O sală de concerte importantă din Yokohama, cunoscută pentru acustica sa excelentă.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "横浜能楽堂", "text": "Un teatru din Yokohama specializat în spectacole tradiționale japoneze Noh.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "関帝廟", "text": "Un templu chinezesc grandios situat în cartierul Chinatown din Yokohama.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "成田山横浜別院", "text": "Un templu budist din Yokohama, o ramură a faimosului Naritasan Shinshoji.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "媽祖廟", "text": "Un templu din Chinatown, Yokohama, dedicat zeiței mării Mazu.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "横浜港", "text": "Marele port maritim din Yokohama, unul dintre cele mai importante centre comerciale din Japonia.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "横浜赤レンガ倉庫", "text": "Un complex istoric de clădiri din cărămidă roșie, care astăzi găzduiește magazine și cafenele.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "エリスマン邸", "text": "O reședință elegantă în stil occidental din 1927, situată în cartierul Yamate.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "山下公園", "text": "Un parc faimos de pe malul mării din Yokohama, cu vedere la port.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "臨港パーク", "text": "Un parc spațios situat pe malul apei în districtul Minato Mirai.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "港の見える丘公園", "text": "Un parc situat pe un deal, cunoscut pentru vederea panoramică asupra portului.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "野毛山公園", "text": "Un parc urban din Yokohama care include o mică grădină zoologică și alei de plimbare.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "本牧山頂公園", "text": "Un parc situat pe un deal, oferind o vedere largă asupra orașului Yokohama.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "アメリカ山公園", "text": "Un mic parc situat pe acoperișul unei stații de tren din cartierul Yamate.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "山手イタリア山庭園", "text": "O grădină amenajată frumos în stil occidental pe dealul Yamate.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "高島水際線公園", "text": "Un parc modern situat pe malul apei în districtul Takashima din Yokohama.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "横浜市立野毛山動物園", "text": "O grădină zoologică gratuită din Yokohama, care găzduiește diverse specii de animale.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "ドックヤードガーデン", "text": "O piață publică din Yokohama integrată într-un fost doc uscat.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "横浜公園", "text": "Un parc public din Yokohama, cunoscut pentru stadionul de baseball și florile sezoniere.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "神奈川公園", "text": "Un spațiu verde urban din Yokohama, care oferă loc pentru recreere în aer liber.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "Acest muzeu din Yokohama", "text": "Acest muzeu din Yokohama este dedicat istoriei și producției de mătase.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "岩崎博物館（ゲーテ座記念）", "text": "Un muzeu din Yokohama care prezintă expoziții de artă și cultură locală.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "関内ホール", "text": "O locație locală din Yokohama pentru spectacole de teatru și concerte.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "象の鼻パーク", "text": "Un parc situat în portul din Yokohama, cu vedere la malul apei.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "山手公園", "text": "Un parc istoric din Yokohama, considerat unul dintre primele parcuri în stil occidental din Japonia.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "大通り公園", "text": "Un parc urban lung din Yokohama, ideal pentru plimbări.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "海外移住資料館", "text": "海外移住資料館 din Yokohama spune povestea emoționantă a emigrației japoneze peste mări. Acest muzeu servește ca o arhivă importantă de documente și amintiri ale migranților. Cei interesați pot urmări aici căile și experiențele diverse ale emigranților.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "神奈川県立埋蔵文化財センター", "text": "Un centru de cercetare și muzeu pentru descoperirile arheologice din prefectura Kanagawa.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "宮川香山眞葛ミュージアム", "text": "Un muzeu dedicat ceramicii tradiționale Makuzu.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi", "text": "Un muzeu interactiv care prezintă experiențe din natură prin tehnologie modernă.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "文身歴史資料館", "text": "Un muzeu din Yokohama care prezintă arta și istoria tatuajelor tradiționale.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "うんこミュージアム YOKOHAMA", "text": "Un muzeu unic și colorat din Yokohama, cu exponate ludice.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "O galerie din Yokohama care prezintă opere de artă modernă și expoziții temporare.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "横浜外国人墓地資料館", "text": "Un muzeu situat lângă celebrul cimitir, care spune povestea străinilor înmormântați aici.", "category": "museum", "coords": [139.652384, 35.439531]}], "en": [{"name": "Mitsubishi Minatomirai Industrial Museum", "text": "An industrial museum in Yokohama showcasing modern technology and aviation.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "Japan Coast Guard Museum YOKOHAMA", "text": "A museum in Yokohama dedicated to the Japan Coast Guard.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "SOGO Museum of Art", "text": "An art museum located in the SOGO department store featuring temporary exhibitions.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "Museum of Tin Toys", "text": "A museum in Yokohama displaying a large collection of vintage tin toys.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "NYK Maritime Museum", "text": "A museum documenting the maritime history of the Japanese shipping line NYK.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "Yokohama Port Museum", "text": "A museum located at the Port of Yokohama dedicated to maritime history.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "Yokohama Museum of EurAsian Cultures", "text": "A museum exploring the cultural exchange between Europe and Asia.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "Horse Museum", "text": "A museum in Yokohama dedicated to the history of horses and equestrianism.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "Hara Model Railway Museum", "text": "A museum showcasing an impressive collection of historical model railways.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "Keikyu Museum", "text": "A technical museum dedicated to the history of the Keikyu Railway.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "Yokohama Museum of Art", "text": "One of Japan's largest art museums, located in the Minato Mirai district.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "Bluff No.111", "text": "A historic Western-style building in the Yamate district of Yokohama.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "YOKOHAMA DOLL MUSEUM", "text": "A museum featuring an extensive collection of dolls from around the world.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "CUPNOODLES MUSEUM", "text": "An interactive museum dedicated to the invention of instant noodles.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "Kanagawa Prefectural Museum of Cultural History", "text": "A museum dedicated to the cultural history of Kanagawa Prefecture.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "Yokohama Minato Mirai Hall", "text": "A prominent concert hall in Yokohama, known for its excellent acoustics.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "Yokohama Noh Theater", "text": "A theater in Yokohama specializing in traditional Japanese Noh performances.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "Kantei-byo Kuan Ti Miao", "text": "A grand Chinese temple located in Yokohama's Chinatown district.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "Naritasan Yokohama Betsuin Enmei- in", "text": "A Buddhist temple in Yokohama, a branch of the famous Naritasan Shinshoji.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "Ma Zhu Temple", "text": "A temple in Yokohama's Chinatown dedicated to the sea goddess Mazu.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "Yokohama Harbor", "text": "The large seaport of Yokohama, one of Japan's most important trading hubs.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "Yokohama Red Brick Warehouse", "text": "A historic complex of red brick buildings that now houses shops and cafes.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "Ehrismann Residence", "text": "An elegant Western-style residence from 1927 located in the Yamate district.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "Yamashita Park", "text": "A famous seaside park in Yokohama offering views of the harbor.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "Rinko Park", "text": "A spacious waterfront park located in the Minato Mirai district.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "Harbor View Park", "text": "A hilltop park known for its panoramic views of the harbor.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "Nogeyama Park", "text": "A city park in Yokohama that includes a small zoo and walking trails.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "Honmokusanchō park", "text": "A hilltop park offering expansive views over the city of Yokohama.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "America-yama Park", "text": "A small park built on top of a railway station in the Yamate district.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "Yamate Italiayama Garden", "text": "A beautifully landscaped Western-style garden on the Yamate hill.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "Takashima Suisaisen Park", "text": "A modern waterfront park in the Takashima district of Yokohama.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "Nogeyama zoo", "text": "A free zoo in Yokohama that is home to many different animal species.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "Dockyard Garden", "text": "A public square in Yokohama integrated into a former dry dock.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "Yokohama Park", "text": "A public park in Yokohama known for its baseball stadium and seasonal flowers.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "Kanagawa Park", "text": "An urban green space in Yokohama providing room for outdoor recreation.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "Silk Museum", "text": "This museum in Yokohama is dedicated to the history and production of silk.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "Iwasaki Museum", "text": "A museum in Yokohama featuring exhibitions on local art and culture.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "Kannak hall", "text": "A local venue in Yokohama for theatrical performances and concerts.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "Zou-no-hana Park", "text": "A waterfront park in Yokohama offering views of the harbor.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "Yamate Park", "text": "A historic park in Yokohama, considered one of the first Western-style parks in Japan.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "Odori Park", "text": "An elongated urban park in Yokohama ideal for strolling.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "Japanese Overseas Migration Museum", "text": "The 海外移住資料館 in Yokohama tells the moving history of Japanese overseas emigration. This museum serves as an important archive for documents and memorabilia of migrants. Those interested can trace the diverse paths and experiences of the emigrants here.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "Kanagawa Prefectural Buried Cultural Properties Center", "text": "A research center and museum for archaeological findings of Kanagawa Prefecture.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "Makuzu ware Museum", "text": "A museum dedicated to traditional Makuzu pottery.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi Yokohama", "text": "An interactive museum providing nature experiences through modern technology.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "Bunshin Tattoo Museum", "text": "A museum in Yokohama showcasing the art and history of traditional tattoos.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "Unko Museum Yokohama", "text": "A unique, colorful museum in Yokohama featuring playful exhibits.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "A gallery in Yokohama presenting modern artworks and rotating exhibitions.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "Yokohama Foreign Cemetery Museum", "text": "A museum next to the famous cemetery telling the story of foreigners buried here.", "category": "museum", "coords": [139.652384, 35.439531]}]},
+    id: "jp-yokohama", "sights": {"de": [{"name": "Mitsubishi Minatomirai Industrial Museum", "text": "Ein Industriemuseum in Yokohama, das moderne Technologien und Luftfahrt präsentiert.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "Japan Coast Guard Museum Yokohama", "text": "Ein Museum in Yokohama, das der japanischen Küstenwache gewidmet ist.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "Sogo Museum of Art", "text": "Ein Kunstmuseum im SOGO-Kaufhaus, das wechselnde Ausstellungen zeigt.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "Tin Toy Museum", "text": "Ein Museum in Yokohama, das eine große Sammlung von historischem Blechspielzeug zeigt.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "NYK Maritime Museum", "text": "Ein Museum zur Geschichte der Schifffahrt der japanischen Reederei NYK.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "Yokohama Port Museum", "text": "Ein Museum am Hafen von Yokohama, das sich der maritimen Geschichte widmet.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "Yokohama Archives of History", "text": "Ein Museum, das sich mit dem kulturellen Austausch zwischen Europa und Asien befasst.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "Equine Museum of Japan", "text": "Ein Museum in Yokohama, das der Geschichte der Pferde und des Reitsports gewidmet ist.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "Hara Model Railway Museum", "text": "Ein Museum, das eine beeindruckende Sammlung historischer Modelleisenbahnen zeigt.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "Keikyu Museum", "text": "Ein Technikmuseum, das der Geschichte der Keikyu-Eisenbahn gewidmet ist.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "Yokohama Museum of Art", "text": "Eines der größten Kunstmuseen Japans, gelegen im Stadtteil Minato Mirai.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "Yamate 111 Hall", "text": "Ein historisches westliches Gebäude im Yamate-Viertel von Yokohama.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "Yokohama Doll Museum", "text": "Ein Museum mit einer umfangreichen Sammlung von Puppen aus aller Welt.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "Cupnoodles Museum", "text": "Ein interaktives Museum, das der Erfindung der Instant-Nudeln gewidmet ist.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "Kanagawa Prefectural Museum of Cultural History", "text": "Ein Museum, das sich der Kulturgeschichte der Präfektur Kanagawa widmet.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "Minato Mirai Hall", "text": "Ein bedeutendes Konzerthaus in Yokohama, bekannt für seine hervorragende Akustik.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "Yokohama Noh Theater", "text": "Ein Theater in Yokohama, das auf traditionelles japanisches Noh-Theater spezialisiert ist.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "Kanteibyo Temple", "text": "Ein prachtvoller chinesischer Tempel im Viertel Chinatown von Yokohama.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "Naritasan Yokohama Betsuin", "text": "Ein buddhistischer Tempel in Yokohama, ein Zweigtempel des berühmten Naritasan Shinshoji.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "Yokohama Masobyo Temple", "text": "Ein Tempel in Yokohamas Chinatown, der der Meeresgöttin Mazu gewidmet ist.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "Port of Yokohama", "text": "Der große Seehafen von Yokohama, einer der wichtigsten Handelsplätze Japans.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "Yokohama Red Brick Warehouse", "text": "Ein historischer Komplex aus roten Backsteingebäuden, der heute Geschäfte und Cafés beherbergt.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "Ehrismann Residence", "text": "Ein elegantes westliches Wohnhaus aus dem Jahr 1927 im Yamate-Viertel.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "Yamashita Park", "text": "Ein berühmter Park am Meer in Yokohama mit Blick auf den Hafen.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "Rinko Park", "text": "Ein weitläufiger Park direkt am Wasser im Viertel Minato Mirai.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "Harbor View Park", "text": "Ein Park auf einem Hügel, der für seinen Panoramablick auf den Hafen bekannt ist.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "Nogeyama Park", "text": "Ein Stadtpark in Yokohama, der einen kleinen Zoo und Wanderwege umfasst.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "Honmoku Sanchō Park", "text": "Ein auf einem Hügel gelegener Park mit weitem Blick über die Stadt Yokohama.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "America-yama Park", "text": "Ein kleiner Park auf dem Dach einer Bahnstation im Yamate-Viertel.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "Yamate Italian Garden", "text": "Ein wunderschön angelegter Garten im westlichen Stil auf dem Yamate-Hügel.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "Takashima Mizusakisen Park", "text": "Ein moderner Park am Wasser im Stadtteil Takashima von Yokohama.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "Nogeyama Zoo", "text": "Ein kostenloser Zoo in Yokohama, der viele verschiedene Tierarten beherbergt.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "Dockyard Garden", "text": "Ein öffentlicher Platz in Yokohama, der in ein ehemaliges Trockendock integriert wurde.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "Yokohama Park", "text": "Ein öffentlicher Park in Yokohama, der für sein Baseballstadion und saisonale Blumen bekannt ist.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "Kanagawa Park", "text": "Eine städtische Grünanlage in Yokohama, die Raum für Erholung im Freien bietet.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "Silk Museum", "text": "Dieses Museum in Yokohama widmet sich der Geschichte und Herstellung von Seide.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "Iwasaki Museum", "text": "Ein Museum in Yokohama, das Ausstellungen zu lokaler Kunst und Kultur zeigt.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "Kannai Hall", "text": "Ein lokaler Veranstaltungsort in Yokohama für Theateraufführungen und Konzerte.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "Zou-no-hana Park", "text": "Ein am Hafen gelegener Park in Yokohama mit Blick auf das Wasser.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "Yamate Park", "text": "Ein historischer Park in Yokohama, der als einer der ersten im westlichen Stil in Japan gilt.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "Odori Park", "text": "Ein langgestreckter Stadtpark in Yokohama, der zum Spazierengehen einlädt.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "Japan Overseas Migration Museum", "text": "Das 海外移住資料館 in Yokohama erzählt die bewegende Geschichte der japanischen Auswanderung nach Übersee. Dieses Museum fungiert als wichtiges Archiv für Dokumente und Erinnerungsstücke der Migranten. Interessierte können hier die vielfältigen Wege und Erfahrungen der Auswanderer nachvollziehen.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "Kanagawa Prefectural Archaeological Center", "text": "Ein Forschungszentrum und Museum für archäologische Funde der Präfektur Kanagawa.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "Makuzu Museum", "text": "Ein Museum, das der traditionellen Makuzu-Keramik gewidmet ist.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi", "text": "Ein interaktives Museum, das Naturerlebnisse durch moderne Technologie vermittelt.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "Bunshin Tattoo Museum", "text": "Ein Museum in Yokohama, das die Kunst und Geschichte traditioneller Tätowierungen zeigt.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "Unko Museum Yokohama", "text": "Ein einzigartiges, buntes Museum in Yokohama mit spielerischen Exponaten.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "Eine Galerie in Yokohama, die moderne Kunstwerke und wechselnde Ausstellungen präsentiert.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "Yokohama Foreign Cemetery Museum", "text": "Ein Museum am Rande des berühmten Friedhofs, das die Geschichte der hier beigesetzten Ausländer erzählt.", "category": "museum", "coords": [139.652384, 35.439531]}], "hu": [{"name": "Mitsubishi Minatomirai Industrial Museum", "text": "Ipari múzeum Yokohamában, amely modern technológiákat és repülést mutat be.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "Japan Coast Guard Museum Yokohama", "text": "A japán parti őrségnek szentelt múzeum Yokohamában.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "Sogo Museum of Art", "text": "A SOGO áruházban található művészeti múzeum időszaki kiállításokkal.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "Tin Toy Museum", "text": "Bádogjátékokat bemutató múzeum Yokohamában, hatalmas gyűjteménnyel.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "NYK Maritime Museum", "text": "A japán NYK hajózási társaság történetét bemutató múzeum.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "Yokohama Port Museum", "text": "Yokohama kikötőjében található múzeum, amely a tengerészeti történelemnek szentelt.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "Yokohama Archives of History", "text": "Európa és Ázsia közötti kulturális kapcsolatokat bemutató múzeum.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "Equine Museum of Japan", "text": "Lovak történetének és a lovassportnak szentelt múzeum Yokohamában.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "Hara Model Railway Museum", "text": "Lenyűgöző vasútmodell-gyűjteményt bemutató múzeum.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "Keikyu Museum", "text": "A Keikyu vasúttársaság történetének szentelt technikai múzeum.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "Yokohama Museum of Art", "text": "Japán egyik legnagyobb művészeti múzeuma a Minato Mirai negyedben.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "Yamate 111 Hall", "text": "Történelmi nyugati stílusú épület Yokohama Yamate negyedében.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "Yokohama Doll Museum", "text": "A világ minden tájáról származó babák gazdag gyűjteményét bemutató múzeum.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "Cupnoodles Museum", "text": "Az instant tészta feltalálásának szentelt interaktív múzeum.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "Kanagawa Prefectural Museum of Cultural History", "text": "Kanagawa prefektúra kultúrtörténetét bemutató múzeum.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "Minato Mirai Hall", "text": "Jelentős hangversenyterem Yokohamában, amely kiváló akusztikájáról ismert.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "Yokohama Noh Theater", "text": "Hagyományos japán nó-színházra szakosodott teátrum Yokohamában.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "Kanteibyo Temple", "text": "Pompás kínai templom Yokohama kínai negyedében.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "Naritasan Yokohama Betsuin", "text": "Buddhista templom Yokohamában, a híres Naritasan Shinshoji fióktemploma.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "Yokohama Masobyo Temple", "text": "Yokohama kínai negyedében található templom, amelyet Mazu tengeristennőnek szenteltek.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "Port of Yokohama", "text": "Yokohama hatalmas tengeri kikötője, Japán egyik legfontosabb kereskedelmi központja.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "Yokohama Red Brick Warehouse", "text": "Vörös téglás épületekből álló történelmi komplexum, amely ma üzleteknek és kávézóknak ad otthont.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "Ehrismann Residence", "text": "Elegáns nyugati stílusú lakóház 1927-ből a Yamate negyedben.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "Yamashita Park", "text": "Híres tengerparti park Yokohamában, kilátással a kikötőre.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "Rinko Park", "text": "Tágas vízparti park a Minato Mirai negyedben.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "Harbor View Park", "text": "Domboldali park, amely a kikötőre nyíló panorámás kilátásáról ismert.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "Nogeyama Park", "text": "Városi park Yokohamában, amely egy kis állatkertet és sétautakat is magában foglal.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "Honmoku Sanchō Park", "text": "Domboldali park, ahonnan tágas kilátás nyílik Yokohama városára.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "America-yama Park", "text": "Egy vasútállomás tetején kialakított kis park a Yamate negyedben.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "Yamate Italian Garden", "text": "Gyönyörűen kialakított nyugati stílusú kert a Yamate-dombon.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "Takashima Mizusakisen Park", "text": "Modern vízparti park Yokohama Takashima negyedében.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "Nogeyama Zoo", "text": "Ingyenes állatkert Yokohamában, amely számos különböző állatfajnak ad otthont.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "Dockyard Garden", "text": "Nyilvános tér Yokohamában, amelyet egy egykori szárazdokkba integráltak.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "Yokohama Park", "text": "Népszerű közpark Jokohamában, amely baseball-stadionjáról és szezonális virágairól ismert.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "Kanagawa Park", "text": "Városi zöldterület Jokohamában, amely kikapcsolódási lehetőséget nyújt a szabadban.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "Silk Museum", "text": "Ez a jokohamai múzeum a selyem történetének és gyártásának van szentelve.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "Iwasaki Museum", "text": "Múzeum Jokohamában, amely helyi művészeti és kulturális kiállításokat mutat be.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "Kannai Hall", "text": "Helyi rendezvényhelyszín Jokohamában színházi előadásokhoz és koncertekhez.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "Zou-no-hana Park", "text": "Kikötő menti park Jokohamában, kilátással a vízpartra.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "Yamate Park", "text": "Történelmi park Jokohamában, az egyik első nyugati stílusú park Japánban.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "Odori Park", "text": "Hosszúkás városi park Jokohamában, amely ideális sétákhoz.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "Japan Overseas Migration Museum", "text": "A jokohamai 海外移住資料館 a japán tengerentúli kivándorlás megható történetét meséli el. Ez a múzeum a migránsok dokumentumainak és emléktárgyainak fontos archívumaként működik. Az érdeklődők itt nyomon követhetik a kivándorlók változatos útjait és tapasztalatait.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "Kanagawa Prefectural Archaeological Center", "text": "Kutatóközpont és múzeum Kanagava prefektúra régészeti leletei számára.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "Makuzu Museum", "text": "A hagyományos Makuzu kerámiáknak szentelt múzeum.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi", "text": "Interaktív múzeum, amely modern technológiával mutatja be a természetet.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "Tattoo History Museum", "text": "Jokohamai múzeum, amely a hagyományos tetoválások művészetét és történetét mutatja be.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "Unko Museum Yokohama", "text": "Egyedülálló, színes múzeum Jokohamában játékos kiállítási tárgyakkal.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "Jokohamai galéria, amely modern műalkotásokat és időszaki kiállításokat mutat be.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "híres temető melletti múzeum, amely", "text": "A híres temető melletti múzeum, amely az itt eltemetett külföldiek történetét meséli el.", "category": "museum", "coords": [139.652384, 35.439531]}], "ro": [{"name": "Mitsubishi Minatomirai Industrial Museum", "text": "Un muzeu industrial din Yokohama care prezintă tehnologii moderne și aviație.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "Japan Coast Guard Museum Yokohama", "text": "Un muzeu din Yokohama dedicat Gărzii de Coastă a Japoniei.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "Sogo Museum of Art", "text": "Un muzeu de artă situat în magazinul SOGO, care găzduiește expoziții temporare.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "Tin Toy Museum", "text": "Un muzeu din Yokohama care expune o colecție vastă de jucării vechi din tablă.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "NYK Maritime Museum", "text": "Un muzeu dedicat istoriei navigației liniei maritime japoneze NYK.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "Yokohama Port Museum", "text": "Un muzeu situat în portul Yokohama, dedicat istoriei maritime.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "Yokohama Archives of History", "text": "Un muzeu care explorează schimburile culturale dintre Europa și Asia.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "Equine Museum of Japan", "text": "Un muzeu din Yokohama dedicat istoriei cailor și sportului ecvestru.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "Hara Model Railway Museum", "text": "Un muzeu care expune o colecție impresionantă de modele de trenuri istorice.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "Keikyu Museum", "text": "Un muzeu tehnic dedicat istoriei căii ferate Keikyu.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "Yokohama Museum of Art", "text": "Unul dintre cele mai mari muzee de artă din Japonia, situat în districtul Minato Mirai.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "Yamate 111 Hall", "text": "O clădire istorică în stil occidental din cartierul Yamate al orașului Yokohama.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "Yokohama Doll Museum", "text": "Un muzeu care găzduiește o colecție vastă de păpuși din întreaga lume.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "Cupnoodles Museum", "text": "Un muzeu interactiv dedicat invenției tăițeilor instanți.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "Kanagawa Prefectural Museum of Cultural History", "text": "Un muzeu dedicat istoriei culturale a prefecturii Kanagawa.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "Minato Mirai Hall", "text": "O sală de concerte importantă din Yokohama, cunoscută pentru acustica sa excelentă.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "Yokohama Noh Theater", "text": "Un teatru din Yokohama specializat în spectacole tradiționale japoneze Noh.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "Kanteibyo Temple", "text": "Un templu chinezesc grandios situat în cartierul Chinatown din Yokohama.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "Naritasan Yokohama Betsuin", "text": "Un templu budist din Yokohama, o ramură a faimosului Naritasan Shinshoji.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "Yokohama Masobyo Temple", "text": "Un templu din Chinatown, Yokohama, dedicat zeiței mării Mazu.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "Port of Yokohama", "text": "Marele port maritim din Yokohama, unul dintre cele mai importante centre comerciale din Japonia.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "Yokohama Red Brick Warehouse", "text": "Un complex istoric de clădiri din cărămidă roșie, care astăzi găzduiește magazine și cafenele.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "Ehrismann Residence", "text": "O reședință elegantă în stil occidental din 1927, situată în cartierul Yamate.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "Yamashita Park", "text": "Un parc faimos de pe malul mării din Yokohama, cu vedere la port.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "Rinko Park", "text": "Un parc spațios situat pe malul apei în districtul Minato Mirai.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "Harbor View Park", "text": "Un parc situat pe un deal, cunoscut pentru vederea panoramică asupra portului.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "Nogeyama Park", "text": "Un parc urban din Yokohama care include o mică grădină zoologică și alei de plimbare.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "Honmoku Sanchō Park", "text": "Un parc situat pe un deal, oferind o vedere largă asupra orașului Yokohama.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "America-yama Park", "text": "Un mic parc situat pe acoperișul unei stații de tren din cartierul Yamate.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "Yamate Italian Garden", "text": "O grădină amenajată frumos în stil occidental pe dealul Yamate.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "Takashima Mizusakisen Park", "text": "Un parc modern situat pe malul apei în districtul Takashima din Yokohama.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "Nogeyama Zoo", "text": "O grădină zoologică gratuită din Yokohama, care găzduiește diverse specii de animale.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "Dockyard Garden", "text": "O piață publică din Yokohama integrată într-un fost doc uscat.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "Yokohama Park", "text": "Un parc public din Yokohama, cunoscut pentru stadionul de baseball și florile sezoniere.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "Kanagawa Park", "text": "Un spațiu verde urban din Yokohama, care oferă loc pentru recreere în aer liber.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "Acest muzeu din Yokohama", "text": "Acest muzeu din Yokohama este dedicat istoriei și producției de mătase.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "Iwasaki Museum", "text": "Un muzeu din Yokohama care prezintă expoziții de artă și cultură locală.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "Kannai Hall", "text": "O locație locală din Yokohama pentru spectacole de teatru și concerte.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "Zou-no-hana Park", "text": "Un parc situat în portul din Yokohama, cu vedere la malul apei.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "Yamate Park", "text": "Un parc istoric din Yokohama, considerat unul dintre primele parcuri în stil occidental din Japonia.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "Odori Park", "text": "Un parc urban lung din Yokohama, ideal pentru plimbări.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "Japan Overseas Migration Museum", "text": "海外移住資料館 din Yokohama spune povestea emoționantă a emigrației japoneze peste mări. Acest muzeu servește ca o arhivă importantă de documente și amintiri ale migranților. Cei interesați pot urmări aici căile și experiențele diverse ale emigranților.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "Kanagawa Prefectural Archaeological Center", "text": "Un centru de cercetare și muzeu pentru descoperirile arheologice din prefectura Kanagawa.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "Makuzu Museum", "text": "Un muzeu dedicat ceramicii tradiționale Makuzu.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi", "text": "Un muzeu interactiv care prezintă experiențe din natură prin tehnologie modernă.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "Tattoo History Museum", "text": "Un muzeu din Yokohama care prezintă arta și istoria tatuajelor tradiționale.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "Unko Museum Yokohama", "text": "Un muzeu unic și colorat din Yokohama, cu exponate ludice.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "O galerie din Yokohama care prezintă opere de artă modernă și expoziții temporare.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "Yokohama Foreign Cemetery Museum", "text": "Un muzeu situat lângă celebrul cimitir, care spune povestea străinilor înmormântați aici.", "category": "museum", "coords": [139.652384, 35.439531]}], "en": [{"name": "Mitsubishi Minatomirai Industrial Museum", "text": "An industrial museum in Yokohama showcasing modern technology and aviation.", "category": "museum", "coords": [139.630083, 35.455731]}, {"name": "Japan Coast Guard Museum YOKOHAMA", "text": "A museum in Yokohama dedicated to the Japan Coast Guard.", "category": "museum", "coords": [139.644252, 35.454282]}, {"name": "SOGO Museum of Art", "text": "An art museum located in the SOGO department store featuring temporary exhibitions.", "category": "museum", "coords": [139.625204, 35.465652]}, {"name": "Museum of Tin Toys", "text": "A museum in Yokohama displaying a large collection of vintage tin toys.", "category": "museum", "coords": [139.653063, 35.437639]}, {"name": "NYK Maritime Museum", "text": "A museum documenting the maritime history of the Japanese shipping line NYK.", "category": "museum", "coords": [139.639421, 35.450362]}, {"name": "Yokohama Port Museum", "text": "A museum located at the Port of Yokohama dedicated to maritime history.", "category": "museum", "coords": [139.632629, 35.452709]}, {"name": "Yokohama Museum of EurAsian Cultures", "text": "A museum exploring the cultural exchange between Europe and Asia.", "category": "museum", "coords": [139.64328, 35.44623]}, {"name": "Horse Museum", "text": "A museum in Yokohama dedicated to the history of horses and equestrianism.", "category": "museum", "coords": [139.639749, 35.422548]}, {"name": "Hara Model Railway Museum", "text": "A museum showcasing an impressive collection of historical model railways.", "category": "museum", "coords": [139.625086, 35.463149]}, {"name": "Keikyu Museum", "text": "A technical museum dedicated to the history of the Keikyu Railway.", "category": "museum", "coords": [139.626282, 35.462351]}, {"name": "Yokohama Museum of Art", "text": "One of Japan's largest art museums, located in the Minato Mirai district.", "category": "museum", "coords": [139.630599, 35.457086]}, {"name": "Bluff No.111", "text": "A historic Western-style building in the Yamate district of Yokohama.", "category": "museum", "coords": [139.654755, 35.438769]}, {"name": "YOKOHAMA DOLL MUSEUM", "text": "A museum featuring an extensive collection of dolls from around the world.", "category": "museum", "coords": [139.652123, 35.443191]}, {"name": "CUPNOODLES MUSEUM", "text": "An interactive museum dedicated to the invention of instant noodles.", "category": "museum", "coords": [139.638881, 35.455486]}, {"name": "Kanagawa Prefectural Museum of Cultural History", "text": "A museum dedicated to the cultural history of Kanagawa Prefecture.", "category": "museum", "coords": [139.636229, 35.449129]}, {"name": "Yokohama Minato Mirai Hall", "text": "A prominent concert hall in Yokohama, known for its excellent acoustics.", "category": "cultural", "coords": [139.634846, 35.457502]}, {"name": "Yokohama Noh Theater", "text": "A theater in Yokohama specializing in traditional Japanese Noh performances.", "category": "cultural", "coords": [139.625253, 35.452537]}, {"name": "Kantei-byo Kuan Ti Miao", "text": "A grand Chinese temple located in Yokohama's Chinatown district.", "category": "religious", "coords": [139.645222, 35.442453]}, {"name": "Naritasan Yokohama Betsuin Enmei- in", "text": "A Buddhist temple in Yokohama, a branch of the famous Naritasan Shinshoji.", "category": "religious", "coords": [139.627462, 35.449142]}, {"name": "Ma Zhu Temple", "text": "A temple in Yokohama's Chinatown dedicated to the sea goddess Mazu.", "category": "religious", "coords": [139.647713, 35.442119]}, {"name": "Yokohama Harbor", "text": "The large seaport of Yokohama, one of Japan's most important trading hubs.", "category": "landmark", "coords": [139.64635, 35.46143]}, {"name": "Yokohama Red Brick Warehouse", "text": "A historic complex of red brick buildings that now houses shops and cafes.", "category": "landmark", "coords": [139.642918, 35.452405]}, {"name": "Ehrismann Residence", "text": "An elegant Western-style residence from 1927 located in the Yamate district.", "category": "landmark", "coords": [139.651292, 35.437581]}, {"name": "Yamashita Park", "text": "A famous seaside park in Yokohama offering views of the harbor.", "category": "park", "coords": [139.649866, 35.445703]}, {"name": "Rinko Park", "text": "A spacious waterfront park located in the Minato Mirai district.", "category": "park", "coords": [139.637002, 35.460893]}, {"name": "Harbor View Park", "text": "A hilltop park known for its panoramic views of the harbor.", "category": "park", "coords": [139.654387, 35.440134]}, {"name": "Nogeyama Park", "text": "A city park in Yokohama that includes a small zoo and walking trails.", "category": "park", "coords": [139.623237, 35.446275]}, {"name": "Honmokusanchō park", "text": "A hilltop park offering expansive views over the city of Yokohama.", "category": "park", "coords": [139.660325, 35.425477]}, {"name": "America-yama Park", "text": "A small park built on top of a railway station in the Yamate district.", "category": "park", "coords": [139.651656, 35.441304]}, {"name": "Yamate Italiayama Garden", "text": "A beautifully landscaped Western-style garden on the Yamate hill.", "category": "park", "coords": [139.643592, 35.436846]}, {"name": "Takashima Suisaisen Park", "text": "A modern waterfront park in the Takashima district of Yokohama.", "category": "park", "coords": [139.629896, 35.465221]}, {"name": "Nogeyama zoo", "text": "A free zoo in Yokohama that is home to many different animal species.", "category": "family", "coords": [139.62259, 35.44744]}, {"name": "Dockyard Garden", "text": "A public square in Yokohama integrated into a former dry dock.", "category": "historical", "coords": [139.632265, 35.455034]}, {"name": "Yokohama Park", "text": "A public park in Yokohama known for its baseball stadium and seasonal flowers.", "category": "park", "coords": [139.640221, 35.443751]}, {"name": "Kanagawa Park", "text": "An urban green space in Yokohama providing room for outdoor recreation.", "category": "park", "coords": [139.631452, 35.470464]}, {"name": "Silk Museum", "text": "This museum in Yokohama is dedicated to the history and production of silk.", "category": "museum", "coords": [139.64523, 35.447237]}, {"name": "Iwasaki Museum", "text": "A museum in Yokohama featuring exhibitions on local art and culture.", "category": "museum", "coords": [139.653468, 35.439514]}, {"name": "Kannak hall", "text": "A local venue in Yokohama for theatrical performances and concerts.", "category": "cultural", "coords": [139.636258, 35.447221]}, {"name": "Zou-no-hana Park", "text": "A waterfront park in Yokohama offering views of the harbor.", "category": "park", "coords": [139.644121, 35.449458]}, {"name": "Yamate Park", "text": "A historic park in Yokohama, considered one of the first Western-style parks in Japan.", "category": "park", "coords": [139.648445, 35.434855]}, {"name": "Odori Park", "text": "An elongated urban park in Yokohama ideal for strolling.", "category": "park", "coords": [139.630756, 35.440464]}, {"name": "Japanese Overseas Migration Museum", "text": "The 海外移住資料館 in Yokohama tells the moving history of Japanese overseas emigration. This museum serves as an important archive for documents and memorabilia of migrants. Those interested can trace the diverse paths and experiences of the emigrants here.", "category": "museum", "coords": [139.640573, 35.454579]}, {"name": "Kanagawa Prefectural Buried Cultural Properties Center", "text": "A research center and museum for archaeological findings of Kanagawa Prefecture.", "category": "museum", "coords": [139.627603, 35.433171]}, {"name": "Makuzu ware Museum", "text": "A museum dedicated to traditional Makuzu pottery.", "category": "museum", "coords": [139.629785, 35.468081]}, {"name": "Orbi Yokohama", "text": "An interactive museum providing nature experiences through modern technology.", "category": "museum", "coords": [139.632092, 35.457299]}, {"name": "Bunshin Tattoo Museum", "text": "A museum in Yokohama showcasing the art and history of traditional tattoos.", "category": "museum", "coords": [139.619154, 35.45926]}, {"name": "Unko Museum Yokohama", "text": "A unique, colorful museum in Yokohama featuring playful exhibits.", "category": "museum", "coords": [139.62209, 35.463834]}, {"name": "YUMESAKI GALLERY", "text": "A gallery in Yokohama presenting modern artworks and rotating exhibitions.", "category": "museum", "coords": [139.626136, 35.460821]}, {"name": "Yokohama Foreign Cemetery Museum", "text": "A museum next to the famous cemetery telling the story of foreigners buried here.", "category": "museum", "coords": [139.652384, 35.439531]}]},
     type: "city",
     parent: "JP",
     coords: [139.6380, 35.4437],
@@ -4247,7 +4247,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋市市政資料館",
+                  "name": "Nagoya City Archives",
                   "text": "Das Nagoya City Municipal Archives Museum zeigt lokale historische Dokumente und die Stadtgeschichte.",
                   "category": "museum",
                   "coords": [
@@ -4256,7 +4256,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "徳川美術館",
+                  "name": "Tokugawa Art Museum",
                   "text": "Das Tokugawa-Kunstmuseum in Nagoya bewahrt und zeigt Schätze der Owari-Tokugawa-Familie.",
                   "category": "museum",
                   "coords": [
@@ -4274,7 +4274,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ヤマザキマザック美術館",
+                  "name": "Yamazaki Mazak Museum of Art",
                   "text": "Das Yamazaki Mazak Museum in Nagoya stellt eine Sammlung klassischer französischer Kunst aus.",
                   "category": "museum",
                   "coords": [
@@ -4319,7 +4319,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東区役所",
+                  "name": "Higashi Ward Office",
                   "text": "Im Bezirk Higashi befinden sich die Verwaltungsbüros und Rathauseinrichtungen dieses Stadtteils von Nagoya.",
                   "category": "historical",
                   "coords": [
@@ -4382,7 +4382,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋テレビ塔",
+                  "name": "Nagoya TV Tower",
                   "text": "Dieser ikonische Turm in Nagoya ist Japans ältester Fernsehturm und ein markantes Wahrzeichen der Stadt.",
                   "category": "tower",
                   "coords": [
@@ -4508,7 +4508,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ぎゃらり壷中天・mu-jo",
+                  "name": "Gallery Kochuten Mu-jo",
                   "text": "ぎゃらり壷中天・mu-jo ist ein Museum in der Stadt Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -4517,7 +4517,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー4CATS",
+                  "name": "Gallery 4CATS",
                   "text": "ギャラリー4CATS ist ein Museum in Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -4526,7 +4526,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋芸術大学アートスペース　T.A.G.IZUTO",
+                  "name": "Nagoya University of the Arts Art Space T.A.G.IZUTO",
                   "text": "名古屋芸術大学アートスペース T.A.G.IZUTO ist ein Museum in Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -4535,7 +4535,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー A・C・S",
+                  "name": "Gallery A.C.S",
                   "text": "ギャラリー A・C・S ist ein Museum in der Stadt Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -4625,7 +4625,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新栄RAD SEVEN",
+                  "name": "Shinsakae RAD SEVEN",
                   "text": "新栄RAD SEVEN ist ein Theater in Nagoya.",
                   "category": "cultural",
                   "coords": [
@@ -4643,7 +4643,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "栄party'z",
+                  "name": "Sakae Party'z",
                   "text": "栄party'z ist ein Theater in Nagoya.",
                   "category": "cultural",
                   "coords": [
@@ -4681,7 +4681,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋市市政資料館",
+                  "name": "Nagoya City Archives",
                   "text": "A Nagoja Városi Levéltár Múzeuma helyi történelmi dokumentumokat és várostörténetet mutat be.",
                   "category": "museum",
                   "coords": [
@@ -4708,7 +4708,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ヤマザキマザック美術館",
+                  "name": "Yamazaki Mazak Museum of Art",
                   "text": "A nagojai Yamazaki Mazak Múzeum klasszikus francia művészeti gyűjteményt állít ki.",
                   "category": "museum",
                   "coords": [
@@ -4717,7 +4717,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "三菱UFJ銀行貨幣資料館",
+                  "name": "Mitsubishi UFJ Bank Currency Museum",
                   "text": "A nagojai Mitsubishi UFJ Pénzmúzeum globális valuták és kapcsolódó műtárgyak kiterjedt gyűjteményével rendelkezik.",
                   "category": "museum",
                   "coords": [
@@ -4744,7 +4744,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋市役所 (Nagoya City Hall)",
+                  "name": "Nagoya City Hall",
                   "text": "A nagojai városháza Nagoja történelmi közigazgatási központja és önkormányzati épülete.",
                   "category": "historical",
                   "coords": [
@@ -4753,7 +4753,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東区役所",
+                  "name": "Higashi Ward Office",
                   "text": "Higashi kerületben találhatók Nagoja ezen városrészének közigazgatási irodái és városházi létesítményei.",
                   "category": "historical",
                   "coords": [
@@ -4816,7 +4816,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋テレビ塔",
+                  "name": "Nagoya TV Tower",
                   "text": "Ez az ikonikus nagojai torony Japán legrégebbi tévétornya és a város egyik kiemelkedő nevezetessége.",
                   "category": "tower",
                   "coords": [
@@ -4942,7 +4942,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ぎゃらり壷中天・mu-jo",
+                  "name": "Gallery Kochuten Mu-jo",
                   "text": "A ぎゃらり壷中天・mu-jo egy múzeum Nagoja városában.",
                   "category": "museum",
                   "coords": [
@@ -4951,7 +4951,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー4CATS",
+                  "name": "Gallery 4CATS",
                   "text": "A ギャラリー4CATS egy múzeum Nagojában.",
                   "category": "museum",
                   "coords": [
@@ -4960,7 +4960,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋芸術大学アートスペース　T.A.G.IZUTO",
+                  "name": "Nagoya University of the Arts Art Space T.A.G.IZUTO",
                   "text": "A 名古屋芸術大学アートスペース T.A.G.IZUTO egy múzeum Nagoja városában.",
                   "category": "museum",
                   "coords": [
@@ -4969,7 +4969,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー A・C・S",
+                  "name": "Gallery A.C.S",
                   "text": "A ギャラリー A・C・S egy múzeum Nagoja városában.",
                   "category": "museum",
                   "coords": [
@@ -5059,7 +5059,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新栄RAD SEVEN",
+                  "name": "Shinsakae RAD SEVEN",
                   "text": "A 新栄RAD SEVEN egy színház Nagoja városában.",
                   "category": "cultural",
                   "coords": [
@@ -5077,7 +5077,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "栄party'z",
+                  "name": "Sakae Party'z",
                   "text": "A 栄party'z egy színház Nagoja városában.",
                   "category": "cultural",
                   "coords": [
@@ -5115,7 +5115,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋市市政資料館",
+                  "name": "Nagoya City Archives",
                   "text": "Muzeul Arhivelor Municipale din Nagoya expune documente istorice locale și istoria civică.",
                   "category": "museum",
                   "coords": [
@@ -5124,7 +5124,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "徳川美術館",
+                  "name": "Tokugawa Art Museum",
                   "text": "Muzeul de Artă Tokugawa din Nagoya păstrează și expune comorile familiei Owari Tokugawa.",
                   "category": "museum",
                   "coords": [
@@ -5142,7 +5142,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ヤマザキマザック美術館",
+                  "name": "Yamazaki Mazak Museum of Art",
                   "text": "Muzeul Yamazaki Mazak din Nagoya expune o colecție de artă clasică franceză.",
                   "category": "museum",
                   "coords": [
@@ -5151,7 +5151,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "三菱UFJ銀行貨幣資料館",
+                  "name": "Mitsubishi UFJ Bank Currency Museum",
                   "text": "Muzeul Banilor Mitsubishi UFJ din Nagoya prezintă colecții extinse de monede globale și artefacte conexe.",
                   "category": "museum",
                   "coords": [
@@ -5187,7 +5187,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東区役所",
+                  "name": "Higashi Ward Office",
                   "text": "Cartierul Higashi conține birourile administrative și facilitățile primăriei pentru acest district din Nagoya.",
                   "category": "historical",
                   "coords": [
@@ -5376,7 +5376,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ぎゃらり壷中天・mu-jo",
+                  "name": "Gallery Kochuten Mu-jo",
                   "text": "ぎゃらり壷中天・mu-jo este un muzeu situat în orașul Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5385,7 +5385,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー4CATS",
+                  "name": "Gallery 4CATS",
                   "text": "ギャラリー4CATS este un muzeu situat în Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5394,7 +5394,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋芸術大学アートスペース　T.A.G.IZUTO",
+                  "name": "Nagoya University of the Arts Art Space T.A.G.IZUTO",
                   "text": "名古屋芸術大学アートスペース T.A.G.IZUTO este un muzeu din Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5403,7 +5403,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー A・C・S",
+                  "name": "Gallery A.C.S",
                   "text": "ギャラリー A・C・S este un muzeu situat în Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5493,7 +5493,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新栄RAD SEVEN",
+                  "name": "Shinsakae RAD SEVEN",
                   "text": "新栄RAD SEVEN este un teatru situat în Nagoya.",
                   "category": "cultural",
                   "coords": [
@@ -5511,7 +5511,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "栄party'z",
+                  "name": "Sakae Party'z",
                   "text": "栄party'z este un teatru situat în orașul Nagoya.",
                   "category": "cultural",
                   "coords": [
@@ -5810,7 +5810,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ぎゃらり壷中天・mu-jo",
+                  "name": "Gallery Kochuten Mu-jo",
                   "text": "ぎゃらり壷中天・mu-jo is a museum located in the city of Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5819,7 +5819,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー4CATS",
+                  "name": "Gallery 4CATS",
                   "text": "ギャラリー4CATS is a museum situated in Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5828,7 +5828,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "名古屋芸術大学アートスペース　T.A.G.IZUTO",
+                  "name": "Nagoya University of the Arts Art Space T.A.G.IZUTO",
                   "text": "名古屋芸術大学アートスペース T.A.G.IZUTO is a museum located in Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5837,7 +5837,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー A・C・S",
+                  "name": "Gallery A.C.S",
                   "text": "ギャラリー A・C・S is a museum located in Nagoya.",
                   "category": "museum",
                   "coords": [
@@ -5927,7 +5927,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新栄RAD SEVEN",
+                  "name": "Shinsakae RAD SEVEN",
                   "text": "新栄RAD SEVEN is a theatre located in Nagoya.",
                   "category": "cultural",
                   "coords": [
@@ -5945,7 +5945,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "栄party'z",
+                  "name": "Sakae Party'z",
                   "text": "栄party'z is a theatre located in Nagoya.",
                   "category": "cultural",
                   "coords": [
@@ -6020,7 +6020,7 @@ export const japanCities: POI[] = [
     id: "jp-sapporo", "sights": {
       "de": [
             {
-                  "name": "札幌市資料館",
+                  "name": "Sapporo City Archive Museum",
                   "text": "Ein Museum in einem ehemaligen Gerichtsgebäude, das die Geschichte von Sapporo dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -6029,7 +6029,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "渡辺淳一文学館",
+                  "name": "Watanabe Junichi Museum of Literature",
                   "text": "Ein Literaturmuseum in Sapporo, das dem Leben und Werk des Autors Junichi Watanabe gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -6038,7 +6038,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌市教育文化会館",
+                  "name": "Sapporo Education and Culture Hall",
                   "text": "Ein Veranstaltungsort in Sapporo für darstellende Künste, Konzerte und kulturelle Events.",
                   "category": "cultural",
                   "coords": [
@@ -6047,7 +6047,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宮部金吾記念館",
+                  "name": "Kingo Miyabe Memorial Museum",
                   "text": "Ein botanischer Garten in Sapporo mit einem Museum zu Ehren von Kingo Miyabe.",
                   "category": "museum",
                   "coords": [
@@ -6056,7 +6056,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zepp札幌",
+                  "name": "Zepp Sapporo",
                   "text": "Eine bekannte Musikhalle und Konzerthalle in der Stadt Sapporo.",
                   "category": "cultural",
                   "coords": [
@@ -6065,7 +6065,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌文化芸術劇場 hiraru",
+                  "name": "Sapporo Community Plaza",
                   "text": "Ein modernes Theater für darstellende Künste in Sapporo, Teil des Sapporo Community Plaza.",
                   "category": "cultural",
                   "coords": [
@@ -6074,7 +6074,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道立三岸好太郎美術館",
+                  "name": "Hokkaido Migishi Kotaro Museum of Art",
                   "text": "Dieses Kunstmuseum in Sapporo widmet sich den Werken des japanischen Malers Kotaro Migishi.",
                   "category": "museum",
                   "coords": [
@@ -6101,7 +6101,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道立文学館",
+                  "name": "Hokkaido Museum of Literature",
                   "text": "Dieses Literaturmuseum in Sapporo präsentiert Ausstellungen über die literarische Geschichte von Hokkaido.",
                   "category": "museum",
                   "coords": [
@@ -6110,7 +6110,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道大学総合博物館",
+                  "name": "Hokkaido University Museum",
                   "text": "Das Museum der Universität Hokkaido zeigt vielfältige wissenschaftliche Sammlungen aus der Geschichte der Hochschule.",
                   "category": "museum",
                   "coords": [
@@ -6137,7 +6137,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "千歳鶴酒ミュージアム",
+                  "name": "Chitose Tsuru Sake Museum",
                   "text": "Dieses Museum in Sapporo widmet sich der Tradition und Herstellung des japanischen Sake.",
                   "category": "museum",
                   "coords": [
@@ -6146,7 +6146,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "500メートル美術館",
+                  "name": "500 Meter Underground Gallery",
                   "text": "Diese unterirdische Passage in Sapporo dient als Galerie für zeitgenössische Kunstwerke.",
                   "category": "museum",
                   "coords": [
@@ -6155,7 +6155,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北大植物園温室",
+                  "name": "Hokkaido University Botanical Garden Greenhouse",
                   "text": "Das Gewächshaus des Botanischen Gartens der Universität Hokkaido beherbergt seltene Pflanzenarten.",
                   "category": "museum",
                   "coords": [
@@ -6218,7 +6218,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道大学文書館",
+                  "name": "Hokkaido University Archives",
                   "text": "Das Archiv der Universität Hokkaido bewahrt historische Dokumente und Unterlagen der Institution auf.",
                   "category": "museum",
                   "coords": [
@@ -6299,7 +6299,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道の形をした切り株",
+                  "name": "Hokkaido-Shaped Tree Stump",
                   "text": "Diese Attraktion in Sapporo zeigt einen Baumstumpf in der Form der Insel Hokkaido.",
                   "category": "landmark",
                   "coords": [
@@ -6445,7 +6445,7 @@ export const japanCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "札幌市資料館",
+                  "name": "Sapporo City Archive Museum",
                   "text": "Egy volt bírósági épületben kialakított múzeum, amely Szapporo történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6454,7 +6454,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "渡辺淳一文学館",
+                  "name": "Watanabe Junichi Museum of Literature",
                   "text": "Irodalmi múzeum Szapporóban, amely Vatanabe Dzsunicsi író életét és munkásságát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6463,7 +6463,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌市教育文化会館",
+                  "name": "Sapporo Education and Culture Hall",
                   "text": "Többfunkciós színházterem Szapporóban előadások és kulturális események számára.",
                   "category": "cultural",
                   "coords": [
@@ -6472,7 +6472,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宮部金吾記念館",
+                  "name": "Kingo Miyabe Memorial Museum",
                   "text": "Botanikus kert Szapporóban, területén a Mijabe Kingo emlékére alapított múzeummal.",
                   "category": "museum",
                   "coords": [
@@ -6481,7 +6481,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zepp札幌",
+                  "name": "Zepp Sapporo",
                   "text": "Népszerű zenei és koncertterem Szapporo városában.",
                   "category": "cultural",
                   "coords": [
@@ -6490,7 +6490,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌文化芸術劇場 hiraru",
+                  "name": "Sapporo Community Plaza",
                   "text": "Modern előadóművészeti színház Szapporóban, a Sapporo Community Plaza része.",
                   "category": "cultural",
                   "coords": [
@@ -6499,7 +6499,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道立三岸好太郎美術館",
+                  "name": "Hokkaido Migishi Kotaro Museum of Art",
                   "text": "Ez a szapporói művészeti múzeum Migishi Kotaro japán festő munkásságának állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -6526,7 +6526,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道立文学館",
+                  "name": "Hokkaido Museum of Literature",
                   "text": "Ez a szapporói irodalmi múzeum Hokkaido irodalmi múltját bemutató kiállításoknak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -6562,7 +6562,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "千歳鶴酒ミュージアム",
+                  "name": "Chitose Tsuru Sake Museum",
                   "text": "Ez a szapporói múzeum a japán szaké készítésének hagyományait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6571,7 +6571,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "500メートル美術館",
+                  "name": "500 Meter Underground Gallery",
                   "text": "Ez a szapporói földalatti folyosó kortárs művészeti galériaként funkcionál.",
                   "category": "museum",
                   "coords": [
@@ -6580,7 +6580,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北大植物園温室",
+                  "name": "Hokkaido University Botanical Garden Greenhouse",
                   "text": "A Hokkaido Egyetem botanikus kertjének üvegháza ritka növényfajoknak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -6697,7 +6697,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "美香保公園",
+                  "name": "Mikaho Park",
                   "text": "A szapporói Mikaho park különféle sportolási és kikapcsolódási lehetőségeket kínál.",
                   "category": "park",
                   "coords": [
@@ -6724,7 +6724,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道の形をした切り株",
+                  "name": "Hokkaido-Shaped Tree Stump",
                   "text": "Ez a szapporói látványosság egy Hokkaido szigetének alakját formázó fatönk.",
                   "category": "landmark",
                   "coords": [
@@ -6733,7 +6733,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "JRタワー展望室T38",
+                  "name": "JR Tower Observatory T38",
                   "text": "A JR Tower T38 kilátója panorámás kilátást nyújt Szapporo városára.",
                   "category": "natural",
                   "coords": [
@@ -6823,7 +6823,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道庁",
+                  "name": "Former Hokkaido Government Office",
                   "text": "A Hokkaido prefektúra kormányzati épülete Szapporóban jellegzetes vörös téglás építészetéről ismert.",
                   "category": "historical",
                   "coords": [
@@ -6841,7 +6841,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌市中央卸売市場",
+                  "name": "Sapporo Central Wholesale Market",
                   "text": "Szapporo központi nagybani piaca Hokkaido egyik legfontosabb friss élelmiszer-kereskedelmi központja.",
                   "category": "landmark",
                   "coords": [
@@ -6870,7 +6870,7 @@ export const japanCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "札幌市資料館",
+                  "name": "Sapporo City Archive Museum",
                   "text": "Un muzeu găzduit într-o fostă instanță, care documentează istoria orașului Sapporo.",
                   "category": "museum",
                   "coords": [
@@ -6879,7 +6879,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "渡辺淳一文学館",
+                  "name": "Watanabe Junichi Museum of Literature",
                   "text": "Un muzeu literar din Sapporo dedicat vieții și operei autorului Junichi Watanabe.",
                   "category": "museum",
                   "coords": [
@@ -6888,7 +6888,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌市教育文化会館",
+                  "name": "Sapporo Education and Culture Hall",
                   "text": "O locație polivalentă din Sapporo pentru artele spectacolului, concerte și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
@@ -6897,7 +6897,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "宮部金吾記念館",
+                  "name": "Kingo Miyabe Memorial Museum",
                   "text": "O grădină botanică din Sapporo care include un muzeu dedicat lui Kingo Miyabe.",
                   "category": "museum",
                   "coords": [
@@ -6906,7 +6906,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zepp札幌",
+                  "name": "Zepp Sapporo",
                   "text": "O sală de muzică și locație de concerte populară din orașul Sapporo.",
                   "category": "cultural",
                   "coords": [
@@ -6915,7 +6915,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "札幌文化芸術劇場 hiraru",
+                  "name": "Sapporo Community Plaza",
                   "text": "Un teatru modern de artele spectacolului din Sapporo, parte a Sapporo Community Plaza.",
                   "category": "cultural",
                   "coords": [
@@ -6951,7 +6951,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道立文学館",
+                  "name": "Hokkaido Museum of Literature",
                   "text": "Acest muzeu de literatură din Sapporo găzduiește expoziții despre istoria literară a regiunii Hokkaido.",
                   "category": "museum",
                   "coords": [
@@ -6960,7 +6960,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道大学総合博物館",
+                  "name": "Hokkaido University Museum",
                   "text": "Muzeul Universității Hokkaido prezintă diverse colecții științifice din istoria instituției.",
                   "category": "museum",
                   "coords": [
@@ -6969,7 +6969,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "サッポロビール博物館",
+                  "name": "Sapporo Beer Museum",
                   "text": "Muzeul Berii din Sapporo documentează istoria fabricării berii în Japonia.",
                   "category": "museum",
                   "coords": [
@@ -6996,7 +6996,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "500メートル美術館",
+                  "name": "500 Meter Underground Gallery",
                   "text": "Această trecere subterană din Sapporo funcționează ca o galerie pentru opere de artă contemporană.",
                   "category": "museum",
                   "coords": [
@@ -7005,7 +7005,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北大植物園温室",
+                  "name": "Hokkaido University Botanical Garden Greenhouse",
                   "text": "Sera Grădinii Botanice a Universității Hokkaido găzduiește specii de plante rare.",
                   "category": "museum",
                   "coords": [
@@ -7068,7 +7068,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道大学文書館",
+                  "name": "Hokkaido University Archives",
                   "text": "Arhivele Universității Hokkaido păstrează documente și înregistrări istorice ale instituției.",
                   "category": "museum",
                   "coords": [
@@ -7104,7 +7104,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道大学植物園",
+                  "name": "Hokkaido University Botanical Garden",
                   "text": "Grădina Botanică a Universității Hokkaido oferă o colecție vastă de floră regională.",
                   "category": "park",
                   "coords": [
@@ -7122,7 +7122,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "美香保公園",
+                  "name": "Mikaho Park",
                   "text": "Parcul Mikaho din Sapporo oferă diverse facilități sportive și zone de recreere.",
                   "category": "park",
                   "coords": [
@@ -7131,7 +7131,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "さっぽろテレビ塔",
+                  "name": "Sapporo TV Tower",
                   "text": "Turnul TV din Sapporo oferă o platformă de observație cu vedere spre Parcul Odori.",
                   "category": "landmark",
                   "coords": [
@@ -7149,7 +7149,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "北海道の形をした切り株",
+                  "name": "Hokkaido-Shaped Tree Stump",
                   "text": "Această atracție din Sapporo prezintă un ciot de copac de forma insulei Hokkaido.",
                   "category": "landmark",
                   "coords": [
@@ -7158,7 +7158,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "JRタワー展望室T38",
+                  "name": "JR Tower Observatory T38",
                   "text": "Platforma de observație T38 din JR Tower oferă o vedere panoramică asupra orașului Sapporo.",
                   "category": "natural",
                   "coords": [
@@ -7766,7 +7766,7 @@ export const japanCities: POI[] = [
     id: "jp-fukuoka", "sights": {
       "de": [
             {
-                  "name": "博多町家鄉土館",
+                  "name": "Hakata Machiya Folk Museum",
                   "text": "Ein Freilichtmuseum in Fukuoka, das das traditionelle Leben in der Hakata-Region zeigt.",
                   "category": "museum",
                   "coords": [
@@ -7775,7 +7775,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市科学館",
+                  "name": "Fukuoka City Science Museum",
                   "text": "Ein modernes Wissenschaftsmuseum in Fukuoka mit interaktiven Exponaten und einem Planetarium.",
                   "category": "museum",
                   "coords": [
@@ -7784,7 +7784,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "舞鶴公園",
+                  "name": "Maizuru Park",
                   "text": "Die Ruinen einer großen Festung aus dem 17. Jahrhundert, umgeben von einem weitläufigen Park.",
                   "category": "castle",
                   "coords": [
@@ -7793,7 +7793,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡国際センター",
+                  "name": "Fukuoka International Center",
                   "text": "Ein großes Veranstaltungszentrum in Fukuoka, das für Sport- und Kulturereignisse genutzt wird.",
                   "category": "cultural",
                   "coords": [
@@ -7802,7 +7802,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "萬行寺",
+                  "name": "Mangyo-ji Temple",
                   "text": "Ein historischer buddhistischer Tempel in Fukuoka mit kunstvoller Architektur.",
                   "category": "religious",
                   "coords": [
@@ -7811,7 +7811,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "勝立寺",
+                  "name": "Shoryu-ji Temple",
                   "text": "Eine buddhistische Tempelanlage in Fukuoka, die für ihre ruhige Atmosphäre bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -7820,7 +7820,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "龍宮寺",
+                  "name": "Ryugu-ji Temple",
                   "text": "Ein Tempel in Fukuoka, der mit lokalen Legenden über eine Meerjungfrau verbunden ist.",
                   "category": "religious",
                   "coords": [
@@ -7829,7 +7829,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック大名町教会",
+                  "name": "Catholic Daimyo-machi Church",
                   "text": "Die katholische Hauptkirche von Fukuoka im Stadtteil Daimyo.",
                   "category": "religious",
                   "coords": [
@@ -7838,7 +7838,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡縣護國神社",
+                  "name": "Fukuoka Gokoku Shrine",
                   "text": "Ein Shinto-Schrein in Fukuoka, der den Gefallenen gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -7847,7 +7847,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "住吉神社",
+                  "name": "Sumiyoshi Shrine",
                   "text": "Einer der ältesten Shinto-Schreine auf Kyushu, bekannt als Schutzherr der Seefahrer.",
                   "category": "religious",
                   "coords": [
@@ -7856,7 +7856,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "水鏡天満宮",
+                  "name": "Suikyo Tenmangu Shrine",
                   "text": "Ein zentraler Shinto-Schrein in Fukuoka, der der Gottheit der Gelehrsamkeit gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -7865,7 +7865,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "聖福寺",
+                  "name": "Shofuku-ji Temple",
                   "text": "Der erste Zen-Tempel Japans, gegründet im 12. Jahrhundert in Fukuoka.",
                   "category": "religious",
                   "coords": [
@@ -7874,7 +7874,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多千年門",
+                  "name": "Hakata Sennen-no-mon Gate",
                   "text": "Ein dekoratives Tor, das den historischen Eingang zum Hakata-Viertel markiert.",
                   "category": "landmark",
                   "coords": [
@@ -7883,7 +7883,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大濠公園",
+                  "name": "Ohori Park",
                   "text": "Ein schöner Stadtpark in Fukuoka mit einem großen See im Zentrum.",
                   "category": "park",
                   "coords": [
@@ -7892,7 +7892,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "須崎公園",
+                  "name": "Susaki Park",
                   "text": "Ein städtischer Park in Fukuoka, der oft für kulturelle Veranstaltungen genutzt wird.",
                   "category": "park",
                   "coords": [
@@ -7901,7 +7901,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "西公園",
+                  "name": "Nishi Park",
                   "text": "Ein Park auf einem Hügel in Fukuoka, bekannt für seine vielen Kirschbäume.",
                   "category": "park",
                   "coords": [
@@ -7910,7 +7910,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡アジア美術館",
+                  "name": "Fukuoka Asian Art Museum",
                   "text": "Ein Museum in Fukuoka, das sich auf zeitgenössische Kunst aus asiatischen Ländern konzentriert.",
                   "category": "museum",
                   "coords": [
@@ -7919,7 +7919,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "九州大学 医学歴史館",
+                  "name": "Kyushu University Medical History Museum",
                   "text": "Ein Museum der Universität Kyushu, das die Entwicklung der Medizin zeigt.",
                   "category": "museum",
                   "coords": [
@@ -7928,7 +7928,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市役所",
+                  "name": "Fukuoka City Hall",
                   "text": "Das Verwaltungsgebäude der Stadt Fukuoka, gelegen im belebten Stadtzentrum.",
                   "category": "historical",
                   "coords": [
@@ -7946,7 +7946,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "警固神社",
+                  "name": "Kego Shrine",
                   "text": "Ein Shinto-Schrein im Herzen von Tenjin, der als Schutzpatron gegen Unglück gilt.",
                   "category": "religious",
                   "coords": [
@@ -7955,7 +7955,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "節信院",
+                  "name": "Sesshin-in Temple",
                   "text": "Ein historischer buddhistischer Tempel in Fukuoka mit traditioneller Gestaltung.",
                   "category": "religious",
                   "coords": [
@@ -7964,7 +7964,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "妙楽寺",
+                  "name": "Myoraku-ji Temple",
                   "text": "Ein ruhiger Tempel in Fukuoka, bekannt für seine Verbindung zur Teekultur.",
                   "category": "religious",
                   "coords": [
@@ -7973,7 +7973,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "南公園西展望台",
+                  "name": "Minami Park West Observatory",
                   "text": "Ein Aussichtspunkt im Südpark von Fukuoka mit Blick über die Stadt.",
                   "category": "natural",
                   "coords": [
@@ -7982,7 +7982,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "天神中央公園",
+                  "name": "Tenjin Central Park",
                   "text": "Ein zentraler Park in Fukuoka, bekannt für das markante ACROS-Gebäude mit seinen Terrassengärten.",
                   "category": "park",
                   "coords": [
@@ -7991,7 +7991,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "音羽公園",
+                  "name": "Otowa Park",
                   "text": "Ein kleiner Stadtpark in der Nähe des Hakata-Bahnhofs für kurze Pausen.",
                   "category": "park",
                   "coords": [
@@ -8000,7 +8000,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "人参公園",
+                  "name": "Ninjin Park",
                   "text": "Eine lokale Grünanlage in Fukuoka, die den Anwohnern als Erholungsraum dient.",
                   "category": "park",
                   "coords": [
@@ -8009,7 +8009,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "水上公園",
+                  "name": "Suijo Park",
                   "text": "Ein kleiner Park am Wasser im Stadtteil Nakasu von Fukuoka.",
                   "category": "park",
                   "coords": [
@@ -8018,7 +8018,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "冷泉公園",
+                  "name": "Reisen Park",
                   "text": "Ein offener Stadtpark in Fukuoka, der häufig für lokale Feste und Märkte genutzt wird.",
                   "category": "park",
                   "coords": [
@@ -8027,7 +8027,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "住吉公園",
+                  "name": "Sumiyoshi Park",
                   "text": "Ein öffentlicher Park im Sumiyoshi-Viertel von Fukuoka, ideal für einen Spaziergang.",
                   "category": "park",
                   "coords": [
@@ -8036,7 +8036,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多ポートタワー",
+                  "name": "Hakata Port Tower",
                   "text": "Ein markanter Aussichtsturm mit Panoramablick über den Hafen von Fukuoka.",
                   "category": "natural",
                   "coords": [
@@ -8045,7 +8045,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市動植物園",
+                  "name": "Fukuoka City Zoological and Botanical Garden",
                   "text": "Ein kombinierter Tier- und Pflanzengarten im Herzen von Fukuoka.",
                   "category": "family",
                   "coords": [
@@ -8054,7 +8054,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡城むかし探訪館",
+                  "name": "Fukuoka Castle Mukashi Tanbokan",
                   "text": "Dieses Museum dokumentiert die Geschichte der Burg Fukuoka und ihrer Umgebung.",
                   "category": "museum",
                   "coords": [
@@ -8072,7 +8072,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多港開港六十周年記念塔",
+                  "name": "Hakata Port 60th Anniversary Memorial Tower",
                   "text": "Ein Denkmal in Fukuoka zur Erinnerung an das 60-jährige Bestehen des Hafens.",
                   "category": "historical",
                   "coords": [
@@ -8081,7 +8081,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡シンフォニーオール",
+                  "name": "Fukuoka Symphony Hall",
                   "text": "Ein bedeutender Konzertsaal in Fukuoka, bekannt für seine hervorragende Akustik.",
                   "category": "cultural",
                   "coords": [
@@ -8090,7 +8090,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "サンプラザステージ",
+                  "name": "Sunplaza Stage",
                   "text": "Eine Bühne für öffentliche Aufführungen und Veranstaltungen in Fukuoka.",
                   "category": "cultural",
                   "coords": [
@@ -8108,7 +8108,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新天町商店街",
+                  "name": "Shintencho Shopping Arcade",
                   "text": "Eine traditionelle überdachte Einkaufsstraße im Stadtteil Tenjin von Fukuoka.",
                   "category": "landmark",
                   "coords": [
@@ -8117,7 +8117,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "長浜屋台",
+                  "name": "Nagahama Yatai",
                   "text": "Ein Bereich in Fukuoka, der für seine traditionellen mobilen Essensstände bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -8126,7 +8126,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多みなと",
+                  "name": "Hakata Port",
                   "text": "Die weite Bucht von Fukuoka, ein zentraler Ort für Seeverkehr und Freizeit.",
                   "category": "landmark",
                   "coords": [
@@ -8135,7 +8135,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "下之橋御門",
+                  "name": "Shimonohashi Gate",
                   "text": "Ein historisches Tor, das früher den Zugang zur Burg Fukuoka bewachte.",
                   "category": "landmark",
                   "coords": [
@@ -8144,7 +8144,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "櫛田神社飾り山笠",
+                  "name": "Kushida Shrine Kazari Yamakasa",
                   "text": "Aufwendig dekorierte Festwagen, die während des Yamakasa-Festivals in Fukuoka ausgestellt werden.",
                   "category": "landmark",
                   "coords": [
@@ -8189,7 +8189,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多担々麺 有吉商店",
+                  "name": "Hakata Tantanmen Ariyoshi Shoten",
                   "text": "Eine lokale Spezialität in Fukuoka, bekannt für ihre cremige Schweinefleischbrühe.",
                   "category": "landmark",
                   "coords": [
@@ -8200,7 +8200,7 @@ export const japanCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "博多町家鄉土館",
+                  "name": "Hakata Machiya Folk Museum",
                   "text": "Szabadtéri múzeum Fukuokában, amely a Hakata-régió hagyományos életmódját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -8209,7 +8209,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市科学館",
+                  "name": "Fukuoka City Science Museum",
                   "text": "Modern természettudományi múzeum Fukuokában interaktív kiállításokkal és planetáriummal.",
                   "category": "museum",
                   "coords": [
@@ -8218,7 +8218,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "舞鶴公園",
+                  "name": "Maizuru Park",
                   "text": "Egy 17. századi nagy erőd romjai, amelyeket tágas park vesz körül.",
                   "category": "castle",
                   "coords": [
@@ -8227,7 +8227,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡国際センター",
+                  "name": "Fukuoka International Center",
                   "text": "Nagy rendezvényközpont Fukuokában, amelyet sport- és kulturális eseményekre használnak.",
                   "category": "cultural",
                   "coords": [
@@ -8236,7 +8236,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "萬行寺",
+                  "name": "Mangyo-ji Temple",
                   "text": "Történelmi buddhista templom Fukuokában művészi építészettel.",
                   "category": "religious",
                   "coords": [
@@ -8245,7 +8245,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "勝立寺",
+                  "name": "Shoryu-ji Temple",
                   "text": "Buddhista templomkomplexum Fukuokában, amely nyugodt légköréről ismert.",
                   "category": "religious",
                   "coords": [
@@ -8254,7 +8254,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "龍宮寺",
+                  "name": "Ryugu-ji Temple",
                   "text": "Fukuokai templom, amely egy sellőről szóló helyi legendákhoz kapcsolódik.",
                   "category": "religious",
                   "coords": [
@@ -8263,7 +8263,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック大名町教会",
+                  "name": "Catholic Daimyo-machi Church",
                   "text": "Fukuoka fő katolikus temploma a Daimyo negyedben.",
                   "category": "religious",
                   "coords": [
@@ -8272,7 +8272,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡縣護國神社",
+                  "name": "Fukuoka Gokoku Shrine",
                   "text": "Sintó szentély Fukuokában, amelyet az elesettek emlékének szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -8281,7 +8281,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "住吉神社",
+                  "name": "Sumiyoshi Shrine",
                   "text": "Kjúsú egyik legrégebbi sintó szentélye, a tengerészek védelmezőjeként ismert.",
                   "category": "religious",
                   "coords": [
@@ -8290,7 +8290,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "水鏡天満宮",
+                  "name": "Suikyo Tenmangu Shrine",
                   "text": "Központi sintó szentély Fukuokában, amelyet a tudományok istenségének szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -8299,7 +8299,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "聖福寺",
+                  "name": "Shofuku-ji Temple",
                   "text": "Japán első zen temploma, amelyet a 12. században alapítottak Fukuokában.",
                   "category": "religious",
                   "coords": [
@@ -8308,7 +8308,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多千年門",
+                  "name": "Hakata Sennen-no-mon Gate",
                   "text": "Díszes kapu, amely Hakata negyed történelmi bejáratát jelzi.",
                   "category": "landmark",
                   "coords": [
@@ -8317,7 +8317,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大濠公園",
+                  "name": "Ohori Park",
                   "text": "Szép városi park Fukuokában, közepén egy nagy tóval.",
                   "category": "park",
                   "coords": [
@@ -8326,7 +8326,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "須崎公園",
+                  "name": "Susaki Park",
                   "text": "Városi park Fukuokában, amelyet gyakran kulturális eseményekre használnak.",
                   "category": "park",
                   "coords": [
@@ -8335,7 +8335,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "西公園",
+                  "name": "Nishi Park",
                   "text": "Dombra épült park Fukuokában, amely számos cseresznyefájáról ismert.",
                   "category": "park",
                   "coords": [
@@ -8344,7 +8344,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡アジア美術館",
+                  "name": "Fukuoka Asian Art Museum",
                   "text": "Fukuokai múzeum, amely ázsiai országok kortárs művészetére összpontosít.",
                   "category": "museum",
                   "coords": [
@@ -8362,7 +8362,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市役所",
+                  "name": "Fukuoka City Hall",
                   "text": "Fukuoka város igazgatási épülete a nyüzsgő városközpontban.",
                   "category": "historical",
                   "coords": [
@@ -8380,7 +8380,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "警固神社",
+                  "name": "Kego Shrine",
                   "text": "Tenjin szívében található sintó szentély, a szerencsétlenségek elleni védelmezőként ismert.",
                   "category": "religious",
                   "coords": [
@@ -8389,7 +8389,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "節信院",
+                  "name": "Sesshin-in Temple",
                   "text": "Történelmi buddhista templom Fukuokában, hagyományos kialakítással.",
                   "category": "religious",
                   "coords": [
@@ -8398,7 +8398,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "妙楽寺",
+                  "name": "Myoraku-ji Temple",
                   "text": "Nyugodt templom Fukuokában, amely a teakultúrához való kötődéséről ismert.",
                   "category": "religious",
                   "coords": [
@@ -8407,7 +8407,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "南公園西展望台",
+                  "name": "Minami Park West Observatory",
                   "text": "Kilátópont Fukuoka déli parkjában, ahonnan rálátni a városra.",
                   "category": "natural",
                   "coords": [
@@ -8416,7 +8416,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "天神中央公園",
+                  "name": "Tenjin Central Park",
                   "text": "Központi park Fukuokában, amely a látványos ACROS épületről és teraszos kertjeiről ismert.",
                   "category": "park",
                   "coords": [
@@ -8425,7 +8425,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "音羽公園",
+                  "name": "Otowa Park",
                   "text": "Kisméretű városi park a Hakata pályaudvar közelében, rövid pihenőkhöz.",
                   "category": "park",
                   "coords": [
@@ -8434,7 +8434,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "人参公園",
+                  "name": "Ninjin Park",
                   "text": "Helyi zöldterület Fukuokában, amely a lakók számára kínál pihenőhelyet.",
                   "category": "park",
                   "coords": [
@@ -8443,7 +8443,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "水上公園",
+                  "name": "Suijo Park",
                   "text": "Kis vízparti park Fukuoka Nakasu negyedében.",
                   "category": "park",
                   "coords": [
@@ -8452,7 +8452,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "冷泉公園",
+                  "name": "Reisen Park",
                   "text": "Nyitott városi park Fukuokában, amelyet gyakran használnak helyi fesztiválokra és piacokra.",
                   "category": "park",
                   "coords": [
@@ -8461,7 +8461,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "住吉公園",
+                  "name": "Sumiyoshi Park",
                   "text": "Közpark Fukuoka Sumiyoshi negyedében, ideális egy sétához.",
                   "category": "park",
                   "coords": [
@@ -8470,7 +8470,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多ポートタワー",
+                  "name": "Hakata Port Tower",
                   "text": "Jellegzetes kilátótorony Fukuoka kikötőjére nyíló panorámával.",
                   "category": "natural",
                   "coords": [
@@ -8479,7 +8479,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市動植物園",
+                  "name": "Fukuoka City Zoological and Botanical Garden",
                   "text": "Fukuoka szívében található állat- és botanikus kert.",
                   "category": "family",
                   "coords": [
@@ -8488,7 +8488,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡城むかし探訪館",
+                  "name": "Fukuoka Castle Mukashi Tanbokan",
                   "text": "Ez a múzeum a fukuokai vár és környékének történelmét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -8506,7 +8506,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多港開港六十周年記念塔",
+                  "name": "Hakata Port 60th Anniversary Memorial Tower",
                   "text": "Fukuokában található emlékmű a kikötő fennállásának 60. évfordulója alkalmából.",
                   "category": "historical",
                   "coords": [
@@ -8515,7 +8515,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡シンフォニーオール",
+                  "name": "Fukuoka Symphony Hall",
                   "text": "Jelentős hangversenyterem Fukuokában, amely kiváló akusztikájáról ismert.",
                   "category": "cultural",
                   "coords": [
@@ -8524,7 +8524,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "サンプラザステージ",
+                  "name": "Sunplaza Stage",
                   "text": "Fukuokában található színpad nyilvános előadások és rendezvények számára.",
                   "category": "cultural",
                   "coords": [
@@ -8542,7 +8542,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新天町商店街",
+                  "name": "Shintencho Shopping Arcade",
                   "text": "Hagyományos fedett bevásárlóutca Fukuoka Tendzsin negyedében.",
                   "category": "landmark",
                   "coords": [
@@ -8551,7 +8551,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "長浜屋台",
+                  "name": "Nagahama Yatai",
                   "text": "Hagyományos mozgó ételstandjairól (yatai) ismert terület Fukuokában.",
                   "category": "landmark",
                   "coords": [
@@ -8560,7 +8560,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多みなと",
+                  "name": "Hakata Port",
                   "text": "Fukuoka tágas öble, amely a tengeri közlekedés és a szabadidő központja.",
                   "category": "landmark",
                   "coords": [
@@ -8569,7 +8569,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "下之橋御門",
+                  "name": "Shimonohashi Gate",
                   "text": "Történelmi kapu, amely egykor a fukuokai vár bejáratát őrizte.",
                   "category": "landmark",
                   "coords": [
@@ -8578,7 +8578,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "櫛田神社飾り山笠",
+                  "name": "Kushida Shrine Kazari Yamakasa",
                   "text": "Gazdagon díszített fesztiváli kocsik, amelyeket a fukuokai Jamakasza fesztivál idején állítanak ki.",
                   "category": "landmark",
                   "coords": [
@@ -8623,7 +8623,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多担々麺 有吉商店",
+                  "name": "Hakata Tantanmen Ariyoshi Shoten",
                   "text": "Helyi specialitás Fukuokában, amely krémes sertéshúsleveséről híres.",
                   "category": "landmark",
                   "coords": [
@@ -8634,7 +8634,7 @@ export const japanCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "博多町家鄉土館",
+                  "name": "Hakata Machiya Folk Museum",
                   "text": "Un muzeu în aer liber din Fukuoka care prezintă viața tradițională din regiunea Hakata.",
                   "category": "museum",
                   "coords": [
@@ -8643,7 +8643,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市科学館",
+                  "name": "Fukuoka City Science Museum",
                   "text": "Un muzeu de știință modern din Fukuoka, cu exponate interactive și un planetariu.",
                   "category": "museum",
                   "coords": [
@@ -8652,7 +8652,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "舞鶴公園",
+                  "name": "Maizuru Park",
                   "text": "Ruinele unei mari fortărețe din secolul al XVII-lea, înconjurate de un parc vast.",
                   "category": "castle",
                   "coords": [
@@ -8661,7 +8661,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡国際センター",
+                  "name": "Fukuoka International Center",
                   "text": "Un centru mare de evenimente din Fukuoka, utilizat pentru evenimente sportive și culturale.",
                   "category": "cultural",
                   "coords": [
@@ -8670,7 +8670,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "萬行寺",
+                  "name": "Mangyo-ji Temple",
                   "text": "Un templu budist istoric din Fukuoka cu o arhitectură artistică.",
                   "category": "religious",
                   "coords": [
@@ -8679,7 +8679,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "勝立寺",
+                  "name": "Shoryu-ji Temple",
                   "text": "Un complex de temple budiste din Fukuoka, cunoscut pentru atmosfera sa liniștită.",
                   "category": "religious",
                   "coords": [
@@ -8688,7 +8688,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "龍宮寺",
+                  "name": "Ryugu-ji Temple",
                   "text": "Un templu din Fukuoka legat de legendele locale despre o sirenă.",
                   "category": "religious",
                   "coords": [
@@ -8697,7 +8697,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック大名町教会",
+                  "name": "Catholic Daimyo-machi Church",
                   "text": "Principala biserică catolică din Fukuoka, situată în districtul Daimyo.",
                   "category": "religious",
                   "coords": [
@@ -8706,7 +8706,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡縣護國神社",
+                  "name": "Fukuoka Gokoku Shrine",
                   "text": "Un altar șintoist din Fukuoka, dedicat eroilor căzuți.",
                   "category": "religious",
                   "coords": [
@@ -8715,7 +8715,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "住吉神社",
+                  "name": "Sumiyoshi Shrine",
                   "text": "Unul dintre cele mai vechi altare șintoiste din Kyushu, cunoscut ca protector al marinarilor.",
                   "category": "religious",
                   "coords": [
@@ -8724,7 +8724,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "水鏡天満宮",
+                  "name": "Suikyo Tenmangu Shrine",
                   "text": "Un altar șintoist central din Fukuoka, dedicat zeității învățăturii.",
                   "category": "religious",
                   "coords": [
@@ -8733,7 +8733,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "聖福寺",
+                  "name": "Shofuku-ji Temple",
                   "text": "Primul templu Zen din Japonia, fondat în secolul al XII-lea în Fukuoka.",
                   "category": "religious",
                   "coords": [
@@ -8742,7 +8742,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多千年門",
+                  "name": "Hakata Sennen-no-mon Gate",
                   "text": "O poartă decorativă care marchează intrarea istorică în districtul Hakata.",
                   "category": "landmark",
                   "coords": [
@@ -8751,7 +8751,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "大濠公園",
+                  "name": "Ohori Park",
                   "text": "Un parc urban frumos din Fukuoka, cu un lac mare în centru.",
                   "category": "park",
                   "coords": [
@@ -8760,7 +8760,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "須崎公園",
+                  "name": "Susaki Park",
                   "text": "Un parc urban din Fukuoka, utilizat adesea pentru evenimente culturale.",
                   "category": "park",
                   "coords": [
@@ -8769,7 +8769,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "西公園",
+                  "name": "Nishi Park",
                   "text": "Un parc situat pe un deal în Fukuoka, cunoscut pentru numeroșii săi cireși.",
                   "category": "park",
                   "coords": [
@@ -8778,7 +8778,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡アジア美術館",
+                  "name": "Fukuoka Asian Art Museum",
                   "text": "Un muzeu din Fukuoka concentrat pe arta contemporană din țările asiatice.",
                   "category": "museum",
                   "coords": [
@@ -8787,7 +8787,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "九州大学 医学歴史館",
+                  "name": "Kyushu University Medical History Museum",
                   "text": "Un muzeu al Universității Kyushu care prezintă evoluția medicinei.",
                   "category": "museum",
                   "coords": [
@@ -8796,7 +8796,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市役所",
+                  "name": "Fukuoka City Hall",
                   "text": "Clădirea administrativă a orașului Fukuoka, situată în centrul animat al orașului.",
                   "category": "historical",
                   "coords": [
@@ -8814,7 +8814,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "警固神社",
+                  "name": "Kego Shrine",
                   "text": "Un altar șintoist în inima cartierului Tenjin, cunoscut ca protector împotriva ghinionului.",
                   "category": "religious",
                   "coords": [
@@ -8823,7 +8823,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "節信院",
+                  "name": "Sesshin-in Temple",
                   "text": "Un templu budist istoric din Fukuoka, cu un design tradițional.",
                   "category": "religious",
                   "coords": [
@@ -8832,7 +8832,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "妙楽寺",
+                  "name": "Myoraku-ji Temple",
                   "text": "Un templu liniștit din Fukuoka, cunoscut pentru legătura sa cu cultura ceaiului.",
                   "category": "religious",
                   "coords": [
@@ -8841,7 +8841,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "南公園西展望台",
+                  "name": "Minami Park West Observatory",
                   "text": "Un punct de observare în parcul de sud din Fukuoka, oferind vedere peste oraș.",
                   "category": "natural",
                   "coords": [
@@ -8850,7 +8850,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "天神中央公園",
+                  "name": "Tenjin Central Park",
                   "text": "Un parc central din Fukuoka, cunoscut pentru clădirea ACROS cu grădinile sale terasate.",
                   "category": "park",
                   "coords": [
@@ -8859,7 +8859,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "音羽公園",
+                  "name": "Otowa Park",
                   "text": "Un mic parc urban situat lângă gara Hakata, pentru scurte pauze.",
                   "category": "park",
                   "coords": [
@@ -8868,7 +8868,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "人参公園",
+                  "name": "Ninjin Park",
                   "text": "Un spațiu verde local din Fukuoka, care servește ca loc de recreere pentru rezidenți.",
                   "category": "park",
                   "coords": [
@@ -8877,7 +8877,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "水上公園",
+                  "name": "Suijo Park",
                   "text": "Un mic parc pe malul apei în districtul Nakasu din Fukuoka.",
                   "category": "park",
                   "coords": [
@@ -8886,7 +8886,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "冷泉公園",
+                  "name": "Reisen Park",
                   "text": "Un parc urban deschis din Fukuoka, utilizat frecvent pentru festivaluri locale și piețe.",
                   "category": "park",
                   "coords": [
@@ -8895,7 +8895,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "住吉公園",
+                  "name": "Sumiyoshi Park",
                   "text": "Un parc public în cartierul Sumiyoshi din Fukuoka, ideal pentru o plimbare.",
                   "category": "park",
                   "coords": [
@@ -8904,7 +8904,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多ポートタワー",
+                  "name": "Hakata Port Tower",
                   "text": "Un turn de observație distinctiv cu vedere panoramică asupra portului din Fukuoka.",
                   "category": "natural",
                   "coords": [
@@ -8913,7 +8913,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡市動植物園",
+                  "name": "Fukuoka City Zoological and Botanical Garden",
                   "text": "O grădină zoologică și botanică situată în inima orașului Fukuoka.",
                   "category": "family",
                   "coords": [
@@ -8922,7 +8922,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡城むかし探訪館",
+                  "name": "Fukuoka Castle Mukashi Tanbokan",
                   "text": "Acest muzeu documentează istoria Castelului Fukuoka și a zonei înconjurătoare.",
                   "category": "museum",
                   "coords": [
@@ -8940,7 +8940,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多港開港六十周年記念塔",
+                  "name": "Hakata Port 60th Anniversary Memorial Tower",
                   "text": "Un monument în Fukuoka ce comemorează a 60-a aniversare a portului.",
                   "category": "historical",
                   "coords": [
@@ -8949,7 +8949,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "福岡シンフォニーオール",
+                  "name": "Fukuoka Symphony Hall",
                   "text": "O sală de concerte importantă din Fukuoka, cunoscută pentru acustica sa excelentă.",
                   "category": "cultural",
                   "coords": [
@@ -8958,7 +8958,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "サンプラザステージ",
+                  "name": "Sunplaza Stage",
                   "text": "O scenă pentru spectacole publice și evenimente în Fukuoka.",
                   "category": "cultural",
                   "coords": [
@@ -8976,7 +8976,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新天町商店街",
+                  "name": "Shintencho Shopping Arcade",
                   "text": "O stradă comercială acoperită tradițională în cartierul Tenjin din Fukuoka.",
                   "category": "landmark",
                   "coords": [
@@ -8985,7 +8985,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "長浜屋台",
+                  "name": "Nagahama Yatai",
                   "text": "O zonă din Fukuoka cunoscută pentru tarabele sale tradiționale cu mâncare stradală.",
                   "category": "landmark",
                   "coords": [
@@ -8994,7 +8994,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多みなと",
+                  "name": "Hakata Port",
                   "text": "Golful larg din Fukuoka, un loc central pentru transportul maritim și recreere.",
                   "category": "landmark",
                   "coords": [
@@ -9003,7 +9003,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "下之橋御門",
+                  "name": "Shimonohashi Gate",
                   "text": "O poartă istorică ce păzea odinioară intrarea în Castelul Fukuoka.",
                   "category": "landmark",
                   "coords": [
@@ -9012,7 +9012,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "櫛田神社飾り山笠",
+                  "name": "Kushida Shrine Kazari Yamakasa",
                   "text": "Care alegorice decorate elaborat, expuse în timpul festivalului Yamakasa din Fukuoka.",
                   "category": "landmark",
                   "coords": [
@@ -9057,7 +9057,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "博多担々麺 有吉商店",
+                  "name": "Hakata Tantanmen Ariyoshi Shoten",
                   "text": "O specialitate locală din Fukuoka, faimoasă pentru supa sa cremoasă de porc.",
                   "category": "landmark",
                   "coords": [
@@ -9584,7 +9584,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "BBプラザ美術館",
+                  "name": "BB Plaza Museum of Art",
                   "text": "BBプラザ美術館 ist ein Kunstmuseum in Kobe.",
                   "category": "museum",
                   "coords": [
@@ -9602,7 +9602,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "人と防災未来センター",
+                  "name": "The Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution",
                   "text": "Dieses Museum in Kobe erinnert an das Erdbeben von Kobe und fördert die Katastrophenprävention.",
                   "category": "museum",
                   "coords": [
@@ -9629,7 +9629,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "イタリア館",
+                  "name": "Italian Pavilion",
                   "text": "Dieses Museum in Kobe zeigt dekorative Kunst in einer historischen Residenz im westlichen Stil.",
                   "category": "museum",
                   "coords": [
@@ -9647,7 +9647,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "竹中大工道具館",
+                  "name": "Takenaka Carpentry Tools Museum",
                   "text": "Das Takenaka Carpentry Tools Museum in Kobe konzentriert sich auf traditionelle japanische Tischlerwerkzeuge.",
                   "category": "museum",
                   "coords": [
@@ -9845,7 +9845,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神戸港震災メモリアルパーク",
+                  "name": "Kobe Port Earthquake Memorial Park",
                   "text": "Der Earthquake Memorial Park in Kobe bewahrt einen Teil der beschädigten Uferpromenade als Erinnerung an das Hanshin-Erdbeben von 1995.",
                   "category": "park",
                   "coords": [
@@ -9937,7 +9937,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "BBプラザ美術館",
+                  "name": "BB Plaza Museum of Art",
                   "text": "A BBプラザ美術館 egy művészeti múzeum Kóbéban.",
                   "category": "museum",
                   "coords": [
@@ -9955,7 +9955,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "人と防災未来センター",
+                  "name": "The Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution",
                   "text": "Ez a kóbéi múzeum a nagy hansini földrengésnek állít emléket és a katasztrófamegelőzést népszerűsíti.",
                   "category": "museum",
                   "coords": [
@@ -9982,7 +9982,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "イタリア館",
+                  "name": "Italian Pavilion",
                   "text": "Ez a kóbéi múzeum egy történelmi, nyugati stílusú rezidencián mutatja be a díszítőművészetet.",
                   "category": "museum",
                   "coords": [
@@ -10009,7 +10009,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "山手八番館",
+                  "name": "Yamate Hachibankan",
                   "text": "Ez az ingatlan egy történelmi kastély és egy kiemelkedő, nyugati stílusú rezidencia Kóbéban.",
                   "category": "historical",
                   "coords": [
@@ -10036,7 +10036,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神戸新開地・喜楽館",
+                  "name": "Kobe Shinkaichi Kirakukan",
                   "text": "Ez a kóbéi színház az olyan hagyományos japán előadóművészeteknek ad otthont, mint a rakugó.",
                   "category": "cultural",
                   "coords": [
@@ -10108,7 +10108,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "南京町",
+                  "name": "Nankinmachi",
                   "text": "Nankinmachi egy nyüzsgő látványosság Kóbéban, amely a város kínai negyedeként ismert.",
                   "category": "landmark",
                   "coords": [
@@ -10189,7 +10189,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神戸布引ハーブ公園",
+                  "name": "Kobe Nunobiki Herb Gardens",
                   "text": "A Kóbe Nunobiki gyógynövénykert Japán egyik legnagyobb gyógynövényes kertje, ahonnan festői kilátás nyílik Kóbéra.",
                   "category": "park",
                   "coords": [
@@ -10290,7 +10290,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "BBプラザ美術館",
+                  "name": "BB Plaza Museum of Art",
                   "text": "BBプラザ美術館 este un muzeu de artă situat în Kobe.",
                   "category": "museum",
                   "coords": [
@@ -10308,7 +10308,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "人と防災未来センター",
+                  "name": "The Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution",
                   "text": "Acest muzeu din Kobe comemorează marele cutremur Hanshin și promovează prevenirea dezastrelor.",
                   "category": "museum",
                   "coords": [
@@ -10335,7 +10335,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "イタリア館",
+                  "name": "Italian Pavilion",
                   "text": "Acest muzeu din Kobe prezintă arte decorative într-o reședință istorică în stil occidental.",
                   "category": "museum",
                   "coords": [
@@ -10551,7 +10551,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "神戸港震災メモリアルパーク",
+                  "name": "Kobe Port Earthquake Memorial Park",
                   "text": "Parcul Memorial al Cutremurului din Kobe păstrează o secțiune a falezei avariate ca o amintire a marelui cutremur Hanshin din 1995.",
                   "category": "park",
                   "coords": [
@@ -10643,7 +10643,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "BBプラザ美術館",
+                  "name": "BB Plaza Museum of Art",
                   "text": "BBプラザ美術館 is an art museum located in Kobe.",
                   "category": "museum",
                   "coords": [
@@ -11006,7 +11006,7 @@ export const japanCities: POI[] = [
     id: "jp-hiroshima", "sights": {
       "de": [
             {
-                  "name": "頼山陽史跡資料館",
+                  "name": "Rai Sanyo Historical Museum",
                   "text": "Dieses Museum in Hiroshima bewahrt das Erbe und die Schriften des Gelehrten Rai Sanyo.",
                   "category": "museum",
                   "coords": [
@@ -11015,7 +11015,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "現代美術館",
+                  "name": "Hiroshima City Museum of Contemporary Art",
                   "text": "Das Hiroshima City Museum of Contemporary Art zeigt moderne Kunstwerke in einem markanten Gebäude.",
                   "category": "museum",
                   "coords": [
@@ -11024,7 +11024,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "江波山気象館",
+                  "name": "Ebasayama Weather Museum",
                   "text": "Dieses Museum in Hiroshima widmet sich der Meteorologie und befindet sich in einer historischen Wetterstation.",
                   "category": "museum",
                   "coords": [
@@ -11033,7 +11033,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "袋町小学校 平和資料館",
+                  "name": "Fukuro-machi Elementary School Peace Museum",
                   "text": "Dieses Museum befindet sich in einer Grundschule, die den Atombombenabwurf auf Hiroshima überstanden hat.",
                   "category": "museum",
                   "coords": [
@@ -11069,7 +11069,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市郷土資料館",
+                  "name": "Hiroshima City Museum of History and Traditional Crafts",
                   "text": "Dieses Museum zeigt die Geschichte und das traditionelle Handwerk der Stadt Hiroshima.",
                   "category": "museum",
                   "coords": [
@@ -11078,7 +11078,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "体育館",
+                  "name": "Honkawa Elementary School Gymnasium",
                   "text": "Die Turnhalle der Honkawa-Grundschule dient heute als Mahnmal und Museum für den Frieden.",
                   "category": "museum",
                   "coords": [
@@ -11150,7 +11150,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市郷土資料館サテライト",
+                  "name": "Hiroshima City Museum of History and Traditional Crafts Satellite",
                   "text": "Ein lokales Museum in Hiroshima, das sich auf Geschichte und traditionelle Kultur konzentriert.",
                   "category": "museum",
                   "coords": [
@@ -11159,7 +11159,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島平和記念資料館東館",
+                  "name": "Hiroshima Peace Memorial Museum East Building",
                   "text": "Teil des Museumskomplexes in Hiroshima, der der Geschichte des Atombombenabwurfs gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -11168,7 +11168,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島平和記念資料館本館",
+                  "name": "Hiroshima Peace Memorial Museum Main Building",
                   "text": "Das Hauptgebäude des Friedensmuseums Hiroshima, in dem Artefakte des Atombombenabwurfs ausgestellt sind.",
                   "category": "museum",
                   "coords": [
@@ -11177,7 +11177,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "中央公園ファミリープール",
+                  "name": "Chuo Park Family Pool",
                   "text": "Eine öffentliche Schwimmanlage in Hiroshima, die für die Erholung mit der Familie geeignet ist.",
                   "category": "family",
                   "coords": [
@@ -11186,7 +11186,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "YHRPミュージアム",
+                  "name": "YHRP Museum",
                   "text": "Ein Museum in Hiroshima.",
                   "category": "museum",
                   "coords": [
@@ -11195,7 +11195,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "比治山",
+                  "name": "Hijiyama Park",
                   "text": "Ein Park auf einem Hügel in Hiroshima, der für seine Kirschblüten und den Blick auf die Stadt bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -11213,7 +11213,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "レストハウス",
+                  "name": "Rest House",
                   "text": "Ein Gebäude im Friedenspark Hiroshima, das den Atombombenabwurf von 1945 überstanden hat.",
                   "category": "historical",
                   "coords": [
@@ -11222,7 +11222,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "おりづるタワー",
+                  "name": "Orizuru Tower",
                   "text": "Ein Aussichtsturm in der Nähe der Atombombenkuppel, der einen Blick über die Stadt bietet.",
                   "category": "natural",
                   "coords": [
@@ -11231,7 +11231,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balcom BMW 広島総合グランド",
+                  "name": "Balcom BMW Hiroshima General Ground",
                   "text": "Ein großer Mehrzweck-Sportpark in Hiroshima.",
                   "category": "park",
                   "coords": [
@@ -11267,7 +11267,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "スーパーハリウッド1000観音店",
+                  "name": "Super Hollywood 1000 Kanon",
                   "text": "Ein Unterhaltungszentrum im Stadtteil Kanon in Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -11312,7 +11312,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "電車見望台",
+                  "name": "Tram Observation Deck",
                   "text": "Ein Aussichtspunkt in Hiroshima, der einen Blick auf das Straßenbahnnetz der Stadt bietet.",
                   "category": "natural",
                   "coords": [
@@ -11321,7 +11321,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "平和の時計塔",
+                  "name": "Peace Clock Tower",
                   "text": "Ein symbolischer Uhrturm im Friedenspark von Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -11330,7 +11330,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "幟町カトリック教会",
+                  "name": "Memorial Cathedral for World Peace",
                   "text": "Auch als Weltfriedens-Gedächtniskathedrale bekannt, ist sie eine bedeutende katholische Kirche in Hiroshima.",
                   "category": "religious",
                   "coords": [
@@ -11339,7 +11339,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック広島教区",
+                  "name": "Catholic Hiroshima Diocese",
                   "text": "Das Verwaltungszentrum der katholischen Kirche in der Region Hiroshima.",
                   "category": "religious",
                   "coords": [
@@ -11348,7 +11348,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市役所",
+                  "name": "Hiroshima City Hall",
                   "text": "Der Verwaltungssitz der Stadtregierung von Hiroshima.",
                   "category": "historical",
                   "coords": [
@@ -11357,7 +11357,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白神社",
+                  "name": "Shirakami Shrine",
                   "text": "Ein historischer Shinto-Schrein in Hiroshima, der für seine markanten weißen Felsen bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -11366,7 +11366,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "鶴見橋",
+                  "name": "Tsurumi Bridge",
                   "text": "Eine Brücke, die den Kyobashi-Fluss in Hiroshima überquert.",
                   "category": "landmark",
                   "coords": [
@@ -11375,7 +11375,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本川橋",
+                  "name": "Honkawa Bridge",
                   "text": "Eine historische Brücke in Hiroshima, die den Honkawa-Fluss überspannt.",
                   "category": "landmark",
                   "coords": [
@@ -11384,7 +11384,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新己斐橋",
+                  "name": "Shin-Koi Bridge",
                   "text": "Eine Brückenkonstruktion in der Stadt Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -11393,7 +11393,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "レトロバスモニュメント",
+                  "name": "Retro Bus Monument",
                   "text": "Ein Denkmal mit einem Oldtimer-Bus in Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -11404,7 +11404,7 @@ export const japanCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "頼山陽史跡資料館",
+                  "name": "Rai Sanyo Historical Museum",
                   "text": "Ez a hirosimai múzeum Rai Sanyo tudós örökségét és írásait őrzi.",
                   "category": "museum",
                   "coords": [
@@ -11422,7 +11422,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "江波山気象館",
+                  "name": "Ebasayama Weather Museum",
                   "text": "Ez a hirosimai múzeum a meteorológiával foglalkozik, és egy történelmi időjárás-állomáson található.",
                   "category": "museum",
                   "coords": [
@@ -11431,7 +11431,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "袋町小学校 平和資料館",
+                  "name": "Fukuro-machi Elementary School Peace Museum",
                   "text": "Ez a múzeum egy olyan általános iskolában található, amely túlélte a hirosimai atomtámadást.",
                   "category": "museum",
                   "coords": [
@@ -11449,7 +11449,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島県立美術館",
+                  "name": "Hiroshima Prefectural Art Museum",
                   "text": "A Hirosima Prefektúra Művészeti Múzeuma jelentős japán és európai művészeti gyűjteménnyel rendelkezik.",
                   "category": "museum",
                   "coords": [
@@ -11458,7 +11458,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "5-Daysこども文化科学館",
+                  "name": "5-Days Children's Museum of Culture and Science",
                   "text": "A hirosimai gyermekmúzeum interaktív kiállításokkal és planetáriummal várja a látogatókat.",
                   "category": "museum",
                   "coords": [
@@ -11467,7 +11467,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市郷土資料館",
+                  "name": "Hiroshima City Museum of History and Traditional Crafts",
                   "text": "Ez a múzeum Hirosima városának történelmét és hagyományos mesterségeit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -11476,7 +11476,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "体育館",
+                  "name": "Honkawa Elementary School Gymnasium",
                   "text": "A Honkawa Általános Iskola tornaterme ma béke-emlékhelyként és múzeumként működik.",
                   "category": "museum",
                   "coords": [
@@ -11548,7 +11548,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市郷土資料館サテライト",
+                  "name": "Hiroshima City Museum of History and Traditional Crafts Satellite",
                   "text": "Helyi múzeum Hirosimában, amely a történelemre és a hagyományos kultúrára összpontosít.",
                   "category": "museum",
                   "coords": [
@@ -11575,7 +11575,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "中央公園ファミリープール",
+                  "name": "Chuo Park Family Pool",
                   "text": "Családi kikapcsolódásra alkalmas nyilvános uszoda Hirosimában.",
                   "category": "family",
                   "coords": [
@@ -11584,7 +11584,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "YHRPミュージアム",
+                  "name": "YHRP Museum",
                   "text": "Múzeum Hirosimában.",
                   "category": "museum",
                   "coords": [
@@ -11593,7 +11593,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "比治山",
+                  "name": "Hijiyama Park",
                   "text": "Domboldalon fekvő park Hirosimában, amely cseresznyevirágzásáról és városi kilátásáról ismert.",
                   "category": "natural",
                   "coords": [
@@ -11602,7 +11602,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "縮景園",
+                  "name": "Shukkeien Garden",
                   "text": "Történelmi japán kert Hirosimában, amelyet eredetileg 1620-ban alakítottak ki.",
                   "category": "park",
                   "coords": [
@@ -11620,7 +11620,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "おりづるタワー",
+                  "name": "Orizuru Tower",
                   "text": "Kilátótorony az Atombomba-dóm közelében, ahonnan kilátás nyílik a városra.",
                   "category": "natural",
                   "coords": [
@@ -11629,7 +11629,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balcom BMW 広島総合グランド",
+                  "name": "Balcom BMW Hiroshima General Ground",
                   "text": "Nagy méretű többfunkciós sportpark Hirosimában.",
                   "category": "park",
                   "coords": [
@@ -11665,7 +11665,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "スーパーハリウッド1000観音店",
+                  "name": "Super Hollywood 1000 Kanon",
                   "text": "Szórakoztató központ Hirosima Kanon negyedében.",
                   "category": "landmark",
                   "coords": [
@@ -11710,7 +11710,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "電車見望台",
+                  "name": "Tram Observation Deck",
                   "text": "Kilátóhely Hirosimában, ahonnan rálátni a város villamoshálózatára.",
                   "category": "natural",
                   "coords": [
@@ -11719,7 +11719,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "平和の時計塔",
+                  "name": "Peace Clock Tower",
                   "text": "Szimbolikus óratorony a hirosimai Béke Emlékparkban.",
                   "category": "landmark",
                   "coords": [
@@ -11728,7 +11728,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "幟町カトリック教会",
+                  "name": "Memorial Cathedral for World Peace",
                   "text": "A Világbéke Emlékszékesegyház néven is ismert jelentős katolikus templom Hirosimában.",
                   "category": "religious",
                   "coords": [
@@ -11746,7 +11746,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市役所",
+                  "name": "Hiroshima City Hall",
                   "text": "Hirosima városi önkormányzatának adminisztratív központja.",
                   "category": "historical",
                   "coords": [
@@ -11755,7 +11755,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白神社",
+                  "name": "Shirakami Shrine",
                   "text": "Történelmi sintó szentély Hirosimában, amely jellegzetes fehér szikláiról ismert.",
                   "category": "religious",
                   "coords": [
@@ -11764,7 +11764,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "鶴見橋",
+                  "name": "Tsurumi Bridge",
                   "text": "A Kjobasi-folyón átívelő híd Hirosimában.",
                   "category": "landmark",
                   "coords": [
@@ -11773,7 +11773,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本川橋",
+                  "name": "Honkawa Bridge",
                   "text": "Történelmi híd Hirosimában, amely a Honkava-folyó felett ível át.",
                   "category": "landmark",
                   "coords": [
@@ -11782,7 +11782,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新己斐橋",
+                  "name": "Shin-Koi Bridge",
                   "text": "Hídszerkezet Hirosima városában.",
                   "category": "landmark",
                   "coords": [
@@ -11791,7 +11791,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "レトロバスモニュメント",
+                  "name": "Retro Bus Monument",
                   "text": "Veterán buszt ábrázoló emlékmű Hirosimában.",
                   "category": "landmark",
                   "coords": [
@@ -11802,7 +11802,7 @@ export const japanCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "頼山陽史跡資料館",
+                  "name": "Rai Sanyo Historical Museum",
                   "text": "Acest muzeu din Hiroshima păstrează moștenirea și scrierile învățatului Rai Sanyo.",
                   "category": "museum",
                   "coords": [
@@ -11811,7 +11811,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "現代美術館",
+                  "name": "Hiroshima City Museum of Contemporary Art",
                   "text": "Muzeul de Artă Contemporană din Hiroshima prezintă opere moderne într-o clădire distinctivă.",
                   "category": "museum",
                   "coords": [
@@ -11847,7 +11847,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島県立美術館",
+                  "name": "Hiroshima Prefectural Art Museum",
                   "text": "Muzeul de Artă al Prefecturii Hiroshima găzduiește o colecție importantă de artă japoneză și europeană.",
                   "category": "museum",
                   "coords": [
@@ -11856,7 +11856,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "5-Daysこども文化科学館",
+                  "name": "5-Days Children's Museum of Culture and Science",
                   "text": "Muzeul Copiilor din Hiroshima oferă expoziții interactive și un planetariu.",
                   "category": "museum",
                   "coords": [
@@ -11865,7 +11865,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市郷土資料館",
+                  "name": "Hiroshima City Museum of History and Traditional Crafts",
                   "text": "Acest muzeu prezintă istoria și meșteșugurile tradiționale ale orașului Hiroshima.",
                   "category": "museum",
                   "coords": [
@@ -11874,7 +11874,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "体育館",
+                  "name": "Honkawa Elementary School Gymnasium",
                   "text": "Sala de sport a școlii primare Honkawa servește astăzi ca memorial al păcii și muzeu.",
                   "category": "museum",
                   "coords": [
@@ -11946,7 +11946,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市郷土資料館サテライト",
+                  "name": "Hiroshima City Museum of History and Traditional Crafts Satellite",
                   "text": "Un muzeu local din Hiroshima axat pe istorie și cultura tradițională.",
                   "category": "museum",
                   "coords": [
@@ -11955,7 +11955,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島平和記念資料館東館",
+                  "name": "Hiroshima Peace Memorial Museum East Building",
                   "text": "Parte a complexului muzeal din Hiroshima dedicat istoriei bombardamentului atomic.",
                   "category": "museum",
                   "coords": [
@@ -11964,7 +11964,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島平和記念資料館本館",
+                  "name": "Hiroshima Peace Memorial Museum Main Building",
                   "text": "Clădirea principală a Muzeului Memorial al Păcii din Hiroshima, care expune artefacte ale bombardamentului atomic.",
                   "category": "museum",
                   "coords": [
@@ -11973,7 +11973,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "中央公園ファミリープール",
+                  "name": "Chuo Park Family Pool",
                   "text": "O facilitate publică de înot din Hiroshima, potrivită pentru recreere în familie.",
                   "category": "family",
                   "coords": [
@@ -11982,7 +11982,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "YHRPミュージアム",
+                  "name": "YHRP Museum",
                   "text": "Un muzeu situat în Hiroshima.",
                   "category": "museum",
                   "coords": [
@@ -11991,7 +11991,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "比治山",
+                  "name": "Hijiyama Park",
                   "text": "Un parc pe un deal din Hiroshima, cunoscut pentru florile de cireș și priveliștea asupra orașului.",
                   "category": "natural",
                   "coords": [
@@ -12000,7 +12000,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "縮景園",
+                  "name": "Shukkeien Garden",
                   "text": "O grădină japoneză istorică din Hiroshima, construită inițial în 1620.",
                   "category": "park",
                   "coords": [
@@ -12009,7 +12009,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "レストハウス",
+                  "name": "Rest House",
                   "text": "O clădire din Parcul Memorial al Păcii din Hiroshima care a supraviețuit bombardamentului atomic din 1945.",
                   "category": "historical",
                   "coords": [
@@ -12018,7 +12018,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "おりづるタワー",
+                  "name": "Orizuru Tower",
                   "text": "Un turn de observație lângă Domul Bombei Atomice care oferă vedere spre oraș.",
                   "category": "natural",
                   "coords": [
@@ -12027,7 +12027,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balcom BMW 広島総合グランド",
+                  "name": "Balcom BMW Hiroshima General Ground",
                   "text": "Un parc sportiv mare, multifuncțional, situat în Hiroshima.",
                   "category": "park",
                   "coords": [
@@ -12063,7 +12063,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "スーパーハリウッド1000観音店",
+                  "name": "Super Hollywood 1000 Kanon",
                   "text": "O locație de divertisment situată în zona Kanon din Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -12108,7 +12108,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "電車見望台",
+                  "name": "Tram Observation Deck",
                   "text": "Un punct de observație din Hiroshima care oferă o vedere asupra sistemului de tramvaie al orașului.",
                   "category": "natural",
                   "coords": [
@@ -12117,7 +12117,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "平和の時計塔",
+                  "name": "Peace Clock Tower",
                   "text": "Un turn cu ceas simbolic situat în Parcul Memorial al Păcii din Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -12135,7 +12135,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "カトリック広島教区",
+                  "name": "Catholic Hiroshima Diocese",
                   "text": "Centrul administrativ al Bisericii Catolice din regiunea Hiroshima.",
                   "category": "religious",
                   "coords": [
@@ -12144,7 +12144,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "広島市役所",
+                  "name": "Hiroshima City Hall",
                   "text": "Sediul administrativ al guvernului municipal din Hiroshima.",
                   "category": "historical",
                   "coords": [
@@ -12153,7 +12153,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "白神社",
+                  "name": "Shirakami Shrine",
                   "text": "Un altar șintoist istoric din Hiroshima, cunoscut pentru rocile sale albe distinctive.",
                   "category": "religious",
                   "coords": [
@@ -12162,7 +12162,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "鶴見橋",
+                  "name": "Tsurumi Bridge",
                   "text": "Un pod care traversează râul Kyobashi în Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -12171,7 +12171,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "本川橋",
+                  "name": "Honkawa Bridge",
                   "text": "Un pod istoric din Hiroshima care traversează râul Honkawa.",
                   "category": "landmark",
                   "coords": [
@@ -12180,7 +12180,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "新己斐橋",
+                  "name": "Shin-Koi Bridge",
                   "text": "O structură de pod situată în orașul Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -12189,7 +12189,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "レトロバスモニュメント",
+                  "name": "Retro Bus Monument",
                   "text": "Un monument care prezintă un autobuz de epocă în Hiroshima.",
                   "category": "landmark",
                   "coords": [
@@ -12380,7 +12380,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "YHRPミュージアム",
+                  "name": "YHRP Museum",
                   "text": "A museum located in Hiroshima.",
                   "category": "museum",
                   "coords": [
@@ -12425,7 +12425,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balcom BMW 広島総合グランド",
+                  "name": "Balcom BMW Hiroshima General Ground",
                   "text": "A large multi-purpose athletic park located in Hiroshima.",
                   "category": "park",
                   "coords": [
@@ -12644,7 +12644,7 @@ export const japanCities: POI[] = [
     id: "jp-sendai", "sights": {
       "de": [
             {
-                  "name": "カメイ美術館",
+                  "name": "Kamei Museum",
                   "text": "Ein Museum in Sendai, das eine Sammlung von Kunst und Kokeshi-Puppen zeigt.",
                   "category": "museum",
                   "coords": [
@@ -12653,7 +12653,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台アンパンマンこどもミュージアム&モール",
+                  "name": "Sendai Anpanman Children's Museum & Mall",
                   "text": "Ein interaktives Museum in Sendai, das der beliebten Kinderfigur Anpanman gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -12662,7 +12662,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "誰も知らない劇場",
+                  "name": "Daremo Shiranai Gekijo",
                   "text": "Ein kleines Programmkino und Theater im Zentrum von Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -12680,7 +12680,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "島川美術館",
+                  "name": "Shimakawa Museum",
                   "text": "Ein Kunstmuseum in Sendai, das private Sammlungen und Ausstellungen präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -12689,7 +12689,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北福祉大学芹沢銈介美術工芸館",
+                  "name": "Tohoku Fukushi University Serizawa Keisuke Art & Craft Museum",
                   "text": "Ein Museum in Sendai, das dem Werk des Textildesigners Serizawa Keisuke gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -12698,7 +12698,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台城",
+                  "name": "Sendai Castle",
                   "text": "Die historische Stätte der Burg von Date Masamune in Sendai.",
                   "category": "castle",
                   "coords": [
@@ -12707,7 +12707,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台市歴史民俗資料館",
+                  "name": "Sendai City Museum of History and Folklore",
                   "text": "Ein Museum in Sendai, das die lokale Geschichte und Volkskultur dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -12716,7 +12716,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北大学植物園",
+                  "name": "Tohoku University Botanical Garden",
                   "text": "Ein botanischer Garten der Universität Tohoku, der eine Vielzahl lokaler Pflanzen zeigt.",
                   "category": "museum",
                   "coords": [
@@ -12725,7 +12725,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "川内萩ホール",
+                  "name": "Kawauchi Hagi Hall",
                   "text": "Eine moderne Konzerthalle auf dem Campus der Universität Tohoku in Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -12734,7 +12734,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "電力ホール",
+                  "name": "Denryoku Hall",
                   "text": "Ein etablierter Veranstaltungsort für Theater und Konzerte in der Innenstadt von Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -12743,7 +12743,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台Macana",
+                  "name": "Sendai Macana",
                   "text": "Ein beliebter Club in Sendai für Live-Rockmusik und lokale Bands.",
                   "category": "cultural",
                   "coords": [
@@ -12752,7 +12752,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ケーズスタジオ",
+                  "name": "K's Studio",
                   "text": "Ein kleines Studio und Veranstaltungsraum für darstellende Künste in Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -12761,7 +12761,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Live House 仙台 Flying Son",
+                  "name": "Live House Sendai Flying Son",
                   "text": "Ein intimer Veranstaltungsort für Live-Musik und Underground-Konzerte in Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -12779,7 +12779,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台darwin",
+                  "name": "Sendai Darwin",
                   "text": "Ein mittelgroßer Club in Sendai, der regelmäßig Konzerte verschiedener Genres hostet.",
                   "category": "cultural",
                   "coords": [
@@ -12797,7 +12797,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙臺箪笥歴史工芸館",
+                  "name": "Sendai Tansu Museum",
                   "text": "Ein Spezialmuseum in Sendai, das der traditionellen Handwerkskunst der Tansu-Schränke gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -12806,7 +12806,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "伊達家伯記念會",
+                  "name": "Date Family Memorial Hall",
                   "text": "Ein Museum in Sendai, das historische Artefakte der Date-Familie bewahrt.",
                   "category": "museum",
                   "coords": [
@@ -12815,7 +12815,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "多夢多夢舎 中山工房",
+                  "name": "Tamutamu-sha Nakayama Workshop",
                   "text": "Ein kleines Privatmuseum in Sendai mit einer eklektischen Sammlung.",
                   "category": "museum",
                   "coords": [
@@ -12824,7 +12824,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北電労会館",
+                  "name": "Tohoku Denro Kaikan",
                   "text": "Ein multifunktionaler Saal in Sendai, der für verschiedene kulturelle Veranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
@@ -12833,7 +12833,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "スペースゼロ",
+                  "name": "Space Zero",
                   "text": "Ein flexibler Veranstaltungsraum für Theateraufführungen und Kunstevents in Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -12851,7 +12851,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "勾当台公園 野外音楽堂",
+                  "name": "Kotodai Park Outdoor Concert Hall",
                   "text": "Eine Freiluftbühne im Kotodai-Park von Sendai für öffentliche Konzerte.",
                   "category": "cultural",
                   "coords": [
@@ -12860,7 +12860,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台サンプラザホール",
+                  "name": "Sendai Sunplaza Hall",
                   "text": "Ein großer Veranstaltungskomplex in Sendai für Konzerte und große Versammlungen.",
                   "category": "cultural",
                   "coords": [
@@ -12869,7 +12869,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "野外ステージ",
+                  "name": "Outdoor Stage",
                   "text": "Eine Bühne unter freiem Himmel in Sendai für saisonale Aufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -12878,7 +12878,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "芭蕉の辻",
+                  "name": "Basho no Tsuji",
                   "text": "Ein historischer Kreuzungspunkt in Sendai mit symbolischer Bedeutung für die Stadt.",
                   "category": "natural",
                   "coords": [
@@ -12887,7 +12887,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "晩翠草堂",
+                  "name": "Bansui Sodo",
                   "text": "Ein ehemaliges Wohnhaus eines Dichters in Sendai, das heute als Gedenkstätte dient.",
                   "category": "natural",
                   "coords": [
@@ -12896,7 +12896,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ねこロード",
+                  "name": "Neko Road",
                   "text": "Ein informell bekannter Bereich in Sendai, in dem oft Katzen anzutreffen sind.",
                   "category": "landmark",
                   "coords": [
@@ -12905,7 +12905,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ビリヤード&ダーツ Winner",
+                  "name": "Billiards & Darts Winner",
                   "text": "Ein Freizeitzentrum in Sendai für Billard- und Dart-Liebhaber.",
                   "category": "landmark",
                   "coords": [
@@ -12914,7 +12914,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台市川内庭球場",
+                  "name": "Sendai City Kawauchi Tennis Court",
                   "text": "Öffentliche Tennisplätze im Kawauchi-Viertel von Sendai.",
                   "category": "landmark",
                   "coords": [
@@ -12923,7 +12923,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台朝市",
+                  "name": "Sendai Morning Market",
                   "text": "Ein lebhafter Morgenmarkt in Sendai mit frischen Lebensmitteln und lokalen Produkten.",
                   "category": "landmark",
                   "coords": [
@@ -12932,7 +12932,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "上杉山橋跡",
+                  "name": "Uesugiyama Bridge Ruins",
                   "text": "Die historische Stätte einer ehemaligen Brücke im Zentrum von Sendai.",
                   "category": "natural",
                   "coords": [
@@ -12941,7 +12941,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ストリートダンススクール Favorite",
+                  "name": "Favorite Street Dance School",
                   "text": "Eine lokale Attraktion in Sendai.",
                   "category": "landmark",
                   "coords": [
@@ -12950,7 +12950,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "千体仏",
+                  "name": "Sentai Butsu",
                   "text": "Ein Aussichtspunkt, der einen Blick auf die Umgebung von Sendai bietet.",
                   "category": "natural",
                   "coords": [
@@ -12959,7 +12959,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "瞑想の松",
+                  "name": "Meiso no Matsu",
                   "text": "Ein malerischer Aussichtspunkt in der Stadt Sendai.",
                   "category": "natural",
                   "coords": [
@@ -12968,7 +12968,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "リバサイドの友好の鐘",
+                  "name": "Riverside Friendship Bell",
                   "text": "Ein Denkmal in Sendai, das der Freundschaft gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -12977,7 +12977,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "七十七銀行",
+                  "name": "77 Bank",
                   "text": "Ein lokales Denkmal in Sendai.",
                   "category": "historical",
                   "coords": [
@@ -12986,7 +12986,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台みそ発祥の地",
+                  "name": "Birthplace of Sendai Miso",
                   "text": "Ein Denkmal, das den Ursprungsort des Sendai-Miso markiert.",
                   "category": "historical",
                   "coords": [
@@ -12995,7 +12995,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー杜間道",
+                  "name": "Gallery Tokando",
                   "text": "Eine Kunstgalerie in Sendai, die verschiedene Werke ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -13004,7 +13004,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "TFUギャラリーミニモリ",
+                  "name": "TFU Gallery Minimori",
                   "text": "Eine kleine Kunstgalerie in der Stadt Sendai.",
                   "category": "museum",
                   "coords": [
@@ -13013,7 +13013,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "エアロ5",
+                  "name": "Aero 5",
                   "text": "Eine lokale Attraktion in Sendai.",
                   "category": "landmark",
                   "coords": [
@@ -13022,7 +13022,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台ホサナ教会",
+                  "name": "Sendai Hosanna Church",
                   "text": "Eine christliche Gebetsstätte in Sendai.",
                   "category": "religious",
                   "coords": [
@@ -13033,7 +13033,7 @@ export const japanCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "カメイ美術館",
+                  "name": "Kamei Museum",
                   "text": "Szendai múzeuma, amely művészeti alkotásokat és kokesi babákat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -13042,7 +13042,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台アンパンマンこどもミュージアム&モール",
+                  "name": "Sendai Anpanman Children's Museum & Mall",
                   "text": "Interaktív múzeum Szendai városában, amelyet a népszerű Anpanman mesefigurának szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -13051,7 +13051,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "誰も知らない劇場",
+                  "name": "Daremo Shiranai Gekijo",
                   "text": "Kisméretű művészmozi és színház Szendai központjában.",
                   "category": "cultural",
                   "coords": [
@@ -13069,7 +13069,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "島川美術館",
+                  "name": "Shimakawa Museum",
                   "text": "Művészeti múzeum Szendaiban, amely magángyűjteményeket és kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -13078,7 +13078,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北福祉大学芹沢銈介美術工芸館",
+                  "name": "Tohoku Fukushi University Serizawa Keisuke Art & Craft Museum",
                   "text": "Szendai múzeuma, amelyet Szerizava Keiszuke textiltervező munkásságának szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -13087,7 +13087,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台城",
+                  "name": "Sendai Castle",
                   "text": "Date Maszamune egykori várának történelmi helyszíne Szendaiban.",
                   "category": "castle",
                   "coords": [
@@ -13096,7 +13096,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台市歴史民俗資料館",
+                  "name": "Sendai City Museum of History and Folklore",
                   "text": "Szendai múzeuma, amely a helyi történelmet és néprajzot mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -13105,7 +13105,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北大学植物園",
+                  "name": "Tohoku University Botanical Garden",
                   "text": "A Tohoku Egyetem botanikus kertje, amely számos helyi növényfajt mutat be.",
                   "category": "museum",
                   "coords": [
@@ -13114,7 +13114,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "川内萩ホール",
+                  "name": "Kawauchi Hagi Hall",
                   "text": "Modern hangversenyterem a Tohoku Egyetem kampuszán, Szendaiban.",
                   "category": "cultural",
                   "coords": [
@@ -13123,7 +13123,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "電力ホール",
+                  "name": "Denryoku Hall",
                   "text": "Színházi előadások és koncertek kedvelt helyszíne Szendai belvárosában.",
                   "category": "cultural",
                   "coords": [
@@ -13132,7 +13132,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台Macana",
+                  "name": "Sendai Macana",
                   "text": "Népszerű klub Szendaiban élő rockzene és helyi együttesek számára.",
                   "category": "cultural",
                   "coords": [
@@ -13141,7 +13141,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ケーズスタジオ",
+                  "name": "K's Studio",
                   "text": "Kisméretű stúdió és előadótér előadóművészetek számára Szendaiban.",
                   "category": "cultural",
                   "coords": [
@@ -13150,7 +13150,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Live House 仙台 Flying Son",
+                  "name": "Live House Sendai Flying Son",
                   "text": "Hangulatos élőzenei helyszín és underground koncertek tere Szendaiban.",
                   "category": "cultural",
                   "coords": [
@@ -13168,7 +13168,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台darwin",
+                  "name": "Sendai Darwin",
                   "text": "Közepes méretű klub Szendaiban, amely rendszeresen ad otthont különféle műfajú koncerteknek.",
                   "category": "cultural",
                   "coords": [
@@ -13177,7 +13177,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "瑞鳳殿資料館",
+                  "name": "Zuihoden Museum",
                   "text": "Date Maszamune, Szendai alapítója számára emelt díszes mauzóleum.",
                   "category": "museum",
                   "coords": [
@@ -13186,7 +13186,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙臺箪笥歴史工芸館",
+                  "name": "Sendai Tansu Museum",
                   "text": "Szendai különleges múzeuma, amelyet a hagyományos tansu szekrénykészítésnek szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -13195,7 +13195,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "伊達家伯記念會",
+                  "name": "Date Family Memorial Hall",
                   "text": "Szendai múzeuma, amely a Date család történelmi emlékeit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -13204,7 +13204,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "多夢多夢舎 中山工房",
+                  "name": "Tamutamu-sha Nakayama Workshop",
                   "text": "Kisméretű magánmúzeum Szendaiban, különleges gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
@@ -13213,7 +13213,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北電労会館",
+                  "name": "Tohoku Denro Kaikan",
                   "text": "Többfunkciós terem Szendaiban, amelyet különféle kulturális eseményekre használnak.",
                   "category": "cultural",
                   "coords": [
@@ -13222,7 +13222,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "スペースゼロ",
+                  "name": "Space Zero",
                   "text": "Rugalmas előadótér színházi és művészeti események számára Szendaiban.",
                   "category": "cultural",
                   "coords": [
@@ -13240,7 +13240,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "勾当台公園 野外音楽堂",
+                  "name": "Kotodai Park Outdoor Concert Hall",
                   "text": "Szabadtéri színpad a szendai Kotodai parkban nyilvános koncertek számára.",
                   "category": "cultural",
                   "coords": [
@@ -13249,7 +13249,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台サンプラザホール",
+                  "name": "Sendai Sunplaza Hall",
                   "text": "Nagy rendezvényközpont Szendaiban koncertek és jelentős események számára.",
                   "category": "cultural",
                   "coords": [
@@ -13258,7 +13258,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "野外ステージ",
+                  "name": "Outdoor Stage",
                   "text": "Szabadtéri színpad Szendaiban időszakos előadások számára.",
                   "category": "cultural",
                   "coords": [
@@ -13267,7 +13267,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "芭蕉の辻",
+                  "name": "Basho no Tsuji",
                   "text": "Történelmi kereszteződés Szendaiban, amely a város szimbolikus pontja.",
                   "category": "natural",
                   "coords": [
@@ -13276,7 +13276,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "晩翠草堂",
+                  "name": "Bansui Sodo",
                   "text": "Egy költő egykori lakóháza Szendaiban, amely ma emlékhelyként szolgál.",
                   "category": "natural",
                   "coords": [
@@ -13285,7 +13285,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ねこロード",
+                  "name": "Neko Road",
                   "text": "Szendai egyik környéke, amely macskáiról vált ismertté a látogatók körében.",
                   "category": "landmark",
                   "coords": [
@@ -13294,7 +13294,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ビリヤード&ダーツ Winner",
+                  "name": "Billiards & Darts Winner",
                   "text": "Szabadidős központ Szendaiban biliárd- és darts-kedvelők számára.",
                   "category": "landmark",
                   "coords": [
@@ -13303,7 +13303,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台市川内庭球場",
+                  "name": "Sendai City Kawauchi Tennis Court",
                   "text": "Nyilvános teniszpályák Szendai Kavaucsi negyedében.",
                   "category": "landmark",
                   "coords": [
@@ -13312,7 +13312,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台朝市",
+                  "name": "Sendai Morning Market",
                   "text": "Nyüzsgő reggeli piac Szendaiban friss élelmiszerekkel és helyi termékekkel.",
                   "category": "landmark",
                   "coords": [
@@ -13321,7 +13321,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "上杉山橋跡",
+                  "name": "Uesugiyama Bridge Ruins",
                   "text": "Egy egykori híd történelmi helyszíne Szendai központjában.",
                   "category": "natural",
                   "coords": [
@@ -13330,7 +13330,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ストリートダンススクール Favorite",
+                  "name": "Favorite Street Dance School",
                   "text": "Helyi látnivaló Szendaiban.",
                   "category": "landmark",
                   "coords": [
@@ -13339,7 +13339,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "千体仏",
+                  "name": "Sentai Butsu",
                   "text": "Kilátóhely, amely rálátást nyújt Szendai környékére.",
                   "category": "natural",
                   "coords": [
@@ -13348,7 +13348,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "瞑想の松",
+                  "name": "Meiso no Matsu",
                   "text": "Gleccseres kilátópont Szendai városában.",
                   "category": "natural",
                   "coords": [
@@ -13357,7 +13357,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "リバサイドの友好の鐘",
+                  "name": "Riverside Friendship Bell",
                   "text": "A barátságnak szentelt emlékmű Szendaiban.",
                   "category": "historical",
                   "coords": [
@@ -13366,7 +13366,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "七十七銀行",
+                  "name": "77 Bank",
                   "text": "Helyi emlékmű Szendaiban.",
                   "category": "historical",
                   "coords": [
@@ -13375,7 +13375,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台みそ発祥の地",
+                  "name": "Birthplace of Sendai Miso",
                   "text": "Emlékmű, amely a szendai miszo származási helyét jelöli.",
                   "category": "historical",
                   "coords": [
@@ -13384,7 +13384,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー杜間道",
+                  "name": "Gallery Tokando",
                   "text": "Művészeti galéria Szendaiban, amely különféle alkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -13393,7 +13393,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "TFUギャラリーミニモリ",
+                  "name": "TFU Gallery Minimori",
                   "text": "Kisméretű művészeti galéria Szendai városában.",
                   "category": "museum",
                   "coords": [
@@ -13402,7 +13402,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "エアロ5",
+                  "name": "Aero 5",
                   "text": "Helyi szórakoztató egység Szendaiban.",
                   "category": "landmark",
                   "coords": [
@@ -13411,7 +13411,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台ホサナ教会",
+                  "name": "Sendai Hosanna Church",
                   "text": "Keresztény vallási hely Szendaiban.",
                   "category": "religious",
                   "coords": [
@@ -13422,7 +13422,7 @@ export const japanCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "カメイ美術館",
+                  "name": "Kamei Museum",
                   "text": "Un muzeu din Sendai care expune o colecție de artă și păpuși Kokeshi.",
                   "category": "museum",
                   "coords": [
@@ -13431,7 +13431,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台アンパンマンこどもミュージアム&モール",
+                  "name": "Sendai Anpanman Children's Museum & Mall",
                   "text": "Un muzeu interactiv din Sendai dedicat popularului personaj pentru copii Anpanman.",
                   "category": "museum",
                   "coords": [
@@ -13440,7 +13440,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "誰も知らない劇場",
+                  "name": "Daremo Shiranai Gekijo",
                   "text": "Un mic cinematograf de artă și teatru situat în centrul orașului Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -13458,7 +13458,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "島川美術館",
+                  "name": "Shimakawa Museum",
                   "text": "Un muzeu de artă din Sendai care prezintă colecții private și expoziții.",
                   "category": "museum",
                   "coords": [
@@ -13467,7 +13467,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北福祉大学芹沢銈介美術工芸館",
+                  "name": "Tohoku Fukushi University Serizawa Keisuke Art & Craft Museum",
                   "text": "Un muzeu din Sendai dedicat operei designerului textil Serizawa Keisuke.",
                   "category": "museum",
                   "coords": [
@@ -13476,7 +13476,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台城",
+                  "name": "Sendai Castle",
                   "text": "Situl istoric al castelului lui Date Masamune din Sendai.",
                   "category": "castle",
                   "coords": [
@@ -13485,7 +13485,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台市歴史民俗資料館",
+                  "name": "Sendai City Museum of History and Folklore",
                   "text": "Un muzeu din Sendai care documentează istoria locală și cultura populară.",
                   "category": "museum",
                   "coords": [
@@ -13494,7 +13494,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北大学植物園",
+                  "name": "Tohoku University Botanical Garden",
                   "text": "O grădină botanică a Universității Tohoku, care prezintă o varietate de plante locale.",
                   "category": "museum",
                   "coords": [
@@ -13503,7 +13503,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "川内萩ホール",
+                  "name": "Kawauchi Hagi Hall",
                   "text": "O sală de concerte modernă situată în campusul Universității Tohoku din Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -13512,7 +13512,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "電力ホール",
+                  "name": "Denryoku Hall",
                   "text": "O locație consacrată pentru teatru și concerte în centrul orașului Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -13521,7 +13521,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台Macana",
+                  "name": "Sendai Macana",
                   "text": "Un club popular din Sendai pentru muzică rock live și trupe locale.",
                   "category": "cultural",
                   "coords": [
@@ -13530,7 +13530,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ケーズスタジオ",
+                  "name": "K's Studio",
                   "text": "Un mic studio și spațiu de spectacol pentru artele scenei în Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -13539,7 +13539,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Live House 仙台 Flying Son",
+                  "name": "Live House Sendai Flying Son",
                   "text": "O locație intimă pentru muzică live și concerte underground în Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -13557,7 +13557,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台darwin",
+                  "name": "Sendai Darwin",
                   "text": "Un club de dimensiuni medii din Sendai care găzduiește regulat concerte din diverse genuri.",
                   "category": "cultural",
                   "coords": [
@@ -13566,7 +13566,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "瑞鳳殿資料館",
+                  "name": "Zuihoden Museum",
                   "text": "Mausoleul magnific al lui Date Masamune, fondatorul orașului Sendai.",
                   "category": "museum",
                   "coords": [
@@ -13575,7 +13575,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙臺箪笥歴史工芸館",
+                  "name": "Sendai Tansu Museum",
                   "text": "Un muzeu specializat din Sendai dedicat meșteșugului tradițional al dulapurilor Tansu.",
                   "category": "museum",
                   "coords": [
@@ -13584,7 +13584,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "伊達家伯記念會",
+                  "name": "Date Family Memorial Hall",
                   "text": "Un muzeu din Sendai care păstrează artefacte istorice ale familiei Date.",
                   "category": "museum",
                   "coords": [
@@ -13593,7 +13593,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "多夢多夢舎 中山工房",
+                  "name": "Tamutamu-sha Nakayama Workshop",
                   "text": "Un mic muzeu privat din Sendai cu o colecție eclectică.",
                   "category": "museum",
                   "coords": [
@@ -13602,7 +13602,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "東北電労会館",
+                  "name": "Tohoku Denro Kaikan",
                   "text": "O sală multifuncțională din Sendai utilizată pentru diverse evenimente culturale.",
                   "category": "cultural",
                   "coords": [
@@ -13611,7 +13611,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "スペースゼロ",
+                  "name": "Space Zero",
                   "text": "Un spațiu de spectacol flexibil pentru teatru și evenimente artistice în Sendai.",
                   "category": "cultural",
                   "coords": [
@@ -13629,7 +13629,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "勾当台公園 野外音楽堂",
+                  "name": "Kotodai Park Outdoor Concert Hall",
                   "text": "O scenă în aer liber în parcul Kotodai din Sendai pentru concerte publice.",
                   "category": "cultural",
                   "coords": [
@@ -13638,7 +13638,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台サンプラザホール",
+                  "name": "Sendai Sunplaza Hall",
                   "text": "Un complex mare de evenimente din Sendai pentru concerte și adunări majore.",
                   "category": "cultural",
                   "coords": [
@@ -13647,7 +13647,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "野外ステージ",
+                  "name": "Outdoor Stage",
                   "text": "O scenă în aer liber în Sendai pentru spectacole sezoniere.",
                   "category": "cultural",
                   "coords": [
@@ -13656,7 +13656,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "芭蕉の辻",
+                  "name": "Basho no Tsuji",
                   "text": "O intersecție istorică din Sendai cu semnificație simbolică pentru oraș.",
                   "category": "natural",
                   "coords": [
@@ -13665,7 +13665,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "晩翠草堂",
+                  "name": "Bansui Sodo",
                   "text": "Fosta reședință a unui poet din Sendai, care acum servește ca loc memorial.",
                   "category": "natural",
                   "coords": [
@@ -13674,7 +13674,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ねこロード",
+                  "name": "Neko Road",
                   "text": "O zonă din Sendai cunoscută neoficial pentru prezența frecventă a pisicilor.",
                   "category": "landmark",
                   "coords": [
@@ -13683,7 +13683,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ビリヤード&ダーツ Winner",
+                  "name": "Billiards & Darts Winner",
                   "text": "Un centru de recreere din Sendai pentru amatorii de biliard și darts.",
                   "category": "landmark",
                   "coords": [
@@ -13692,7 +13692,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台市川内庭球場",
+                  "name": "Sendai City Kawauchi Tennis Court",
                   "text": "Terenuri de tenis publice situate în cartierul Kawauchi din Sendai.",
                   "category": "landmark",
                   "coords": [
@@ -13701,7 +13701,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台朝市",
+                  "name": "Sendai Morning Market",
                   "text": "O piață de dimineață animată din Sendai, cu alimente proaspete și produse locale.",
                   "category": "landmark",
                   "coords": [
@@ -13710,7 +13710,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "上杉山橋跡",
+                  "name": "Uesugiyama Bridge Ruins",
                   "text": "Situl istoric al unui fost pod în centrul orașului Sendai.",
                   "category": "natural",
                   "coords": [
@@ -13719,7 +13719,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ストリートダンススクール Favorite",
+                  "name": "Favorite Street Dance School",
                   "text": "O atracție locală din Sendai.",
                   "category": "landmark",
                   "coords": [
@@ -13728,7 +13728,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "千体仏",
+                  "name": "Sentai Butsu",
                   "text": "Un punct de belvedere ce oferă o priveliște asupra împrejurimilor orașului Sendai.",
                   "category": "natural",
                   "coords": [
@@ -13737,7 +13737,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "瞑想の松",
+                  "name": "Meiso no Matsu",
                   "text": "Un punct de belvedere pitoresc în orașul Sendai.",
                   "category": "natural",
                   "coords": [
@@ -13746,7 +13746,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "リバサイドの友好の鐘",
+                  "name": "Riverside Friendship Bell",
                   "text": "Un monument din Sendai dedicat prieteniei.",
                   "category": "historical",
                   "coords": [
@@ -13755,7 +13755,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "七十七銀行",
+                  "name": "77 Bank",
                   "text": "Un monument local în Sendai.",
                   "category": "historical",
                   "coords": [
@@ -13764,7 +13764,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台みそ発祥の地",
+                  "name": "Birthplace of Sendai Miso",
                   "text": "Un monument care marchează locul de origine al Sendai Miso.",
                   "category": "historical",
                   "coords": [
@@ -13773,7 +13773,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ギャラリー杜間道",
+                  "name": "Gallery Tokando",
                   "text": "O galerie de artă din Sendai ce expune diverse lucrări.",
                   "category": "museum",
                   "coords": [
@@ -13782,7 +13782,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "TFUギャラリーミニモリ",
+                  "name": "TFU Gallery Minimori",
                   "text": "O mică galerie de artă situată în orașul Sendai.",
                   "category": "museum",
                   "coords": [
@@ -13791,7 +13791,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "エアロ5",
+                  "name": "Aero 5",
                   "text": "O atracție locală în Sendai.",
                   "category": "landmark",
                   "coords": [
@@ -13800,7 +13800,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "仙台ホサナ教会",
+                  "name": "Sendai Hosanna Church",
                   "text": "Un lăcaș de cult creștin în Sendai.",
                   "category": "religious",
                   "coords": [
@@ -14072,7 +14072,7 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "ビリヤード&ダーツ Winner",
+                  "name": "Billiards & Darts Winner",
                   "text": "A recreation center in Sendai for billiards and darts enthusiasts.",
                   "category": "landmark",
                   "coords": [

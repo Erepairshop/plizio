@@ -277,7 +277,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-al-jahra-cities-v2", "sights": {
       "de": [
             {
-                  "name": "القصر الأحمر",
+                  "name": "Red Palace",
                   "text": "Historisches Fort in Al Jahra.",
                   "category": "fortress",
                   "coords": [
@@ -295,7 +295,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرح لاند",
+                  "name": "Messilah Fun Land",
                   "text": "Freizeitpark in Al Jahra.",
                   "category": "family",
                   "coords": [
@@ -306,7 +306,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "القصر الأحمر",
+                  "name": "Red Palace",
                   "text": "Történelmi erőd Al Jahrában.",
                   "category": "fortress",
                   "coords": [
@@ -324,7 +324,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرح لاند",
+                  "name": "Messilah Fun Land",
                   "text": "Vidámpark Al Jahrában.",
                   "category": "family",
                   "coords": [
@@ -335,7 +335,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "القصر الأحمر",
+                  "name": "Red Palace",
                   "text": "Fortăreață istorică în Al Jahra.",
                   "category": "fortress",
                   "coords": [
@@ -353,7 +353,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرح لاند",
+                  "name": "Messilah Fun Land",
                   "text": "Parc tematic în Al Jahra.",
                   "category": "family",
                   "coords": [
@@ -1117,7 +1117,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-jleeb-al-shuyoukh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "الحصاوى",
+                  "name": "Al-Hasawi",
                   "text": "Attraktion in Jleeb Al-Shuyoukh.",
                   "category": "landmark",
                   "coords": [
@@ -1126,7 +1126,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "صالون شذر",
+                  "name": "Shathur Salon",
                   "text": "Aussichtspunkt in Jleeb Al-Shuyoukh.",
                   "category": "natural",
                   "coords": [
@@ -1137,7 +1137,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "الحصاوى",
+                  "name": "Al-Hasawi",
                   "text": "Látnivaló Jleeb Al-Shuyoukhban.",
                   "category": "landmark",
                   "coords": [
@@ -1146,7 +1146,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "صالون شذر",
+                  "name": "Shathur Salon",
                   "text": "Kilátó Jleeb Al-Shuyoukhban.",
                   "category": "natural",
                   "coords": [
@@ -1157,7 +1157,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "الحصاوى",
+                  "name": "Al-Hasawi",
                   "text": "Atracție în Jleeb Al-Shuyoukh.",
                   "category": "landmark",
                   "coords": [
@@ -1166,7 +1166,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "صالون شذر",
+                  "name": "Shathur Salon",
                   "text": "Punct de observație în Jleeb Al-Shuyoukh.",
                   "category": "natural",
                   "coords": [
@@ -1177,7 +1177,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "الحصاوى",
+                  "name": "Al-Hasawi",
                   "text": "Attraction in Jleeb Al-Shuyoukh.",
                   "category": "landmark",
                   "coords": [
@@ -1714,7 +1714,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-jabriya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tareq Rajab Museum",
                   "text": "Museum für islamische Kunst in Jabriya.",
                   "category": "museum",
                   "coords": [
@@ -1723,7 +1723,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الشيخ عبدالله السالم الثقافي",
+                  "name": "Sheikh Abdullah Al Salem Cultural Centre",
                   "text": "Kulturzentrum in Jabriya.",
                   "category": "museum",
                   "coords": [
@@ -1734,7 +1734,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tareq Rajab Museum",
                   "text": "Iszlám művészeti múzeum Jabriyában.",
                   "category": "museum",
                   "coords": [
@@ -1743,7 +1743,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الشيخ عبدالله السالم الثقافي",
+                  "name": "Sheikh Abdullah Al Salem Cultural Centre",
                   "text": "Kulturális központ Jabriyában.",
                   "category": "museum",
                   "coords": [
@@ -1754,7 +1754,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tareq Rajab Museum",
                   "text": "Muzeu de artă islamică în Jabriya.",
                   "category": "museum",
                   "coords": [
@@ -1763,7 +1763,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الشيخ عبدالله السالم الثقافي",
+                  "name": "Sheikh Abdullah Al Salem Cultural Centre",
                   "text": "Centru cultural în Jabriya.",
                   "category": "museum",
                   "coords": [
@@ -1883,7 +1883,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-bayan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tareq Rajab Museum",
                   "text": "Das Tariq Rajab Museum in Bayan beherbergt eine bedeutende Sammlung islamischer Kunst und Artefakte.",
                   "category": "museum",
                   "coords": [
@@ -1894,7 +1894,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tareq Rajab Museum",
                   "text": "A bajani Tariq Rajab Museum iszlám művészetet és műtárgyakat bemutató jelentős gyűjteménynek ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -1905,7 +1905,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف طارق رجب",
+                  "name": "Tareq Rajab Museum",
                   "text": "Tariq Rajab Museum din Bayan găzduiește o colecție importantă de artă și artefacte islamice.",
                   "category": "museum",
                   "coords": [
@@ -1981,7 +1981,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "صالون شذر",
+                  "name": "Shathur Salon",
                   "text": "Aussichtspunkt in Ardhiya.",
                   "category": "natural",
                   "coords": [
@@ -2001,7 +2001,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "صالون شذر",
+                  "name": "Shathur Salon",
                   "text": "Kilátó Ardhiyában.",
                   "category": "natural",
                   "coords": [
@@ -2021,7 +2021,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "صالون شذر",
+                  "name": "Shathur Salon",
                   "text": "Punct de observație în Ardhiya.",
                   "category": "natural",
                   "coords": [
@@ -2740,7 +2740,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عكاز",
+                  "name": "Akkaz",
                   "text": "Akkaz egy figyelemre méltó régészeti lelőhely Suvajhban.",
                   "category": "historical",
                   "coords": [
@@ -2961,7 +2961,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "مسرح مدرسة عبد الله الجابر ist ein Theater in der Stadt Surra.",
                   "category": "cultural",
                   "coords": [
@@ -2981,7 +2981,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "A مسرح مدرسة عبد الله الجابر egy színház Surra városában.",
                   "category": "cultural",
                   "coords": [
@@ -3001,7 +3001,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "مسرح مدرسة عبد الله الجابر este un teatru din orașul Surra.",
                   "category": "cultural",
                   "coords": [
@@ -3021,7 +3021,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "مسرح مدرسة عبد الله الجابر is a theatre located in the city of Surra.",
                   "category": "cultural",
                   "coords": [
@@ -3077,7 +3077,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-qurtuba-cities-v2", "sights": {
       "de": [
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "مسرح مدرسة عبد الله الجابر ist ein Theater- und Aufführungsraum in Qurtuba.",
                   "category": "cultural",
                   "coords": [
@@ -3088,7 +3088,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "A مسرح مدرسة عبد الله الجابر egy színházi és előadótér Qurtubában.",
                   "category": "cultural",
                   "coords": [
@@ -3099,7 +3099,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "مسرح مدرسة عبد الله الجابر este un teatru și un spațiu de spectacole situat în Qurtuba.",
                   "category": "cultural",
                   "coords": [
@@ -3110,7 +3110,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "مسرح مدرسة عبد الله الجابر",
+                  "name": "Abdullah Al-Jaber School Theater",
                   "text": "مسرح مدرسة عبد الله الجابر is a theatre and performance space situated in Qurtuba.",
                   "category": "cultural",
                   "coords": [

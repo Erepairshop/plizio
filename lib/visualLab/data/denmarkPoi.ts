@@ -13577,7 +13577,7 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "SPACE / 宇宙",
+                  "name": "Space Gallery",
                   "text": "SPACE / 宇宙 ist eine Galerie in Kolding.",
                   "category": "museum",
                   "coords": [
@@ -13957,7 +13957,7 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "SPACE / 宇宙",
+                  "name": "Space Gallery",
                   "text": "A SPACE / 宇宙 egy galéria Kolding városában.",
                   "category": "museum",
                   "coords": [
@@ -14337,7 +14337,7 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "SPACE / 宇宙",
+                  "name": "Space Gallery",
                   "text": "SPACE / 宇宙 este o galerie din Kolding.",
                   "category": "museum",
                   "coords": [
@@ -14717,7 +14717,7 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "SPACE / 宇宙",
+                  "name": "Space Gallery",
                   "text": "SPACE / 宇宙 is a gallery in Kolding.",
                   "category": "museum",
                   "coords": [

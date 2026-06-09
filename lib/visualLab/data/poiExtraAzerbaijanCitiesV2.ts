@@ -1544,7 +1544,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dairәvi Qala",
+                  "name": "Circular Fortress",
                   "text": "Dairәvi Qala ist eine kreisförmige Burgruine in der Stadt Lənkəran.",
                   "category": "castle",
                   "coords": [
@@ -1600,7 +1600,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dairәvi Qala",
+                  "name": "Circular Fortress",
                   "text": "A Dairәvi Qala egy kör alakú kastélyépítmény Lənkəran városában.",
                   "category": "castle",
                   "coords": [
@@ -1656,7 +1656,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dairәvi Qala",
+                  "name": "Circular Fortress",
                   "text": "Dairәvi Qala este o structură circulară de castel situată în orașul Lənkəran.",
                   "category": "castle",
                   "coords": [
@@ -1712,7 +1712,7 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dairәvi Qala",
+                  "name": "Circular Fortress",
                   "text": "Dairәvi Qala is a circular castle structure located in the city of Lənkəran.",
                   "category": "castle",
                   "coords": [

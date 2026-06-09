@@ -1084,7 +1084,7 @@ export const poiExtraIranCitiesV2: POI[] = [
     id: "kashan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "name": "Jalali Castle and Seljuk Wall",
                   "text": "Die Burg Jalali und die seldschukische Festung bilden einen historischen Verteidigungskomplex in der Stadt Kaschan.",
                   "category": "castle",
                   "coords": [
@@ -1111,7 +1111,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرکز بازی و شادی",
+                  "name": "Game and Joy Center",
                   "text": "Dieser lokale Freizeitpark bietet Unterhaltung und Freizeitaktivitäten in der Stadt Kaschan.",
                   "category": "family",
                   "coords": [
@@ -1138,7 +1138,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "زورخانه",
+                  "name": "Zurkhaneh",
                   "text": "Dieser Ort präsentiert traditionelle iranische Sportarten als kulturelle Attraktion in Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1183,7 +1183,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "name": "Deymah Arts and Crafts Gallery",
                   "text": "Die Kunst- und Kunsthandwerksgalerie Deymah stellt lokales Handwerk und Kunstwerke in Kaschan aus.",
                   "category": "museum",
                   "coords": [
@@ -1311,7 +1311,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرکز بازی و شادی",
+                  "name": "Game and Joy Center",
                   "text": "Ez a helyi vidámpark szórakozási és szabadidős tevékenységeket kínál Kaschan városában.",
                   "category": "family",
                   "coords": [
@@ -1320,7 +1320,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بازار کاشان",
+                  "name": "Kashan Bazaar",
                   "text": "Kaschan hagyományos bazárja a város egy kiemelkedő kereskedelmi látványossága.",
                   "category": "landmark",
                   "coords": [
@@ -1338,7 +1338,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "زورخانه",
+                  "name": "Zurkhaneh",
                   "text": "Ez a helyszín a hagyományos iráni sportokat mutatja be mint kulturális látványosságot Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1365,7 +1365,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هنری",
+                  "name": "Art Space",
                   "text": "Ez a művészeti tér egy érdekes kulturális látványosság Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1374,7 +1374,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "name": "Mona Azarnoush Visual Arts School",
                   "text": "Ez a vizuális művészeti iskola és galéria egy kreatív központ Kaschan városában.",
                   "category": "museum",
                   "coords": [
@@ -1383,7 +1383,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "name": "Deymah Arts and Crafts Gallery",
                   "text": "A Deymah Kézműves és Művészeti Galéria helyi kézműves termékeket és műalkotásokat állít ki Kaschanban.",
                   "category": "museum",
                   "coords": [
@@ -1401,7 +1401,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "name": "Shrine of Baba Shuja al-Din",
                   "text": "Baba Shuja al-Din szentélye egy történelmi és vallási látványosság Kaschanban.",
                   "category": "landmark",
                   "coords": [
@@ -1484,7 +1484,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "name": "Jalali Castle and Seljuk Wall",
                   "text": "Castelul Jalali și Fortăreața Selgiucă formează un complex defensiv istoric situat în orașul Kaschan.",
                   "category": "castle",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرکز بازی و شادی",
+                  "name": "Game and Joy Center",
                   "text": "Acest parc tematic local oferă divertisment și activități de agrement în orașul Kaschan.",
                   "category": "family",
                   "coords": [
@@ -1538,7 +1538,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "زورخانه",
+                  "name": "Zurkhaneh",
                   "text": "Această locație prezintă sporturi tradiționale iraniene ca o atracție culturală în Kaschan.",
                   "category": "landmark",
                   "coords": [
@@ -1583,7 +1583,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "name": "Deymah Arts and Crafts Gallery",
                   "text": "Galeria de Arte și Artizanat Deymah expune meșteșuguri și opere de artă locale în Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1684,7 +1684,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "name": "Jalali Castle and Seljuk Wall",
                   "text": "Jalali Castle and the Seljuk Fortress form a historic defensive complex located in the city of Kaschan.",
                   "category": "castle",
                   "coords": [
@@ -1711,7 +1711,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرکز بازی و شادی",
+                  "name": "Game and Joy Center",
                   "text": "This local theme park provides entertainment and recreational activities in the city of Kaschan.",
                   "category": "family",
                   "coords": [
@@ -1783,7 +1783,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "name": "Deymah Arts and Crafts Gallery",
                   "text": "Deymah Handicrafts and Arts Gallery exhibits local crafts and artworks in Kaschan.",
                   "category": "museum",
                   "coords": [
@@ -1932,7 +1932,7 @@ export const poiExtraIranCitiesV2: POI[] = [
     id: "dezful-cities-v2", "sights": {
       "de": [
             {
-                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "name": "Dezful Anthropology Museum",
                   "text": "موزه مردم شناسی شهرستان دزفول ist ein bekanntes Museum in Desful.",
                   "category": "museum",
                   "coords": [
@@ -1959,7 +1959,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قنات قمیش",
+                  "name": "Qanat Qomish",
                   "text": "قنات قمیش ist ein Museum in Desful.",
                   "category": "museum",
                   "coords": [
@@ -1986,7 +1986,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مجتمع فرهنگی سینمایی",
+                  "name": "Cinema Cultural Complex",
                   "text": "مجتمع فرهنگی سینمایی ist ein Kunstzentrum in Desful.",
                   "category": "cultural",
                   "coords": [
@@ -1997,7 +1997,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "name": "Dezful Anthropology Museum",
                   "text": "A(z) موزه مردم شناسی شهرستان دزفول egy jelentős múzeum Desful városában.",
                   "category": "museum",
                   "coords": [
@@ -2006,7 +2006,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی تیزنو",
+                  "name": "Tizno Historical House",
                   "text": "A(z) Tizno Historical House egy jelentős múzeum Desful városában.",
                   "category": "museum",
                   "coords": [
@@ -2015,7 +2015,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "موزه آب",
+                  "name": "Water Museum",
                   "text": "A(z) Water Museum egy múzeum Desful városában.",
                   "category": "museum",
                   "coords": [
@@ -2024,7 +2024,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قنات قمیش",
+                  "name": "Qanat Qomish",
                   "text": "A(z) قنات قمیش egy múzeum Desful városában.",
                   "category": "museum",
                   "coords": [
@@ -2033,7 +2033,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خانه تاریخی قطب",
+                  "name": "Qotb Historical House",
                   "text": "A(z) History house egy múzeum Desful városában.",
                   "category": "museum",
                   "coords": [
@@ -2042,7 +2042,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "پل ساسانی دزفول",
+                  "name": "Sassanid Bridge of Dezful",
                   "text": "A(z) Sassanid bridge egy jelentős turisztikai látványosság Desful városában.",
                   "category": "landmark",
                   "coords": [
@@ -2051,7 +2051,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مجتمع فرهنگی سینمایی",
+                  "name": "Cinema Cultural Complex",
                   "text": "A(z) مجتمع فرهنگی سینمایی egy művészeti központ Desful városában.",
                   "category": "cultural",
                   "coords": [
@@ -2062,7 +2062,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "name": "Dezful Anthropology Museum",
                   "text": "موزه مردم شناسی شهرستان دزفول este un muzeu notabil situat în Desful.",
                   "category": "museum",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قنات قمیش",
+                  "name": "Qanat Qomish",
                   "text": "قنات قمیش este un muzeu situat în Desful.",
                   "category": "museum",
                   "coords": [
@@ -2116,7 +2116,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مجتمع فرهنگی سینمایی",
+                  "name": "Cinema Cultural Complex",
                   "text": "مجتمع فرهنگی سینمایی este un centru de artă situat în Desful.",
                   "category": "cultural",
                   "coords": [
@@ -2127,7 +2127,7 @@ export const poiExtraIranCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "name": "Dezful Anthropology Museum",
                   "text": "موزه مردم شناسی شهرستان دزفول is a notable museum located in Desful.",
                   "category": "museum",
                   "coords": [
@@ -2154,7 +2154,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قنات قمیش",
+                  "name": "Qanat Qomish",
                   "text": "قنات قمیش is a museum located in Desful.",
                   "category": "museum",
                   "coords": [
@@ -2181,7 +2181,7 @@ export const poiExtraIranCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مجتمع فرهنگی سینمایی",
+                  "name": "Cinema Cultural Complex",
                   "text": "مجتمع فرهنگی سینمایی is an arts centre located in Desful.",
                   "category": "cultural",
                   "coords": [

@@ -135,7 +135,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "namyangju-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "다산홀",
+                  "name": "Dasan Hall",
                   "text": "다산홀 ist ein Theater in Namyangju.",
                   "category": "cultural",
                   "coords": [
@@ -146,7 +146,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "다산홀",
+                  "name": "Dasan Hall",
                   "text": "A 다산홀 egy színház Namjangdzsu városában.",
                   "category": "cultural",
                   "coords": [
@@ -157,7 +157,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "다산홀",
+                  "name": "Dasan Hall",
                   "text": "다산홀 este un teatru situat în Namyangju.",
                   "category": "cultural",
                   "coords": [
@@ -168,7 +168,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "다산홀",
+                  "name": "Dasan Hall",
                   "text": "다산홀 is a theatre situated in Namyangju.",
                   "category": "cultural",
                   "coords": [
@@ -1008,7 +1008,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해맑은목포",
+                  "name": "Haemalgeun Mokpo",
                   "text": "해맑은목포 ist ein Denkmal in der Stadt Mokpo.",
                   "category": "historical",
                   "coords": [
@@ -1026,7 +1026,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "목포 천주교성지",
+                  "name": "Mokpo Catholic Shrine",
                   "text": "목포 천주교성지 ist eine Attraktion in Mokpo.",
                   "category": "landmark",
                   "coords": [
@@ -1064,7 +1064,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해맑은목포",
+                  "name": "Haemalgeun Mokpo",
                   "text": "A 해맑은목포 egy emlékmű Mokpo városában.",
                   "category": "historical",
                   "coords": [
@@ -1082,7 +1082,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "목포 천주교성지",
+                  "name": "Mokpo Catholic Shrine",
                   "text": "A 목포 천주교성지 egy látványosság Mokpo városában.",
                   "category": "landmark",
                   "coords": [
@@ -1120,7 +1120,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해맑은목포",
+                  "name": "Haemalgeun Mokpo",
                   "text": "해맑은목포 este un monument situat în orașul Mokpo.",
                   "category": "historical",
                   "coords": [
@@ -1138,7 +1138,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "목포 천주교성지",
+                  "name": "Mokpo Catholic Shrine",
                   "text": "목포 천주교성지 este o atracție situată în Mokpo.",
                   "category": "landmark",
                   "coords": [
@@ -1176,7 +1176,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해맑은목포",
+                  "name": "Haemalgeun Mokpo",
                   "text": "해맑은목포 is a monument situated in the city of Mokpo.",
                   "category": "historical",
                   "coords": [
@@ -1194,7 +1194,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "목포 천주교성지",
+                  "name": "Mokpo Catholic Shrine",
                   "text": "목포 천주교성지 is an attraction located in Mokpo.",
                   "category": "landmark",
                   "coords": [
@@ -1254,7 +1254,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "yeosu-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "석창성지",
+                  "name": "Seokchang Castle Site",
                   "text": "The Site of an Ancient Seokchang Castle umfasst historische Burgruinen in Yeosu.",
                   "category": "castle",
                   "coords": [
@@ -1263,7 +1263,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "7080라이브콘서트",
+                  "name": "7080 Live Concert",
                   "text": "7080라이브콘서트 ist ein lokales Theater und Veranstaltungsort in Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1272,7 +1272,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "파도소리 소극장",
+                  "name": "Padosori Small Theater",
                   "text": "파도소리 소극장 ist ein Theater in der Stadt Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1281,7 +1281,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "버니아쿠아",
+                  "name": "Burniaqua",
                   "text": "버니아쿠아 ist ein Aquarium in Yeosu, das Meereslebewesen zeigt.",
                   "category": "family",
                   "coords": [
@@ -1290,7 +1290,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "예울마루",
+                  "name": "Yeulmaru",
                   "text": "예울마루 ist ein Theater in der Stadt Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1299,7 +1299,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다이노밸리",
+                  "name": "Dino Valley",
                   "text": "다이노밸리 ist ein Themenpark in Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1308,7 +1308,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "웅천친수공원해수욕장",
+                  "name": "Ungcheon Beach Park",
                   "text": "웅천친수공원해수욕장 ist ein Strandbereich für Erholung in Yeosu.",
                   "category": "recreational",
                   "coords": [
@@ -1317,7 +1317,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유월드루지테마파크",
+                  "name": "U-World Luge Theme Park",
                   "text": "유월드루지테마파크 ist ein lokaler Themenpark in Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1362,7 +1362,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리 빛과소금",
+                  "name": "Gallery Light and Salt",
                   "text": "갤러리 빛과소금 ist eine Kunstgalerie in der Stadt Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1371,7 +1371,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리노마드",
+                  "name": "Gallery Nomad",
                   "text": "갤러리노마드 ist eine lokale Galerie, die Kunstwerke in Yeosu ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -1380,7 +1380,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선갤러리",
+                  "name": "Sun Gallery",
                   "text": "선갤러리 ist eine Kunstgalerie in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1389,7 +1389,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "여수미술관",
+                  "name": "Yeosu Museum of Art",
                   "text": "여수미술관 ist eine Galerie für bildende Künste in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1407,7 +1407,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "생활문화센터",
+                  "name": "Living Culture Center",
                   "text": "생활문화센터 ist ein Kunstzentrum, das der lokalen Gemeinschaft in Yeosu dient.",
                   "category": "cultural",
                   "coords": [
@@ -1416,7 +1416,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장도전시관",
+                  "name": "Jangdo Exhibition Hall",
                   "text": "장도전시관 ist eine Kunstgalerie in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1436,7 +1436,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "7080라이브콘서트",
+                  "name": "7080 Live Concert",
                   "text": "A 7080라이브콘서트 egy helyi színház és előadóterem Yeosu városában.",
                   "category": "cultural",
                   "coords": [
@@ -1445,7 +1445,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "파도소리 소극장",
+                  "name": "Padosori Small Theater",
                   "text": "A 파도소리 소극장 egy színház Yeosu városában.",
                   "category": "cultural",
                   "coords": [
@@ -1454,7 +1454,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "버니아쿠아",
+                  "name": "Burniaqua",
                   "text": "A 버니아쿠아 egy akvárium, amely vízi élővilágot mutat be Yeosu városában.",
                   "category": "family",
                   "coords": [
@@ -1463,7 +1463,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "예울마루",
+                  "name": "Yeulmaru",
                   "text": "A 예울마루 egy színház Yeosu városában.",
                   "category": "cultural",
                   "coords": [
@@ -1472,7 +1472,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다이노밸리",
+                  "name": "Dino Valley",
                   "text": "A 다이노밸리 egy vidámpark Yeosu városában.",
                   "category": "family",
                   "coords": [
@@ -1481,7 +1481,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "웅천친수공원해수욕장",
+                  "name": "Ungcheon Beach Park",
                   "text": "A 웅천친수공원해수욕장 egy strand és rekreációs terület Yeosu városában.",
                   "category": "recreational",
                   "coords": [
@@ -1490,7 +1490,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유월드루지테마파크",
+                  "name": "U-World Luge Theme Park",
                   "text": "A 유월드루지테마파크 egy helyi vidámpark Yeosu városában.",
                   "category": "family",
                   "coords": [
@@ -1535,7 +1535,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리 빛과소금",
+                  "name": "Gallery Light and Salt",
                   "text": "A 갤러리 빛과소금 egy művészeti galéria Yeosu városában.",
                   "category": "museum",
                   "coords": [
@@ -1544,7 +1544,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리노마드",
+                  "name": "Gallery Nomad",
                   "text": "A 갤러리노마드 egy helyi galéria, amely műalkotásokat állít ki Yeosu városában.",
                   "category": "museum",
                   "coords": [
@@ -1553,7 +1553,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선갤러리",
+                  "name": "Sun Gallery",
                   "text": "A 선갤러리 egy művészeti galéria Yeosu városában.",
                   "category": "museum",
                   "coords": [
@@ -1562,7 +1562,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "여수미술관",
+                  "name": "Yeosu Museum of Art",
                   "text": "A 여수미술관 egy vizuális művészeteket bemutató galéria Yeosu városában.",
                   "category": "museum",
                   "coords": [
@@ -1580,7 +1580,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "생활문화센터",
+                  "name": "Living Culture Center",
                   "text": "A 생활문화센터 egy a helyi közösséget szolgáló művészeti központ Yeosu városában.",
                   "category": "cultural",
                   "coords": [
@@ -1589,7 +1589,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장도전시관",
+                  "name": "Jangdo Exhibition Hall",
                   "text": "A 장도전시관 egy művészeti galéria Yeosu városában.",
                   "category": "museum",
                   "coords": [
@@ -1600,7 +1600,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "석창성지",
+                  "name": "Seokchang Castle Site",
                   "text": "The Site of an Ancient Seokchang Castle prezintă ruinele unui castel istoric din Yeosu.",
                   "category": "castle",
                   "coords": [
@@ -1609,7 +1609,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "7080라이브콘서트",
+                  "name": "7080 Live Concert",
                   "text": "7080라이브콘서트 este un teatru și un loc de spectacole din Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1618,7 +1618,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "파도소리 소극장",
+                  "name": "Padosori Small Theater",
                   "text": "파도소리 소극장 este un teatru situat în orașul Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1627,7 +1627,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "버니아쿠아",
+                  "name": "Burniaqua",
                   "text": "버니아쿠아 este un acvariu care prezintă viața acvatică în Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1636,7 +1636,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "예울마루",
+                  "name": "Yeulmaru",
                   "text": "예울마루 este un teatru situat în orașul Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1645,7 +1645,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다이노밸리",
+                  "name": "Dino Valley",
                   "text": "다이노밸리 este un parc tematic situat în Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1654,7 +1654,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "웅천친수공원해수욕장",
+                  "name": "Ungcheon Beach Park",
                   "text": "웅천친수공원해수욕장 este o zonă de plajă potrivită pentru recreere în Yeosu.",
                   "category": "recreational",
                   "coords": [
@@ -1663,7 +1663,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유월드루지테마파크",
+                  "name": "U-World Luge Theme Park",
                   "text": "유월드루지테마파크 este un parc tematic local situat în Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1690,7 +1690,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안산근린공원",
+                  "name": "Ansan Neighborhood Park",
                   "text": "Ansan Neighborhood Park oferă un spațiu verde de recreere în Yeosu.",
                   "category": "park",
                   "coords": [
@@ -1708,7 +1708,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리 빛과소금",
+                  "name": "Gallery Light and Salt",
                   "text": "갤러리 빛과소금 este o galerie de artă situată în orașul Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1717,7 +1717,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리노마드",
+                  "name": "Gallery Nomad",
                   "text": "갤러리노마드 este o galerie locală care expune opere de artă în Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1726,7 +1726,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선갤러리",
+                  "name": "Sun Gallery",
                   "text": "선갤러리 este o galerie de artă situată în Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1735,7 +1735,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "여수미술관",
+                  "name": "Yeosu Museum of Art",
                   "text": "여수미술관 este o galerie care expune arte vizuale în Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1753,7 +1753,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "생활문화센터",
+                  "name": "Living Culture Center",
                   "text": "생활문화센터 este un centru de arte care deservește comunitatea locală din Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1762,7 +1762,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장도전시관",
+                  "name": "Jangdo Exhibition Hall",
                   "text": "장도전시관 este o galerie de artă situată în Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1782,7 +1782,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "7080라이브콘서트",
+                  "name": "7080 Live Concert",
                   "text": "7080라이브콘서트 is a local theatre and performance venue in Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1791,7 +1791,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "파도소리 소극장",
+                  "name": "Padosori Small Theater",
                   "text": "파도소리 소극장 is a theatre located in the city of Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1800,7 +1800,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "버니아쿠아",
+                  "name": "Burniaqua",
                   "text": "버니아쿠아 is an aquarium showcasing aquatic life in Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1809,7 +1809,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "예울마루",
+                  "name": "Yeulmaru",
                   "text": "예울마루 is a theatre located in the city of Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1818,7 +1818,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다이노밸리",
+                  "name": "Dino Valley",
                   "text": "다이노밸리 is a theme park attraction located in Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1827,7 +1827,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "웅천친수공원해수욕장",
+                  "name": "Ungcheon Beach Park",
                   "text": "웅천친수공원해수욕장 is a beach area suitable for recreation in Yeosu.",
                   "category": "recreational",
                   "coords": [
@@ -1836,7 +1836,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유월드루지테마파크",
+                  "name": "U-World Luge Theme Park",
                   "text": "유월드루지테마파크 is a local theme park situated in Yeosu.",
                   "category": "family",
                   "coords": [
@@ -1881,7 +1881,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리 빛과소금",
+                  "name": "Gallery Light and Salt",
                   "text": "갤러리 빛과소금 is an art gallery situated in the city of Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1890,7 +1890,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갤러리노마드",
+                  "name": "Gallery Nomad",
                   "text": "갤러리노마드 is a local gallery space exhibiting artwork in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1899,7 +1899,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선갤러리",
+                  "name": "Sun Gallery",
                   "text": "선갤러리 is an art gallery located in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1908,7 +1908,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "여수미술관",
+                  "name": "Yeosu Museum of Art",
                   "text": "여수미술관 is a gallery exhibiting visual arts in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -1926,7 +1926,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "생활문화센터",
+                  "name": "Living Culture Center",
                   "text": "생활문화센터 is an arts centre serving the local community in Yeosu.",
                   "category": "cultural",
                   "coords": [
@@ -1935,7 +1935,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장도전시관",
+                  "name": "Jangdo Exhibition Hall",
                   "text": "장도전시관 is an art gallery located in Yeosu.",
                   "category": "museum",
                   "coords": [
@@ -2067,7 +2067,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원역사관",
+                  "name": "Suncheon Bay National Garden History Museum",
                   "text": "Ein Museum, das der Geschichte des Staatlichen Gartens der Suncheon-Bucht gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2076,7 +2076,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장천노랑극장",
+                  "name": "Jangcheon Yellow Theater",
                   "text": "Ein lokales Theater für Aufführungen in Suncheon.",
                   "category": "cultural",
                   "coords": [
@@ -2085,7 +2085,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원",
+                  "name": "Suncheon Bay National Garden",
                   "text": "Ein weitläufiger ökologischer Garten und Naturschutzgebiet in Suncheon.",
                   "category": "park",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "팔마비",
+                  "name": "Palma Monument",
                   "text": "Ein historisches Denkmal in der Stadt Suncheon.",
                   "category": "historical",
                   "coords": [
@@ -2103,7 +2103,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천시문화예술회관",
+                  "name": "Suncheon Culture and Arts Center",
                   "text": "Ein Zentrum für Kultur und Kunst mit Galerieräumen in Suncheon.",
                   "category": "museum",
                   "coords": [
@@ -2112,7 +2112,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "서광온천",
+                  "name": "Seogwang Hot Springs",
                   "text": "Eine öffentliche Thermalquelle und Saunaanlage in Suncheon.",
                   "category": "landmark",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유일온천",
+                  "name": "Yuil Hot Springs",
                   "text": "Eine lokale Einrichtung mit heißen Quellen und Sauna in Suncheon.",
                   "category": "landmark",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "태양온천",
+                  "name": "Taeyang Hot Springs",
                   "text": "Eine öffentliche Sauna und ein Thermalbad in Suncheon.",
                   "category": "landmark",
                   "coords": [
@@ -2213,7 +2213,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원역사관",
+                  "name": "Suncheon Bay National Garden History Museum",
                   "text": "A Szuncshon-öböli Nemzeti Kert történelmének szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2222,7 +2222,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장천노랑극장",
+                  "name": "Jangcheon Yellow Theater",
                   "text": "Helyi színház előadások számára Szuncshonban.",
                   "category": "cultural",
                   "coords": [
@@ -2231,7 +2231,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원",
+                  "name": "Suncheon Bay National Garden",
                   "text": "Hatalmas ökológiai kert és természetvédelmi terület Szuncshonban.",
                   "category": "park",
                   "coords": [
@@ -2240,7 +2240,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "팔마비",
+                  "name": "Palma Monument",
                   "text": "Történelmi emlékmű Szuncshon városában.",
                   "category": "historical",
                   "coords": [
@@ -2249,7 +2249,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천시문화예술회관",
+                  "name": "Suncheon Culture and Arts Center",
                   "text": "Kulturális és művészeti központ galériákkal Szuncshonban.",
                   "category": "museum",
                   "coords": [
@@ -2258,7 +2258,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "서광온천",
+                  "name": "Seogwang Hot Springs",
                   "text": "Nyilvános termálfürdő és szauna Szuncshonban.",
                   "category": "landmark",
                   "coords": [
@@ -2267,7 +2267,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유일온천",
+                  "name": "Yuil Hot Springs",
                   "text": "Helyi termálfürdő és szauna Szuncshonban.",
                   "category": "landmark",
                   "coords": [
@@ -2276,7 +2276,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "태양온천",
+                  "name": "Taeyang Hot Springs",
                   "text": "Nyilvános szauna és termálfürdő Szuncshonban.",
                   "category": "landmark",
                   "coords": [
@@ -2359,7 +2359,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원역사관",
+                  "name": "Suncheon Bay National Garden History Museum",
                   "text": "Un muzeu dedicat istoriei Grădinii Naționale din Golful Suncheon.",
                   "category": "museum",
                   "coords": [
@@ -2368,7 +2368,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장천노랑극장",
+                  "name": "Jangcheon Yellow Theater",
                   "text": "Un teatru local pentru spectacole în Suncheon.",
                   "category": "cultural",
                   "coords": [
@@ -2377,7 +2377,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원",
+                  "name": "Suncheon Bay National Garden",
                   "text": "O grădină ecologică vastă și zonă de conservare în Suncheon.",
                   "category": "park",
                   "coords": [
@@ -2386,7 +2386,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "팔마비",
+                  "name": "Palma Monument",
                   "text": "Un monument istoric în orașul Suncheon.",
                   "category": "historical",
                   "coords": [
@@ -2395,7 +2395,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천시문화예술회관",
+                  "name": "Suncheon Culture and Arts Center",
                   "text": "Un centru de cultură și artă cu spații de galerie în Suncheon.",
                   "category": "museum",
                   "coords": [
@@ -2404,7 +2404,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "서광온천",
+                  "name": "Seogwang Hot Springs",
                   "text": "O instalație publică de izvoare termale și saună în Suncheon.",
                   "category": "landmark",
                   "coords": [
@@ -2413,7 +2413,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "유일온천",
+                  "name": "Yuil Hot Springs",
                   "text": "O unitate locală cu izvoare termale și saună în Suncheon.",
                   "category": "landmark",
                   "coords": [
@@ -2422,7 +2422,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "태양온천",
+                  "name": "Taeyang Hot Springs",
                   "text": "O saună publică și baie termală în Suncheon.",
                   "category": "landmark",
                   "coords": [
@@ -2505,7 +2505,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천만국가정원역사관",
+                  "name": "Suncheon Bay National Garden History Museum",
                   "text": "A museum dedicated to the history of the Suncheon Bay National Garden.",
                   "category": "museum",
                   "coords": [
@@ -2514,7 +2514,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장천노랑극장",
+                  "name": "Jangcheon Yellow Theater",
                   "text": "A local theater for performances in Suncheon.",
                   "category": "cultural",
                   "coords": [
@@ -2532,7 +2532,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "팔마비",
+                  "name": "Palma Monument",
                   "text": "A historical monument in the city of Suncheon.",
                   "category": "historical",
                   "coords": [
@@ -2541,7 +2541,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "순천시문화예술회관",
+                  "name": "Suncheon Culture and Arts Center",
                   "text": "A center for culture and arts featuring gallery spaces in Suncheon.",
                   "category": "museum",
                   "coords": [
@@ -2676,7 +2676,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "geoje-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "거제랜드",
+                  "name": "Geoje Land",
                   "text": "거제랜드 ist ein Vergnügungs- und Themenpark in Geoje.",
                   "category": "family",
                   "coords": [
@@ -2685,7 +2685,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "리프페럿",
+                  "name": "Leaf Parrot",
                   "text": "리프페럿 ist ein Zoo in der Stadt Geoje.",
                   "category": "family",
                   "coords": [
@@ -2703,7 +2703,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "고현성",
+                  "name": "Gohyeon Fortress",
                   "text": "고현성 ist eine historische Attraktion in Geoje.",
                   "category": "landmark",
                   "coords": [
@@ -2712,7 +2712,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "데크전망대",
+                  "name": "Deck Observatory",
                   "text": "데크전망대 ist ein Aussichtspunkt in Geoje, der malerische Ausblicke bietet.",
                   "category": "natural",
                   "coords": [
@@ -2721,7 +2721,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "전망대",
+                  "name": "Observatory",
                   "text": "전망대 ist ein Aussichtspunkt in der Stadt Geoje.",
                   "category": "natural",
                   "coords": [
@@ -2732,7 +2732,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "거제랜드",
+                  "name": "Geoje Land",
                   "text": "A 거제랜드 egy szórakoztató és vidámpark Geoje városában.",
                   "category": "family",
                   "coords": [
@@ -2741,7 +2741,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "리프페럿",
+                  "name": "Leaf Parrot",
                   "text": "A 리프페럿 egy állatkert Geoje városában.",
                   "category": "family",
                   "coords": [
@@ -2759,7 +2759,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "고현성",
+                  "name": "Gohyeon Fortress",
                   "text": "A 고현성 egy történelmi látványosság Geoje városában.",
                   "category": "landmark",
                   "coords": [
@@ -2768,7 +2768,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "데크전망대",
+                  "name": "Deck Observatory",
                   "text": "A 데크전망대 egy kilátó, amely festői panorámát nyújt Geoje városában.",
                   "category": "natural",
                   "coords": [
@@ -2777,7 +2777,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "전망대",
+                  "name": "Observatory",
                   "text": "A 전망대 egy kilátó Geoje városában.",
                   "category": "natural",
                   "coords": [
@@ -2788,7 +2788,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "거제랜드",
+                  "name": "Geoje Land",
                   "text": "거제랜드 este un parc tematic și de distracții situat în Geoje.",
                   "category": "family",
                   "coords": [
@@ -2797,7 +2797,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "리프페럿",
+                  "name": "Leaf Parrot",
                   "text": "리프페럿 este o grădină zoologică situată în orașul Geoje.",
                   "category": "family",
                   "coords": [
@@ -2815,7 +2815,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "고현성",
+                  "name": "Gohyeon Fortress",
                   "text": "고현성 este o atracție istorică situată în Geoje.",
                   "category": "landmark",
                   "coords": [
@@ -2824,7 +2824,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "데크전망대",
+                  "name": "Deck Observatory",
                   "text": "데크전망대 este un punct de belvedere care oferă priveliști pitorești în Geoje.",
                   "category": "natural",
                   "coords": [
@@ -2833,7 +2833,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "전망대",
+                  "name": "Observatory",
                   "text": "전망대 este un punct de belvedere situat în orașul Geoje.",
                   "category": "natural",
                   "coords": [
@@ -2844,7 +2844,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "거제랜드",
+                  "name": "Geoje Land",
                   "text": "거제랜드 is an amusement and theme park located in Geoje.",
                   "category": "family",
                   "coords": [
@@ -2853,7 +2853,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "리프페럿",
+                  "name": "Leaf Parrot",
                   "text": "리프페럿 is a zoo located in the city of Geoje.",
                   "category": "family",
                   "coords": [
@@ -2871,7 +2871,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "고현성",
+                  "name": "Gohyeon Fortress",
                   "text": "고현성 is a historical attraction situated in Geoje.",
                   "category": "landmark",
                   "coords": [
@@ -2880,7 +2880,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "데크전망대",
+                  "name": "Deck Observatory",
                   "text": "데크전망대 is a viewpoint offering scenic vistas in Geoje.",
                   "category": "natural",
                   "coords": [
@@ -2889,7 +2889,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "전망대",
+                  "name": "Observatory",
                   "text": "전망대 is a viewpoint located in the city of Geoje.",
                   "category": "natural",
                   "coords": [
@@ -2949,7 +2949,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "gimpo-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "검단선사박물관",
+                  "name": "Geomdan Prehistoric Museum",
                   "text": "Ein Museum in Gimpo, das sich auf prähistorische Funde konzentriert.",
                   "category": "museum",
                   "coords": [
@@ -2958,7 +2958,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포향교",
+                  "name": "Gimpo Hyanggyo",
                   "text": "Eine historische konfuzianische Schule in der Stadt Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -2967,7 +2967,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포장릉",
+                  "name": "Gimpo Jangneung",
                   "text": "Eine königliche Grabstätte aus der Joseon-Dynastie in Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -2976,7 +2976,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장릉산",
+                  "name": "Jangneungsan Mountain",
                   "text": "Ein Berggipfel mit Aussichtspunkten in Gimpo.",
                   "category": "natural",
                   "coords": [
@@ -2985,7 +2985,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "기념비",
+                  "name": "Memorial Monument",
                   "text": "Ein lokales Gedenkmonument in Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -2994,7 +2994,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포아트홀",
+                  "name": "Gimpo Art Hall",
                   "text": "Ein Zentrum für Kunst und kulturelle Veranstaltungen in Gimpo.",
                   "category": "cultural",
                   "coords": [
@@ -3005,7 +3005,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "검단선사박물관",
+                  "name": "Geomdan Prehistoric Museum",
                   "text": "Múzeum Kimpóban, amely a prahistorikus leletekre összpontosít.",
                   "category": "museum",
                   "coords": [
@@ -3014,7 +3014,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포향교",
+                  "name": "Gimpo Hyanggyo",
                   "text": "Történelmi konfuciánus iskola Kimpo városában.",
                   "category": "historical",
                   "coords": [
@@ -3023,7 +3023,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포장릉",
+                  "name": "Gimpo Jangneung",
                   "text": "Csoszon-kori királyi sírhely Kimpóban.",
                   "category": "historical",
                   "coords": [
@@ -3032,7 +3032,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장릉산",
+                  "name": "Jangneungsan Mountain",
                   "text": "Hegycsúcs kilátópontokkal Kimpóban.",
                   "category": "natural",
                   "coords": [
@@ -3041,7 +3041,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "기념비",
+                  "name": "Memorial Monument",
                   "text": "Helyi emlékoszlop Kimpóban.",
                   "category": "historical",
                   "coords": [
@@ -3050,7 +3050,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포아트홀",
+                  "name": "Gimpo Art Hall",
                   "text": "Művészeti és kulturális rendezvényközpont Kimpóban.",
                   "category": "cultural",
                   "coords": [
@@ -3061,7 +3061,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "검단선사박물관",
+                  "name": "Geomdan Prehistoric Museum",
                   "text": "Un muzeu în Gimpo care se concentrează pe vestigiile preistorice.",
                   "category": "museum",
                   "coords": [
@@ -3070,7 +3070,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포향교",
+                  "name": "Gimpo Hyanggyo",
                   "text": "O școală confuciană istorică în orașul Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -3079,7 +3079,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포장릉",
+                  "name": "Gimpo Jangneung",
                   "text": "Un sit funerar regal din dinastia Joseon în Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -3088,7 +3088,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "장릉산",
+                  "name": "Jangneungsan Mountain",
                   "text": "Un vârf de munte cu puncte de belvedere în Gimpo.",
                   "category": "natural",
                   "coords": [
@@ -3097,7 +3097,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "기념비",
+                  "name": "Memorial Monument",
                   "text": "Un monument comemorativ local în Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -3106,7 +3106,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포아트홀",
+                  "name": "Gimpo Art Hall",
                   "text": "Un centru pentru artă și evenimente culturale în Gimpo.",
                   "category": "cultural",
                   "coords": [
@@ -3126,7 +3126,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포향교",
+                  "name": "Gimpo Hyanggyo",
                   "text": "A historical Confucian school in the city of Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -3135,7 +3135,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김포장릉",
+                  "name": "Gimpo Jangneung",
                   "text": "A royal tomb site from the Joseon Dynasty in Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -3153,7 +3153,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "기념비",
+                  "name": "Memorial Monument",
                   "text": "A local memorial monument in Gimpo.",
                   "category": "historical",
                   "coords": [
@@ -3222,7 +3222,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "andong-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "법흥사지 7층전탑",
+                  "name": "Beopheungsa Temple Seven-story Brick Pagoda",
                   "text": "Die siebenstöckige Ziegelpagode an der Stätte des Beopheungsa-Tempels in Andong ist die größte und älteste erhaltene Ziegelpagode in Südkorea.",
                   "category": "historical",
                   "coords": [
@@ -3258,7 +3258,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동안기동삼층석탑",
+                  "name": "Andong Angi-dong Three-story Stone Pagoda",
                   "text": "안동안기동삼층석탑 ist eine archäologische Stätte in Andong.",
                   "category": "historical",
                   "coords": [
@@ -3267,7 +3267,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동 운흥동 오층전탑",
+                  "name": "Andong Unheung-dong Five-story Brick Pagoda",
                   "text": "안동 운흥동 오층전탑 ist eine historische archäologische Stätte in Andong.",
                   "category": "historical",
                   "coords": [
@@ -3285,7 +3285,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동문화예술의 전당",
+                  "name": "Andong Culture and Arts Center",
                   "text": "안동문화예술의 전당 ist ein Theater in Andong.",
                   "category": "cultural",
                   "coords": [
@@ -3303,7 +3303,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동탈춤공연장",
+                  "name": "Andong Mask Dance Theater",
                   "text": "안동탈춤공연장 ist ein Veranstaltungsort in Andong.",
                   "category": "cultural",
                   "coords": [
@@ -3321,7 +3321,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "평화동 삼층석탑",
+                  "name": "Pyeonghwa-dong Three-story Stone Pagoda",
                   "text": "평화동 삼층석탑 ist eine historische Attraktion in Andong.",
                   "category": "landmark",
                   "coords": [
@@ -3330,7 +3330,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "귀래정",
+                  "name": "Gwiraejeong Pavilion",
                   "text": "귀래정 ist eine landschaftlich reizvolle Attraktion in Andong.",
                   "category": "landmark",
                   "coords": [
@@ -3359,7 +3359,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "법흥사지 7층전탑",
+                  "name": "Beopheungsa Temple Seven-story Brick Pagoda",
                   "text": "Az andongi Beopheungsa templom romjainál álló hétemeletes téglapagoda Dél-Korea legnagyobb és legrégebbi fennmaradt téglapagodája.",
                   "category": "historical",
                   "coords": [
@@ -3395,7 +3395,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동안기동삼층석탑",
+                  "name": "Andong Angi-dong Three-story Stone Pagoda",
                   "text": "A 안동안기동삼층석탑 egy régészeti lelőhely Andong városában.",
                   "category": "historical",
                   "coords": [
@@ -3404,7 +3404,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동 운흥동 오층전탑",
+                  "name": "Andong Unheung-dong Five-story Brick Pagoda",
                   "text": "A 안동 운흥동 오층전탑 egy történelmi régészeti lelőhely Andong városában.",
                   "category": "historical",
                   "coords": [
@@ -3422,7 +3422,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동문화예술의 전당",
+                  "name": "Andong Culture and Arts Center",
                   "text": "A 안동문화예술의 전당 egy színház Andong városában.",
                   "category": "cultural",
                   "coords": [
@@ -3440,7 +3440,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동탈춤공연장",
+                  "name": "Andong Mask Dance Theater",
                   "text": "A 안동탈춤공연장 egy előadóterem Andong városában.",
                   "category": "cultural",
                   "coords": [
@@ -3458,7 +3458,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "평화동 삼층석탑",
+                  "name": "Pyeonghwa-dong Three-story Stone Pagoda",
                   "text": "A 평화동 삼층석탑 egy történelmi látványosság Andong városában.",
                   "category": "landmark",
                   "coords": [
@@ -3467,7 +3467,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "귀래정",
+                  "name": "Gwiraejeong Pavilion",
                   "text": "A 귀래정 egy festői látványosság Andong városában.",
                   "category": "landmark",
                   "coords": [
@@ -3496,7 +3496,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "법흥사지 7층전탑",
+                  "name": "Beopheungsa Temple Seven-story Brick Pagoda",
                   "text": "Pagoda de cărămidă cu șapte etaje din situl templului Beopheungsa din Andong este cea mai mare și mai veche pagodă de cărămidă supraviețuitoare din Coreea de Sud.",
                   "category": "historical",
                   "coords": [
@@ -3532,7 +3532,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동안기동삼층석탑",
+                  "name": "Andong Angi-dong Three-story Stone Pagoda",
                   "text": "안동안기동삼층석탑 este un sit arheologic situat în Andong.",
                   "category": "historical",
                   "coords": [
@@ -3541,7 +3541,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동 운흥동 오층전탑",
+                  "name": "Andong Unheung-dong Five-story Brick Pagoda",
                   "text": "안동 운흥동 오층전탑 este un sit arheologic istoric din Andong.",
                   "category": "historical",
                   "coords": [
@@ -3559,7 +3559,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동문화예술의 전당",
+                  "name": "Andong Culture and Arts Center",
                   "text": "안동문화예술의 전당 este un teatru în Andong.",
                   "category": "cultural",
                   "coords": [
@@ -3577,7 +3577,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동탈춤공연장",
+                  "name": "Andong Mask Dance Theater",
                   "text": "안동탈춤공연장 este un teatru în Andong.",
                   "category": "cultural",
                   "coords": [
@@ -3595,7 +3595,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "평화동 삼층석탑",
+                  "name": "Pyeonghwa-dong Three-story Stone Pagoda",
                   "text": "평화동 삼층석탑 este o atracție istorică situată în Andong.",
                   "category": "landmark",
                   "coords": [
@@ -3604,7 +3604,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "귀래정",
+                  "name": "Gwiraejeong Pavilion",
                   "text": "귀래정 este o atracție pitorească din Andong.",
                   "category": "landmark",
                   "coords": [
@@ -3669,7 +3669,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동안기동삼층석탑",
+                  "name": "Andong Angi-dong Three-story Stone Pagoda",
                   "text": "안동안기동삼층석탑 is an archaeological site located in Andong.",
                   "category": "historical",
                   "coords": [
@@ -3678,7 +3678,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동 운흥동 오층전탑",
+                  "name": "Andong Unheung-dong Five-story Brick Pagoda",
                   "text": "안동 운흥동 오층전탑 is a historic archaeological site in Andong.",
                   "category": "historical",
                   "coords": [
@@ -3696,7 +3696,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동문화예술의 전당",
+                  "name": "Andong Culture and Arts Center",
                   "text": "안동문화예술의 전당 is a theatre venue in Andong.",
                   "category": "cultural",
                   "coords": [
@@ -3714,7 +3714,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "안동탈춤공연장",
+                  "name": "Andong Mask Dance Theater",
                   "text": "안동탈춤공연장 is a performance venue in Andong.",
                   "category": "cultural",
                   "coords": [
@@ -3732,7 +3732,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "평화동 삼층석탑",
+                  "name": "Pyeonghwa-dong Three-story Stone Pagoda",
                   "text": "평화동 삼층석탑 is a historic attraction located in Andong.",
                   "category": "landmark",
                   "coords": [
@@ -3741,7 +3741,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "귀래정",
+                  "name": "Gwiraejeong Pavilion",
                   "text": "귀래정 is a scenic attraction situated in Andong.",
                   "category": "landmark",
                   "coords": [
@@ -3867,7 +3867,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "icheon-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "이천향교",
+                  "name": "Icheon Hyanggyo",
                   "text": "Eine traditionelle konfuzianische Schule und historische Stätte in Icheon.",
                   "category": "historical",
                   "coords": [
@@ -3876,7 +3876,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천 설봉산성",
+                  "name": "Icheon Seolbongsan Fortress",
                   "text": "Die Ruinen einer historischen Bergfestung in Icheon.",
                   "category": "castle",
                   "coords": [
@@ -3885,7 +3885,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "맥주박물관",
+                  "name": "Beer Museum",
                   "text": "Ein Museum in Icheon, das sich der Geschichte des Bieres widmet.",
                   "category": "museum",
                   "coords": [
@@ -3894,7 +3894,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천시립박물관",
+                  "name": "Icheon City Museum",
                   "text": "Ein Stadtmuseum, das die Geschichte und Kultur von Icheon zeigt.",
                   "category": "museum",
                   "coords": [
@@ -3903,7 +3903,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "미란다 스파 플러스",
+                  "name": "Miranda Spa Plus",
                   "text": "Ein Wasserpark und Wellnessbereich in Icheon.",
                   "category": "family",
                   "coords": [
@@ -3912,7 +3912,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "설봉산",
+                  "name": "Seolbongsan Mountain",
                   "text": "Ein bekannter Berg in Icheon mit verschiedenen Wanderwegen.",
                   "category": "natural",
                   "coords": [
@@ -3921,7 +3921,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천시립월전미술관",
+                  "name": "Icheon Woljeon Museum of Art",
                   "text": "Ein städtisches Kunstmuseum für moderne und traditionelle Kunst in Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -3930,7 +3930,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "설봉산 삼형제바위",
+                  "name": "Three Brothers Rock",
                   "text": "Ein Aussichtspunkt am Berg Seolbongsan in Icheon.",
                   "category": "natural",
                   "coords": [
@@ -3939,7 +3939,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천아트홀",
+                  "name": "Icheon Art Hall",
                   "text": "Ein Veranstaltungsort für Kunst und darstellende Künste in Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -3948,7 +3948,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "풀잎문화센터",
+                  "name": "Pulip Culture Center",
                   "text": "Ein Kulturzentrum für lokale künstlerische Aktivitäten in Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -3957,7 +3957,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천서희청소년문화센터",
+                  "name": "Icheon Seohee Youth Culture Center",
                   "text": "Ein Kulturzentrum für Jugendliche in der Stadt Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -3968,7 +3968,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "이천향교",
+                  "name": "Icheon Hyanggyo",
                   "text": "Hagyományos konfuciánus iskola és történelmi helyszín Icshonban.",
                   "category": "historical",
                   "coords": [
@@ -3977,7 +3977,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천 설봉산성",
+                  "name": "Icheon Seolbongsan Fortress",
                   "text": "Egy történelmi hegyi erőd romjai Icshonban.",
                   "category": "castle",
                   "coords": [
@@ -3986,7 +3986,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "맥주박물관",
+                  "name": "Beer Museum",
                   "text": "A sör történetének szentelt múzeum Icshonban.",
                   "category": "museum",
                   "coords": [
@@ -3995,7 +3995,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천시립박물관",
+                  "name": "Icheon City Museum",
                   "text": "Városi múzeum, amely Icshon történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -4004,7 +4004,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "미란다 스파 플러스",
+                  "name": "Miranda Spa Plus",
                   "text": "Vízipark és wellness központ Icshonban.",
                   "category": "family",
                   "coords": [
@@ -4013,7 +4013,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "설봉산",
+                  "name": "Seolbongsan Mountain",
                   "text": "Icshon ismert hegye különböző túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
@@ -4022,7 +4022,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천시립월전미술관",
+                  "name": "Icheon Woljeon Museum of Art",
                   "text": "Városi művészeti múzeum Icshonban, modern és hagyományos alkotásokkal.",
                   "category": "cultural",
                   "coords": [
@@ -4031,7 +4031,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "설봉산 삼형제바위",
+                  "name": "Three Brothers Rock",
                   "text": "Kilátópont az Icshon-i Szeolbongszan-hegyen.",
                   "category": "natural",
                   "coords": [
@@ -4040,7 +4040,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천아트홀",
+                  "name": "Icheon Art Hall",
                   "text": "Művészeti és előadóművészeti központ Icshonban.",
                   "category": "cultural",
                   "coords": [
@@ -4049,7 +4049,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "풀잎문화센터",
+                  "name": "Pulip Culture Center",
                   "text": "Helyi művészeti tevékenységek kulturális központja Icshonban.",
                   "category": "cultural",
                   "coords": [
@@ -4058,7 +4058,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천서희청소년문화센터",
+                  "name": "Icheon Seohee Youth Culture Center",
                   "text": "Ifjúsági kulturális központ Icshon városában.",
                   "category": "cultural",
                   "coords": [
@@ -4069,7 +4069,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "이천향교",
+                  "name": "Icheon Hyanggyo",
                   "text": "O școală confuciană tradițională și sit istoric în Icheon.",
                   "category": "historical",
                   "coords": [
@@ -4078,7 +4078,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천 설봉산성",
+                  "name": "Icheon Seolbongsan Fortress",
                   "text": "Ruinele unei cetăți montane istorice în Icheon.",
                   "category": "castle",
                   "coords": [
@@ -4087,7 +4087,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "맥주박물관",
+                  "name": "Beer Museum",
                   "text": "Un muzeu în Icheon dedicat istoriei berii.",
                   "category": "museum",
                   "coords": [
@@ -4096,7 +4096,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천시립박물관",
+                  "name": "Icheon City Museum",
                   "text": "Un muzeu municipal care prezintă istoria și cultura din Icheon.",
                   "category": "museum",
                   "coords": [
@@ -4105,7 +4105,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "미란다 스파 플러스",
+                  "name": "Miranda Spa Plus",
                   "text": "Un parc acvatic și zonă de wellness în Icheon.",
                   "category": "family",
                   "coords": [
@@ -4114,7 +4114,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "설봉산",
+                  "name": "Seolbongsan Mountain",
                   "text": "Un munte cunoscut în Icheon cu diverse trasee de drumeție.",
                   "category": "natural",
                   "coords": [
@@ -4123,7 +4123,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천시립월전미술관",
+                  "name": "Icheon Woljeon Museum of Art",
                   "text": "Un muzeu municipal de artă din Icheon, cu lucrări moderne și tradiționale.",
                   "category": "cultural",
                   "coords": [
@@ -4132,7 +4132,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "설봉산 삼형제바위",
+                  "name": "Three Brothers Rock",
                   "text": "Un punct de belvedere pe muntele Seolbongsan din Icheon.",
                   "category": "natural",
                   "coords": [
@@ -4141,7 +4141,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천아트홀",
+                  "name": "Icheon Art Hall",
                   "text": "O locație pentru artă și spectacole în Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -4150,7 +4150,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "풀잎문화센터",
+                  "name": "Pulip Culture Center",
                   "text": "Un centru cultural pentru activități artistice locale în Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -4159,7 +4159,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천서희청소년문화센터",
+                  "name": "Icheon Seohee Youth Culture Center",
                   "text": "Un centru cultural pentru tineret în orașul Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -4170,7 +4170,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "이천향교",
+                  "name": "Icheon Hyanggyo",
                   "text": "A traditional Confucian school and historical site in Icheon.",
                   "category": "historical",
                   "coords": [
@@ -4188,7 +4188,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "맥주박물관",
+                  "name": "Beer Museum",
                   "text": "A museum in Icheon dedicated to the history of beer.",
                   "category": "museum",
                   "coords": [
@@ -4251,7 +4251,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "풀잎문화센터",
+                  "name": "Pulip Culture Center",
                   "text": "A cultural center for local artistic activities in Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -4260,7 +4260,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "이천서희청소년문화센터",
+                  "name": "Icheon Seohee Youth Culture Center",
                   "text": "A cultural center for youth in the city of Icheon.",
                   "category": "cultural",
                   "coords": [
@@ -4320,7 +4320,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "guri-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "가운동 지석묘",
+                  "name": "Gaun-dong Dolmen",
                   "text": "가운동 지석묘 in Guri ist eine Dolmenstätte, die die bronzezeitliche Grabkultur der Region repräsentiert.",
                   "category": "historical",
                   "coords": [
@@ -4329,7 +4329,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "13도창의군탑",
+                  "name": "13th Provincial Army Memorial",
                   "text": "13도창의군탑 ist eine archäologische Stätte in Guri.",
                   "category": "historical",
                   "coords": [
@@ -4338,7 +4338,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "동구릉역사문화관",
+                  "name": "Donggureung History and Culture Center",
                   "text": "동구릉역사문화관 ist ein Museum in Guri.",
                   "category": "museum",
                   "coords": [
@@ -4356,7 +4356,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "돌덧널 무덤",
+                  "name": "Stone Cist Tomb",
                   "text": "돌덧널 무덤 ist eine archäologische Stätte in Guri.",
                   "category": "historical",
                   "coords": [
@@ -4365,7 +4365,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다산아트홀",
+                  "name": "Dasan Art Hall",
                   "text": "다산아트홀 ist ein Theater in Guri.",
                   "category": "cultural",
                   "coords": [
@@ -4383,7 +4383,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "구리 동구릉",
+                  "name": "Guri Donggureung Royal Tombs",
                   "text": "Die East Nine Royal Tombs, Guri, sind eine historische Attraktion in Guri.",
                   "category": "landmark",
                   "coords": [
@@ -4392,7 +4392,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
                   "text": "경기옛길평해길1코스스탬프(망우고개) ist eine Attraktion in Guri.",
                   "category": "landmark",
                   "coords": [
@@ -4421,7 +4421,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "가운동 지석묘",
+                  "name": "Gaun-dong Dolmen",
                   "text": "A Guri városában található 가운동 지석묘 egy dolmen lelőhely, amely a régió bronzkori temetkezési kultúráját képviseli.",
                   "category": "historical",
                   "coords": [
@@ -4430,7 +4430,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "13도창의군탑",
+                  "name": "13th Provincial Army Memorial",
                   "text": "A 13도창의군탑 egy régészeti lelőhely Guri városában.",
                   "category": "historical",
                   "coords": [
@@ -4439,7 +4439,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "동구릉역사문화관",
+                  "name": "Donggureung History and Culture Center",
                   "text": "A 동구릉역사문화관 egy múzeum Guri városában.",
                   "category": "museum",
                   "coords": [
@@ -4457,7 +4457,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "돌덧널 무덤",
+                  "name": "Stone Cist Tomb",
                   "text": "A 돌덧널 무덤 egy régészeti lelőhely Guri városában.",
                   "category": "historical",
                   "coords": [
@@ -4466,7 +4466,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다산아트홀",
+                  "name": "Dasan Art Hall",
                   "text": "A 다산아트홀 egy színház Guri városában.",
                   "category": "cultural",
                   "coords": [
@@ -4493,7 +4493,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
                   "text": "A 경기옛길평해길1코스스탬프(망우고개) egy látványosság Guri városában.",
                   "category": "landmark",
                   "coords": [
@@ -4522,7 +4522,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "가운동 지석묘",
+                  "name": "Gaun-dong Dolmen",
                   "text": "가운동 지석묘 din Guri este un sit cu dolmene reprezentând cultura funerară din Epoca Bronzului a regiunii.",
                   "category": "historical",
                   "coords": [
@@ -4531,7 +4531,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "13도창의군탑",
+                  "name": "13th Provincial Army Memorial",
                   "text": "13도창의군탑 este un sit arheologic situat în Guri.",
                   "category": "historical",
                   "coords": [
@@ -4540,7 +4540,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "동구릉역사문화관",
+                  "name": "Donggureung History and Culture Center",
                   "text": "동구릉역사문화관 este un muzeu din Guri.",
                   "category": "museum",
                   "coords": [
@@ -4558,7 +4558,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "돌덧널 무덤",
+                  "name": "Stone Cist Tomb",
                   "text": "돌덧널 무덤 este un sit arheologic descoperit în Guri.",
                   "category": "historical",
                   "coords": [
@@ -4567,7 +4567,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다산아트홀",
+                  "name": "Dasan Art Hall",
                   "text": "다산아트홀 este un teatru situat în Guri.",
                   "category": "cultural",
                   "coords": [
@@ -4594,7 +4594,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
                   "text": "경기옛길평해길1코스스탬프(망우고개) este o atracție din Guri.",
                   "category": "landmark",
                   "coords": [
@@ -4623,7 +4623,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "가운동 지석묘",
+                  "name": "Gaun-dong Dolmen",
                   "text": "가운동 지석묘 in Guri is a dolmen site representing the Bronze Age burial culture of the region.",
                   "category": "historical",
                   "coords": [
@@ -4632,7 +4632,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "13도창의군탑",
+                  "name": "13th Provincial Army Memorial",
                   "text": "13도창의군탑 is an archaeological site located in Guri.",
                   "category": "historical",
                   "coords": [
@@ -4641,7 +4641,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "동구릉역사문화관",
+                  "name": "Donggureung History and Culture Center",
                   "text": "동구릉역사문화관 is a museum in Guri.",
                   "category": "museum",
                   "coords": [
@@ -4659,7 +4659,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "돌덧널 무덤",
+                  "name": "Stone Cist Tomb",
                   "text": "돌덧널 무덤 is an archaeological site found in Guri.",
                   "category": "historical",
                   "coords": [
@@ -4668,7 +4668,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "다산아트홀",
+                  "name": "Dasan Art Hall",
                   "text": "다산아트홀 is a theatre venue located in Guri.",
                   "category": "cultural",
                   "coords": [
@@ -4695,7 +4695,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
                   "text": "경기옛길평해길1코스스탬프(망우고개) is an attraction in Guri.",
                   "category": "landmark",
                   "coords": [
@@ -4773,7 +4773,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "sokcho-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "속초 조양동 유적",
+                  "name": "Sokcho Joyang-dong Archaeological Site",
                   "text": "Diese Stätte in Joyang-dong, Sokcho, bewahrt historische archäologische Funde.",
                   "category": "historical",
                   "coords": [
@@ -4818,7 +4818,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "조도등대",
+                  "name": "Jodo Lighthouse",
                   "text": "조도등대 ist ein maritimer Leuchtturm in der Stadt Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -4827,7 +4827,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "청호해수욕장",
+                  "name": "Cheongho Beach",
                   "text": "청호해수욕장 ist ein Sandstrand in Sokcho.",
                   "category": "recreational",
                   "coords": [
@@ -4872,7 +4872,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갯배선착장",
+                  "name": "Gaetbae Ferry Terminal",
                   "text": "갯배선착장 ist eine beliebte Touristenattraktion in Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -4881,7 +4881,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "가을동화  드라마촬영지",
+                  "name": "Autumn in My Heart Filming Site",
                   "text": "가을동화  드라마촬영지 ist eine malerische Attraktion und ein bekannter Drehort in Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -4890,7 +4890,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "영랑호CC",
+                  "name": "Yeongrangho Lake Country Club",
                   "text": "영랑호CC ist ein Aussichtspunkt, der malerische Landschaften in Sokcho bietet.",
                   "category": "natural",
                   "coords": [
@@ -4928,7 +4928,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "속초 조양동 유적",
+                  "name": "Sokcho Joyang-dong Archaeological Site",
                   "text": "Ez a lelőhely Joyang-dongban, Sokcho városában őriz történelmi régészeti leleteket.",
                   "category": "historical",
                   "coords": [
@@ -4973,7 +4973,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "조도등대",
+                  "name": "Jodo Lighthouse",
                   "text": "A 조도등대 egy tengerészeti világítótorony Sokcho városában.",
                   "category": "landmark",
                   "coords": [
@@ -4982,7 +4982,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "청호해수욕장",
+                  "name": "Cheongho Beach",
                   "text": "A 청호해수욕장 egy homokos strand Sokcho városában.",
                   "category": "recreational",
                   "coords": [
@@ -5027,7 +5027,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갯배선착장",
+                  "name": "Gaetbae Ferry Terminal",
                   "text": "A 갯배선착장 egy népszerű turisztikai látványosság Sokcho városában.",
                   "category": "landmark",
                   "coords": [
@@ -5036,7 +5036,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "가을동화  드라마촬영지",
+                  "name": "Autumn in My Heart Filming Site",
                   "text": "A 가을동화  드라마촬영지 egy festői látványosság és egy ismert forgatási helyszín Sokcho városában.",
                   "category": "landmark",
                   "coords": [
@@ -5045,7 +5045,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "영랑호CC",
+                  "name": "Yeongrangho Lake Country Club",
                   "text": "A 영랑호CC egy kilátó, amely festői tájat kínál Sokcho városában.",
                   "category": "natural",
                   "coords": [
@@ -5083,7 +5083,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "속초 조양동 유적",
+                  "name": "Sokcho Joyang-dong Archaeological Site",
                   "text": "Acest sit din Joyang-dong, Sokcho păstrează descoperiri arheologice istorice.",
                   "category": "historical",
                   "coords": [
@@ -5128,7 +5128,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "조도등대",
+                  "name": "Jodo Lighthouse",
                   "text": "조도등대 este un far maritim situat în orașul Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -5137,7 +5137,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "청호해수욕장",
+                  "name": "Cheongho Beach",
                   "text": "청호해수욕장 este o zonă de plajă cu nisip din Sokcho.",
                   "category": "recreational",
                   "coords": [
@@ -5182,7 +5182,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갯배선착장",
+                  "name": "Gaetbae Ferry Terminal",
                   "text": "갯배선착장 este o atracție turistică populară situată în Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -5191,7 +5191,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "가을동화  드라마촬영지",
+                  "name": "Autumn in My Heart Filming Site",
                   "text": "가을동화  드라마촬영지 este o atracție pitorească cunoscută ca loc de filmare în Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -5200,7 +5200,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "영랑호CC",
+                  "name": "Yeongrangho Lake Country Club",
                   "text": "영랑호CC este un punct de belvedere care oferă peisaje pitorești în Sokcho.",
                   "category": "natural",
                   "coords": [
@@ -5283,7 +5283,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "조도등대",
+                  "name": "Jodo Lighthouse",
                   "text": "조도등대 is a maritime lighthouse located in the city of Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -5292,7 +5292,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "청호해수욕장",
+                  "name": "Cheongho Beach",
                   "text": "청호해수욕장 is a sandy beach area located in Sokcho.",
                   "category": "recreational",
                   "coords": [
@@ -5337,7 +5337,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "갯배선착장",
+                  "name": "Gaetbae Ferry Terminal",
                   "text": "갯배선착장 is a popular tourist attraction located in Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -5346,7 +5346,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "가을동화  드라마촬영지",
+                  "name": "Autumn in My Heart Filming Site",
                   "text": "가을동화  드라마촬영지 is a scenic attraction known for being a filming location in Sokcho.",
                   "category": "landmark",
                   "coords": [
@@ -5355,7 +5355,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "영랑호CC",
+                  "name": "Yeongrangho Lake Country Club",
                   "text": "영랑호CC is a viewpoint offering scenic scenery in Sokcho.",
                   "category": "natural",
                   "coords": [
@@ -5442,7 +5442,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "gimcheon-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "청악화랑",
+                  "name": "Cheongak Art Gallery",
                   "text": "Ein Kunstzentrum und eine Galerie in Gimcheon.",
                   "category": "cultural",
                   "coords": [
@@ -5451,7 +5451,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천문화예술회관",
+                  "name": "Gimcheon Culture and Arts Center",
                   "text": "Ein Zentrum für Kultur und darstellende Künste in Gimcheon.",
                   "category": "cultural",
                   "coords": [
@@ -5460,7 +5460,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천문화회관",
+                  "name": "Gimcheon Cultural Center",
                   "text": "Ein kulturelles Zentrum zur Förderung der Künste in Gimcheon.",
                   "category": "cultural",
                   "coords": [
@@ -5469,7 +5469,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천시립미술관",
+                  "name": "Gimcheon Municipal Art Museum",
                   "text": "Die städtische Kunstgalerie von Gimcheon.",
                   "category": "museum",
                   "coords": [
@@ -5480,7 +5480,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "청악화랑",
+                  "name": "Cheongak Art Gallery",
                   "text": "Művészeti központ és galéria Kimcshonban.",
                   "category": "cultural",
                   "coords": [
@@ -5489,7 +5489,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천문화예술회관",
+                  "name": "Gimcheon Culture and Arts Center",
                   "text": "Kulturális és előadóművészeti központ Kimcshonban.",
                   "category": "cultural",
                   "coords": [
@@ -5498,7 +5498,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천문화회관",
+                  "name": "Gimcheon Cultural Center",
                   "text": "Kulturális központ a művészetek népszerűsítésére Kimcshonban.",
                   "category": "cultural",
                   "coords": [
@@ -5507,7 +5507,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천시립미술관",
+                  "name": "Gimcheon Municipal Art Museum",
                   "text": "Kimcshon városi művészeti galériája.",
                   "category": "museum",
                   "coords": [
@@ -5518,7 +5518,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "청악화랑",
+                  "name": "Cheongak Art Gallery",
                   "text": "Un centru de artă și o galerie în Gimcheon.",
                   "category": "cultural",
                   "coords": [
@@ -5527,7 +5527,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천문화예술회관",
+                  "name": "Gimcheon Culture and Arts Center",
                   "text": "Un centru pentru cultură și spectacole în Gimcheon.",
                   "category": "cultural",
                   "coords": [
@@ -5536,7 +5536,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천문화회관",
+                  "name": "Gimcheon Cultural Center",
                   "text": "Un centru cultural pentru promovarea artelor în Gimcheon.",
                   "category": "cultural",
                   "coords": [
@@ -5545,7 +5545,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천시립미술관",
+                  "name": "Gimcheon Municipal Art Museum",
                   "text": "Galeria municipală de artă din Gimcheon.",
                   "category": "museum",
                   "coords": [
@@ -5583,7 +5583,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김천시립미술관",
+                  "name": "Gimcheon Municipal Art Museum",
                   "text": "The municipal art gallery of Gimcheon.",
                   "category": "museum",
                   "coords": [
@@ -5643,7 +5643,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "chungju-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "국립충주기상과학관",
+                  "name": "National Chungju Meteorological Science Museum",
                   "text": "국립충주기상과학관 in Chungju ist ein nationales Wissenschaftsmuseum, das sich der Meteorologie widmet.",
                   "category": "museum",
                   "coords": [
@@ -5679,7 +5679,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충주라바랜드",
+                  "name": "Chungju Larva Land",
                   "text": "충주라바랜드 ist ein Themenpark in Chungju.",
                   "category": "family",
                   "coords": [
@@ -5697,7 +5697,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "젊음의 거리",
+                  "name": "Street of Youth",
                   "text": "젊음의 거리 ist eine Attraktion in Chungju.",
                   "category": "landmark",
                   "coords": [
@@ -5717,7 +5717,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "국립충주기상과학관",
+                  "name": "National Chungju Meteorological Science Museum",
                   "text": "A cshungdzsui 국립충주기상과학관 egy meteorológiának szentelt nemzeti tudományos múzeum.",
                   "category": "museum",
                   "coords": [
@@ -5753,7 +5753,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충주라바랜드",
+                  "name": "Chungju Larva Land",
                   "text": "A 충주라바랜드 egy vidámpark Cshungdzsu városában.",
                   "category": "family",
                   "coords": [
@@ -5771,7 +5771,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "젊음의 거리",
+                  "name": "Street of Youth",
                   "text": "A 젊음의 거리 egy látványosság Cshungdzsu városában.",
                   "category": "landmark",
                   "coords": [
@@ -5791,7 +5791,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "국립충주기상과학관",
+                  "name": "National Chungju Meteorological Science Museum",
                   "text": "국립충주기상과학관 din Chungju este un muzeu național de știință dedicat meteorologiei.",
                   "category": "museum",
                   "coords": [
@@ -5827,7 +5827,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충주라바랜드",
+                  "name": "Chungju Larva Land",
                   "text": "충주라바랜드 este un parc tematic în Chungju.",
                   "category": "family",
                   "coords": [
@@ -5845,7 +5845,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "젊음의 거리",
+                  "name": "Street of Youth",
                   "text": "젊음의 거리 este o atracție din Chungju.",
                   "category": "landmark",
                   "coords": [
@@ -5865,7 +5865,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "국립충주기상과학관",
+                  "name": "National Chungju Meteorological Science Museum",
                   "text": "국립충주기상과학관 in Chungju is a national science museum dedicated to meteorology.",
                   "category": "museum",
                   "coords": [
@@ -5901,7 +5901,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충주라바랜드",
+                  "name": "Chungju Larva Land",
                   "text": "충주라바랜드 is a theme park in Chungju.",
                   "category": "family",
                   "coords": [
@@ -5919,7 +5919,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "젊음의 거리",
+                  "name": "Street of Youth",
                   "text": "젊음의 거리 is an attraction in Chungju.",
                   "category": "landmark",
                   "coords": [
@@ -6084,7 +6084,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "dangjin-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "당진향교",
+                  "name": "Dangjin Hyanggyo",
                   "text": "당진향교 in Dangjin ist eine historische öffentliche Bildungseinrichtung aus der Joseon-Dynastie.",
                   "category": "historical",
                   "coords": [
@@ -6102,7 +6102,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "당진읍성 남벽",
+                  "name": "Dangjin Fortress South Wall",
                   "text": "당진읍성 남벽 ist eine archäologische Stätte in Dangjin.",
                   "category": "historical",
                   "coords": [
@@ -6122,7 +6122,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "당진향교",
+                  "name": "Dangjin Hyanggyo",
                   "text": "A dangjini 당진향교 egy történelmi állami oktatási intézmény a Csoszon-dinasztia idejéből.",
                   "category": "historical",
                   "coords": [
@@ -6140,7 +6140,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "당진읍성 남벽",
+                  "name": "Dangjin Fortress South Wall",
                   "text": "A 당진읍성 남벽 egy régészeti lelőhely Dangjin városában.",
                   "category": "historical",
                   "coords": [
@@ -6160,7 +6160,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "당진향교",
+                  "name": "Dangjin Hyanggyo",
                   "text": "당진향교 din Dangjin este o instituție publică de învățământ istorică înființată în timpul dinastiei Joseon.",
                   "category": "historical",
                   "coords": [
@@ -6178,7 +6178,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "당진읍성 남벽",
+                  "name": "Dangjin Fortress South Wall",
                   "text": "당진읍성 남벽 este un sit arheologic în Dangjin.",
                   "category": "historical",
                   "coords": [
@@ -6198,7 +6198,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "당진향교",
+                  "name": "Dangjin Hyanggyo",
                   "text": "당진향교 in Dangjin is a historical public educational institution established during the Joseon Dynasty.",
                   "category": "historical",
                   "coords": [
@@ -6216,7 +6216,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "당진읍성 남벽",
+                  "name": "Dangjin Fortress South Wall",
                   "text": "당진읍성 남벽 is an archaeological site in Dangjin.",
                   "category": "historical",
                   "coords": [
@@ -6333,7 +6333,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "naju-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "민속촌",
+                  "name": "Folk Village",
                   "text": "Ein Themenpark in Naju, der ein traditionelles koreanisches Dorf zeigt.",
                   "category": "family",
                   "coords": [
@@ -6342,7 +6342,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "농자재전시관",
+                  "name": "Agricultural Materials Exhibition Hall",
                   "text": "Eine Ausstellungshalle und ein Museum in Naju.",
                   "category": "museum",
                   "coords": [
@@ -6351,7 +6351,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "금성관",
+                  "name": "Geumseonggwan Guest House",
                   "text": "Ein historisches Gästehaus der Regierung in Naju.",
                   "category": "historical",
                   "coords": [
@@ -6360,7 +6360,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주읍성 서문",
+                  "name": "Naju Fortress West Gate",
                   "text": "Das Westtor der historischen Stadtfestung von Naju.",
                   "category": "castle",
                   "coords": [
@@ -6369,7 +6369,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남고문",
+                  "name": "Namgomun Gate",
                   "text": "Ein historisches Tor und archäologische Stätte in Naju.",
                   "category": "historical",
                   "coords": [
@@ -6378,7 +6378,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주향교",
+                  "name": "Naju Hyanggyo",
                   "text": "Eine gut erhaltene traditionelle konfuzianische Schule in Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6387,7 +6387,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주학생독립운동기념관",
+                  "name": "Naju Student Independence Movement Memorial Hall",
                   "text": "Eine Gedenkhalle für die studentische Unabhängigkeitsbewegung in Naju.",
                   "category": "historical",
                   "coords": [
@@ -6396,7 +6396,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주문화예술회관",
+                  "name": "Naju Culture and Arts Center",
                   "text": "Ein Zentrum für Kultur und Kunst in der Stadt Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6405,7 +6405,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시목문화관",
+                  "name": "Naju Mok Culture Center",
                   "text": "Ein lokales Kulturzentrum in Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6414,7 +6414,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시 향토문화회관",
+                  "name": "Naju Local Culture Center",
                   "text": "Ein Zentrum für die Förderung der lokalen Kultur in Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6423,7 +6423,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주온천",
+                  "name": "Naju Hot Springs",
                   "text": "Eine öffentliche Thermalquelle und Sauna in Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6432,7 +6432,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "궁전온천",
+                  "name": "Gungjeon Hot Springs",
                   "text": "Eine lokale Einrichtung mit Sauna und Thermalbädern in Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6443,7 +6443,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "민속촌",
+                  "name": "Folk Village",
                   "text": "Naju-i vidámpark, amely egy hagyományos koreai falut mutat be.",
                   "category": "family",
                   "coords": [
@@ -6452,7 +6452,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "농자재전시관",
+                  "name": "Agricultural Materials Exhibition Hall",
                   "text": "Kiállítóterem és múzeum Nadzuban.",
                   "category": "museum",
                   "coords": [
@@ -6461,7 +6461,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "금성관",
+                  "name": "Geumseonggwan Guest House",
                   "text": "Történelmi kormányzati vendégház Nadzuban.",
                   "category": "historical",
                   "coords": [
@@ -6470,7 +6470,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주읍성 서문",
+                  "name": "Naju Fortress West Gate",
                   "text": "A történelmi Nadzu városfal nyugati kapuja.",
                   "category": "castle",
                   "coords": [
@@ -6479,7 +6479,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남고문",
+                  "name": "Namgomun Gate",
                   "text": "Történelmi kapu és régészeti helyszín Nadzuban.",
                   "category": "historical",
                   "coords": [
@@ -6488,7 +6488,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주향교",
+                  "name": "Naju Hyanggyo",
                   "text": "Jól megőrzött hagyományos konfuciánus iskola Nadzuban.",
                   "category": "landmark",
                   "coords": [
@@ -6497,7 +6497,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주학생독립운동기념관",
+                  "name": "Naju Student Independence Movement Memorial Hall",
                   "text": "Emlékcsarnok a diákok függetlenségi mozgalmának Nadzuban.",
                   "category": "historical",
                   "coords": [
@@ -6506,7 +6506,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주문화예술회관",
+                  "name": "Naju Culture and Arts Center",
                   "text": "Kulturális és művészeti központ Nadzu városában.",
                   "category": "cultural",
                   "coords": [
@@ -6515,7 +6515,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시목문화관",
+                  "name": "Naju Mok Culture Center",
                   "text": "Helyi kulturális központ Nadzuban.",
                   "category": "cultural",
                   "coords": [
@@ -6524,7 +6524,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시 향토문화회관",
+                  "name": "Naju Local Culture Center",
                   "text": "Helyi kultúrát népszerűsítő központ Nadzuban.",
                   "category": "cultural",
                   "coords": [
@@ -6533,7 +6533,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주온천",
+                  "name": "Naju Hot Springs",
                   "text": "Nyilvános termálfürdő és szauna Nadzuban.",
                   "category": "landmark",
                   "coords": [
@@ -6542,7 +6542,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "궁전온천",
+                  "name": "Gungjeon Hot Springs",
                   "text": "Helyi szauna és termálfürdő Nadzuban.",
                   "category": "landmark",
                   "coords": [
@@ -6553,7 +6553,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "민속촌",
+                  "name": "Folk Village",
                   "text": "Un parc tematic din Naju care prezintă un sat tradițional coreean.",
                   "category": "family",
                   "coords": [
@@ -6562,7 +6562,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "농자재전시관",
+                  "name": "Agricultural Materials Exhibition Hall",
                   "text": "O sală de expoziții și un muzeu în Naju.",
                   "category": "museum",
                   "coords": [
@@ -6571,7 +6571,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "금성관",
+                  "name": "Geumseonggwan Guest House",
                   "text": "O casă de oaspeți guvernamentală istorică în Naju.",
                   "category": "historical",
                   "coords": [
@@ -6580,7 +6580,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주읍성 서문",
+                  "name": "Naju Fortress West Gate",
                   "text": "Poarta de vest a cetății istorice a orașului Naju.",
                   "category": "castle",
                   "coords": [
@@ -6589,7 +6589,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남고문",
+                  "name": "Namgomun Gate",
                   "text": "O poartă istorică și sit arheologic în Naju.",
                   "category": "historical",
                   "coords": [
@@ -6598,7 +6598,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주향교",
+                  "name": "Naju Hyanggyo",
                   "text": "O școală confuciană tradițională bine conservată în Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6607,7 +6607,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주학생독립운동기념관",
+                  "name": "Naju Student Independence Movement Memorial Hall",
                   "text": "O sală memorială pentru mișcarea de independență a studenților în Naju.",
                   "category": "historical",
                   "coords": [
@@ -6616,7 +6616,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주문화예술회관",
+                  "name": "Naju Culture and Arts Center",
                   "text": "Un centru pentru cultură și artă în orașul Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6625,7 +6625,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시목문화관",
+                  "name": "Naju Mok Culture Center",
                   "text": "Un centru cultural local în Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6634,7 +6634,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시 향토문화회관",
+                  "name": "Naju Local Culture Center",
                   "text": "Un centru pentru promovarea culturii locale în Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6643,7 +6643,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주온천",
+                  "name": "Naju Hot Springs",
                   "text": "O sursă de apă termală și saună publică în Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6652,7 +6652,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "궁전온천",
+                  "name": "Gungjeon Hot Springs",
                   "text": "O unitate locală cu saună și băi termale în Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6681,7 +6681,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "금성관",
+                  "name": "Geumseonggwan Guest House",
                   "text": "A historical government guesthouse in Naju.",
                   "category": "historical",
                   "coords": [
@@ -6690,7 +6690,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주읍성 서문",
+                  "name": "Naju Fortress West Gate",
                   "text": "The west gate of the historical Naju city fortress.",
                   "category": "castle",
                   "coords": [
@@ -6699,7 +6699,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "남고문",
+                  "name": "Namgomun Gate",
                   "text": "A historical gate and archaeological site in Naju.",
                   "category": "historical",
                   "coords": [
@@ -6708,7 +6708,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주향교",
+                  "name": "Naju Hyanggyo",
                   "text": "A well-preserved traditional Confucian school in Naju.",
                   "category": "landmark",
                   "coords": [
@@ -6735,7 +6735,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "나주시목문화관",
+                  "name": "Naju Mok Culture Center",
                   "text": "A local cultural center in Naju.",
                   "category": "cultural",
                   "coords": [
@@ -6831,7 +6831,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "마동근린 체육공원",
+                  "name": "Madong Neighborhood Sports Park",
                   "text": "마동근린 체육공원 ist ein Park in der Stadt Gwangyang.",
                   "category": "park",
                   "coords": [
@@ -6840,7 +6840,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "광양만전망대쉼터",
+                  "name": "Gwangyang Bay Observatory Rest Area",
                   "text": "광양만전망대쉼터 ist ein Aussichtspunkt in der Stadt Gwangyang.",
                   "category": "natural",
                   "coords": [
@@ -6869,7 +6869,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "마동근린 체육공원",
+                  "name": "Madong Neighborhood Sports Park",
                   "text": "A 마동근린 체육공원 egy park Gwangyang városában.",
                   "category": "park",
                   "coords": [
@@ -6878,7 +6878,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "광양만전망대쉼터",
+                  "name": "Gwangyang Bay Observatory Rest Area",
                   "text": "A 광양만전망대쉼터 egy kilátó Gwangyang városában.",
                   "category": "natural",
                   "coords": [
@@ -6907,7 +6907,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "마동근린 체육공원",
+                  "name": "Madong Neighborhood Sports Park",
                   "text": "마동근린 체육공원 este un parc în orașul Gwangyang.",
                   "category": "park",
                   "coords": [
@@ -6916,7 +6916,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "광양만전망대쉼터",
+                  "name": "Gwangyang Bay Observatory Rest Area",
                   "text": "광양만전망대쉼터 este un punct de belvedere în orașul Gwangyang.",
                   "category": "natural",
                   "coords": [
@@ -6945,7 +6945,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "마동근린 체육공원",
+                  "name": "Madong Neighborhood Sports Park",
                   "text": "마동근린 체육공원 is a park located in the city of Gwangyang.",
                   "category": "park",
                   "coords": [
@@ -6954,7 +6954,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "광양만전망대쉼터",
+                  "name": "Gwangyang Bay Observatory Rest Area",
                   "text": "광양만전망대쉼터 is a viewpoint located in the city of Gwangyang.",
                   "category": "natural",
                   "coords": [
@@ -7061,7 +7061,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "테마파크",
+                  "name": "Theme Park",
                   "text": "Ez a helyszín egy helyi vidámpark Mungyeong városában.",
                   "category": "family",
                   "coords": [
@@ -7070,7 +7070,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "명예역장 강아지집",
+                  "name": "Honorary Station Master Dog House",
                   "text": "Ez egy egyedi helyi emlékmű Mungyeong városában.",
                   "category": "historical",
                   "coords": [
@@ -7185,7 +7185,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hanam-city-cities-v2", "sights": {"de": [{"name": "선성군묘역", "text": "Die historische Grabstätte des Prinzen Seonseong in Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "하남역사박물관", "text": "Wer sich für die Vergangenheit der südkoreanischen Stadt Hanam interessiert, sollte das 하남역사박물관 besuchen. Dieses Museum dokumentiert die historische Entwicklung der Region durch vielfältige Exponate.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "아쿠아필드", "text": "Ein moderner Wasserpark und Wellnesskomplex in Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "유니온파크 물놀이터", "text": "Ein Wasserpark im Union Park in Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "주렁주렁 하남점", "text": "Ein Indoor-Streichelzoo und Tierpark in Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "원형보전지", "text": "Ein geschütztes Naturreservat in der Region Hanam.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "하남이성산성", "text": "Eine historische Bergfestung in der Stadt Hanam.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "은방울공원", "text": "Ein lokaler öffentlicher Park in Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "꿈나라공원", "text": "Ein öffentlicher Erholungspark in Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "새나라공원", "text": "Ein städtischer Park für Freizeitaktivitäten in Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "덕풍공원", "text": "Ein lokaler Park für die Bewohner von Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "저높은곳을향하여", "text": "Ein symbolisches Denkmal in der Stadt Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}], "hu": [{"name": "선성군묘역", "text": "Szeonszeong herceg történelmi sírhelye Hanamban.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "하남역사박물관", "text": "Aki érdeklődik a dél-koreai Hanam város múltja iránt, annak érdemes ellátogatnia a 하남역사박물관 nevű múzeumba. Ez a kulturális intézmény változatos kiállítási tárgyakon keresztül dokumentálja a régió történelmi fejlődését.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "아쿠아필드", "text": "Modern vízipark és wellness komplexum Hanamban.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "유니온파크 물놀이터", "text": "Vízipark az Union Park területén Hanamban.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "주렁주렁 하남점", "text": "Fedett állatsimogató és állatpark Hanamban.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "원형보전지", "text": "Védett természetvédelmi terület Hanam régiójában.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "하남이성산성", "text": "Történelmi hegyi erőd Hanam városában.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "은방울공원", "text": "Helyi közpark Hanamban.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "꿈나라공원", "text": "Nyilvános pihenőpark Hanamban.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "새나라공원", "text": "Városi park szabadidős tevékenységekhez Hanamban.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "덕풍공원", "text": "Helyi park Hanam lakói számára.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "저높은곳을향하여", "text": "Egy szimbolikus emlékmű Hanam városában.", "category": "historical", "coords": [127.202237, 37.550084]}], "ro": [{"name": "선성군묘역", "text": "Situl funerar istoric al prințului Seonseong în Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "하남역사박물관", "text": "Cei interesați de trecutul orașului sud-coreean Hanam ar trebui să viziteze 하남역사박물관. Acest muzeu documentează dezvoltarea istorică a regiunii prin diverse exponate.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "아쿠아필드", "text": "Un parc acvatic modern și complex de wellness în Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "유니온파크 물놀이터", "text": "Un parc acvatic situat în Union Park din Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "주렁주렁 하남점", "text": "O grădină zoologică interioară și parc cu animale în Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "원형보전지", "text": "O rezervație naturală protejată în regiunea Hanam.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "하남이성산성", "text": "O cetate montană istorică în orașul Hanam.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "은방울공원", "text": "Un parc public local în Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "꿈나라공원", "text": "Un parc public de recreere în Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "새나라공원", "text": "Un parc urban pentru activități de recreere în Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "덕풍공원", "text": "Un parc local pentru locuitorii din Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "저높은곳을향하여", "text": "Un monument simbolic situat în orașul Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}], "en": [{"name": "선성군묘역", "text": "The historical tomb site of Prince Seonseong in Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Anyone interested in the past of the South Korean city of Hanam should visit the 하남역사박물관. This museum carefully documents the region's historical development through various exhibits.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "아쿠아필드", "text": "A modern water park and spa complex in Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Park", "text": "A water park located within Union Park in Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "주렁주렁 하남점", "text": "An indoor petting zoo and animal park in Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "원형보전지", "text": "A protected nature reserve area in the Hanam region.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Iseongsanseong Fortress, Hanam", "text": "A historical mountain fortress in Hanam city.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "EunBangUl Park", "text": "A local public park in Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "꿈나라공원", "text": "A public recreational park in Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "새나라공원", "text": "An urban park for leisure activities in Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "A local park for the residents of Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "저높은곳을향하여", "text": "A symbolic monument located in the city of Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}]},
+    id: "hanam-city-cities-v2", "sights": {"de": [{"name": "Prince Seonseong Tomb", "text": "Die historische Grabstätte des Prinzen Seonseong in Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Wer sich für die Vergangenheit der südkoreanischen Stadt Hanam interessiert, sollte das 하남역사박물관 besuchen. Dieses Museum dokumentiert die historische Entwicklung der Region durch vielfältige Exponate.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "Ein moderner Wasserpark und Wellnesskomplex in Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Playground", "text": "Ein Wasserpark im Union Park in Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "Ein Indoor-Streichelzoo und Tierpark in Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "Ein geschütztes Naturreservat in der Region Hanam.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Hanam Iseongsanseong Fortress", "text": "Eine historische Bergfestung in der Stadt Hanam.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "Eunbangul Park", "text": "Ein lokaler öffentlicher Park in Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "Ein öffentlicher Erholungspark in Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "Ein städtischer Park für Freizeitaktivitäten in Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "Ein lokaler Park für die Bewohner von Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "Ein symbolisches Denkmal in der Stadt Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}], "hu": [{"name": "Prince Seonseong Tomb", "text": "Szeonszeong herceg történelmi sírhelye Hanamban.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Aki érdeklődik a dél-koreai Hanam város múltja iránt, annak érdemes ellátogatnia a 하남역사박물관 nevű múzeumba. Ez a kulturális intézmény változatos kiállítási tárgyakon keresztül dokumentálja a régió történelmi fejlődését.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "Modern vízipark és wellness komplexum Hanamban.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Playground", "text": "Vízipark az Union Park területén Hanamban.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "Fedett állatsimogató és állatpark Hanamban.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "Védett természetvédelmi terület Hanam régiójában.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Hanam Iseongsanseong Fortress", "text": "Történelmi hegyi erőd Hanam városában.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "Eunbangul Park", "text": "Helyi közpark Hanamban.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "Nyilvános pihenőpark Hanamban.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "Városi park szabadidős tevékenységekhez Hanamban.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "Helyi park Hanam lakói számára.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "Egy szimbolikus emlékmű Hanam városában.", "category": "historical", "coords": [127.202237, 37.550084]}], "ro": [{"name": "Prince Seonseong Tomb", "text": "Situl funerar istoric al prințului Seonseong în Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Cei interesați de trecutul orașului sud-coreean Hanam ar trebui să viziteze 하남역사박물관. Acest muzeu documentează dezvoltarea istorică a regiunii prin diverse exponate.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "Un parc acvatic modern și complex de wellness în Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Playground", "text": "Un parc acvatic situat în Union Park din Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "O grădină zoologică interioară și parc cu animale în Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "O rezervație naturală protejată în regiunea Hanam.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Hanam Iseongsanseong Fortress", "text": "O cetate montană istorică în orașul Hanam.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "Eunbangul Park", "text": "Un parc public local în Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "Un parc public de recreere în Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "Un parc urban pentru activități de recreere în Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "Un parc local pentru locuitorii din Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "Un monument simbolic situat în orașul Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}], "en": [{"name": "Prince Seonseong Tomb", "text": "The historical tomb site of Prince Seonseong in Hanam.", "category": "historical", "coords": [127.195804, 37.537597]}, {"name": "Hanam History Museum", "text": "Anyone interested in the past of the South Korean city of Hanam should visit the 하남역사박물관. This museum carefully documents the region's historical development through various exhibits.", "category": "museum", "coords": [127.206633, 37.544752]}, {"name": "Aquafield", "text": "A modern water park and spa complex in Hanam.", "category": "family", "coords": [127.224243, 37.54589]}, {"name": "Union Park Water Park", "text": "A water park located within Union Park in Hanam.", "category": "family", "coords": [127.219207, 37.546486]}, {"name": "Zoolung Zoolung Hanam Branch", "text": "An indoor petting zoo and animal park in Hanam.", "category": "family", "coords": [127.223567, 37.543578]}, {"name": "Nature Conservation Area", "text": "A protected nature reserve area in the Hanam region.", "category": "natural", "coords": [127.215343, 37.55647]}, {"name": "Iseongsanseong Fortress, Hanam", "text": "A historical mountain fortress in Hanam city.", "category": "landmark", "coords": [127.183832, 37.527265]}, {"name": "EunBangUl Park", "text": "A local public park in Hanam.", "category": "park", "coords": [127.224618, 37.539848]}, {"name": "Kkumnara Park", "text": "A public recreational park in Hanam.", "category": "park", "coords": [127.221579, 37.537576]}, {"name": "Saenara Park", "text": "An urban park for leisure activities in Hanam.", "category": "park", "coords": [127.223279, 37.542313]}, {"name": "Deokpung Park", "text": "A local park for the residents of Hanam.", "category": "park", "coords": [127.197474, 37.536434]}, {"name": "Towards the Heights Monument", "text": "A symbolic monument located in the city of Hanam.", "category": "historical", "coords": [127.202237, 37.550084]}]},
     type: "city",
     parent: "KR-41",
     coords: [127.2000, 37.5330],
@@ -7284,7 +7284,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "tongyeong-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "통영시 향토역사관",
+                  "name": "Tongyeong Local History Museum",
                   "text": "Das Tongyeongsi Local History Museum bewahrt das regionale Erbe von Tongyeong.",
                   "category": "museum",
                   "coords": [
@@ -7338,7 +7338,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통영시민문화회관",
+                  "name": "Tongyeong Citizens Cultural Center",
                   "text": "Dieses lokale Theater und Kulturzentrum befindet sich in Tongyeong.",
                   "category": "cultural",
                   "coords": [
@@ -7374,7 +7374,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충렬사",
+                  "name": "Chungnyeolsa Shrine",
                   "text": "Diese historische Attraktion befindet sich in der Stadt Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7383,7 +7383,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "서피랑",
+                  "name": "Seopirang Park",
                   "text": "Diese beliebte lokale Attraktion befindet sich in Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7392,7 +7392,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "パフォーマー 歌",
+                  "name": "Performer Song",
                   "text": "Diese einzigartige Performance-Attraktion befindet sich in der Stadt Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7410,7 +7410,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통일전망대",
+                  "name": "Unification Observatory",
                   "text": "Dieser landschaftlich reizvolle Aussichtspunkt befindet sich in der Stadt Tongyeong.",
                   "category": "natural",
                   "coords": [
@@ -7419,7 +7419,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "윤이상기념관",
+                  "name": "Isang Yun Memorial Hall",
                   "text": "Dieses Denkmal feiert die lokale Geschichte in der Stadt Tongyeong.",
                   "category": "historical",
                   "coords": [
@@ -7430,7 +7430,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "통영시 향토역사관",
+                  "name": "Tongyeong Local History Museum",
                   "text": "A Tongyeongsi Local History Museum Tongyeong regionális örökségét őrzi.",
                   "category": "museum",
                   "coords": [
@@ -7439,7 +7439,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통영불교전시관",
+                  "name": "Tongyeong Buddhist Exhibition Hall",
                   "text": "Ez egy a buddhista kultúrának szentelt múzeum Tongyeong városában.",
                   "category": "museum",
                   "coords": [
@@ -7457,7 +7457,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "스카이라인루지 통영",
+                  "name": "Skyline Luge Tongyeong",
                   "text": "Ez a hely egy szabadtéri vidámpark és szabadidős úti cél Tongyeongban.",
                   "category": "family",
                   "coords": [
@@ -7466,7 +7466,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "디피랑",
+                  "name": "Dpirang",
                   "text": "Ez egy modern vidámpark Tongyeong városában.",
                   "category": "family",
                   "coords": [
@@ -7475,7 +7475,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "문화동배수시설",
+                  "name": "Munhwadong Waterworks Facility",
                   "text": "Ez egy történelmi infrastruktúrával kapcsolatos régészeti lelőhely Tongyeongban.",
                   "category": "historical",
                   "coords": [
@@ -7484,7 +7484,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통영시민문화회관",
+                  "name": "Tongyeong Citizens Cultural Center",
                   "text": "Ez a helyi színház és kulturális központ Tongyeong városában található.",
                   "category": "cultural",
                   "coords": [
@@ -7502,7 +7502,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통영삼도수군통제영",
+                  "name": "Tongyeong Samdosugun Tongjeyeong",
                   "text": "Ez a helyszín egy történelmi haditengerészeti erőd Tongyeong városában.",
                   "category": "fortress",
                   "coords": [
@@ -7520,7 +7520,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충렬사",
+                  "name": "Chungnyeolsa Shrine",
                   "text": "Ez a történelmi látványosság Tongyeong városában található.",
                   "category": "landmark",
                   "coords": [
@@ -7529,7 +7529,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "서피랑",
+                  "name": "Seopirang Park",
                   "text": "Ez a népszerű helyi látványosság Tongyeong városában található.",
                   "category": "landmark",
                   "coords": [
@@ -7538,7 +7538,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "パフォーマー 歌",
+                  "name": "Performer Song",
                   "text": "Ez az egyedi előadóművészeti látványosság Tongyeong városában található.",
                   "category": "landmark",
                   "coords": [
@@ -7547,7 +7547,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "새뫼넘어끝",
+                  "name": "Saemoeneomeokkeut Lookout",
                   "text": "Ez egy festői kilátó, amely panorámás látványt nyújt Tongyeongban.",
                   "category": "natural",
                   "coords": [
@@ -7556,7 +7556,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통일전망대",
+                  "name": "Unification Observatory",
                   "text": "Ez a festői kilátó Tongyeong városában található.",
                   "category": "natural",
                   "coords": [
@@ -7565,7 +7565,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "윤이상기념관",
+                  "name": "Isang Yun Memorial Hall",
                   "text": "Ez az emlékmű a helyi történelmet ünnepli Tongyeong városában.",
                   "category": "historical",
                   "coords": [
@@ -7576,7 +7576,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "통영시 향토역사관",
+                  "name": "Tongyeong Local History Museum",
                   "text": "Muzeul de Istorie Locală Tongyeongsi păstrează patrimoniul regional din Tongyeong.",
                   "category": "museum",
                   "coords": [
@@ -7684,7 +7684,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "パフォーマー 歌",
+                  "name": "Performer Song",
                   "text": "Această atracție unică de performanță se găsește în orașul Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7711,7 +7711,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "윤이상기념관",
+                  "name": "Isang Yun Memorial Hall",
                   "text": "Acest monument comemorativ celebrează istoria locală din orașul Tongyeong.",
                   "category": "historical",
                   "coords": [
@@ -7776,7 +7776,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통영시민문화회관",
+                  "name": "Tongyeong Citizens Cultural Center",
                   "text": "This local theatre and cultural center is situated in Tongyeong.",
                   "category": "cultural",
                   "coords": [
@@ -7812,7 +7812,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "충렬사",
+                  "name": "Chungnyeolsa Shrine",
                   "text": "This historic attraction is situated in the city of Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7821,7 +7821,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "서피랑",
+                  "name": "Seopirang Park",
                   "text": "This popular local attraction is located in Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7830,7 +7830,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "パフォーマー 歌",
+                  "name": "Performer Song",
                   "text": "This unique performance attraction is found in the city of Tongyeong.",
                   "category": "landmark",
                   "coords": [
@@ -7848,7 +7848,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "통일전망대",
+                  "name": "Unification Observatory",
                   "text": "This scenic observatory viewpoint is situated in the city of Tongyeong.",
                   "category": "natural",
                   "coords": [
@@ -7857,7 +7857,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "윤이상기념관",
+                  "name": "Isang Yun Memorial Hall",
                   "text": "This memorial monument celebrates local history in the city of Tongyeong.",
                   "category": "historical",
                   "coords": [
@@ -7965,7 +7965,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "miryang-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "영남루",
+                  "name": "Yeongnamnu Pavilion",
                   "text": "영남루 ist eine archäologische Stätte in der Stadt Miryang.",
                   "category": "historical",
                   "coords": [
@@ -7974,7 +7974,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양관아",
+                  "name": "Miryang Government Office",
                   "text": "밀양관아 ist eine archäologische Stätte in der Stadt Miryang.",
                   "category": "historical",
                   "coords": [
@@ -7983,7 +7983,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀성박씨대종회",
+                  "name": "Milsung Park Clan Association",
                   "text": "밀성박씨대종회 ist eine archäologische Stätte in der Stadt Miryang.",
                   "category": "historical",
                   "coords": [
@@ -7992,7 +7992,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김종직생가",
+                  "name": "Kim Jong-jik Birthplace",
                   "text": "김종직생가 ist ein historisches Schloss in der Stadt Miryang.",
                   "category": "castle",
                   "coords": [
@@ -8001,7 +8001,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "봉수대",
+                  "name": "Bongsudae Beacon Mound",
                   "text": "봉수대 ist eine archäologische Stätte in der Stadt Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8010,7 +8010,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "성황사유지",
+                  "name": "Seonghwangsa Temple Site",
                   "text": "성황사유지 ist eine archäologische Stätte in der Stadt Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8028,7 +8028,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양향교",
+                  "name": "Miryang Hyanggyo",
                   "text": "밀양향교 ist eine archäologische Stätte in der Stadt Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8055,7 +8055,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "용평동 회화나무",
+                  "name": "Yongpyeong-dong Scholar Tree",
                   "text": "용평동 회화나무 ist ein Aussichtspunkt in der Stadt Miryang.",
                   "category": "natural",
                   "coords": [
@@ -8064,7 +8064,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "달팽이전망대",
+                  "name": "Snail Observatory",
                   "text": "달팽이전망대 ist ein Aussichtspunkt in der Stadt Miryang.",
                   "category": "natural",
                   "coords": [
@@ -8073,7 +8073,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "대공연장",
+                  "name": "Grand Performance Hall",
                   "text": "대공연장 ist ein Kunstzentrum in der Stadt Miryang.",
                   "category": "cultural",
                   "coords": [
@@ -8093,7 +8093,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "영남루",
+                  "name": "Yeongnamnu Pavilion",
                   "text": "A 영남루 egy régészeti lelőhely Miryang városában.",
                   "category": "historical",
                   "coords": [
@@ -8102,7 +8102,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양관아",
+                  "name": "Miryang Government Office",
                   "text": "A 밀양관아 egy régészeti lelőhely Miryang városában.",
                   "category": "historical",
                   "coords": [
@@ -8111,7 +8111,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀성박씨대종회",
+                  "name": "Milsung Park Clan Association",
                   "text": "A 밀성박씨대종회 egy régészeti lelőhely Miryang városában.",
                   "category": "historical",
                   "coords": [
@@ -8120,7 +8120,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김종직생가",
+                  "name": "Kim Jong-jik Birthplace",
                   "text": "A 김종직생가 egy történelmi kastély Miryang városában.",
                   "category": "castle",
                   "coords": [
@@ -8129,7 +8129,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "봉수대",
+                  "name": "Bongsudae Beacon Mound",
                   "text": "A 봉수대 egy régészeti lelőhely Miryang városában.",
                   "category": "historical",
                   "coords": [
@@ -8138,7 +8138,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "성황사유지",
+                  "name": "Seonghwangsa Temple Site",
                   "text": "A 성황사유지 egy régészeti lelőhely Miryang városában.",
                   "category": "historical",
                   "coords": [
@@ -8156,7 +8156,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양향교",
+                  "name": "Miryang Hyanggyo",
                   "text": "A 밀양향교 egy régészeti lelőhely Miryang városában.",
                   "category": "historical",
                   "coords": [
@@ -8183,7 +8183,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "용평동 회화나무",
+                  "name": "Yongpyeong-dong Scholar Tree",
                   "text": "A 용평동 회화나무 egy kilátó Miryang városában.",
                   "category": "natural",
                   "coords": [
@@ -8192,7 +8192,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "달팽이전망대",
+                  "name": "Snail Observatory",
                   "text": "A 달팽이전망대 egy kilátó Miryang városában.",
                   "category": "natural",
                   "coords": [
@@ -8201,7 +8201,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "대공연장",
+                  "name": "Grand Performance Hall",
                   "text": "A 대공연장 egy művészeti központ Miryang városában.",
                   "category": "cultural",
                   "coords": [
@@ -8221,7 +8221,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "영남루",
+                  "name": "Yeongnamnu Pavilion",
                   "text": "영남루 este un sit arheologic în orașul Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8230,7 +8230,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양관아",
+                  "name": "Miryang Government Office",
                   "text": "밀양관아 este un sit arheologic în orașul Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8239,7 +8239,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀성박씨대종회",
+                  "name": "Milsung Park Clan Association",
                   "text": "밀성박씨대종회 este un sit arheologic în orașul Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8248,7 +8248,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김종직생가",
+                  "name": "Kim Jong-jik Birthplace",
                   "text": "김종직생가 este un castel istoric în orașul Miryang.",
                   "category": "castle",
                   "coords": [
@@ -8257,7 +8257,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "봉수대",
+                  "name": "Bongsudae Beacon Mound",
                   "text": "봉수대 este un sit arheologic în orașul Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8266,7 +8266,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "성황사유지",
+                  "name": "Seonghwangsa Temple Site",
                   "text": "성황사유지 este un sit arheologic în orașul Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8284,7 +8284,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양향교",
+                  "name": "Miryang Hyanggyo",
                   "text": "밀양향교 este un sit arheologic în orașul Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8311,7 +8311,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "용평동 회화나무",
+                  "name": "Yongpyeong-dong Scholar Tree",
                   "text": "용평동 회화나무 este un punct de belvedere în orașul Miryang.",
                   "category": "natural",
                   "coords": [
@@ -8320,7 +8320,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "달팽이전망대",
+                  "name": "Snail Observatory",
                   "text": "달팽이전망대 este un punct de belvedere în orașul Miryang.",
                   "category": "natural",
                   "coords": [
@@ -8329,7 +8329,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "대공연장",
+                  "name": "Grand Performance Hall",
                   "text": "대공연장 este un centru de arte în orașul Miryang.",
                   "category": "cultural",
                   "coords": [
@@ -8349,7 +8349,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "영남루",
+                  "name": "Yeongnamnu Pavilion",
                   "text": "영남루 is an archaeological site located in the city of Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8358,7 +8358,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양관아",
+                  "name": "Miryang Government Office",
                   "text": "밀양관아 is an archaeological site located in the city of Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8367,7 +8367,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀성박씨대종회",
+                  "name": "Milsung Park Clan Association",
                   "text": "밀성박씨대종회 is an archaeological site located in the city of Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8376,7 +8376,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김종직생가",
+                  "name": "Kim Jong-jik Birthplace",
                   "text": "김종직생가 is a historical castle located in the city of Miryang.",
                   "category": "castle",
                   "coords": [
@@ -8385,7 +8385,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "봉수대",
+                  "name": "Bongsudae Beacon Mound",
                   "text": "봉수대 is an archaeological site located in the city of Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8394,7 +8394,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "성황사유지",
+                  "name": "Seonghwangsa Temple Site",
                   "text": "성황사유지 is an archaeological site located in the city of Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8412,7 +8412,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "밀양향교",
+                  "name": "Miryang Hyanggyo",
                   "text": "밀양향교 is an archaeological site located in the city of Miryang.",
                   "category": "historical",
                   "coords": [
@@ -8439,7 +8439,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "용평동 회화나무",
+                  "name": "Yongpyeong-dong Scholar Tree",
                   "text": "용평동 회화나무 is a viewpoint located in the city of Miryang.",
                   "category": "natural",
                   "coords": [
@@ -8448,7 +8448,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "달팽이전망대",
+                  "name": "Snail Observatory",
                   "text": "달팽이전망대 is a viewpoint located in the city of Miryang.",
                   "category": "natural",
                   "coords": [
@@ -8457,7 +8457,7 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "대공연장",
+                  "name": "Grand Performance Hall",
                   "text": "대공연장 is an arts centre located in the city of Miryang.",
                   "category": "cultural",
                   "coords": [

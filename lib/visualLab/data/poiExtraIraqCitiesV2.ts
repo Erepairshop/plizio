@@ -686,7 +686,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيطرة الدور",
+                  "name": "Al-Dour Lookout",
                   "text": "سيطرة الدور ist ein Aussichtspunkt in der Stadt Samarra.",
                   "category": "natural",
                   "coords": [
@@ -706,7 +706,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "جامع الملوية",
+                  "name": "Great Mosque of Samarra",
                   "text": "A(z) Malwiya egy jelentős régészeti lelőhely Samarra városában.",
                   "category": "historical",
                   "coords": [
@@ -751,7 +751,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيطرة الدور",
+                  "name": "Al-Dour Lookout",
                   "text": "A سيطرة الدور egy kilátópont Samarra városában.",
                   "category": "natural",
                   "coords": [
@@ -816,7 +816,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيطرة الدور",
+                  "name": "Al-Dour Lookout",
                   "text": "سيطرة الدور este un punct de belvedere situat în Samarra.",
                   "category": "natural",
                   "coords": [
@@ -881,7 +881,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سيطرة الدور",
+                  "name": "Al-Dour Lookout",
                   "text": "سيطرة الدور is a viewpoint located in the city of Samarra.",
                   "category": "natural",
                   "coords": [
@@ -1854,7 +1854,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اراضي زراعية",
+                  "name": "Agricultural Lands",
                   "text": "Dieses landwirtschaftliche Gebiet bietet einen Einblick in die ländliche Umgebung von Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1890,7 +1890,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سد",
+                  "name": "Dam",
                   "text": "Dieser Ort repräsentiert die allgemeine kulturelle Atmosphäre und die Attraktionen von Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1899,7 +1899,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحماية الاجتماعية",
+                  "name": "Social Security Building",
                   "text": "Das Gebäude der Sozialversicherung dient als bemerkenswerte Einrichtung in Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -1937,7 +1937,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اراضي زراعية",
+                  "name": "Agricultural Lands",
                   "text": "Ez a mezőgazdasági terület bepillantást enged Tal Afar helyi vidéki tájába.",
                   "category": "landmark",
                   "coords": [
@@ -1955,7 +1955,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "علوة.S",
+                  "name": "Alwa",
                   "text": "Ez a helyi látványosság egy érdekes pont Tal Afarban.",
                   "category": "landmark",
                   "coords": [
@@ -1973,7 +1973,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سد",
+                  "name": "Dam",
                   "text": "Ez a helyszín Tal Afar általános kulturális atmoszféráját és látnivalóit képviseli.",
                   "category": "landmark",
                   "coords": [
@@ -1982,7 +1982,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحماية الاجتماعية",
+                  "name": "Social Security Building",
                   "text": "A Szociális Védelmi épület figyelemre méltó létesítmény Tal Afarban.",
                   "category": "landmark",
                   "coords": [
@@ -2020,7 +2020,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اراضي زراعية",
+                  "name": "Agricultural Lands",
                   "text": "Această zonă agricolă oferă o privire asupra peisajului rural local din Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2065,7 +2065,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الحماية الاجتماعية",
+                  "name": "Social Security Building",
                   "text": "Clădirea de Protecție Socială servește ca o facilitate notabilă în Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2103,7 +2103,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "اراضي زراعية",
+                  "name": "Agricultural Lands",
                   "text": "This agricultural area offers a glimpse into the local rural landscape of Tal Afar.",
                   "category": "landmark",
                   "coords": [
@@ -2669,7 +2669,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئەکواپارکی شنگلبانە",
+                  "name": "Shanglbana Aqua Park",
                   "text": "ئەکواپارکی شنگلبانە ist ein Wasserpark, der Freizeitmöglichkeiten in Rawanduz bietet.",
                   "category": "family",
                   "coords": [
@@ -2696,7 +2696,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بێخاڵ",
+                  "name": "Bekhal",
                   "text": "بێخاڵ ist eine lokale Sehenswürdigkeit in der Stadt Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2705,7 +2705,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئیسقەڵا",
+                  "name": "Esqala",
                   "text": "Esqala umfasst historische Ruinen in der Umgebung von Rawanduz.",
                   "category": "historical",
                   "coords": [
@@ -2714,7 +2714,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مەلەوانگەی ڕواندز",
+                  "name": "Rawanduz Swimming Pool",
                   "text": "مەلەوانگەی ڕواندز ist eine Attraktion in der Stadt Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2795,7 +2795,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دەروازەی خەرەندی ڕەواندز",
+                  "name": "Rawandiz Canyon Entrance",
                   "text": "Der Entrance to Rawandiz Canyon markiert den Zugang zu einer beeindruckenden Schlucht in Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -2824,7 +2824,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئەکواپارکی شنگلبانە",
+                  "name": "Shanglbana Aqua Park",
                   "text": "A ئەکواپارکی شنگلبانە egy vízipark, amely kikapcsolódási lehetőséget nyújt Rawanduzban.",
                   "category": "family",
                   "coords": [
@@ -2851,7 +2851,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بێخاڵ",
+                  "name": "Bekhal",
                   "text": "A بێخاڵ egy helyi turisztikai látványosság Rawanduz városában.",
                   "category": "landmark",
                   "coords": [
@@ -2860,7 +2860,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئیسقەڵا",
+                  "name": "Esqala",
                   "text": "Az Esqala történelmi romokat foglal magában Rawanduz közelében.",
                   "category": "historical",
                   "coords": [
@@ -2869,7 +2869,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مەلەوانگەی ڕواندز",
+                  "name": "Rawanduz Swimming Pool",
                   "text": "A مەلەوانگەی ڕواندز egy látványosság Rawanduz városában.",
                   "category": "landmark",
                   "coords": [
@@ -2979,7 +2979,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئەکواپارکی شنگلبانە",
+                  "name": "Shanglbana Aqua Park",
                   "text": "ئەکواپارکی شنگلبانە este un parc acvatic ce oferă facilități de agrement în Rawanduz.",
                   "category": "family",
                   "coords": [
@@ -3006,7 +3006,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بێخاڵ",
+                  "name": "Bekhal",
                   "text": "بێخاڵ este o atracție locală situată în orașul Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3015,7 +3015,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئیسقەڵا",
+                  "name": "Esqala",
                   "text": "Esqala cuprinde ruine istorice situate în zona Rawanduz.",
                   "category": "historical",
                   "coords": [
@@ -3024,7 +3024,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مەلەوانگەی ڕواندز",
+                  "name": "Rawanduz Swimming Pool",
                   "text": "مەلەوانگەی ڕواندز este o atracție turistică din orașul Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3105,7 +3105,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دەروازەی خەرەندی ڕەواندز",
+                  "name": "Rawandiz Canyon Entrance",
                   "text": "Entrance to Rawandiz Canyon marchează accesul către un defileu impresionant din Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3134,7 +3134,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ئەکواپارکی شنگلبانە",
+                  "name": "Shanglbana Aqua Park",
                   "text": "ئەکواپارکی شنگلبانە is a water park offering recreational activities in Rawanduz.",
                   "category": "family",
                   "coords": [
@@ -3161,7 +3161,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بێخاڵ",
+                  "name": "Bekhal",
                   "text": "بێخاڵ is a local tourist attraction in the city of Rawanduz.",
                   "category": "landmark",
                   "coords": [
@@ -3179,7 +3179,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مەلەوانگەی ڕواندز",
+                  "name": "Rawanduz Swimming Pool",
                   "text": "مەلەوانگەی ڕواندز is a tourist attraction situated in Rawanduz.",
                   "category": "landmark",
                   "coords": [

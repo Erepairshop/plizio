@@ -1639,7 +1639,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     id: "sbeitla-cities-v2", "sights": {
       "de": [
             {
-                  "name": "آثار رومانية سبيطلة",
+                  "name": "Roman Ruins of Sbeitla",
                   "text": "Die römischen Ruinen von Sbeitla sind eine bedeutende archäologische Stätte in Sbeitla.",
                   "category": "historical",
                   "coords": [
@@ -1740,7 +1740,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "آثار رومانية سبيطلة",
+                  "name": "Roman Ruins of Sbeitla",
                   "text": "Sbeitla római romjai egy jelentős régészeti lelőhely Sbeitlában.",
                   "category": "historical",
                   "coords": [
@@ -2230,7 +2230,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شاطئ الکرم",
+                  "name": "Le Kram Beach",
                   "text": "Ein Sandstrand im Viertel Le Kram.",
                   "category": "recreational",
                   "coords": [
@@ -2239,7 +2239,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفلوكة",
+                  "name": "La Goulette Ship Monument",
                   "text": "Ein Denkmal in Form eines Schiffes in La Goulette.",
                   "category": "historical",
                   "coords": [
@@ -2268,7 +2268,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حلق الوادي",
+                  "name": "La Goulette Lighthouse",
                   "text": "La Goulette kikötővárosában található világítótorony.",
                   "category": "landmark",
                   "coords": [
@@ -2277,7 +2277,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شاطئ الکرم",
+                  "name": "Le Kram Beach",
                   "text": "Homokos tengerpart Le Kram negyedében.",
                   "category": "recreational",
                   "coords": [
@@ -2286,7 +2286,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفلوكة",
+                  "name": "La Goulette Ship Monument",
                   "text": "Hajó formájú emlékmű La Goulette-ben.",
                   "category": "historical",
                   "coords": [
@@ -2315,7 +2315,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حلق الوادي",
+                  "name": "La Goulette Lighthouse",
                   "text": "Un far situat în orașul-port La Goulette.",
                   "category": "landmark",
                   "coords": [
@@ -2324,7 +2324,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شاطئ الکرم",
+                  "name": "Le Kram Beach",
                   "text": "O plajă cu nisip situată în districtul Le Kram.",
                   "category": "recreational",
                   "coords": [
@@ -2333,7 +2333,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفلوكة",
+                  "name": "La Goulette Ship Monument",
                   "text": "Un monument în formă de navă în La Goulette.",
                   "category": "historical",
                   "coords": [

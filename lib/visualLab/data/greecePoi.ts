@@ -714,7 +714,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος",
+                  "name": "4th District Municipal Swimming Pool",
                   "text": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος in Thessaloniki bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -723,7 +723,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ζωολογικός Κήπος",
+                  "name": "Thessaloniki Zoo",
                   "text": "Ζωολογικός Κήπος in Thessaloniki ist ein familienfreundliches Ziel für Besucher jeden Alters.",
                   "category": "family",
                   "coords": [
@@ -732,7 +732,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Κολυμβητήριο Θεσσαλονίκης",
+                  "name": "National Swimming Pool of Thessaloniki",
                   "text": "Ethniko swimming pool Thessaloniki in Thessaloniki bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -1265,7 +1265,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος",
+                  "name": "4th District Municipal Swimming Pool",
                   "text": "A(z) Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος Thessaloniki településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -1274,7 +1274,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ζωολογικός Κήπος",
+                  "name": "Thessaloniki Zoo",
                   "text": "A(z) Ζωολογικός Κήπος Thessaloniki településen családbarát úti cél minden korosztály számára.",
                   "category": "family",
                   "coords": [
@@ -1283,7 +1283,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Κολυμβητήριο Θεσσαλονίκης",
+                  "name": "National Swimming Pool of Thessaloniki",
                   "text": "A(z) Ethniko swimming pool Thessaloniki Thessaloniki településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -1816,7 +1816,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος",
+                  "name": "4th District Municipal Swimming Pool",
                   "text": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος din Thessaloniki oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -1825,7 +1825,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ζωολογικός Κήπος",
+                  "name": "Thessaloniki Zoo",
                   "text": "Ζωολογικός Κήπος din Thessaloniki este o destinație de familie pentru vizitatori de toate vârstele.",
                   "category": "family",
                   "coords": [
@@ -1834,7 +1834,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Κολυμβητήριο Θεσσαλονίκης",
+                  "name": "National Swimming Pool of Thessaloniki",
                   "text": "Ethniko swimming pool Thessaloniki din Thessaloniki oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -2367,7 +2367,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος",
+                  "name": "4th District Municipal Swimming Pool",
                   "text": "Δημοτικό Κολυμβητήριο 4ου Διαμερίσματος in Thessaloniki offers a place for swimming and water activities.",
                   "category": "family",
                   "coords": [
@@ -2376,7 +2376,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ζωολογικός Κήπος",
+                  "name": "Thessaloniki Zoo",
                   "text": "Ζωολογικός Κήπος in Thessaloniki is a family-friendly destination for visitors of all ages.",
                   "category": "family",
                   "coords": [

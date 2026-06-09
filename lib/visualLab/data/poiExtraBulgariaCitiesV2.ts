@@ -789,7 +789,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-petrich-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "name": "Lake Kerkini Natura 2000 Area",
                   "text": "Dieses Natura 2000 Schutzgebiet umfasst den Kerkini-See und die umliegenden Berge bei Petrich. Es ist ein Paradies für Vogelbeobachter und Naturliebhaber, die die reiche Artenvielfalt erleben möchten.",
                   "category": "natural",
                   "coords": [
@@ -809,7 +809,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "name": "Lake Kerkini Natura 2000 Area",
                   "text": "Ez a Natura 2000 természetvédelmi terület magában foglalja a Kerkini-tavat és a környező hegyeket Petricsnél. Madármegfigyelők és természetkedvelők paradicsoma, akik a gazdag biológiai sokféleséget szeretnék megtapasztalni.",
                   "category": "natural",
                   "coords": [
@@ -829,7 +829,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "name": "Lake Kerkini Natura 2000 Area",
                   "text": "Această rezervație naturală Natura 2000 cuprinde Lacul Kerkini și munții din jur, lângă Petrich. Este un paradis pentru observatorii de păsări și iubitorii de natură care doresc să experimenteze bogata biodiversitate.",
                   "category": "natural",
                   "coords": [
@@ -849,7 +849,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "name": "Lake Kerkini Natura 2000 Area",
                   "text": "This Natura 2000 nature reserve encompasses Lake Kerkini and the surrounding mountains near Petrich. It is a paradise for birdwatchers and nature lovers wishing to experience the rich biodiversity.",
                   "category": "natural",
                   "coords": [
@@ -1203,7 +1203,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей на мозайките, БТС10",
+                  "name": "Museum of Mosaics",
                   "text": "Das Mosaikmuseum in Dewnja wurde auf den Ruinen eines spätrömischen Wohnhauses errichtet. Es stellt exquisite Bodenmosaike aus der antiken Stadt Marcianopolis aus.",
                   "category": "museum",
                   "coords": [
@@ -1261,7 +1261,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей на мозайките, БТС10",
+                  "name": "Museum of Mosaics",
                   "text": "Muzeul Mozaicurilor din Devnya a fost construit pe ruinele unei case romane târzii. Acesta expune mozaicuri de paviment rafinate din orașul antic Marcianopolis.",
                   "category": "museum",
                   "coords": [
@@ -1437,7 +1437,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-etropole-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Исторически музей Етрополе",
+                  "name": "Etropole Historical Museum",
                   "text": "Das Historische Museum von Etropole präsentiert die reiche Geschichte und Kultur der Region. Die Ausstellungen umfassen archäologische Funde und ethnografische Gegenstände aus verschiedenen Epochen.",
                   "category": "museum",
                   "coords": [
@@ -1446,7 +1446,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Войнишки паметник",
+                  "name": "Soldiers' Monument",
                   "text": "Das Soldatendenkmal in Etropole ehrt die Tapferkeit der gefallenen Krieger der Stadt. Es ist ein zentrales Monument, an dem jährlich Gedenkzeremonien zur Erinnerung an die nationale Geschichte stattfinden.",
                   "category": "historical",
                   "coords": [
@@ -1495,7 +1495,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Исторически музей Етрополе",
+                  "name": "Etropole Historical Museum",
                   "text": "Muzeul de Istorie din Etropole prezintă istoria și cultura bogată a regiunii. Expozițiile includ descoperiri arheologice și obiecte etnografice din diverse epoci.",
                   "category": "museum",
                   "coords": [
@@ -1504,7 +1504,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Войнишки паметник",
+                  "name": "Soldiers' Monument",
                   "text": "Monumentul Soldatului din Etropole onorează vitejia luptătorilor căzuți ai orașului. Este un monument central unde au loc anual ceremonii de comemorare în cinstea istoriei naționale.",
                   "category": "historical",
                   "coords": [
@@ -1524,7 +1524,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Исторически музей Етрополе",
+                  "name": "Etropole Historical Museum",
                   "text": "The Historical Museum of Etropole presents the rich history and culture of the region. The exhibits include archaeological finds and ethnographic items from various eras.",
                   "category": "museum",
                   "coords": [
@@ -2179,7 +2179,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей гр.Попово",
+                  "name": "Popovo History Museum",
                   "text": "Muzeul de Istorie din Popovo păstrează moștenirea culturală și artefactele regiunii. Expozițiile îi poartă pe vizitatori prin istoria orașului, din antichitate până în prezent.",
                   "category": "museum",
                   "coords": [
@@ -2208,7 +2208,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей гр.Попово",
+                  "name": "Popovo History Museum",
                   "text": "The Historical Museum of Popovo preserves the cultural heritage and artifacts of the region. Exhibitions lead visitors through the city's history from antiquity to the present day.",
                   "category": "museum",
                   "coords": [
@@ -3003,7 +3003,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къмпинг градина",
+                  "name": "Gradina Camping",
                   "text": "Camping Gradina bei Chernomorets ist einer der bekanntesten Campingplätze an der bulgarischen Schwarzmeerküste. Er verfügt über einen breiten Sandstrand und ist besonders bei Naturliebhabern beliebt.",
                   "category": "recreational",
                   "coords": [
@@ -3498,7 +3498,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-bratsigovo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Исторически музей",
+                  "name": "Historical Museum",
                   "text": "Das Geschichtsmuseum von Bratsigowo beleuchtet die Rolle der Stadt während des Aprilaufstands von 1876. Es beherbergt eine bedeutende Sammlung von Dokumenten und historischen Exponaten.",
                   "category": "museum",
                   "coords": [
@@ -3518,7 +3518,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Исторически музей",
+                  "name": "Historical Museum",
                   "text": "Bratcigovo Történeti Múzeuma rávilágít a város szerepére az 1876-os áprilisi felkelés idején. Dokumentumok és történelmi kiállítási tárgyak jelentős gyűjteményének ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -3527,7 +3527,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тамръшко кале - северна крепост",
+                  "name": "Tamrashko Kale North Fortress",
                   "text": "Tamrashko Kale egy északi erőd ősi romja Bratcigovo közelében. A túrázók felfedezhetik a falak maradványait, és élvezhetik a környező hegyi tájra nyíló kilátást.",
                   "category": "historical",
                   "coords": [
@@ -3538,7 +3538,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Исторически музей",
+                  "name": "Historical Museum",
                   "text": "Muzeul de Istorie din Bratsigovo evidențiază rolul orașului în timpul Răscoalei din Aprilie 1876. Acesta găzduiește o colecție importantă de documente și exponate istorice.",
                   "category": "museum",
                   "coords": [
@@ -3939,7 +3939,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-topolovgrad-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Общински исторически музей",
+                  "name": "Municipal Historical Museum",
                   "text": "Das Städtische Historische Museum in Topolowgrad präsentiert die ethnografische und archäologische Vielfalt der Sakar-Region. Besucher finden dort Exponate aus verschiedenen historischen Epochen.",
                   "category": "museum",
                   "coords": [
@@ -3957,7 +3957,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Община Тополовград",
+                  "name": "Topolovgrad Municipality",
                   "text": "Das Verwaltungsgebäude der Gemeinde Topolowgrad befindet sich im Zentrum der Stadt. Es ist ein wichtiger Orientierungspunkt und Ausgangspunkt für Erkundungen der lokalen Sehenswürdigkeiten.",
                   "category": "historical",
                   "coords": [
@@ -3977,7 +3977,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палеокастро - древно тракийско светилище",
+                  "name": "Paleokastro Thracian Sanctuary",
                   "text": "Paleocastro egy ősi vallási komplexum és thrák erőd Topolovgrad közelében. A helyszín a sziklába vájt napszimbólumairól ismert, és mély betekintést nyújt a thrák kultúrába.",
                   "category": "historical",
                   "coords": [
@@ -3986,7 +3986,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Община Тополовград",
+                  "name": "Topolovgrad Municipality",
                   "text": "Topolovgrad község közigazgatási épülete a város központjában található. Fontos tájékozódási pont és kiindulópont a helyi látnivalók felfedezéséhez.",
                   "category": "historical",
                   "coords": [
@@ -3997,7 +3997,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Общински исторически музей",
+                  "name": "Municipal Historical Museum",
                   "text": "Muzeul Municipal de Istorie din Topolovgrad prezintă diversitatea etnografică și arheologică a regiunii Sakar. Vizitatorii pot găsi acolo exponate din diferite epoci istorice.",
                   "category": "museum",
                   "coords": [
@@ -4026,7 +4026,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Общински исторически музей",
+                  "name": "Municipal Historical Museum",
                   "text": "The Municipal Historical Museum in Topolovgrad presents the ethnographic and archaeological diversity of the Sakar region. Visitors can find exhibits from various historical periods there.",
                   "category": "museum",
                   "coords": [

@@ -1947,7 +1947,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cầu Bắc Luân - 北仑桥",
+                  "name": "Bac Luan Bridge",
                   "text": "Eine Brücke und Sehenswürdigkeit in der Grenzstadt Móng Cái.",
                   "category": "landmark",
                   "coords": [
@@ -1976,7 +1976,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cầu Bắc Luân - 北仑桥",
+                  "name": "Bac Luan Bridge",
                   "text": "Híd és látnivaló Móng Cái határvárosában.",
                   "category": "landmark",
                   "coords": [
@@ -2005,7 +2005,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cầu Bắc Luân - 北仑桥",
+                  "name": "Bac Luan Bridge",
                   "text": "Un pod și o atracție în orașul de frontieră Móng Cái.",
                   "category": "landmark",
                   "coords": [
@@ -3153,7 +3153,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chùa Phật Đà佛陀寺",
+                  "name": "Phat Da Pagoda",
                   "text": "Eine buddhistische Tempelanlage in Hà Tiên, die zur Einkehr einlädt.",
                   "category": "museum",
                   "coords": [
@@ -3189,7 +3189,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lăng Mạc Cửu忠义祠",
+                  "name": "Mac Cuu Tomb",
                   "text": "Eine monumentale Gedenkstätte zu Ehren von Mạc Cửu in Hà Tiên.",
                   "category": "historical",
                   "coords": [
@@ -3227,7 +3227,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chùa Phật Đà佛陀寺",
+                  "name": "Phat Da Pagoda",
                   "text": "Buddhista templom Hà Tiênben, amely elcsendesedésre hív.",
                   "category": "museum",
                   "coords": [
@@ -3263,7 +3263,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lăng Mạc Cửu忠义祠",
+                  "name": "Mac Cuu Tomb",
                   "text": "Monumentális emlékhely Mạc Cửu tiszteletére Hà Tiênben.",
                   "category": "historical",
                   "coords": [
@@ -3301,7 +3301,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chùa Phật Đà佛陀寺",
+                  "name": "Phat Da Pagoda",
                   "text": "Un templu budist în Hà Tiên, care invită la meditație.",
                   "category": "museum",
                   "coords": [
@@ -3337,7 +3337,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lăng Mạc Cửu忠义祠",
+                  "name": "Mac Cuu Tomb",
                   "text": "Un memorial monumental în cinstea lui Mạc Cửu în Hà Tiên.",
                   "category": "historical",
                   "coords": [
@@ -3375,7 +3375,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chùa Phật Đà佛陀寺",
+                  "name": "Phat Da Pagoda",
                   "text": "A Buddhist temple in Hà Tiên that invites contemplation.",
                   "category": "museum",
                   "coords": [
@@ -3411,7 +3411,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lăng Mạc Cửu忠义祠",
+                  "name": "Mac Cuu Tomb",
                   "text": "A monumental memorial honoring Mạc Cửu in Hà Tiên.",
                   "category": "historical",
                   "coords": [

@@ -447,7 +447,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хотел Шагал",
+                  "name": "Hotel Chagal",
                   "text": "Ein Schwimmbad in Vinica, das zur Erfrischung und zum Schwimmen einlädt.",
                   "category": "family",
                   "coords": [
@@ -503,7 +503,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хотел Шагал",
+                  "name": "Hotel Chagal",
                   "text": "Úszómedence Vinica területén, amely frissítő úszásra hívogat.",
                   "category": "family",
                   "coords": [
@@ -559,7 +559,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хотел Шагал",
+                  "name": "Hotel Chagal",
                   "text": "O piscină în Vinica care invită la o baie răcoritoare și înot.",
                   "category": "family",
                   "coords": [

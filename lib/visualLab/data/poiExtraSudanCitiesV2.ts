@@ -131,7 +131,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة اركويت - بحري",
+                  "name": "Arkaweet Park - Bahri",
                   "text": "حديقة اركويت - بحري ist ein lokaler Wasserpark in Khartum Bahri.",
                   "category": "family",
                   "coords": [
@@ -176,7 +176,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد النيه",
+                  "name": "Al-Niyyah Mosque",
                   "text": "مسجد النيه dient als malerischer Aussichtspunkt in Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -185,7 +185,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كلية اللاهوت الإنجيلية",
+                  "name": "Evangelical Theological College",
                   "text": "كلية اللاهوت الإنجيلية ist ein lokaler Aussichtspunkt in Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -194,7 +194,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري المك نمر",
+                  "name": "Al-Mak Nimr Bridge",
                   "text": "كبري المك نمر ist eine bekannte Touristenattraktion in Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -203,7 +203,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري النيل الأزرق",
+                  "name": "Blue Nile Bridge",
                   "text": "كبري النيل الأزرق ist eine markante lokale Attraktion in Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -212,7 +212,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مبنى الأمم المتحدة الانمائي",
+                  "name": "United Nations Development Programme Building",
                   "text": "Das Gelände des United Nations Development Programme (UNDP) fungiert als Denkmal in Khartum Bahri.",
                   "category": "historical",
                   "coords": [
@@ -230,7 +230,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال الأسد",
+                  "name": "Lion Sands",
                   "text": "رمال الأسد ist ein Beobachtungspunkt in Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -239,7 +239,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معرض ارت طتش",
+                  "name": "Art Touch Gallery",
                   "text": "معرض ارت طتش ist eine Kunstgalerie in Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -275,7 +275,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري شمبات",
+                  "name": "Shambat Bridge",
                   "text": "كبري شمبات ist eine Brücke in Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -295,7 +295,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة اركويت - بحري",
+                  "name": "Arkaweet Park - Bahri",
                   "text": "A حديقة اركويت - بحري egy helyi aquapark Khartum Bahriban.",
                   "category": "family",
                   "coords": [
@@ -322,7 +322,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة عبود",
+                  "name": "Aboud Park",
                   "text": "Az Aboud Theme Park különféle szórakoztató attrakciókat kínál Khartum Bahriban.",
                   "category": "family",
                   "coords": [
@@ -340,7 +340,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد النيه",
+                  "name": "Al-Niyyah Mosque",
                   "text": "A مسجد النيه egy festői kilátópont Khartum Bahriban.",
                   "category": "natural",
                   "coords": [
@@ -349,7 +349,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كلية اللاهوت الإنجيلية",
+                  "name": "Evangelical Theological College",
                   "text": "A كلية اللاهوت الإنجيلية egy helyi kilátó Khartum Bahriban.",
                   "category": "natural",
                   "coords": [
@@ -358,7 +358,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري المك نمر",
+                  "name": "Al-Mak Nimr Bridge",
                   "text": "A كبري المك نمر egy ismert turisztikai látványosság Khartum Bahriban.",
                   "category": "landmark",
                   "coords": [
@@ -367,7 +367,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري النيل الأزرق",
+                  "name": "Blue Nile Bridge",
                   "text": "A كبري النيل الأزرق egy kiemelkedő helyi látványosság Khartum Bahriban.",
                   "category": "landmark",
                   "coords": [
@@ -376,7 +376,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مبنى الأمم المتحدة الانمائي",
+                  "name": "United Nations Development Programme Building",
                   "text": "Az United Nations Development Programme (UNDP) területe emlékműként szolgál Khartum Bahriban.",
                   "category": "historical",
                   "coords": [
@@ -394,7 +394,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال الأسد",
+                  "name": "Lion Sands",
                   "text": "A رمال الأسد egy megfigyelőpont Khartum Bahriban.",
                   "category": "natural",
                   "coords": [
@@ -403,7 +403,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معرض ارت طتش",
+                  "name": "Art Touch Gallery",
                   "text": "A معرض ارت طتش egy művészeti galéria Khartum Bahriban.",
                   "category": "museum",
                   "coords": [
@@ -439,7 +439,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري شمبات",
+                  "name": "Shambat Bridge",
                   "text": "A كبري شمبات egy híd Khartum Bahriban.",
                   "category": "landmark",
                   "coords": [
@@ -459,7 +459,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة اركويت - بحري",
+                  "name": "Arkaweet Park - Bahri",
                   "text": "حديقة اركويت - بحري este un parc acvatic local în Khartum Bahri.",
                   "category": "family",
                   "coords": [
@@ -486,7 +486,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة عبود",
+                  "name": "Aboud Park",
                   "text": "Aboud Theme Park oferă atracții de agrement în Khartum Bahri.",
                   "category": "family",
                   "coords": [
@@ -504,7 +504,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد النيه",
+                  "name": "Al-Niyyah Mosque",
                   "text": "مسجد النيه servește ca un punct de belvedere pitoresc în Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -513,7 +513,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كلية اللاهوت الإنجيلية",
+                  "name": "Evangelical Theological College",
                   "text": "كلية اللاهوت الإنجيلية este un punct de belvedere local în Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -522,7 +522,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري المك نمر",
+                  "name": "Al-Mak Nimr Bridge",
                   "text": "كبري المك نمر este o atracție turistică cunoscută în Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -531,7 +531,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري النيل الأزرق",
+                  "name": "Blue Nile Bridge",
                   "text": "كبري النيل الأزرق este o atracție locală proeminentă în Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -540,7 +540,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مبنى الأمم المتحدة الانمائي",
+                  "name": "United Nations Development Programme Building",
                   "text": "Locația United Nations Development Programme (UNDP) funcționează ca un monument în Khartum Bahri.",
                   "category": "historical",
                   "coords": [
@@ -558,7 +558,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال الأسد",
+                  "name": "Lion Sands",
                   "text": "رمال الأسد este un punct de observare în Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -567,7 +567,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معرض ارت طتش",
+                  "name": "Art Touch Gallery",
                   "text": "معرض ارت طتش este o galerie de artă în Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -603,7 +603,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري شمبات",
+                  "name": "Shambat Bridge",
                   "text": "كبري شمبات este un pod situat în Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -623,7 +623,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة اركويت - بحري",
+                  "name": "Arkaweet Park - Bahri",
                   "text": "حديقة اركويت - بحري is a local water park in Khartum Bahri.",
                   "category": "family",
                   "coords": [
@@ -668,7 +668,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد النيه",
+                  "name": "Al-Niyyah Mosque",
                   "text": "مسجد النيه serves as a scenic viewpoint in Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -677,7 +677,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كلية اللاهوت الإنجيلية",
+                  "name": "Evangelical Theological College",
                   "text": "كلية اللاهوت الإنجيلية is a localized observation viewpoint in Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -686,7 +686,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري المك نمر",
+                  "name": "Al-Mak Nimr Bridge",
                   "text": "كبري المك نمر is a notable tourist attraction in Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -695,7 +695,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري النيل الأزرق",
+                  "name": "Blue Nile Bridge",
                   "text": "كبري النيل الأزرق is a prominent local attraction in Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -722,7 +722,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال الأسد",
+                  "name": "Lion Sands",
                   "text": "رمال الأسد is an observational viewpoint situated in Khartum Bahri.",
                   "category": "natural",
                   "coords": [
@@ -731,7 +731,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معرض ارت طتش",
+                  "name": "Art Touch Gallery",
                   "text": "معرض ارت طتش is an art gallery space in Khartum Bahri.",
                   "category": "museum",
                   "coords": [
@@ -767,7 +767,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كبري شمبات",
+                  "name": "Shambat Bridge",
                   "text": "كبري شمبات is a structural bridge located in Khartum Bahri.",
                   "category": "landmark",
                   "coords": [
@@ -1817,7 +1817,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
     id: "kosti-cities-v2", "sights": {
       "de": [
             {
-                  "name": "الراوات",
+                  "name": "Al-Rawat Lookout",
                   "text": "Ein Aussichtspunkt in Kosti mit Blick auf die Stadt oder den Nil.",
                   "category": "natural",
                   "coords": [
@@ -1828,7 +1828,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "الراوات",
+                  "name": "Al-Rawat Lookout",
                   "text": "Kilátóhely Kostiban, ahonnan kilátás nyílik a városra vagy a Nílusra.",
                   "category": "natural",
                   "coords": [
@@ -1839,7 +1839,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "الراوات",
+                  "name": "Al-Rawat Lookout",
                   "text": "Un punct de belvedere în Kosti cu vederi asupra orașului sau a Nilului.",
                   "category": "natural",
                   "coords": [
@@ -1850,7 +1850,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "الراوات",
+                  "name": "Al-Rawat Lookout",
                   "text": "A viewpoint in Kosti offering views over the city or the Nile.",
                   "category": "natural",
                   "coords": [
@@ -2462,7 +2462,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
     id: "al-hasaheisa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "الحصاحيصا",
+                  "name": "Al-Hasaheisa",
                   "text": "الحصاحيصا ist eine bemerkenswerte Attraktion in der Stadt Al-Hasaheisa.",
                   "category": "landmark",
                   "coords": [
@@ -2482,7 +2482,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "الحصاحيصا",
+                  "name": "Al-Hasaheisa",
                   "text": "A الحصاحيصا egy figyelemre méltó látványosság Al-Hasaheisa városában.",
                   "category": "landmark",
                   "coords": [
@@ -2502,7 +2502,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "الحصاحيصا",
+                  "name": "Al-Hasaheisa",
                   "text": "الحصاحيصا este o atracție demnă de remarcat în orașul Al-Hasaheisa.",
                   "category": "landmark",
                   "coords": [
@@ -2522,7 +2522,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "الحصاحيصا",
+                  "name": "Al-Hasaheisa",
                   "text": "الحصاحيصا is a noteworthy attraction in the city of Al-Hasaheisa.",
                   "category": "landmark",
                   "coords": [

@@ -3007,7 +3007,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "taungoo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "中国远征军纪念馆",
+                  "name": "Chinese Expeditionary Force Memorial Hall",
                   "text": "Ein Museum in Taungoo zur Geschichte der chinesischen Expeditionsarmee.",
                   "category": "museum",
                   "coords": [
@@ -3018,7 +3018,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "中国远征军纪念馆",
+                  "name": "Chinese Expeditionary Force Memorial Hall",
                   "text": "Múzeum Taungooban a kínai expedíciós hadsereg történetéről.",
                   "category": "museum",
                   "coords": [
@@ -3029,7 +3029,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "中国远征军纪念馆",
+                  "name": "Chinese Expeditionary Force Memorial Hall",
                   "text": "Un muzeu din Taungoo despre istoria armatei expediționare chineze.",
                   "category": "museum",
                   "coords": [
@@ -3040,7 +3040,7 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "中国远征军纪念馆",
+                  "name": "Chinese Expeditionary Force Memorial Hall",
                   "text": "A museum in Taungoo about the history of the Chinese Expeditionary Army.",
                   "category": "museum",
                   "coords": [

@@ -346,7 +346,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бања Јунаковић",
+                  "name": "Banja Junakovic",
                   "text": "Diese Schwimmeinrichtung in Apatin bietet Platz zum Schwimmen und zur Erholung.",
                   "category": "family",
                   "coords": [
@@ -355,7 +355,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Олимпијски базен",
+                  "name": "Olympic Pool",
                   "text": "Diese Schwimmeinrichtung in Apatin bietet Platz zum Schwimmen und zur Erholung.",
                   "category": "family",
                   "coords": [
@@ -375,7 +375,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бања Јунаковић",
+                  "name": "Banja Junakovic",
                   "text": "Ez a Apatin városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
                   "category": "family",
                   "coords": [
@@ -384,7 +384,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Олимпијски базен",
+                  "name": "Olympic Pool",
                   "text": "Ez a Apatin városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
                   "category": "family",
                   "coords": [
@@ -404,7 +404,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бања Јунаковић",
+                  "name": "Banja Junakovic",
                   "text": "Această unitate de înot din Apatin oferă un loc pentru înot și recreere.",
                   "category": "family",
                   "coords": [
@@ -413,7 +413,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Олимпијски базен",
+                  "name": "Olympic Pool",
                   "text": "Această unitate de înot din Apatin oferă un loc pentru înot și recreere.",
                   "category": "family",
                   "coords": [
@@ -433,7 +433,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бања Јунаковић",
+                  "name": "Banja Junakovic",
                   "text": "This swimming facility in Apatin offers a place for swimming and recreation.",
                   "category": "family",
                   "coords": [
@@ -442,7 +442,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Олимпијски базен",
+                  "name": "Olympic Pool",
                   "text": "This swimming facility in Apatin offers a place for swimming and recreation.",
                   "category": "family",
                   "coords": [
@@ -837,7 +837,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен Неготин",
+                  "name": "Negotin City Pool",
                   "text": "Negotin városi úszómedencéje helyet biztosít az úszáshoz és a nyári pihenéshez.",
                   "category": "family",
                   "coords": [
@@ -902,7 +902,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен Неготин",
+                  "name": "Negotin City Pool",
                   "text": "Piscina municipală din Negotin oferă spațiu pentru înot și relaxare pe timp de vară.",
                   "category": "family",
                   "coords": [
@@ -967,7 +967,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски Базен Неготин",
+                  "name": "Negotin City Pool",
                   "text": "The city swimming pool in Negotin provides space for swimming and summer relaxation.",
                   "category": "family",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool",
                   "text": "Diese Schwimmeinrichtung in Zajecar bietet Platz zum Schwimmen und zur Erholung.",
                   "category": "family",
                   "coords": [
@@ -1250,7 +1250,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool",
                   "text": "Ez a Zajecar városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
                   "category": "family",
                   "coords": [
@@ -1369,7 +1369,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градски базен",
+                  "name": "City Pool",
                   "text": "Această unitate de înot din Zajecar oferă un loc pentru înot și recreere.",
                   "category": "family",
                   "coords": [
@@ -1644,7 +1644,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Отворени базен",
+                  "name": "Outdoor Pool",
                   "text": "Dieses Freibad in Pirot bietet Bademöglichkeiten an der frischen Luft.",
                   "category": "family",
                   "coords": [
@@ -1754,7 +1754,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Отворени базен",
+                  "name": "Outdoor Pool",
                   "text": "Ez a piroti szabadtéri úszómedence fürdőzési lehetőséget kínál a friss levegőn.",
                   "category": "family",
                   "coords": [
@@ -1864,7 +1864,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Отворени базен",
+                  "name": "Outdoor Pool",
                   "text": "Această piscină în aer liber din Pirot oferă posibilități de baie în aer liber.",
                   "category": "family",
                   "coords": [
@@ -1974,7 +1974,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Отворени базен",
+                  "name": "Outdoor Pool",
                   "text": "This open-air swimming pool in Pirot provides outdoor bathing facilities.",
                   "category": "family",
                   "coords": [
@@ -2905,7 +2905,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градска плажа Ужице",
+                  "name": "Uzice City Beach",
                   "text": "Dieses Resort in Uzice bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
                   "category": "family",
                   "coords": [
@@ -2961,7 +2961,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градска плажа Ужице",
+                  "name": "Uzice City Beach",
                   "text": "Ez a Uzice városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -3017,7 +3017,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градска плажа Ужице",
+                  "name": "Uzice City Beach",
                   "text": "Această stațiune din Uzice oferă un loc pentru relaxare și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -3073,7 +3073,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Градска плажа Ужице",
+                  "name": "Uzice City Beach",
                   "text": "This resort in Uzice offers a place for relaxation and water-related activities.",
                   "category": "family",
                   "coords": [
@@ -3532,7 +3532,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Затворени базен",
+                  "name": "Indoor Pool",
                   "text": "Diese Schwimmeinrichtung in Pancevo bietet Platz zum Schwimmen und zur Erholung.",
                   "category": "family",
                   "coords": [
@@ -3723,7 +3723,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Затворени базен",
+                  "name": "Indoor Pool",
                   "text": "Ez a Pancevo városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
                   "category": "family",
                   "coords": [
@@ -3914,7 +3914,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Затворени базен",
+                  "name": "Indoor Pool",
                   "text": "Această unitate de înot din Pancevo oferă un loc pentru înot și recreere.",
                   "category": "family",
                   "coords": [
@@ -4105,7 +4105,7 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Затворени базен",
+                  "name": "Indoor Pool",
                   "text": "This swimming facility in Pancevo offers a place for swimming and recreation.",
                   "category": "family",
                   "coords": [

@@ -33,7 +33,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     },
   },
   {
-    id: "new-taipei-cities-v2", "sights": {"de": [{"name": "元智紀念館", "text": "Ein Museum in Neu-Taipeh, das dem Gedenken und der Kultur gewidmet ist.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "電幻1號所", "text": "Ein modernes Museum in Neu-Taipeh, das sich mit Energie und Technik befasst.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "誠信館 (H棟)", "text": "Ein bedeutendes Theater und Veranstaltungsort in Neu-Taipeh.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "四十張山", "text": "Ein lokaler Berggipfel mit Aussichtspunkten in Neu-Taipeh.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "石雕公園", "text": "Ein Stadtpark in Neu-Taipeh, der für seine Steinskulpturen bekannt ist.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "音樂公園", "text": "Ein öffentlicher Park in Neu-Taipeh, der als Erholungsraum dient.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "八德公園", "text": "Eine grüne Parkanlage zur Entspannung im Stadtteil Neu-Taipeh.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "農村公園", "text": "Ein Park in Neu-Taipeh, der traditionelle ländliche Atmosphäre vermittelt.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "中山公園", "text": "Ein klassischer Stadtpark in Neu-Taipeh für Freizeitaktivitäten.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "府中15新北市動畫故事館", "text": "Ein Kunstzentrum in Neu-Taipeh, das sich auf Animation und Geschichten spezialisiert hat.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "華中河濱公園", "text": "Ein weitläufiger Park am Flussufer in Neu-Taipeh.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "瞭望層", "text": "Eine Aussichtsplattform im Rathaus von Neu-Taipeh mit Panoramablick.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "新北市藝文中心", "text": "Das 新北市藝文中心 (Zentrum für Kunst und Kultur Neu-Taipeh) ist ein bedeutender kultureller Treffpunkt in New Taipei City. Es fördert zeitgenössische Kunst und bietet einen Raum für verschiedene kulturelle Veranstaltungen in Taiwan.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "接雲寺", "text": "Ein bedeutender buddhistischer Tempel in Neu-Taipeh.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "南雅觀光夜市", "text": "Ein lebhafter Nachtmarkt in Neu-Taipeh, bekannt für Street Food.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "萬板大橋", "text": "Eine wichtige Straßenbrücke, die Teile von Neu-Taipeh verbindet.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "華翠大橋", "text": "Eine architektonisch funktionale Brücke in Neu-Taipeh.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "光復橋", "text": "Eine historische und viel befahrene Brücke in Neu-Taipeh.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "浮洲橋", "text": "Eine große Brücke über den Fluss in Neu-Taipeh.", "category": "landmark", "coords": [121.437684, 24.995228]}], "hu": [{"name": "元智紀念館", "text": "Neu-Taipeh egyik múzeuma, amelyet az emlékezetnek és a kultúrának szenteltek.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "電幻1號所", "text": "Neu-Taipeh modern múzeuma, amely az energiával és a technológiával foglalkozik.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "誠信館 (H棟)", "text": "Jelentős színház és rendezvényhelyszín Neu-Taipeh városában.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "四十張山", "text": "Helyi hegycsúcs kilátópontokkal Neu-Taipeh területén.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "石雕公園", "text": "Városi park Neu-Taipehben, amely kőszobrairól ismert.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "音樂公園", "text": "Nyilvános park Neu-Taipehben, amely pihenőhelyként szolgál.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "八德公園", "text": "Zöld park pihenésre Neu-Taipeh városrészében.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "農村公園", "text": "Hagyományos vidéki hangulatot árasztó park Neu-Taipehben.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "中山公園", "text": "Klasszikus városi park Neu-Taipehben szabadidős tevékenységekhez.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "府中15新北市動畫故事館", "text": "Neu-Taipeh művészeti központja, amely animációra és történetekre specializálódott.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "華中河濱公園", "text": "Kiterjedt folyóparti park Neu-Taipeh területén.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "瞭望層", "text": "Kilátóterasz a Neu-Taipeh-i városházán, panorámás kilátással.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "新北市藝文中心", "text": "Az Új-Tajpej Művészeti és Kulturális Központ (新北市藝文中心) egy fontos kulturális találkozóhely New Taipei City-ben. A tajvani intézmény a kortárs művészetet népszerűsíti és különféle kulturális eseményeknek ad otthont.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "接雲寺", "text": "Jelentős buddhista templom Neu-Taipeh városában.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "南雅觀光夜市", "text": "Nyüzsgő éjszakai piac Neu-Taipehben, amely utcai ételeiről híres.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "萬板大橋", "text": "Fontos közúti híd, amely Neu-Taipeh részeit köti össze.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "華翠大橋", "text": "Építészetileg funkcionális híd Neu-Taipehben.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "光復橋", "text": "Történelmi és forgalmas híd Neu-Taipeh városában.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "浮洲橋", "text": "Nagyméretű híd a folyó felett Neu-Taipehben.", "category": "landmark", "coords": [121.437684, 24.995228]}], "ro": [{"name": "元智紀念館", "text": "Un muzeu în New Taipei City dedicat memoriei și culturii.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "電幻1號所", "text": "Un muzeu modern în New Taipei City axat pe energie și tehnologie.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "誠信館 (H棟)", "text": "Un teatru important și spațiu de evenimente în New Taipei City.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "四十張山", "text": "Un vârf montan local cu puncte de belvedere în New Taipei City.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "石雕公園", "text": "Un parc urban în New Taipei City, cunoscut pentru sculpturile sale în piatră.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "音樂公園", "text": "Un parc public în New Taipei City care servește ca spațiu de recreere.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "八德公園", "text": "O zonă verde de parc pentru relaxare în New Taipei City.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "農村公園", "text": "Un parc din New Taipei City care oferă o atmosferă rurală tradițională.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "中山公園", "text": "Un parc urban clasic în New Taipei City pentru activități de agrement.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "府中15新北市動畫故事館", "text": "Un centru de artă din New Taipei City specializat în animație și povești.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "華中河濱公園", "text": "Un parc întins pe malul râului în New Taipei City.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "瞭望層", "text": "O platformă de observație în Primăria New Taipei, oferind vederi panoramice.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "新北市藝文中心", "text": "Centrul de Artă și Cultură New Taipei (新北市藝文中心) este un important punct de întâlnire culturală din New Taipei City. Această instituție din Taiwan promovează arta contemporană și găzduiește diverse evenimente.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "接雲寺", "text": "Un templu budist important situat în New Taipei City.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "南雅觀光夜市", "text": "O piață de noapte plină de viață în New Taipei City, faimoasă pentru mâncarea stradală.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "萬板大橋", "text": "Un pod rutier important care conectează părți ale New Taipei City.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "華翠大橋", "text": "Un pod funcțional din punct de vedere arhitectural în New Taipei City.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "光復橋", "text": "Un pod istoric și intens circulat în New Taipei City.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "浮洲橋", "text": "Un pod mare peste râu în New Taipei City.", "category": "landmark", "coords": [121.437684, 24.995228]}], "en": [{"name": "Yuan Ze Memorial Hall", "text": "A museum in New Taipei City dedicated to memorial and cultural heritage.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "TAIPOWER D/S ONE", "text": "A modern museum in New Taipei City focused on energy and technology.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "Cheng-Hsin Auditorium (Block H)", "text": "An important theatre and event venue in New Taipei City.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "Sishizhangshan", "text": "A local mountain peak offering viewpoints in New Taipei City.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "Stone Carving Park", "text": "A city park in New Taipei City known for its stone sculptures.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "Yinyue Park", "text": "A public park in New Taipei City serving as a recreational space.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "Bade Park", "text": "A green park area for relaxation in the New Taipei City area.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "Banqiao Rural Community Park", "text": "A park in New Taipei City featuring a traditional rural community atmosphere.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "Zhongshan Park", "text": "A classic city park in New Taipei City for leisure activities.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "Fz Fifteen", "text": "An arts centre in New Taipei City specializing in animation and storytelling.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "Huazhong Riverside Park", "text": "An expansive riverside park located in New Taipei City.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "New Taipei City Hall Observation Floor", "text": "An observation floor in the New Taipei City Hall offering panoramic views.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "New Taipei City Art Center", "text": "The New Taipei City Arts and Culture Center (新北市藝文中心) is a major cultural hub in New Taipei City. This Taiwanese institution promotes contemporary art and hosts a variety of cultural events.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "Jieyun Temple", "text": "An important Buddhist temple located in New Taipei City.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "Nanya Night Market", "text": "A bustling night market in New Taipei City famous for its street food.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "Wanban Bridge", "text": "An important road bridge connecting parts of New Taipei City.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "Huacui Bridge", "text": "An architecturally functional bridge in New Taipei City.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "Guangfu Bridge", "text": "A historic and busy bridge in New Taipei City.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "Fujhou Bridge", "text": "A large bridge spanning the river in New Taipei City.", "category": "landmark", "coords": [121.437684, 24.995228]}]},
+    id: "new-taipei-cities-v2", "sights": {"de": [{"name": "Yuan Ze Memorial Hall", "text": "Ein Museum in Neu-Taipeh, das dem Gedenken und der Kultur gewidmet ist.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "Taipower D/S One", "text": "Ein modernes Museum in Neu-Taipeh, das sich mit Energie und Technik befasst.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "Chengxin Hall (Building H)", "text": "Ein bedeutendes Theater und Veranstaltungsort in Neu-Taipeh.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "Sishizhang Mountain", "text": "Ein lokaler Berggipfel mit Aussichtspunkten in Neu-Taipeh.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "Stone Sculpture Park", "text": "Ein Stadtpark in Neu-Taipeh, der für seine Steinskulpturen bekannt ist.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "Music Park", "text": "Ein öffentlicher Park in Neu-Taipeh, der als Erholungsraum dient.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "Bade Park", "text": "Eine grüne Parkanlage zur Entspannung im Stadtteil Neu-Taipeh.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "Nongcun Park", "text": "Ein Park in Neu-Taipeh, der traditionelle ländliche Atmosphäre vermittelt.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "Zhongshan Park", "text": "Ein klassischer Stadtpark in Neu-Taipeh für Freizeitaktivitäten.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "Fuzhong 15 Animation and Comic Archives", "text": "Ein Kunstzentrum in Neu-Taipeh, das sich auf Animation und Geschichten spezialisiert hat.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "Huazhong Riverside Park", "text": "Ein weitläufiger Park am Flussufer in Neu-Taipeh.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "Observation Deck", "text": "Eine Aussichtsplattform im Rathaus von Neu-Taipeh mit Panoramablick.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "New Taipei City Arts Center", "text": "Das 新北市藝文中心 (Zentrum für Kunst und Kultur Neu-Taipeh) ist ein bedeutender kultureller Treffpunkt in New Taipei City. Es fördert zeitgenössische Kunst und bietet einen Raum für verschiedene kulturelle Veranstaltungen in Taiwan.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "Jieyun Temple", "text": "Ein bedeutender buddhistischer Tempel in Neu-Taipeh.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "Nanya Night Market", "text": "Ein lebhafter Nachtmarkt in Neu-Taipeh, bekannt für Street Food.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "Wanban Bridge", "text": "Eine wichtige Straßenbrücke, die Teile von Neu-Taipeh verbindet.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "Huacui Bridge", "text": "Eine architektonisch funktionale Brücke in Neu-Taipeh.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "Guangfu Bridge", "text": "Eine historische und viel befahrene Brücke in Neu-Taipeh.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "Fuzhou Bridge", "text": "Eine große Brücke über den Fluss in Neu-Taipeh.", "category": "landmark", "coords": [121.437684, 24.995228]}], "hu": [{"name": "Yuan Ze Memorial Hall", "text": "Neu-Taipeh egyik múzeuma, amelyet az emlékezetnek és a kultúrának szenteltek.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "Taipower D/S One", "text": "Neu-Taipeh modern múzeuma, amely az energiával és a technológiával foglalkozik.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "Chengxin Hall (Building H)", "text": "Jelentős színház és rendezvényhelyszín Neu-Taipeh városában.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "Sishizhang Mountain", "text": "Helyi hegycsúcs kilátópontokkal Neu-Taipeh területén.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "Stone Sculpture Park", "text": "Városi park Neu-Taipehben, amely kőszobrairól ismert.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "Music Park", "text": "Nyilvános park Neu-Taipehben, amely pihenőhelyként szolgál.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "Bade Park", "text": "Zöld park pihenésre Neu-Taipeh városrészében.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "Nongcun Park", "text": "Hagyományos vidéki hangulatot árasztó park Neu-Taipehben.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "Zhongshan Park", "text": "Klasszikus városi park Neu-Taipehben szabadidős tevékenységekhez.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "Fuzhong 15 Animation and Comic Archives", "text": "Neu-Taipeh művészeti központja, amely animációra és történetekre specializálódott.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "Huazhong Riverside Park", "text": "Kiterjedt folyóparti park Neu-Taipeh területén.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "Observation Deck", "text": "Kilátóterasz a Neu-Taipeh-i városházán, panorámás kilátással.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "New Taipei City Arts Center", "text": "Az Új-Tajpej Művészeti és Kulturális Központ (新北市藝文中心) egy fontos kulturális találkozóhely New Taipei City-ben. A tajvani intézmény a kortárs művészetet népszerűsíti és különféle kulturális eseményeknek ad otthont.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "Jieyun Temple", "text": "Jelentős buddhista templom Neu-Taipeh városában.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "Nanya Night Market", "text": "Nyüzsgő éjszakai piac Neu-Taipehben, amely utcai ételeiről híres.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "Wanban Bridge", "text": "Fontos közúti híd, amely Neu-Taipeh részeit köti össze.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "Huacui Bridge", "text": "Építészetileg funkcionális híd Neu-Taipehben.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "Guangfu Bridge", "text": "Történelmi és forgalmas híd Neu-Taipeh városában.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "Fuzhou Bridge", "text": "Nagyméretű híd a folyó felett Neu-Taipehben.", "category": "landmark", "coords": [121.437684, 24.995228]}], "ro": [{"name": "Yuan Ze Memorial Hall", "text": "Un muzeu în New Taipei City dedicat memoriei și culturii.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "Taipower D/S One", "text": "Un muzeu modern în New Taipei City axat pe energie și tehnologie.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "Chengxin Hall (Building H)", "text": "Un teatru important și spațiu de evenimente în New Taipei City.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "Sishizhang Mountain", "text": "Un vârf montan local cu puncte de belvedere în New Taipei City.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "Stone Sculpture Park", "text": "Un parc urban în New Taipei City, cunoscut pentru sculpturile sale în piatră.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "Music Park", "text": "Un parc public în New Taipei City care servește ca spațiu de recreere.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "Bade Park", "text": "O zonă verde de parc pentru relaxare în New Taipei City.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "Nongcun Park", "text": "Un parc din New Taipei City care oferă o atmosferă rurală tradițională.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "Zhongshan Park", "text": "Un parc urban clasic în New Taipei City pentru activități de agrement.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "Fuzhong 15 Animation and Comic Archives", "text": "Un centru de artă din New Taipei City specializat în animație și povești.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "Huazhong Riverside Park", "text": "Un parc întins pe malul râului în New Taipei City.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "Observation Deck", "text": "O platformă de observație în Primăria New Taipei, oferind vederi panoramice.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "New Taipei City Arts Center", "text": "Centrul de Artă și Cultură New Taipei (新北市藝文中心) este un important punct de întâlnire culturală din New Taipei City. Această instituție din Taiwan promovează arta contemporană și găzduiește diverse evenimente.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "Jieyun Temple", "text": "Un templu budist important situat în New Taipei City.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "Nanya Night Market", "text": "O piață de noapte plină de viață în New Taipei City, faimoasă pentru mâncarea stradală.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "Wanban Bridge", "text": "Un pod rutier important care conectează părți ale New Taipei City.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "Huacui Bridge", "text": "Un pod funcțional din punct de vedere arhitectural în New Taipei City.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "Guangfu Bridge", "text": "Un pod istoric și intens circulat în New Taipei City.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "Fuzhou Bridge", "text": "Un pod mare peste râu în New Taipei City.", "category": "landmark", "coords": [121.437684, 24.995228]}], "en": [{"name": "Yuan Ze Memorial Hall", "text": "A museum in New Taipei City dedicated to memorial and cultural heritage.", "category": "museum", "coords": [121.4529, 25.000271]}, {"name": "TAIPOWER D/S ONE", "text": "A modern museum in New Taipei City focused on energy and technology.", "category": "museum", "coords": [121.462001, 25.011923]}, {"name": "Cheng-Hsin Auditorium (Block H)", "text": "An important theatre and event venue in New Taipei City.", "category": "cultural", "coords": [121.462981, 25.020421]}, {"name": "Sishizhangshan", "text": "A local mountain peak offering viewpoints in New Taipei City.", "category": "natural", "coords": [121.478554, 24.996768]}, {"name": "Stone Carving Park", "text": "A city park in New Taipei City known for its stone sculptures.", "category": "park", "coords": [121.469938, 25.029398]}, {"name": "Yinyue Park", "text": "A public park in New Taipei City serving as a recreational space.", "category": "park", "coords": [121.480273, 25.027476]}, {"name": "Bade Park", "text": "A green park area for relaxation in the New Taipei City area.", "category": "park", "coords": [121.475911, 25.024609]}, {"name": "Banqiao Rural Community Park", "text": "A park in New Taipei City featuring a traditional rural community atmosphere.", "category": "park", "coords": [121.471078, 25.029968]}, {"name": "Zhongshan Park", "text": "A classic city park in New Taipei City for leisure activities.", "category": "park", "coords": [121.471693, 25.023089]}, {"name": "Fz Fifteen", "text": "An arts centre in New Taipei City specializing in animation and storytelling.", "category": "cultural", "coords": [121.459525, 25.009449]}, {"name": "Huazhong Riverside Park", "text": "An expansive riverside park located in New Taipei City.", "category": "park", "coords": [121.495939, 25.019512]}, {"name": "New Taipei City Hall Observation Floor", "text": "An observation floor in the New Taipei City Hall offering panoramic views.", "category": "natural", "coords": [121.465967, 25.012881]}, {"name": "New Taipei City Art Center", "text": "The New Taipei City Arts and Culture Center (新北市藝文中心) is a major cultural hub in New Taipei City. This Taiwanese institution promotes contemporary art and hosts a variety of cultural events.", "category": "cultural", "coords": [121.471967, 25.025958]}, {"name": "Jieyun Temple", "text": "An important Buddhist temple located in New Taipei City.", "category": "religious", "coords": [121.454464, 25.00895]}, {"name": "Nanya Night Market", "text": "A bustling night market in New Taipei City famous for its street food.", "category": "landmark", "coords": [121.454733, 25.007071]}, {"name": "Wanban Bridge", "text": "An important road bridge connecting parts of New Taipei City.", "category": "landmark", "coords": [121.485583, 25.028459]}, {"name": "Huacui Bridge", "text": "An architecturally functional bridge in New Taipei City.", "category": "landmark", "coords": [121.482324, 25.024461]}, {"name": "Guangfu Bridge", "text": "A historic and busy bridge in New Taipei City.", "category": "landmark", "coords": [121.488241, 25.023672]}, {"name": "Fujhou Bridge", "text": "A large bridge spanning the river in New Taipei City.", "category": "landmark", "coords": [121.437684, 24.995228]}]},
     type: "city",
     parent: "TW-NWT",
     coords: [121.464, 25.011],
@@ -141,7 +141,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tainan-cities-v2", "sights": {"de": [{"name": "國立臺灣文學館", "text": "Das Nationalmuseum für taiwanesische Literatur in einem historischen Gebäude in Tainan.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "國立成功大學博物館", "text": "Ein Universitätsmuseum in Tainan, das akademische Sammlungen zeigt.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "郭柏川紀念館", "text": "Ein Gedenkmuseum in Tainan, das dem Maler Guo Baichuan gewidmet ist.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "千畦種子博物館", "text": "Ein einzigartiges Museum in Tainan, das Tausende von Pflanzensamen ausstellt.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "碑林", "text": "Eine bedeutende Sammlung historischer Steinstelen am Großen Südtor in Tainan.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "台南市文化中心", "text": "Ein wichtiges Zentrum für darstellende Künste und Kultur in Tainan.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "普羅民遮城遺跡;赤崁樓主堡遺跡", "text": "Die Ruinen einer niederländischen Festung aus dem 17. Jahrhundert in Tainan.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "臺南公園", "text": "Der älteste Stadtpark in Tainan mit historischen Pavillons und Teichen.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "五妃廟", "text": "Ein historisches Tempelareal in Tainan, das als Parkanlage gestaltet ist.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "原臺南公會堂", "text": "Ein Denkmal in Tainan, das ursprünglich als öffentliches Versammlungshaus diente.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "星巴克", "text": "Ein Starbucks in Tainan, der in einem denkmalgeschützten Gebäude untergebracht ist.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "原臺南地方法院", "text": "Das monumentale Gebäude des ehemaligen Bezirksgerichts von Tainan.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "東菜市", "text": "Ein traditionsreicher Markt und eine lokale Attraktion in Tainan.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "台灣首廟天壇", "text": "Ein bedeutender taoistischer Tempel und eine Sehenswürdigkeit in Tainan.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "原台南廳長官邸", "text": "Ein denkmalgeschütztes Gebäude, das ehemals als Residenz des Ministers in Tainan diente.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "西市布市", "text": "Ein historischer Stoffmarkt und Denkmal in Tainan.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "全臺吳姓大宗祠", "text": "Ein kultureller Ort in Tainan, der dem Wu-Clan gewidmet ist.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "德鴻畫廊", "text": "Die 德鴻畫廊 (Der-Horng Kunstgalerie) ist ein Museum in Tainan, das sich auf moderne Werke spezialisiert hat. Diese Galerie für zeitgenössische Kunst ist ein wichtiger Bestandteil der Kulturszene in Taiwan.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "孔廟商圈", "text": "Ein lebhaftes Einkaufsviertel rund um den Konfuziustempel in Tainan.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "蝸牛巷", "text": "Eine charmante und kunstvoll gestaltete Gasse in Tainan.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "文創PLUS", "text": "Ein kreatives Kunstzentrum für Kultur und Design in Tainan.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "成功大學藝術中心", "text": "Das Kunstzentrum der Cheng-Kung-Nationaluniversität in Tainan.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "永樂市場", "text": "Ein lebhafter traditioneller Markt in Tainan, bekannt für lokales Essen.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "西大成坊", "text": "Ein architektonisch interessanter Bogen am Eingang einer Anlage in Tainan.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "興濟宮", "text": "Ein bedeutender Tempelkomplex in Tainan für buddhistische und taoistische Verehrung.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "祝三多廟", "text": "Ein historischer Tempel in Tainan, der als Ort der Anbetung dient.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "大東夜市", "text": "Ein beliebter Nachtmarkt in Tainan, bekannt für lokales Streetfood.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "祀典大天后宮", "text": "Ein bedeutender Tempel in Tainan, der der Meeresgöttin Matsu gewidmet ist.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "彌陀寺", "text": "Ein traditioneller buddhistischer Tempel in Tainan.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "臨水夫人媽廟", "text": "Ein bekannter Tempel in Tainan, der der Fruchtbarkeitsgöttin Lady Linshui gewidmet ist.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "普濟殿", "text": "Ein geschichtsträchtiger Tempel in Tainan, bekannt für seine Laternenausstellungen.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "台南清真寺", "text": "Die einzige Moschee in Tainan, die der muslimischen Gemeinde als Gebetsstätte dient.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "臺灣府城大東門", "text": "Ein historisches Stadttor in Tainan, das Teil der alten Stadtbefestigung war.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "中華聖母主教座堂", "text": "Eine katholische Kathedrale in Tainan mit einer markanten Architektur.", "category": "religious", "coords": [120.209209, 22.987389]}], "hu": [{"name": "國立臺灣文學館", "text": "Tajvani Irodalmi Nemzeti Múzeum Tainan egyik történelmi épületében.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "國立成功大學博物館", "text": "Egyetemi múzeum Tainanban, amely akadémiai gyűjteményeket mutat be.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "郭柏川紀念館", "text": "Emlékmúzeum Tainanban, amelyet Guo Baichuan festőművésznek szenteltek.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "千畦種子博物館", "text": "Egyedülálló múzeum Tainanban, amely növényi magvak ezreit mutatja be.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "碑林", "text": "Történelmi kősztélék jelentős gyűjteménye Tainan Nagy Déli Kapujánál.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "közművelődés és", "text": "A közművelődés és az előadóművészetek fontos központja Tainanban.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "普羅民遮城遺跡;赤崁樓主堡遺跡", "text": "Egy 17. századi holland erőd romjai Tainanban.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "臺南公園", "text": "Tainan legrégebbi városi parkja történelmi pavilonokkal és tavakkal.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "五妃廟", "text": "Történelmi templomterület Tainanban, amely parkként látogatható.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "原臺南公會堂", "text": "Emlékmű Tainanban, amely eredetileg nyilvános gyülekezőhelyként szolgált.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "星巴克", "text": "Tainani Starbucks, amely egy műemlékvédelem alatt álló épületben működik.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "原臺南地方法院", "text": "Tainan egykori kerületi bíróságának monumentális épülete.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "東菜市", "text": "Hagyományőrző piac és helyi látványosság Tainanban.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "台灣首廟天壇", "text": "Jelentős taoista templom és nevezetesség Tainanban.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "原台南廳長官邸", "text": "Műemlék épület, amely korábban a miniszter rezidenciájaként szolgált Tainanban.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "西市布市", "text": "Történelmi textilpiac és emlékmű Tainanban.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "全臺吳姓大宗祠", "text": "A Wu klánnak szentelt kulturális helyszín Tainanban.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "德鴻畫廊", "text": "A 德鴻畫廊 (Der-Horng Művészeti Galéria) egy tajnani múzeum, amely modern alkotásokra specializálódott. Ez a kortárs művészeti galéria a tajvani kulturális élet meghatározó része.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "孔廟商圈", "text": "Nyüzsgő bevásárlónegyed a tainani Konfuciusz-templom körül.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "蝸牛巷", "text": "Bájos és művészien kialakított sikátor Tainanban.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "文創PLUS", "text": "Kulturális és design központ Tainan városában.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "成功大學藝術中心", "text": "A tainani Cheng Kung Nemzeti Egyetem művészeti központja.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "永樂市場", "text": "Nyüzsgő hagyományos piac Tainanban, amely helyi ételeiről ismert.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "西大成坊", "text": "Építészetileg érdekes boltív egy tainani épületegyüttes bejáratánál.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "興濟宮", "text": "Jelentős templomkomplexum Tainanban buddhista és taoista tiszteletre.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "祝三多廟", "text": "Történelmi templom Tainanban, amely istentiszteleti helyként szolgál.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "大東夜市", "text": "Népszerű éjszakai piac Tainanban, amely helyi utcai ételeiről ismert.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "祀典大天后宮", "text": "Jelentős templom Tainanban, amelyet Matsu tengeristennőnek szenteltek.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "彌陀寺", "text": "Hagyományos buddhista templom Tainanban.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "臨水夫人媽廟", "text": "Tainan egyik ismert temploma, amelyet Lady Linshui termékenységistennőnek szenteltek.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "普濟殿", "text": "Történelmi templom Tainanban, amely lámpásfesztiváljairól ismert.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "台南清真寺", "text": "Tainan egyetlen mecsetje, amely a muszlim közösség imahelyeként szolgál.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "臺灣府城大東門", "text": "Történelmi városkapu Tainanban, amely a régi városfal része volt.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "中華聖母主教座堂", "text": "Katolikus székesegyház Tainanban, jellegzetes építészeti stílussal.", "category": "religious", "coords": [120.209209, 22.987389]}], "ro": [{"name": "國立臺灣文學館", "text": "Muzeul Național al Literaturii Taiwaneze, găzduit într-o clădire istorică din Tainan.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "國立成功大學博物館", "text": "Un muzeu universitar din Tainan care prezintă colecții academice.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "郭柏川紀念館", "text": "Un muzeu memorial din Tainan dedicat pictorului Guo Baichuan.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "千畦種子博物館", "text": "Un muzeu unic în Tainan care expune mii de semințe de plante.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "碑林", "text": "O colecție importantă de stele de piatră istorice la Marea Poartă de Sud din Tainan.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "台南市文化中心", "text": "Un centru important pentru artele spectacolului și cultură în Tainan.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "普羅民遮城遺跡;赤崁樓主堡遺跡", "text": "Ruinele unei fortărețe olandeze din secolul al XVII-lea în Tainan.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "臺南公園", "text": "Cel mai vechi parc urban din Tainan, cu pavilioane istorice și iazuri.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "五妃廟", "text": "O zonă istorică de templu în Tainan, amenajată ca un parc.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "原臺南公會堂", "text": "Un monument în Tainan care a servit inițial ca sală de întruniri publice.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "星巴克", "text": "O cafenea Starbucks din Tainan găzduită într-o clădire monument istoric.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "原臺南地方法院", "text": "Clădirea monumentală a fostei Judecătorii Districtuale din Tainan.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "東菜市", "text": "O piață tradițională și atracție locală în Tainan.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "台灣首廟天壇", "text": "Un templu taoist important și punct de interes în Tainan.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "原台南廳長官邸", "text": "O clădire monument care a servit anterior ca reședință a ministrului în Tainan.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "西市布市", "text": "O piață istorică de țesături și monument în Tainan.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "全臺吳姓大宗祠", "text": "Un loc cultural în Tainan dedicat clanului Wu.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "德鴻畫廊", "text": "Galeria de Artă Der-Horng (德鴻畫廊) este un muzeu din Tainan axat pe lucrări moderne. Această galerie de artă contemporană joacă un rol important în peisajul cultural din Taiwan.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "孔廟商圈", "text": "Un district comercial plin de viață în jurul Templului lui Confucius din Tainan.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "蝸牛巷", "text": "O alee fermecătoare și decorată artistic în Tainan.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "文創PLUS", "text": "Un centru de artă creativă pentru cultură și design în Tainan.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "成功大學藝術中心", "text": "Centrul de artă al Universității Naționale Cheng Kung din Tainan.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "永樂市場", "text": "O piață tradițională plină de viață în Tainan, cunoscută pentru mâncarea locală.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "西大成坊", "text": "Un arc interesant din punct de vedere arhitectural la intrarea unui complex din Tainan.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "興濟宮", "text": "Un complex de temple important în Tainan pentru cultul budist și taoist.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "祝三多廟", "text": "Un templu istoric din Tainan, care servește ca loc de cult.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "大東夜市", "text": "O piață de noapte populară din Tainan, cunoscută pentru mâncarea stradală locală.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "祀典大天后宮", "text": "Un templu important din Tainan, dedicat zeiței mării Matsu.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "彌陀寺", "text": "Un templu budist tradițional din Tainan.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "臨水夫人媽廟", "text": "Un templu cunoscut din Tainan, dedicat zeiței fertilității Lady Linshui.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "普濟殿", "text": "Un templu istoric din Tainan, cunoscut pentru expozițiile sale de lampioane.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "台南清真寺", "text": "Singura moschee din Tainan, care servește drept loc de rugăciune pentru comunitatea musulmană.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "臺灣府城大東門", "text": "O poartă istorică a orașului Tainan, care făcea parte din vechile fortificații.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "中華聖母主教座堂", "text": "O catedrală catolică din Tainan, cu o arhitectură distinctivă.", "category": "religious", "coords": [120.209209, 22.987389]}], "en": [{"name": "National Museum of Taiwan Literature", "text": "The National Museum of Taiwan Literature, located in a historic building in Tainan.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "National Cheng Kung University Museum", "text": "A university museum in Tainan showcasing academic and historical collections.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "Guo Baichuan Memorial Hall", "text": "A memorial museum in Tainan dedicated to the painter Guo Baichuan.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "Museum of Thousands Seeds", "text": "A unique museum in Tainan exhibiting thousands of plant seeds.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "Forest of Steles at Great South Gate", "text": "A significant collection of historical stone steles at the Great South Gate in Tainan.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "Tainan Municipal Cultural Center", "text": "A key venue for performing arts and cultural events in Tainan.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "Fort Provintia", "text": "The ruins of a 17th-century Dutch fortress in Tainan, also known as Chihkan Tower.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "Tainan Park", "text": "The oldest urban park in Tainan, featuring historic pavilions and ponds.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "WuFei Temple", "text": "A historic temple site in Tainan maintained as a park area.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "Tainan Public Meeting Hall", "text": "A monument in Tainan that originally served as a public meeting hall.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "Starbucks", "text": "A Starbucks in Tainan housed in a heritage monument building.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "Former Tainan District Court", "text": "The monumental building of the former Tainan District Court.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "Dongcai market", "text": "A traditional market and local attraction in Tainan.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "Tiantan Temple", "text": "A significant Taoist temple and attraction in Tainan.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "Old Tainan Minister's Official Residence", "text": "A heritage monument that formerly served as the minister's official residence in Tainan.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "Ximen Fabric Market", "text": "A historic fabric market and monument in Tainan.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "All Taiwanese Wu surnamed", "text": "A cultural site in Tainan dedicated to the Wu ancestral lineage.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "Der-Horng Art Gallery", "text": "The Der-Horng Art Gallery (德鴻畫廊) is a museum in Tainan that specializes in modern works. This contemporary art gallery is an essential part of the cultural scene in Taiwan.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "Kongmiao Shopping District", "text": "A lively shopping district around the Confucius Temple in Tainan.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "Snail Alley", "text": "A charming and artistically decorated alleyway in Tainan.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "文創PLUS", "text": "A creative arts centre for culture and design in Tainan.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "NCKU Art Center", "text": "The art center of the National Cheng Kung University in Tainan.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "YongLe Market", "text": "A lively traditional market in Tainan known for its local food.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "West Dacheng Arch", "text": "An architecturally interesting arch at the entrance of a site in Tainan.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "Singji Temple", "text": "A significant temple complex in Tainan for Buddhist and Taoist worship.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "Zhusanduo Temple", "text": "A historical temple in Tainan that serves as a place of worship.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "Da Dong Night Market", "text": "A popular night market in Tainan known for its local street food.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "The Grand Matsu Temple", "text": "A significant temple in Tainan dedicated to the sea goddess Matsu.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "Mituo Temple", "text": "A traditional Buddhist temple in Tainan.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "Lady Linshui Temple", "text": "A well-known temple in Tainan dedicated to the fertility goddess Lady Linshui.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "Puji Temple", "text": "A historical temple in Tainan known for its lantern displays.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "Tainan Mosque", "text": "The only mosque in Tainan, serving as a place of worship for the Muslim community.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "East Gate", "text": "A historical city gate in Tainan that was part of the old city walls.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "Our Lady Queen of China Cathedral", "text": "A Catholic cathedral in Tainan featuring distinctive architecture.", "category": "religious", "coords": [120.209209, 22.987389]}]},
+    id: "tainan-cities-v2", "sights": {"de": [{"name": "National Museum of Taiwan Literature", "text": "Das Nationalmuseum für taiwanesische Literatur in einem historischen Gebäude in Tainan.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "National Cheng Kung University Museum", "text": "Ein Universitätsmuseum in Tainan, das akademische Sammlungen zeigt.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "Kuo Pao-chao Memorial Hall", "text": "Ein Gedenkmuseum in Tainan, das dem Maler Guo Baichuan gewidmet ist.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "Qianqi Seed Museum", "text": "Ein einzigartiges Museum in Tainan, das Tausende von Pflanzensamen ausstellt.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "Stele Forest", "text": "Eine bedeutende Sammlung historischer Steinstelen am Großen Südtor in Tainan.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "Tainan Municipal Cultural Center", "text": "Ein wichtiges Zentrum für darstellende Künste und Kultur in Tainan.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "Fort Provintia Ruins", "text": "Die Ruinen einer niederländischen Festung aus dem 17. Jahrhundert in Tainan.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "Tainan Park", "text": "Der älteste Stadtpark in Tainan mit historischen Pavillons und Teichen.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "Temple of the Five Concubines", "text": "Ein historisches Tempelareal in Tainan, das als Parkanlage gestaltet ist.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "Tainan Wu Garden", "text": "Ein Denkmal in Tainan, das ursprünglich als öffentliches Versammlungshaus diente.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "Starbucks Tainan", "text": "Ein Starbucks in Tainan, der in einem denkmalgeschützten Gebäude untergebracht ist.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "Former Tainan District Court", "text": "Das monumentale Gebäude des ehemaligen Bezirksgerichts von Tainan.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "East Market", "text": "Ein traditionsreicher Markt und eine lokale Attraktion in Tainan.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "Taiwan Tiantan Temple", "text": "Ein bedeutender taoistischer Tempel und eine Sehenswürdigkeit in Tainan.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "Former Tainan Prefectural Official Residence", "text": "Ein denkmalgeschütztes Gebäude, das ehemals als Residenz des Ministers in Tainan diente.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "West Market Textile District", "text": "Ein historischer Stoffmarkt und Denkmal in Tainan.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "Wu Clan Ancestral Shrine", "text": "Ein kultureller Ort in Tainan, der dem Wu-Clan gewidmet ist.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "Der-Horng Art Gallery", "text": "Die 德鴻畫廊 (Der-Horng Kunstgalerie) ist ein Museum in Tainan, das sich auf moderne Werke spezialisiert hat. Diese Galerie für zeitgenössische Kunst ist ein wichtiger Bestandteil der Kulturszene in Taiwan.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "Confucius Temple Commercial District", "text": "Ein lebhaftes Einkaufsviertel rund um den Konfuziustempel in Tainan.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "Snail Alley", "text": "Eine charmante und kunstvoll gestaltete Gasse in Tainan.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "Creative Culture Center", "text": "Ein kreatives Kunstzentrum für Kultur und Design in Tainan.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "National Cheng Kung University Art Center", "text": "Das Kunstzentrum der Cheng-Kung-Nationaluniversität in Tainan.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "Yongle Market", "text": "Ein lebhafter traditioneller Markt in Tainan, bekannt für lokales Essen.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "West Gate of the Confucius Temple", "text": "Ein architektonisch interessanter Bogen am Eingang einer Anlage in Tainan.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "Xingji Temple", "text": "Ein bedeutender Tempelkomplex in Tainan für buddhistische und taoistische Verehrung.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "Zhushanduo Temple", "text": "Ein historischer Tempel in Tainan, der als Ort der Anbetung dient.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "Dadong Night Market", "text": "Ein beliebter Nachtmarkt in Tainan, bekannt für lokales Streetfood.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "Grand Matsu Temple", "text": "Ein bedeutender Tempel in Tainan, der der Meeresgöttin Matsu gewidmet ist.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "Mituo Temple", "text": "Ein traditioneller buddhistischer Tempel in Tainan.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "Linshui Madame Temple", "text": "Ein bekannter Tempel in Tainan, der der Fruchtbarkeitsgöttin Lady Linshui gewidmet ist.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "Puji Temple", "text": "Ein geschichtsträchtiger Tempel in Tainan, bekannt für seine Laternenausstellungen.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "Tainan Mosque", "text": "Die einzige Moschee in Tainan, die der muslimischen Gemeinde als Gebetsstätte dient.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "Tainan Great East Gate", "text": "Ein historisches Stadttor in Tainan, das Teil der alten Stadtbefestigung war.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "Cathedral of Our Lady of China", "text": "Eine katholische Kathedrale in Tainan mit einer markanten Architektur.", "category": "religious", "coords": [120.209209, 22.987389]}], "hu": [{"name": "National Museum of Taiwan Literature", "text": "Tajvani Irodalmi Nemzeti Múzeum Tainan egyik történelmi épületében.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "National Cheng Kung University Museum", "text": "Egyetemi múzeum Tainanban, amely akadémiai gyűjteményeket mutat be.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "Kuo Pao-chao Memorial Hall", "text": "Emlékmúzeum Tainanban, amelyet Guo Baichuan festőművésznek szenteltek.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "Qianqi Seed Museum", "text": "Egyedülálló múzeum Tainanban, amely növényi magvak ezreit mutatja be.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "Stele Forest", "text": "Történelmi kősztélék jelentős gyűjteménye Tainan Nagy Déli Kapujánál.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "közművelődés és", "text": "A közművelődés és az előadóművészetek fontos központja Tainanban.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "Fort Provintia Ruins", "text": "Egy 17. századi holland erőd romjai Tainanban.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "Tainan Park", "text": "Tainan legrégebbi városi parkja történelmi pavilonokkal és tavakkal.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "Temple of the Five Concubines", "text": "Történelmi templomterület Tainanban, amely parkként látogatható.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "Tainan Wu Garden", "text": "Emlékmű Tainanban, amely eredetileg nyilvános gyülekezőhelyként szolgált.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "Starbucks Tainan", "text": "Tainani Starbucks, amely egy műemlékvédelem alatt álló épületben működik.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "Former Tainan District Court", "text": "Tainan egykori kerületi bíróságának monumentális épülete.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "East Market", "text": "Hagyományőrző piac és helyi látványosság Tainanban.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "Taiwan Tiantan Temple", "text": "Jelentős taoista templom és nevezetesség Tainanban.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "Former Tainan Prefectural Official Residence", "text": "Műemlék épület, amely korábban a miniszter rezidenciájaként szolgált Tainanban.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "West Market Textile District", "text": "Történelmi textilpiac és emlékmű Tainanban.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "Wu Clan Ancestral Shrine", "text": "A Wu klánnak szentelt kulturális helyszín Tainanban.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "Der-Horng Art Gallery", "text": "A 德鴻畫廊 (Der-Horng Művészeti Galéria) egy tajnani múzeum, amely modern alkotásokra specializálódott. Ez a kortárs művészeti galéria a tajvani kulturális élet meghatározó része.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "Confucius Temple Commercial District", "text": "Nyüzsgő bevásárlónegyed a tainani Konfuciusz-templom körül.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "Snail Alley", "text": "Bájos és művészien kialakított sikátor Tainanban.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "Creative Culture Center", "text": "Kulturális és design központ Tainan városában.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "National Cheng Kung University Art Center", "text": "A tainani Cheng Kung Nemzeti Egyetem művészeti központja.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "Yongle Market", "text": "Nyüzsgő hagyományos piac Tainanban, amely helyi ételeiről ismert.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "West Gate of the Confucius Temple", "text": "Építészetileg érdekes boltív egy tainani épületegyüttes bejáratánál.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "Xingji Temple", "text": "Jelentős templomkomplexum Tainanban buddhista és taoista tiszteletre.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "Zhushanduo Temple", "text": "Történelmi templom Tainanban, amely istentiszteleti helyként szolgál.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "Dadong Night Market", "text": "Népszerű éjszakai piac Tainanban, amely helyi utcai ételeiről ismert.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "Grand Matsu Temple", "text": "Jelentős templom Tainanban, amelyet Matsu tengeristennőnek szenteltek.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "Mituo Temple", "text": "Hagyományos buddhista templom Tainanban.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "Linshui Madame Temple", "text": "Tainan egyik ismert temploma, amelyet Lady Linshui termékenységistennőnek szenteltek.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "Puji Temple", "text": "Történelmi templom Tainanban, amely lámpásfesztiváljairól ismert.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "Tainan Mosque", "text": "Tainan egyetlen mecsetje, amely a muszlim közösség imahelyeként szolgál.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "Tainan Great East Gate", "text": "Történelmi városkapu Tainanban, amely a régi városfal része volt.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "Cathedral of Our Lady of China", "text": "Katolikus székesegyház Tainanban, jellegzetes építészeti stílussal.", "category": "religious", "coords": [120.209209, 22.987389]}], "ro": [{"name": "National Museum of Taiwan Literature", "text": "Muzeul Național al Literaturii Taiwaneze, găzduit într-o clădire istorică din Tainan.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "National Cheng Kung University Museum", "text": "Un muzeu universitar din Tainan care prezintă colecții academice.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "Kuo Pao-chao Memorial Hall", "text": "Un muzeu memorial din Tainan dedicat pictorului Guo Baichuan.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "Qianqi Seed Museum", "text": "Un muzeu unic în Tainan care expune mii de semințe de plante.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "Stele Forest", "text": "O colecție importantă de stele de piatră istorice la Marea Poartă de Sud din Tainan.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "Tainan Municipal Cultural Center", "text": "Un centru important pentru artele spectacolului și cultură în Tainan.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "Fort Provintia Ruins", "text": "Ruinele unei fortărețe olandeze din secolul al XVII-lea în Tainan.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "Tainan Park", "text": "Cel mai vechi parc urban din Tainan, cu pavilioane istorice și iazuri.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "Temple of the Five Concubines", "text": "O zonă istorică de templu în Tainan, amenajată ca un parc.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "Tainan Wu Garden", "text": "Un monument în Tainan care a servit inițial ca sală de întruniri publice.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "Starbucks Tainan", "text": "O cafenea Starbucks din Tainan găzduită într-o clădire monument istoric.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "Former Tainan District Court", "text": "Clădirea monumentală a fostei Judecătorii Districtuale din Tainan.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "East Market", "text": "O piață tradițională și atracție locală în Tainan.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "Taiwan Tiantan Temple", "text": "Un templu taoist important și punct de interes în Tainan.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "Former Tainan Prefectural Official Residence", "text": "O clădire monument care a servit anterior ca reședință a ministrului în Tainan.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "West Market Textile District", "text": "O piață istorică de țesături și monument în Tainan.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "Wu Clan Ancestral Shrine", "text": "Un loc cultural în Tainan dedicat clanului Wu.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "Der-Horng Art Gallery", "text": "Galeria de Artă Der-Horng (德鴻畫廊) este un muzeu din Tainan axat pe lucrări moderne. Această galerie de artă contemporană joacă un rol important în peisajul cultural din Taiwan.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "Confucius Temple Commercial District", "text": "Un district comercial plin de viață în jurul Templului lui Confucius din Tainan.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "Snail Alley", "text": "O alee fermecătoare și decorată artistic în Tainan.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "Creative Culture Center", "text": "Un centru de artă creativă pentru cultură și design în Tainan.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "National Cheng Kung University Art Center", "text": "Centrul de artă al Universității Naționale Cheng Kung din Tainan.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "Yongle Market", "text": "O piață tradițională plină de viață în Tainan, cunoscută pentru mâncarea locală.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "West Gate of the Confucius Temple", "text": "Un arc interesant din punct de vedere arhitectural la intrarea unui complex din Tainan.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "Xingji Temple", "text": "Un complex de temple important în Tainan pentru cultul budist și taoist.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "Zhushanduo Temple", "text": "Un templu istoric din Tainan, care servește ca loc de cult.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "Dadong Night Market", "text": "O piață de noapte populară din Tainan, cunoscută pentru mâncarea stradală locală.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "Grand Matsu Temple", "text": "Un templu important din Tainan, dedicat zeiței mării Matsu.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "Mituo Temple", "text": "Un templu budist tradițional din Tainan.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "Linshui Madame Temple", "text": "Un templu cunoscut din Tainan, dedicat zeiței fertilității Lady Linshui.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "Puji Temple", "text": "Un templu istoric din Tainan, cunoscut pentru expozițiile sale de lampioane.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "Tainan Mosque", "text": "Singura moschee din Tainan, care servește drept loc de rugăciune pentru comunitatea musulmană.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "Tainan Great East Gate", "text": "O poartă istorică a orașului Tainan, care făcea parte din vechile fortificații.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "Cathedral of Our Lady of China", "text": "O catedrală catolică din Tainan, cu o arhitectură distinctivă.", "category": "religious", "coords": [120.209209, 22.987389]}], "en": [{"name": "National Museum of Taiwan Literature", "text": "The National Museum of Taiwan Literature, located in a historic building in Tainan.", "category": "museum", "coords": [120.204388, 22.991747]}, {"name": "National Cheng Kung University Museum", "text": "A university museum in Tainan showcasing academic and historical collections.", "category": "museum", "coords": [120.219629, 22.996734]}, {"name": "Guo Baichuan Memorial Hall", "text": "A memorial museum in Tainan dedicated to the painter Guo Baichuan.", "category": "museum", "coords": [120.208313, 23.003685]}, {"name": "Museum of Thousands Seeds", "text": "A unique museum in Tainan exhibiting thousands of plant seeds.", "category": "museum", "coords": [120.228484, 23.003763]}, {"name": "Forest of Steles at Great South Gate", "text": "A significant collection of historical stone steles at the Great South Gate in Tainan.", "category": "historical", "coords": [120.20299, 22.986527]}, {"name": "Tainan Municipal Cultural Center", "text": "A key venue for performing arts and cultural events in Tainan.", "category": "cultural", "coords": [120.221554, 22.974508]}, {"name": "Fort Provintia", "text": "The ruins of a 17th-century Dutch fortress in Tainan, also known as Chihkan Tower.", "category": "historical", "coords": [120.20275, 22.997771]}, {"name": "Tainan Park", "text": "The oldest urban park in Tainan, featuring historic pavilions and ponds.", "category": "park", "coords": [120.211197, 23.002224]}, {"name": "WuFei Temple", "text": "A historic temple site in Tainan maintained as a park area.", "category": "park", "coords": [120.205054, 22.982008]}, {"name": "Tainan Public Meeting Hall", "text": "A monument in Tainan that originally served as a public meeting hall.", "category": "historical", "coords": [120.206104, 22.994455]}, {"name": "Starbucks", "text": "A Starbucks in Tainan housed in a heritage monument building.", "category": "historical", "coords": [120.212986, 22.998967]}, {"name": "Former Tainan District Court", "text": "The monumental building of the former Tainan District Court.", "category": "historical", "coords": [120.201148, 22.989318]}, {"name": "Dongcai market", "text": "A traditional market and local attraction in Tainan.", "category": "landmark", "coords": [120.209663, 22.9909]}, {"name": "Tiantan Temple", "text": "A significant Taoist temple and attraction in Tainan.", "category": "landmark", "coords": [120.204096, 22.993704]}, {"name": "Old Tainan Minister's Official Residence", "text": "A heritage monument that formerly served as the minister's official residence in Tainan.", "category": "historical", "coords": [120.215086, 22.993335]}, {"name": "Ximen Fabric Market", "text": "A historic fabric market and monument in Tainan.", "category": "historical", "coords": [120.198684, 22.993803]}, {"name": "All Taiwanese Wu surnamed", "text": "A cultural site in Tainan dedicated to the Wu ancestral lineage.", "category": "landmark", "coords": [120.205779, 22.996461]}, {"name": "Der-Horng Art Gallery", "text": "The Der-Horng Art Gallery (德鴻畫廊) is a museum in Tainan that specializes in modern works. This contemporary art gallery is an essential part of the cultural scene in Taiwan.", "category": "museum", "coords": [120.205341, 22.99308]}, {"name": "Kongmiao Shopping District", "text": "A lively shopping district around the Confucius Temple in Tainan.", "category": "landmark", "coords": [120.205629, 22.990115]}, {"name": "Snail Alley", "text": "A charming and artistically decorated alleyway in Tainan.", "category": "landmark", "coords": [120.20058, 22.99306]}, {"name": "Creative Culture Center", "text": "A creative arts centre for culture and design in Tainan.", "category": "cultural", "coords": [120.20419, 22.988861]}, {"name": "NCKU Art Center", "text": "The art center of the National Cheng Kung University in Tainan.", "category": "cultural", "coords": [120.216572, 22.998]}, {"name": "YongLe Market", "text": "A lively traditional market in Tainan known for its local food.", "category": "landmark", "coords": [120.198621, 22.997193]}, {"name": "West Dacheng Arch", "text": "An architecturally interesting arch at the entrance of a site in Tainan.", "category": "landmark", "coords": [120.203781, 22.990037]}, {"name": "Singji Temple", "text": "A significant temple complex in Tainan for Buddhist and Taoist worship.", "category": "religious", "coords": [120.206289, 22.998466]}, {"name": "Zhusanduo Temple", "text": "A historical temple in Tainan that serves as a place of worship.", "category": "religious", "coords": [120.212803, 22.988632]}, {"name": "Da Dong Night Market", "text": "A popular night market in Tainan known for its local street food.", "category": "landmark", "coords": [120.219241, 22.982612]}, {"name": "The Grand Matsu Temple", "text": "A significant temple in Tainan dedicated to the sea goddess Matsu.", "category": "religious", "coords": [120.201742, 22.996536]}, {"name": "Mituo Temple", "text": "A traditional Buddhist temple in Tainan.", "category": "religious", "coords": [120.214473, 22.988642]}, {"name": "Lady Linshui Temple", "text": "A well-known temple in Tainan dedicated to the fertility goddess Lady Linshui.", "category": "religious", "coords": [120.207072, 22.988269]}, {"name": "Puji Temple", "text": "A historical temple in Tainan known for its lantern displays.", "category": "religious", "coords": [120.19918, 22.99881]}, {"name": "Tainan Mosque", "text": "The only mosque in Tainan, serving as a place of worship for the Muslim community.", "category": "religious", "coords": [120.228452, 22.978451]}, {"name": "East Gate", "text": "A historical city gate in Tainan that was part of the old city walls.", "category": "fortress", "coords": [120.217307, 22.98707]}, {"name": "Our Lady Queen of China Cathedral", "text": "A Catholic cathedral in Tainan featuring distinctive architecture.", "category": "religious", "coords": [120.209209, 22.987389]}]},
     type: "city",
     parent: "TW-TNN",
     coords: [120.227, 22.999],
@@ -252,7 +252,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "hsinchu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "新竹市立動物園",
+                  "name": "Hsinchu Zoo",
                   "text": "Der älteste Zoo Taiwans, der eine Vielzahl von Tieren beherbergt.",
                   "category": "family",
                   "coords": [
@@ -261,7 +261,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十八尖山",
+                  "name": "Eighteen Peaks Mountain",
                   "text": "Ein beliebter Wanderberg in Hsinchu mit Aussichtspunkten über die Stadt.",
                   "category": "natural",
                   "coords": [
@@ -270,7 +270,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李澤藩美術館",
+                  "name": "Lee Tze-Fan Art Museum",
                   "text": "Eine Kunstgalerie in Hsinchu, die den Werken des Künstlers Lee Tze-Fan gewidmet ist.",
                   "category": "cultural",
                   "coords": [
@@ -279,7 +279,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹市眷村博物館",
+                  "name": "Hsinchu City Military Village Museum",
                   "text": "Ein Museum in Hsinchu, das die Geschichte der Militärsiedlungen in Taiwan dokumentiert.",
                   "category": "landmark",
                   "coords": [
@@ -288,7 +288,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "赤土崎公園",
+                  "name": "Chituzaki Park",
                   "text": "Eine öffentliche Parkanlage in Hsinchu, die zur Erholung einlädt.",
                   "category": "park",
                   "coords": [
@@ -297,7 +297,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹公園",
+                  "name": "Hsinchu Park",
                   "text": "Ein großer Stadtpark in Hsinchu, der Grünflächen und Freizeiteinrichtungen bietet.",
                   "category": "park",
                   "coords": [
@@ -306,7 +306,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "辛園",
+                  "name": "Xin Garden",
                   "text": "Ein Gedenkgarten in Hsinchu, der zu Ehren eines Schulleiters angelegt wurde.",
                   "category": "historical",
                   "coords": [
@@ -315,7 +315,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖母聖心主教座堂",
+                  "name": "Immaculate Heart of Mary Cathedral",
                   "text": "Die katholische Hauptkirche von Hsinchu, bekannt für ihre gotisch inspirierte Architektur.",
                   "category": "religious",
                   "coords": [
@@ -324,7 +324,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹蓮市場",
+                  "name": "Zhulen Market",
                   "text": "Ein traditioneller Markt in Hsinchu, auf dem frische Lebensmittel angeboten werden.",
                   "category": "landmark",
                   "coords": [
@@ -333,7 +333,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹塹城迎曦門",
+                  "name": "East Gate of Hsinchu City",
                   "text": "Das erhaltene Osttor der alten Stadtmauer von Hsinchu, ein wichtiges historisches Wahrzeichen.",
                   "category": "fortress",
                   "coords": [
@@ -342,7 +342,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹都城隍廟",
+                  "name": "Hsinchu Cheng Huang Temple",
                   "text": "Ein bedeutender Stadttempel in Hsinchu, bekannt für seinen lebhaften Marktstand-Bereich.",
                   "category": "religious",
                   "coords": [
@@ -351,7 +351,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹長和宮（外媽祖）",
+                  "name": "Hsinchu Changhe Temple",
                   "text": "Ein alter Tempel in Hsinchu, der der Göttin Mazu gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -360,7 +360,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "淨業院",
+                  "name": "Jingye Temple",
                   "text": "Eine buddhistische Gebetsstätte in Hsinchu mit einer ruhigen Atmosphäre.",
                   "category": "religious",
                   "coords": [
@@ -371,7 +371,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "新竹市立動物園",
+                  "name": "Hsinchu Zoo",
                   "text": "Tajvan legrégebbi állatkertje, amely számos állatfajnak ad otthont.",
                   "category": "family",
                   "coords": [
@@ -380,7 +380,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十八尖山",
+                  "name": "Eighteen Peaks Mountain",
                   "text": "Népszerű túrahelyszín Hsinchuban, ahonnan kilátás nyílik a városra.",
                   "category": "natural",
                   "coords": [
@@ -389,7 +389,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李澤藩美術館",
+                  "name": "Lee Tze-Fan Art Museum",
                   "text": "Művészeti galéria Hsinchuban, amely Lee Tze-Fan művész munkásságának állít emléket.",
                   "category": "cultural",
                   "coords": [
@@ -398,7 +398,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹市眷村博物館",
+                  "name": "Hsinchu City Military Village Museum",
                   "text": "Múzeum Hsinchuban, amely a tajvani katonai települések történetét mutatja be.",
                   "category": "landmark",
                   "coords": [
@@ -407,7 +407,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "赤土崎公園",
+                  "name": "Chituzaki Park",
                   "text": "Nyilvános park Hsinchuban, amely kikapcsolódási lehetőséget kínál.",
                   "category": "park",
                   "coords": [
@@ -416,7 +416,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹公園",
+                  "name": "Hsinchu Park",
                   "text": "Nagy városi park Hsinchuban, zöldterületekkel és szabadidős létesítményekkel.",
                   "category": "park",
                   "coords": [
@@ -425,7 +425,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "辛園",
+                  "name": "Xin Garden",
                   "text": "Emlékkert Hsinchuban, amelyet egy iskolaigazgató tiszteletére hoztak létre.",
                   "category": "historical",
                   "coords": [
@@ -434,7 +434,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖母聖心主教座堂",
+                  "name": "Immaculate Heart of Mary Cathedral",
                   "text": "Hsinchu katolikus főtemploma, amely gótikus stílusú építészetéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -443,7 +443,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹蓮市場",
+                  "name": "Zhulen Market",
                   "text": "Hagyományos piac Hsinchuban, ahol friss élelmiszereket árulnak.",
                   "category": "landmark",
                   "coords": [
@@ -452,7 +452,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹塹城迎曦門",
+                  "name": "East Gate of Hsinchu City",
                   "text": "Hsinchu régi városfalának fennmaradt keleti kapuja, fontos történelmi emlékhely.",
                   "category": "fortress",
                   "coords": [
@@ -461,7 +461,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹都城隍廟",
+                  "name": "Hsinchu Cheng Huang Temple",
                   "text": "Hsinchu jelentős városi temploma, amely nyüzsgő piaci standjairól is ismert.",
                   "category": "religious",
                   "coords": [
@@ -470,7 +470,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹長和宮（外媽祖）",
+                  "name": "Hsinchu Changhe Temple",
                   "text": "Régi templom Hsinchuban, amelyet Mazu istennőnek szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -479,7 +479,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "淨業院",
+                  "name": "Jingye Temple",
                   "text": "Buddhista imahely Hsinchuban, nyugodt környezetben.",
                   "category": "religious",
                   "coords": [
@@ -490,7 +490,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "新竹市立動物園",
+                  "name": "Hsinchu Zoo",
                   "text": "Cea mai veche grădină zoologică din Taiwan, care găzduiește o varietate de animale.",
                   "category": "family",
                   "coords": [
@@ -499,7 +499,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十八尖山",
+                  "name": "Eighteen Peaks Mountain",
                   "text": "Un deal popular pentru drumeții în Hsinchu, oferind puncte de belvedere asupra orașului.",
                   "category": "natural",
                   "coords": [
@@ -508,7 +508,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李澤藩美術館",
+                  "name": "Lee Tze-Fan Art Museum",
                   "text": "O galerie de artă din Hsinchu dedicată lucrărilor artistului Lee Tze-Fan.",
                   "category": "cultural",
                   "coords": [
@@ -517,7 +517,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹市眷村博物館",
+                  "name": "Hsinchu City Military Village Museum",
                   "text": "Un muzeu din Hsinchu care documentează istoria așezărilor militare din Taiwan.",
                   "category": "landmark",
                   "coords": [
@@ -526,7 +526,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "赤土崎公園",
+                  "name": "Chituzaki Park",
                   "text": "Un parc public din Hsinchu, ideal pentru recreere.",
                   "category": "park",
                   "coords": [
@@ -535,7 +535,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹公園",
+                  "name": "Hsinchu Park",
                   "text": "Un parc urban mare din Hsinchu, care oferă spații verzi și facilități de recreere.",
                   "category": "park",
                   "coords": [
@@ -544,7 +544,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "辛園",
+                  "name": "Xin Garden",
                   "text": "O grădină memorială din Hsinchu, creată în onoarea unui director de școală.",
                   "category": "historical",
                   "coords": [
@@ -553,7 +553,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖母聖心主教座堂",
+                  "name": "Immaculate Heart of Mary Cathedral",
                   "text": "Principala biserică catolică din Hsinchu, cunoscută pentru arhitectura sa de inspirație gotică.",
                   "category": "religious",
                   "coords": [
@@ -562,7 +562,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹蓮市場",
+                  "name": "Zhulen Market",
                   "text": "O piață tradițională din Hsinchu, unde se vând alimente proaspete.",
                   "category": "landmark",
                   "coords": [
@@ -571,7 +571,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹塹城迎曦門",
+                  "name": "East Gate of Hsinchu City",
                   "text": "Poarta de est conservată a vechiului zid al orașului Hsinchu, un punct de reper istoric important.",
                   "category": "fortress",
                   "coords": [
@@ -580,7 +580,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹都城隍廟",
+                  "name": "Hsinchu Cheng Huang Temple",
                   "text": "Un templu important din Hsinchu, cunoscut pentru zona sa plină de viață cu tarabe.",
                   "category": "religious",
                   "coords": [
@@ -589,7 +589,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新竹長和宮（外媽祖）",
+                  "name": "Hsinchu Changhe Temple",
                   "text": "Un templu vechi din Hsinchu dedicat zeiței Mazu.",
                   "category": "religious",
                   "coords": [
@@ -598,7 +598,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "淨業院",
+                  "name": "Jingye Temple",
                   "text": "Un loc de rugăciune budist din Hsinchu, cu o atmosferă liniștită.",
                   "category": "religious",
                   "coords": [
@@ -801,7 +801,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "changhua-cities-v2", "sights": {
       "de": [
             {
-                  "name": "彰化縣原住民生活館",
+                  "name": "Changhua Indigenous People Life Center",
                   "text": "Ein Museum in Changhua, das der Kultur und Geschichte der Ureinwohner gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -810,7 +810,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蘭大衛夫婦切膚之愛紀念館",
+                  "name": "Landsborough Memorial Museum",
                   "text": "Eine Gedenkhalle in Changhua, die an das Erbe von Dr. Landsborough erinnert.",
                   "category": "museum",
                   "coords": [
@@ -819,7 +819,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "八卦山",
+                  "name": "Bagua Mountain",
                   "text": "Ein bekannter Berg in Changhua, berühmt für seine Aussicht und religiösen Stätten.",
                   "category": "natural",
                   "coords": [
@@ -828,7 +828,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "開化寺",
+                  "name": "Kaihua Temple",
                   "text": "Ein historischer Tempel in Changhua, der für seine kulturelle Bedeutung geschätzt wird.",
                   "category": "landmark",
                   "coords": [
@@ -837,7 +837,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "八卦山大佛",
+                  "name": "Bagua Mountain Great Buddha",
                   "text": "Eine riesige Buddha-Statue auf dem Berg Bagua, ein Wahrzeichen von Changhua.",
                   "category": "landmark",
                   "coords": [
@@ -846,7 +846,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "異色X玩彩。空間 Colour Space",
+                  "name": "Colour Space",
                   "text": "Ein zeitgenössischer Kunstraum in Changhua für Ausstellungen und Kreativität.",
                   "category": "museum",
                   "coords": [
@@ -864,7 +864,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彰化縣政府",
+                  "name": "Changhua County Government",
                   "text": "Der Sitz der Kreisverwaltung von Changhua.",
                   "category": "historical",
                   "coords": [
@@ -893,7 +893,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "彰化縣原住民生活館",
+                  "name": "Changhua Indigenous People Life Center",
                   "text": "Csanghua egyik múzeuma, amely az őslakosok kultúrájának és történelmének szentelt.",
                   "category": "museum",
                   "coords": [
@@ -902,7 +902,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蘭大衛夫婦切膚之愛紀念館",
+                  "name": "Landsborough Memorial Museum",
                   "text": "Emlékcsarnok Csanghuában, amely Dr. Landsborough örökségének állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -911,7 +911,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "八卦山",
+                  "name": "Bagua Mountain",
                   "text": "Ismert hegy Csanghuában, amely kilátásáról és vallási helyszíneiről híres.",
                   "category": "natural",
                   "coords": [
@@ -920,7 +920,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "開化寺",
+                  "name": "Kaihua Temple",
                   "text": "Történelmi templom Csanghuában, amelyet kulturális jelentősége miatt tisztelnek.",
                   "category": "landmark",
                   "coords": [
@@ -929,7 +929,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "八卦山大佛",
+                  "name": "Bagua Mountain Great Buddha",
                   "text": "Hatalmas Buddha-szobor a Bagua-hegyen, Csanghua egyik jelképe.",
                   "category": "landmark",
                   "coords": [
@@ -938,7 +938,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "異色X玩彩。空間 Colour Space",
+                  "name": "Colour Space",
                   "text": "Kortárs művészeti tér Csanghuában kiállítások és kreativitás számára.",
                   "category": "museum",
                   "coords": [
@@ -956,7 +956,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彰化縣政府",
+                  "name": "Changhua County Government",
                   "text": "Csanghua megye önkormányzatának épülete.",
                   "category": "historical",
                   "coords": [
@@ -965,7 +965,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "元清觀",
+                  "name": "Yuanqing Temple",
                   "text": "Történelmi taoista templom Csanghuában, amelyet a Jáde Császárnak szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -985,7 +985,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "彰化縣原住民生活館",
+                  "name": "Changhua Indigenous People Life Center",
                   "text": "Un muzeu din Changhua dedicat culturii și istoriei populațiilor indigene.",
                   "category": "museum",
                   "coords": [
@@ -994,7 +994,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蘭大衛夫婦切膚之愛紀念館",
+                  "name": "Landsborough Memorial Museum",
                   "text": "O sală memorială în Changhua care onorează moștenirea Dr. Landsborough.",
                   "category": "museum",
                   "coords": [
@@ -1003,7 +1003,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "八卦山",
+                  "name": "Bagua Mountain",
                   "text": "Un munte cunoscut în Changhua, faimos pentru vederile sale și siturile religioase.",
                   "category": "natural",
                   "coords": [
@@ -1012,7 +1012,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "開化寺",
+                  "name": "Kaihua Temple",
                   "text": "Un templu istoric din Changhua, prețuit pentru importanța sa culturală.",
                   "category": "landmark",
                   "coords": [
@@ -1021,7 +1021,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "八卦山大佛",
+                  "name": "Bagua Mountain Great Buddha",
                   "text": "O statuie uriașă a lui Buddha pe muntele Bagua, un simbol al orașului Changhua.",
                   "category": "landmark",
                   "coords": [
@@ -1030,7 +1030,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "異色X玩彩。空間 Colour Space",
+                  "name": "Colour Space",
                   "text": "Un spațiu de artă contemporană în Changhua pentru expoziții și creativitate.",
                   "category": "museum",
                   "coords": [
@@ -1048,7 +1048,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彰化縣政府",
+                  "name": "Changhua County Government",
                   "text": "Sediul guvernului județean din Changhua.",
                   "category": "historical",
                   "coords": [
@@ -1057,7 +1057,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "元清觀",
+                  "name": "Yuanqing Temple",
                   "text": "Un templu taoist istoric din Changhua, dedicat Împăratului de Jad.",
                   "category": "religious",
                   "coords": [
@@ -1122,7 +1122,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "異色X玩彩。空間 Colour Space",
+                  "name": "Colour Space",
                   "text": "A contemporary art space in Changhua for exhibitions and creativity.",
                   "category": "museum",
                   "coords": [
@@ -1206,7 +1206,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "pingtung-cities-v2", "sights": {
       "de": [
             {
-                  "name": "地景劇場",
+                  "name": "Landscape Theater",
                   "text": "Eine Veranstaltungsstätte im Freien in Pingtung für kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -1215,7 +1215,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "勝利星村創意生活園區 V.I.P ZONE",
+                  "name": "Victory Star Village",
                   "text": "Ein Kulturviertel in Pingtung in ehemaligen Militärsiedlungen mit Kunst und Cafés.",
                   "category": "landmark",
                   "coords": [
@@ -1224,7 +1224,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏東公園",
+                  "name": "Pingtung Park",
                   "text": "Ein weitläufiger öffentlicher Park im Zentrum von Pingtung.",
                   "category": "park",
                   "coords": [
@@ -1233,7 +1233,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏東縣民公園",
+                  "name": "Pingtung County Citizen Park",
                   "text": "Ein moderner Park in Pingtung, der auf einem ehemaligen Industriegelände angelegt wurde.",
                   "category": "park",
                   "coords": [
@@ -1244,7 +1244,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "地景劇場",
+                  "name": "Landscape Theater",
                   "text": "Szabadtéri rendezvényhelyszín Pingtungban kulturális előadások számára.",
                   "category": "cultural",
                   "coords": [
@@ -1253,7 +1253,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "勝利星村創意生活園區 V.I.P ZONE",
+                  "name": "Victory Star Village",
                   "text": "Kulturális negyed Pingtungban egykori katonai lakóparkokban, művészeti helyszínekkel és kávézókkal.",
                   "category": "landmark",
                   "coords": [
@@ -1262,7 +1262,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏東公園",
+                  "name": "Pingtung Park",
                   "text": "Tágas nyilvános park Pingtung központjában.",
                   "category": "park",
                   "coords": [
@@ -1271,7 +1271,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏東縣民公園",
+                  "name": "Pingtung County Citizen Park",
                   "text": "Modern park Pingtungban, amelyet egy egykori ipari területen alakítottak ki.",
                   "category": "park",
                   "coords": [
@@ -1282,7 +1282,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "地景劇場",
+                  "name": "Landscape Theater",
                   "text": "Un loc de evenimente în aer liber din Pingtung pentru spectacole culturale.",
                   "category": "cultural",
                   "coords": [
@@ -1291,7 +1291,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "勝利星村創意生活園區 V.I.P ZONE",
+                  "name": "Victory Star Village",
                   "text": "Un cartier cultural din Pingtung situat în foste așezări militare, cu artă și cafenele.",
                   "category": "landmark",
                   "coords": [
@@ -1300,7 +1300,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏東公園",
+                  "name": "Pingtung Park",
                   "text": "Un parc public spațios în centrul orașului Pingtung.",
                   "category": "park",
                   "coords": [
@@ -1309,7 +1309,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏東縣民公園",
+                  "name": "Pingtung County Citizen Park",
                   "text": "Un parc modern din Pingtung, amenajat pe locul unei foste zone industriale.",
                   "category": "park",
                   "coords": [
@@ -1329,7 +1329,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "勝利星村創意生活園區 V.I.P ZONE",
+                  "name": "Victory Star Village",
                   "text": "A cultural district in Pingtung in former military housing, featuring art and cafes.",
                   "category": "landmark",
                   "coords": [
@@ -1548,7 +1548,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "yuanlin-cities-v2", "sights": {
       "de": [
             {
-                  "name": "警察故事館",
+                  "name": "Police Story Museum",
                   "text": "Ein Museum in Yuanlin, das in einem ehemaligen Polizeigebäude untergebracht ist.",
                   "category": "museum",
                   "coords": [
@@ -1557,7 +1557,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "員林公園",
+                  "name": "Yuanlin Park",
                   "text": "Eine öffentliche Parkanlage im Zentrum von Yuanlin.",
                   "category": "park",
                   "coords": [
@@ -1568,7 +1568,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "警察故事館",
+                  "name": "Police Story Museum",
                   "text": "Múzeum Jüanlinban, amely egy korábbi rendőrkapitányság épületében található.",
                   "category": "museum",
                   "coords": [
@@ -1577,7 +1577,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "員林公園",
+                  "name": "Yuanlin Park",
                   "text": "Nyilvános park Jüanlin városában.",
                   "category": "park",
                   "coords": [
@@ -1588,7 +1588,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "警察故事館",
+                  "name": "Police Story Museum",
                   "text": "Un muzeu din Yuanlin găzduit într-o fostă secție de poliție.",
                   "category": "museum",
                   "coords": [
@@ -1597,7 +1597,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "員林公園",
+                  "name": "Yuanlin Park",
                   "text": "Un parc public situat în orașul Yuanlin.",
                   "category": "park",
                   "coords": [
@@ -1665,7 +1665,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "douliu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "雲林縣政府",
+                  "name": "Yunlin County Government",
                   "text": "Das Verwaltungsgebäude der Regierung des Landkreises Yunlin in Douliu.",
                   "category": "historical",
                   "coords": [
@@ -1676,7 +1676,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "雲林縣政府",
+                  "name": "Yunlin County Government",
                   "text": "Yunlin megye kormányzati épülete Douliuban.",
                   "category": "historical",
                   "coords": [
@@ -1687,7 +1687,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "雲林縣政府",
+                  "name": "Yunlin County Government",
                   "text": "Clădirea administrativă a guvernului județului Yunlin din Douliu.",
                   "category": "historical",
                   "coords": [
@@ -1764,7 +1764,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PAGE CAFE台東故事館",
+                  "name": "Taitung Story House",
                   "text": "PAGE CAFE台東故事館 ist ein Museum in Taitung.",
                   "category": "museum",
                   "coords": [
@@ -1883,7 +1883,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PAGE CAFE台東故事館",
+                  "name": "Taitung Story House",
                   "text": "A PAGE CAFE台東故事館 egy múzeum Taitung városában.",
                   "category": "museum",
                   "coords": [
@@ -2002,7 +2002,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PAGE CAFE台東故事館",
+                  "name": "Taitung Story House",
                   "text": "PAGE CAFE台東故事館 este un muzeu situat în Taitung.",
                   "category": "museum",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PAGE CAFE台東故事館",
+                  "name": "Taitung Story House",
                   "text": "PAGE CAFE台東故事館 is a museum located in Taitung.",
                   "category": "museum",
                   "coords": [
@@ -2565,7 +2565,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wah ! 幾散竹東",
+                  "name": "Wah! Zhudong",
                   "text": "Ein lokaler Kultur- und Marktplatz in Zhudong, der für sein Kunsthandwerk und kulinarische Angebote bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2574,7 +2574,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹東鎮公所",
+                  "name": "Zhudong Township Office",
                   "text": "Das Verwaltungszentrum der Gemeinde Zhudong im Landkreis Hsinchu.",
                   "category": "historical",
                   "coords": [
@@ -2603,7 +2603,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wah ! 幾散竹東",
+                  "name": "Wah! Zhudong",
                   "text": "Helyi kulturális és piacnap Zhudongban, amely kézműves termékeiről és gasztronómiájáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2612,7 +2612,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹東鎮公所",
+                  "name": "Zhudong Township Office",
                   "text": "Zhudong község adminisztratív központja Hsinchu megyében.",
                   "category": "historical",
                   "coords": [
@@ -2641,7 +2641,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wah ! 幾散竹東",
+                  "name": "Wah! Zhudong",
                   "text": "O piață culturală locală în Zhudong, renumită pentru artizanat și specialități culinare.",
                   "category": "landmark",
                   "coords": [
@@ -2650,7 +2650,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竹東鎮公所",
+                  "name": "Zhudong Township Office",
                   "text": "Centrul administrativ al comunei Zhudong din județul Hsinchu.",
                   "category": "historical",
                   "coords": [
@@ -2679,7 +2679,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wah ! 幾散竹東",
+                  "name": "Wah! Zhudong",
                   "text": "A local cultural and marketplace in Zhudong known for its handicrafts and culinary offerings.",
                   "category": "landmark",
                   "coords": [
@@ -2736,7 +2736,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "chaozhou-cities-v2", "sights": {
       "de": [
             {
-                  "name": "M-24, M-41  坦克;M108自走砲",
+                  "name": "Chaozhou Tank Park",
                   "text": "Eine Ausstellung historischer Panzer und Haubitzen in Chaozhou.",
                   "category": "landmark",
                   "coords": [
@@ -2747,7 +2747,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "M-24, M-41  坦克;M108自走砲",
+                  "name": "Chaozhou Tank Park",
                   "text": "Történelmi harckocsik és tarackok kiállítása Csaozsuban.",
                   "category": "landmark",
                   "coords": [
@@ -2758,7 +2758,7 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "M-24, M-41  坦克;M108自走砲",
+                  "name": "Chaozhou Tank Park",
                   "text": "O expoziție de tancuri și obuziere istorice în Chaozhou.",
                   "category": "landmark",
                   "coords": [

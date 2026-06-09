@@ -2696,7 +2696,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "프리프트 레스토랑",
+                  "name": "Prift Restaurant",
                   "text": "Ez az étterem egy gasztronómiai látványosság Batu városában.",
                   "category": "landmark",
                   "coords": [

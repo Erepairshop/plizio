@@ -575,7 +575,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
     id: "agadez-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "name": "Agadez Sultanate Palace",
                   "text": "Sultanat d'Agadez سلطنة أغاديس ist ein Schloss in Agadez.",
                   "category": "castle",
                   "coords": [
@@ -604,7 +604,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "name": "Agadez Sultanate Palace",
                   "text": "A Sultanat d'Agadez سلطنة أغاديس egy kastély Agadez városában.",
                   "category": "castle",
                   "coords": [
@@ -633,7 +633,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "name": "Agadez Sultanate Palace",
                   "text": "Sultanat d'Agadez سلطنة أغاديس este un castel în Agadez.",
                   "category": "castle",
                   "coords": [
@@ -662,7 +662,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "name": "Agadez Sultanate Palace",
                   "text": "Sultanat d'Agadez سلطنة أغاديس is a castle in Agadez.",
                   "category": "castle",
                   "coords": [

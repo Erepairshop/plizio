@@ -1977,7 +1977,7 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-jaba-throne-village-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "منزل عبد الرزاق شحاده",
+                  "name": "Abdel Razzaq Shehadeh House",
                   "text": "منزل عبد الرزاق شحاده ist ein Aussichtspunkt in Jaba Thron-Dorf.",
                   "category": "natural",
                   "coords": [
@@ -1986,7 +1986,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفاخوري لتجليس السيارات",
+                  "name": "Fakhoury Auto Body Shop",
                   "text": "الفاخوري لتجليس السيارات ist eine Sehenswürdigkeit in Jaba Thron-Dorf.",
                   "category": "landmark",
                   "coords": [
@@ -1995,7 +1995,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח אבו יזיד",
+                  "name": "Sheikh Abu Yazid Ruins",
                   "text": "שייח אבו יזיד ist eine Ruine in Jaba Thron-Dorf.",
                   "category": "historical",
                   "coords": [
@@ -2006,7 +2006,7 @@ export const palestineLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "منزل عبد الرزاق شحاده",
+                  "name": "Abdel Razzaq Shehadeh House",
                   "text": "A(z) منزل عبد الرزاق شحاده egy kilátópont Jaba Thron-Dorf városában.",
                   "category": "natural",
                   "coords": [
@@ -2015,7 +2015,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفاخوري لتجليس السيارات",
+                  "name": "Fakhoury Auto Body Shop",
                   "text": "A(z) الفاخوري لتجليس السيارات egy látványosság Jaba Thron-Dorf városában.",
                   "category": "landmark",
                   "coords": [
@@ -2024,7 +2024,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח אבו יזיד",
+                  "name": "Sheikh Abu Yazid Ruins",
                   "text": "A(z) שייח אבו יזיד egy rom Jaba Thron-Dorf városában.",
                   "category": "historical",
                   "coords": [
@@ -2035,7 +2035,7 @@ export const palestineLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "منزل عبد الرزاق شحاده",
+                  "name": "Abdel Razzaq Shehadeh House",
                   "text": "منزل عبد الرزاق شحاده este un punct de belvedere situat în Jaba Thron-Dorf.",
                   "category": "natural",
                   "coords": [
@@ -2044,7 +2044,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفاخوري لتجليس السيارات",
+                  "name": "Fakhoury Auto Body Shop",
                   "text": "الفاخوري لتجليس السيارات este o atracție turistică situată în Jaba Thron-Dorf.",
                   "category": "landmark",
                   "coords": [
@@ -2053,7 +2053,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח אבו יזיד",
+                  "name": "Sheikh Abu Yazid Ruins",
                   "text": "שייח אבו יזיד este o ruină situată în Jaba Thron-Dorf.",
                   "category": "historical",
                   "coords": [
@@ -2064,7 +2064,7 @@ export const palestineLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "منزل عبد الرزاق شحاده",
+                  "name": "Abdel Razzaq Shehadeh House",
                   "text": "منزل عبد الرزاق شحاده is a viewpoint located in Jaba Thron-Dorf.",
                   "category": "natural",
                   "coords": [
@@ -2073,7 +2073,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "الفاخوري لتجليس السيارات",
+                  "name": "Fakhoury Auto Body Shop",
                   "text": "الفاخوري لتجليس السيارات is a tourist attraction located in Jaba Thron-Dorf.",
                   "category": "landmark",
                   "coords": [
@@ -2082,7 +2082,7 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "שייח אבו יזיד",
+                  "name": "Sheikh Abu Yazid Ruins",
                   "text": "שייח אבו יזיד is a ruined site located in Jaba Thron-Dorf.",
                   "category": "historical",
                   "coords": [

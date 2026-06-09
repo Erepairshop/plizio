@@ -53,7 +53,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선화당",
+                  "name": "Seonhwadang",
                   "text": "Attraktion in Hamhŭng.",
                   "category": "landmark",
                   "coords": [
@@ -73,7 +73,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선화당",
+                  "name": "Seonhwadang",
                   "text": "Látnivaló Hamhŭng-ban.",
                   "category": "landmark",
                   "coords": [
@@ -93,7 +93,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "선화당",
+                  "name": "Seonhwadang",
                   "text": "Atracție în Hamhŭng.",
                   "category": "landmark",
                   "coords": [
@@ -470,7 +470,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-kaechon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "개천혁명사적지",
+                  "name": "Kaechon Revolutionary Site",
                   "text": "Attraktion in Kaech'ŏn.",
                   "category": "landmark",
                   "coords": [
@@ -481,7 +481,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "개천혁명사적지",
+                  "name": "Kaechon Revolutionary Site",
                   "text": "Látnivaló Kaech'ŏn-ban.",
                   "category": "landmark",
                   "coords": [
@@ -492,7 +492,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "개천혁명사적지",
+                  "name": "Kaechon Revolutionary Site",
                   "text": "Atracție în Kaech'ŏn.",
                   "category": "landmark",
                   "coords": [
@@ -613,7 +613,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "눌리문",
+                  "name": "Nullimun Gate",
                   "text": "눌리문 ist eine Burg in Kaesŏng.",
                   "category": "castle",
                   "coords": [
@@ -696,7 +696,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "눌리문",
+                  "name": "Nullimun Gate",
                   "text": "A 눌리문 egy vár Kaesŏng városában.",
                   "category": "castle",
                   "coords": [
@@ -779,7 +779,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "눌리문",
+                  "name": "Nullimun Gate",
                   "text": "눌리문 este un castel situat în Kaesŏng.",
                   "category": "castle",
                   "coords": [
@@ -862,7 +862,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "눌리문",
+                  "name": "Nullimun Gate",
                   "text": "눌리문 is a castle located in Kaesŏng.",
                   "category": "castle",
                   "coords": [
@@ -1310,7 +1310,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-kanggye-cities-v2", "sights": {
       "de": [
             {
-                  "name": "자강도 김일성동지혁명사적관",
+                  "name": "Jagang Province Kim Il Sung Revolutionary Museum",
                   "text": "Museum in Kanggye.",
                   "category": "museum",
                   "coords": [
@@ -1319,7 +1319,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계아사",
+                  "name": "Kanggye Archaic Site",
                   "text": "Archäologische Stätte in Kanggye.",
                   "category": "historical",
                   "coords": [
@@ -1328,7 +1328,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해방원 극장",
+                  "name": "Haebangwon Theater",
                   "text": "Theater in Kanggye.",
                   "category": "cultural",
                   "coords": [
@@ -1337,7 +1337,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계물놀이장",
+                  "name": "Kanggye Water Park",
                   "text": "Wasserpark in Kanggye.",
                   "category": "family",
                   "coords": [
@@ -1346,7 +1346,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계시극장",
+                  "name": "Kanggye City Theater",
                   "text": "Theater in Kanggye.",
                   "category": "cultural",
                   "coords": [
@@ -1355,7 +1355,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계동물원",
+                  "name": "Kanggye Zoo",
                   "text": "Zoo in Kanggye.",
                   "category": "family",
                   "coords": [
@@ -1364,7 +1364,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "연풍혁명사적지",
+                  "name": "Yonpung Revolutionary Site",
                   "text": "Museum in Kanggye.",
                   "category": "museum",
                   "coords": [
@@ -1373,7 +1373,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김일성과 김정일의 동상",
+                  "name": "Statue of Kim Il Sung and Kim Jong Il",
                   "text": "Denkmal in Kanggye.",
                   "category": "historical",
                   "coords": [
@@ -1382,7 +1382,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "인풍루",
+                  "name": "Inphung Pavilion",
                   "text": "Attraktion in Kanggye.",
                   "category": "landmark",
                   "coords": [
@@ -1393,7 +1393,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "자강도 김일성동지혁명사적관",
+                  "name": "Jagang Province Kim Il Sung Revolutionary Museum",
                   "text": "Múzeum Kanggye-ben.",
                   "category": "museum",
                   "coords": [
@@ -1402,7 +1402,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계아사",
+                  "name": "Kanggye Archaic Site",
                   "text": "Régészeti lelőhely Kanggye-ben.",
                   "category": "historical",
                   "coords": [
@@ -1411,7 +1411,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해방원 극장",
+                  "name": "Haebangwon Theater",
                   "text": "Színház Kanggye-ben.",
                   "category": "cultural",
                   "coords": [
@@ -1420,7 +1420,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계물놀이장",
+                  "name": "Kanggye Water Park",
                   "text": "Vízipark Kanggye-ben.",
                   "category": "family",
                   "coords": [
@@ -1429,7 +1429,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계시극장",
+                  "name": "Kanggye City Theater",
                   "text": "Színház Kanggye-ben.",
                   "category": "cultural",
                   "coords": [
@@ -1438,7 +1438,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계동물원",
+                  "name": "Kanggye Zoo",
                   "text": "Állatkert Kanggye-ben.",
                   "category": "family",
                   "coords": [
@@ -1447,7 +1447,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "연풍혁명사적지",
+                  "name": "Yonpung Revolutionary Site",
                   "text": "Múzeum Kanggye-ben.",
                   "category": "museum",
                   "coords": [
@@ -1456,7 +1456,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김일성과 김정일의 동상",
+                  "name": "Statue of Kim Il Sung and Kim Jong Il",
                   "text": "Emlékmű Kanggye-ben.",
                   "category": "historical",
                   "coords": [
@@ -1465,7 +1465,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "인풍루",
+                  "name": "Inphung Pavilion",
                   "text": "Látnivaló Kanggye-ben.",
                   "category": "landmark",
                   "coords": [
@@ -1476,7 +1476,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "자강도 김일성동지혁명사적관",
+                  "name": "Jagang Province Kim Il Sung Revolutionary Museum",
                   "text": "Muzeu în Kanggye.",
                   "category": "museum",
                   "coords": [
@@ -1485,7 +1485,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계아사",
+                  "name": "Kanggye Archaic Site",
                   "text": "Sit arheologic în Kanggye.",
                   "category": "historical",
                   "coords": [
@@ -1494,7 +1494,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "해방원 극장",
+                  "name": "Haebangwon Theater",
                   "text": "Teatru în Kanggye.",
                   "category": "cultural",
                   "coords": [
@@ -1503,7 +1503,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계물놀이장",
+                  "name": "Kanggye Water Park",
                   "text": "Parc acvatic în Kanggye.",
                   "category": "family",
                   "coords": [
@@ -1512,7 +1512,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계시극장",
+                  "name": "Kanggye City Theater",
                   "text": "Teatru în Kanggye.",
                   "category": "cultural",
                   "coords": [
@@ -1521,7 +1521,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "강계동물원",
+                  "name": "Kanggye Zoo",
                   "text": "Grădină zoologică în Kanggye.",
                   "category": "family",
                   "coords": [
@@ -1530,7 +1530,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "연풍혁명사적지",
+                  "name": "Yonpung Revolutionary Site",
                   "text": "Muzeu în Kanggye.",
                   "category": "museum",
                   "coords": [
@@ -1539,7 +1539,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "김일성과 김정일의 동상",
+                  "name": "Statue of Kim Il Sung and Kim Jong Il",
                   "text": "Monument în Kanggye.",
                   "category": "historical",
                   "coords": [
@@ -1548,7 +1548,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "인풍루",
+                  "name": "Inphung Pavilion",
                   "text": "Atracție în Kanggye.",
                   "category": "landmark",
                   "coords": [
@@ -1631,7 +1631,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "인풍루",
+                  "name": "Inphung Pavilion",
                   "text": "Attraction in Kanggye.",
                   "category": "landmark",
                   "coords": [
@@ -2393,7 +2393,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-samjiyon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "삼지연혁명사적관",
+                  "name": "Samjiyon Revolutionary Museum",
                   "text": "Historisches Museum in Samjiyŏn.",
                   "category": "museum",
                   "coords": [
@@ -2402,7 +2402,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "위대한 김일성동지 기념비",
+                  "name": "Monument to the Great Comrade Kim Il Sung",
                   "text": "Denkmal in Samjiyŏn.",
                   "category": "historical",
                   "coords": [
@@ -2411,7 +2411,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "베개봉밀영혁명사적지",
+                  "name": "Pegaebong Secret Camp Revolutionary Site",
                   "text": "Historische Stätte in Samjiyŏn.",
                   "category": "landmark",
                   "coords": [
@@ -2422,7 +2422,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "삼지연혁명사적관",
+                  "name": "Samjiyon Revolutionary Museum",
                   "text": "Történeti múzeum Samjiyŏnban.",
                   "category": "museum",
                   "coords": [
@@ -2431,7 +2431,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "위대한 김일성동지 기념비",
+                  "name": "Monument to the Great Comrade Kim Il Sung",
                   "text": "Emlékmű Samjiyŏnban.",
                   "category": "historical",
                   "coords": [
@@ -2440,7 +2440,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "베개봉밀영혁명사적지",
+                  "name": "Pegaebong Secret Camp Revolutionary Site",
                   "text": "Történelmi emlékhely Samjiyŏnban.",
                   "category": "landmark",
                   "coords": [
@@ -2451,7 +2451,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "삼지연혁명사적관",
+                  "name": "Samjiyon Revolutionary Museum",
                   "text": "Muzeu istoric în Samjiyŏn.",
                   "category": "museum",
                   "coords": [
@@ -2460,7 +2460,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "위대한 김일성동지 기념비",
+                  "name": "Monument to the Great Comrade Kim Il Sung",
                   "text": "Monument în Samjiyŏn.",
                   "category": "historical",
                   "coords": [
@@ -2469,7 +2469,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "베개봉밀영혁명사적지",
+                  "name": "Pegaebong Secret Camp Revolutionary Site",
                   "text": "Loc istoric în Samjiyŏn.",
                   "category": "landmark",
                   "coords": [
@@ -2489,7 +2489,7 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "위대한 김일성동지 기념비",
+                  "name": "Monument to the Great Comrade Kim Il Sung",
                   "text": "Monument in Samjiyŏn.",
                   "category": "historical",
                   "coords": [

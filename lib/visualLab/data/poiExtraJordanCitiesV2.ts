@@ -180,7 +180,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الحيوانات",
+                  "name": "Irbid Animal Museum",
                   "text": "Ein Tiermuseum in Irbid.",
                   "category": "museum",
                   "coords": [
@@ -254,7 +254,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الحيوانات",
+                  "name": "Irbid Animal Museum",
                   "text": "Állatmúzeum Irbidben.",
                   "category": "museum",
                   "coords": [
@@ -281,7 +281,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ابراهيم الشاعر",
+                  "name": "Ibrahim Al-Shaer",
                   "text": "Ibrahim Al-Shaer egy ismert látnivaló Irbidben.",
                   "category": "landmark",
                   "coords": [
@@ -328,7 +328,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الحيوانات",
+                  "name": "Irbid Animal Museum",
                   "text": "Un muzeu de animale din Irbid.",
                   "category": "museum",
                   "coords": [
@@ -402,7 +402,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الحيوانات",
+                  "name": "Irbid Animal Museum",
                   "text": "An animal museum in Irbid.",
                   "category": "museum",
                   "coords": [
@@ -621,7 +621,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق أحلى طلة",
+                  "name": "Ahla Tallet Lookout",
                   "text": "فندق أحلى طلة ist ein Aussichtspunkt in Akaba.",
                   "category": "natural",
                   "coords": [
@@ -630,7 +630,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق دويك 3",
+                  "name": "Dweik Hotel 3 Lookout",
                   "text": "فندق دويك 3 dient als Aussichtspunkt in Akaba.",
                   "category": "natural",
                   "coords": [
@@ -659,7 +659,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "آيلة",
+                  "name": "Ayla",
                   "text": "Ayla egy régészeti lelőhely Akaba városában.",
                   "category": "historical",
                   "coords": [
@@ -740,7 +740,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق أحلى طلة",
+                  "name": "Ahla Tallet Lookout",
                   "text": "A فندق أحلى طلة egy festői kilátó Akabában.",
                   "category": "natural",
                   "coords": [
@@ -749,7 +749,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق دويك 3",
+                  "name": "Dweik Hotel 3 Lookout",
                   "text": "A فندق دويك 3 egy kilátó Akabában.",
                   "category": "natural",
                   "coords": [
@@ -859,7 +859,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق أحلى طلة",
+                  "name": "Ahla Tallet Lookout",
                   "text": "فندق أحلى طلة este un punct de belvedere în Akaba.",
                   "category": "natural",
                   "coords": [
@@ -868,7 +868,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق دويك 3",
+                  "name": "Dweik Hotel 3 Lookout",
                   "text": "فندق دويك 3 servește drept punct de belvedere în Akaba.",
                   "category": "natural",
                   "coords": [
@@ -978,7 +978,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق أحلى طلة",
+                  "name": "Ahla Tallet Lookout",
                   "text": "فندق أحلى طلة is a scenic viewpoint in Akaba.",
                   "category": "natural",
                   "coords": [
@@ -987,7 +987,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "فندق دويك 3",
+                  "name": "Dweik Hotel 3 Lookout",
                   "text": "فندق دويك 3 serves as a scenic viewpoint in Akaba.",
                   "category": "natural",
                   "coords": [
@@ -1071,7 +1071,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "russeifa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "أبو صياح",
+                  "name": "Abu Sayyah Museum",
                   "text": "أبو صياح ist ein lokales Museum in der Stadt Russeifa.",
                   "category": "museum",
                   "coords": [
@@ -1082,7 +1082,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "أبو صياح",
+                  "name": "Abu Sayyah Museum",
                   "text": "Az أبو صياح egy helyi múzeum Russeifa városában.",
                   "category": "museum",
                   "coords": [
@@ -1093,7 +1093,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "أبو صياح",
+                  "name": "Abu Sayyah Museum",
                   "text": "أبو صياح este un muzeu local situat în orașul Russeifa.",
                   "category": "museum",
                   "coords": [
@@ -1104,7 +1104,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "أبو صياح",
+                  "name": "Abu Sayyah Museum",
                   "text": "أبو صياح is a local museum exhibiting collections in Russeifa.",
                   "category": "museum",
                   "coords": [
@@ -1521,7 +1521,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بانوراما قلعة الكرك",
+                  "name": "Karak Castle Panorama",
                   "text": "بانوراما قلعة الكرك bietet einen Panoramablick in Karak.",
                   "category": "natural",
                   "coords": [
@@ -1530,7 +1530,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وجهة نظر قلعة كرك",
+                  "name": "Karak Castle Viewpoint",
                   "text": "وجهة نظر قلعة كرك ist ein Aussichtspunkt in Karak.",
                   "category": "natural",
                   "coords": [
@@ -1550,7 +1550,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الكرك",
+                  "name": "Karak Museum",
                   "text": "Az Al-Karak Museum történelmi tárgyakat mutat be Karakban.",
                   "category": "museum",
                   "coords": [
@@ -1568,7 +1568,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ظهرة المتاريس",
+                  "name": "Zahrat al-Mataris",
                   "text": "A Zahrat al Mataris történelmi romokból áll Karakban.",
                   "category": "historical",
                   "coords": [
@@ -1577,7 +1577,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خربة القرين",
+                  "name": "Khirbat al-Qurein",
                   "text": "A Khirbat al Qurein történelmi romokat rejt Karakban.",
                   "category": "historical",
                   "coords": [
@@ -1586,7 +1586,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بانوراما قلعة الكرك",
+                  "name": "Karak Castle Panorama",
                   "text": "A بانوراما قلعة الكرك panorámás kilátást nyújt Karakban.",
                   "category": "natural",
                   "coords": [
@@ -1595,7 +1595,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وجهة نظر قلعة كرك",
+                  "name": "Karak Castle Viewpoint",
                   "text": "A وجهة نظر قلعة كرك egy festői kilátó Karakban.",
                   "category": "natural",
                   "coords": [
@@ -1615,7 +1615,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الكرك",
+                  "name": "Karak Museum",
                   "text": "Muzeul Al-Karak prezintă artefacte istorice în Karak.",
                   "category": "museum",
                   "coords": [
@@ -1633,7 +1633,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ظهرة المتاريس",
+                  "name": "Zahrat al-Mataris",
                   "text": "Zahrat al Mataris constă în ruine istorice situate în Karak.",
                   "category": "historical",
                   "coords": [
@@ -1642,7 +1642,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "خربة القرين",
+                  "name": "Khirbat al-Qurein",
                   "text": "Khirbat al Qurein prezintă ruine istorice situate în Karak.",
                   "category": "historical",
                   "coords": [
@@ -1651,7 +1651,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بانوراما قلعة الكرك",
+                  "name": "Karak Castle Panorama",
                   "text": "بانوراما قلعة الكرك oferă o vedere panoramică în Karak.",
                   "category": "natural",
                   "coords": [
@@ -1660,7 +1660,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وجهة نظر قلعة كرك",
+                  "name": "Karak Castle Viewpoint",
                   "text": "وجهة نظر قلعة كرك este un punct de belvedere situat în Karak.",
                   "category": "natural",
                   "coords": [
@@ -1716,7 +1716,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بانوراما قلعة الكرك",
+                  "name": "Karak Castle Panorama",
                   "text": "بانوراما قلعة الكرك offers a panoramic view in Karak.",
                   "category": "natural",
                   "coords": [
@@ -1725,7 +1725,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "وجهة نظر قلعة كرك",
+                  "name": "Karak Castle Viewpoint",
                   "text": "وجهة نظر قلعة كرك is a scenic viewpoint situated in Karak.",
                   "category": "natural",
                   "coords": [
@@ -2223,7 +2223,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدينة الصناعية سحاب",
+                  "name": "Sahab Industrial City Mosque Lookout",
                   "text": "مسجد المدينة الصناعية سحاب bietet einen landschaftlichen Aussichtspunkt in Sahab.",
                   "category": "natural",
                   "coords": [
@@ -2232,7 +2232,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سحاب بالاردن",
+                  "name": "Sahab Lookout",
                   "text": "سحاب بالاردن ist ein Aussichtspunkt in der Stadt Sahab.",
                   "category": "natural",
                   "coords": [
@@ -2243,7 +2243,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "الخشافية",
+                  "name": "Al-Khushshafiyah",
                   "text": "Al Khushshafiyah ősi romokat foglal magába Sahab környékén.",
                   "category": "historical",
                   "coords": [
@@ -2252,7 +2252,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدينة الصناعية سحاب",
+                  "name": "Sahab Industrial City Mosque Lookout",
                   "text": "A مسجد المدينة الصناعية سحاب egy festői kilátóhely Sahab városában.",
                   "category": "natural",
                   "coords": [
@@ -2261,7 +2261,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سحاب بالاردن",
+                  "name": "Sahab Lookout",
                   "text": "A سحاب بالاردن egy kilátópont Sahab városában.",
                   "category": "natural",
                   "coords": [
@@ -2281,7 +2281,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدينة الصناعية سحاب",
+                  "name": "Sahab Industrial City Mosque Lookout",
                   "text": "مسجد المدينة الصناعية سحاب este un punct de belvedere panoramic în Sahab.",
                   "category": "natural",
                   "coords": [
@@ -2290,7 +2290,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سحاب بالاردن",
+                  "name": "Sahab Lookout",
                   "text": "سحاب بالاردن este un punct de belvedere situat în orașul Sahab.",
                   "category": "natural",
                   "coords": [
@@ -2310,7 +2310,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد المدينة الصناعية سحاب",
+                  "name": "Sahab Industrial City Mosque Lookout",
                   "text": "مسجد المدينة الصناعية سحاب serves as a scenic viewpoint in the city of Sahab.",
                   "category": "natural",
                   "coords": [
@@ -2319,7 +2319,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سحاب بالاردن",
+                  "name": "Sahab Lookout",
                   "text": "سحاب بالاردن is a viewpoint offering panoramic perspectives in Sahab.",
                   "category": "natural",
                   "coords": [
@@ -2594,7 +2594,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "خربة راكسة",
+                  "name": "Khirbat Rakisa",
                   "text": "Khirbat Rakisa ősi romok Al-Husn közelében.",
                   "category": "historical",
                   "coords": [
@@ -2605,7 +2605,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "خربة راكسة",
+                  "name": "Khirbat Rakisa",
                   "text": "Khirbat Rakisa sunt ruine antice lângă Al-Husn.",
                   "category": "historical",
                   "coords": [
@@ -2766,7 +2766,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "خربة المقبلة",
+                  "name": "Khirbat al-Muqbilah",
                   "text": "Khirbat al Muqbilah egy ősi romterület Fuheis városában.",
                   "category": "historical",
                   "coords": [
@@ -3052,7 +3052,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "al-muwaqqar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "دوار الصقر",
+                  "name": "Falcon Roundabout",
                   "text": "Das Falken-Denkmal in Al-Muwaqqar.",
                   "category": "historical",
                   "coords": [
@@ -3063,7 +3063,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "دوار الصقر",
+                  "name": "Falcon Roundabout",
                   "text": "A Sólyom-emlékmű Al-Muwaqqarban.",
                   "category": "historical",
                   "coords": [
@@ -3074,7 +3074,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "دوار الصقر",
+                  "name": "Falcon Roundabout",
                   "text": "Monumentul Șoimului din Al-Muwaqqar.",
                   "category": "historical",
                   "coords": [
@@ -3085,7 +3085,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "دوار الصقر",
+                  "name": "Falcon Roundabout",
                   "text": "The Falcon Monument in Al-Muwaqqar.",
                   "category": "historical",
                   "coords": [
@@ -3287,7 +3287,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "busaira-cities-v2", "sights": {
       "de": [
             {
-                  "name": "آثار بصيرا",
+                  "name": "Busayra Ruins",
                   "text": "Die Ruinen von Busayra sind eine archäologische Stätte in Busaira.",
                   "category": "historical",
                   "coords": [
@@ -3307,7 +3307,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "آثار بصيرا",
+                  "name": "Busayra Ruins",
                   "text": "Busayra romjai egy régészeti lelőhely Busairában.",
                   "category": "historical",
                   "coords": [
@@ -3327,7 +3327,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "آثار بصيرا",
+                  "name": "Busayra Ruins",
                   "text": "Ruinele de la Busayra sunt un sit arheologic în Busaira.",
                   "category": "historical",
                   "coords": [

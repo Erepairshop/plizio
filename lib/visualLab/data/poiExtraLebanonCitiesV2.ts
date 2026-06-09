@@ -109,7 +109,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر",
+                  "name": "Palace",
                   "text": "قصر ist ein Schloss in der Stadt Tripoli.",
                   "category": "castle",
                   "coords": [
@@ -127,7 +127,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الوديع",
+                  "name": "Al-Wade'i Mosque",
                   "text": "مسجد الوديع ist ein Monument in der Stadt Tripoli.",
                   "category": "historical",
                   "coords": [
@@ -273,7 +273,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر",
+                  "name": "Palace",
                   "text": "A قصر egy kastély Tripoli városában.",
                   "category": "castle",
                   "coords": [
@@ -291,7 +291,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الوديع",
+                  "name": "Al-Wade'i Mosque",
                   "text": "A مسجد الوديع egy emlékmű Tripoli városában.",
                   "category": "historical",
                   "coords": [
@@ -437,7 +437,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر",
+                  "name": "Palace",
                   "text": "قصر este un castel din orașul Tripoli.",
                   "category": "castle",
                   "coords": [
@@ -455,7 +455,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الوديع",
+                  "name": "Al-Wade'i Mosque",
                   "text": "مسجد الوديع este un monument din orașul Tripoli.",
                   "category": "historical",
                   "coords": [
@@ -601,7 +601,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قصر",
+                  "name": "Palace",
                   "text": "قصر is a castle located in the city of Tripoli.",
                   "category": "castle",
                   "coords": [
@@ -619,7 +619,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مسجد الوديع",
+                  "name": "Al-Wade'i Mosque",
                   "text": "مسجد الوديع is a monument located in the city of Tripoli.",
                   "category": "historical",
                   "coords": [
@@ -929,7 +929,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 37 kilomètres au nord de Beyrouth", "Occupation depuis le VIIe millénaire av. J.-C.", "Berceau de l'alphabet phénicien au XIe siècle av. J.-C.", "Plus important marché de papyrus au IIIe millénaire av. J.-C.", "Château des Croisés édifié à partir de 1104", "Patrimoine mondial de l'UNESCO depuis 1984", "Tombes royales avec le célèbre sarcophage d'Ahiram", "Sept couches de civilisations successives explorées"],
     }, image: "/poi-images/byblos-cities-v2.webp"},
   {
-    id: "jounieh-cities-v2", "sights": {"de": [{"name": "Théâtre George V", "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archäologisches Museum", "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "متحف الاستقلال", "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "römische Amphitheater in Jounieh", "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Der Souk du Zouk ist ein traditioneller Markt und eine beliebte Attraktion in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "alte Straße von Jounieh in der Nähe der Corniche", "text": "Die alte Straße von Jounieh in der Nähe der Corniche ist eine charmante historische Attraktion.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Das Samaya Beach Resort in Jounieh ist ein wunderbares Urlaubsziel, um direkt am Mittelmeer neue Energie zu tanken. Die exklusive und entspannte Atmosphäre zieht Urlauber an, die sonnige Stunden auf der Liege und erfrischendes Schwimmen schätzen. Ein Aufenthalt hier verspricht besonders in der warmen Jahreszeit unvergessliche maritime Momente.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Die als large home bezeichnete Stätte ist ein markantes Herrenhaus in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "hu": [{"name": "Théâtre George V", "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "Az MBC egy regionális színházi helyszín Jounieh városában.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "jounieh-i Függetlenségi Múzeum", "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "jounieh-i római amfiteátrum", "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "A Souk du Zouk egy hagyományos piac és népszerű látványosság Jounieh-ban.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "jounieh-i óvárosi utca", "text": "A jounieh-i óvárosi utca a sétány közelében egy bájos történelmi látványosság.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "jounieh-i nyilvános homokos strand", "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "A jouniehi Samaya Beach Resort csodálatos célpont a feltöltődésre, közvetlenül a csillogó Földközi-tenger partján. Az exkluzív és pihentető légkör vonzza a nyaralókat, akik értékelik a napozást és a frissítő úszást. Egy itteni tartózkodás, különösen a meleg évszakban, felejthetetlen vízparti pillanatokat ígér.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "A large home néven megjelölt helyszín egy jellegzetes udvarház Jounieh-ban.", "category": "historical", "coords": [35.641055, 33.985542]}], "ro": [{"name": "Théâtre George V", "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC este o locație teatrală regională situată în orașul Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence din Jounieh", "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Amfiteatrul Roman din Jounieh", "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk este o piață tradițională și o atracție populară în Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Strada veche din Jounieh de lângă cornișă", "text": "Strada veche din Jounieh de lângă cornișă este o atracție istorică fermecătoare.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "شاطئ رملي عام جونية", "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Samaya Beach Resort din Jounieh este o destinație minunată pentru a te reîncărca cu energie chiar pe malul Mării Mediterane. Atmosfera sa exclusivistă și relaxantă atrage turiștii dornici să se bucure de soare și de un înot revigorant. O zi petrecută aici în sezonul cald garantează momente maritime de neuitat.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Locul desemnat drept large home este un conac distinctiv în Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "en": [{"name": "Georges 5 theater", "text": "Georges 5 theater is an active theatrical performance space in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC is a regional theatre venue situated in the city of Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archaeological Museum", "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence", "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal is a popular beach resort destination along the coast of Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Roman Amphitheatre", "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk is a traditional market and a popular attraction in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Jounieh old street near corniche", "text": "The Jounieh old street near the corniche is a charming historical attraction.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "جولة بحرية", "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Public sand beach Jounieh", "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "The Samaya Beach Resort in Jounieh is a wonderful destination to recharge right by the sparkling Mediterranean Sea. Its exclusive and relaxed atmosphere draws holidaymakers who appreciate sunny hours lounging and refreshing swims. Spending a day here during the warm season guarantees truly memorable maritime moments.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "The site designated as a large home is a distinctive manor in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}]},
+    id: "jounieh-cities-v2", "sights": {"de": [{"name": "Théâtre George V", "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archäologisches Museum", "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Independence Museum", "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "römische Amphitheater in Jounieh", "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Der Souk du Zouk ist ein traditioneller Markt und eine beliebte Attraktion in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "alte Straße von Jounieh in der Nähe der Corniche", "text": "Die alte Straße von Jounieh in der Nähe der Corniche ist eine charmante historische Attraktion.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Jounieh Public Beach", "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Das Samaya Beach Resort in Jounieh ist ein wunderbares Urlaubsziel, um direkt am Mittelmeer neue Energie zu tanken. Die exklusive und entspannte Atmosphäre zieht Urlauber an, die sonnige Stunden auf der Liege und erfrischendes Schwimmen schätzen. Ein Aufenthalt hier verspricht besonders in der warmen Jahreszeit unvergessliche maritime Momente.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Die als large home bezeichnete Stätte ist ein markantes Herrenhaus in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "hu": [{"name": "Théâtre George V", "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "Az MBC egy regionális színházi helyszín Jounieh városában.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "jounieh-i Függetlenségi Múzeum", "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "jounieh-i római amfiteátrum", "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "A Souk du Zouk egy hagyományos piac és népszerű látványosság Jounieh-ban.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "jounieh-i óvárosi utca", "text": "A jounieh-i óvárosi utca a sétány közelében egy bájos történelmi látványosság.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "jounieh-i nyilvános homokos strand", "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "A jouniehi Samaya Beach Resort csodálatos célpont a feltöltődésre, közvetlenül a csillogó Földközi-tenger partján. Az exkluzív és pihentető légkör vonzza a nyaralókat, akik értékelik a napozást és a frissítő úszást. Egy itteni tartózkodás, különösen a meleg évszakban, felejthetetlen vízparti pillanatokat ígér.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "A large home néven megjelölt helyszín egy jellegzetes udvarház Jounieh-ban.", "category": "historical", "coords": [35.641055, 33.985542]}], "ro": [{"name": "Théâtre George V", "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC este o locație teatrală regională situată în orașul Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence din Jounieh", "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Amfiteatrul Roman din Jounieh", "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk este o piață tradițională și o atracție populară în Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Strada veche din Jounieh de lângă cornișă", "text": "Strada veche din Jounieh de lângă cornișă este o atracție istorică fermecătoare.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Jounieh Public Beach", "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Samaya Beach Resort din Jounieh este o destinație minunată pentru a te reîncărca cu energie chiar pe malul Mării Mediterane. Atmosfera sa exclusivistă și relaxantă atrage turiștii dornici să se bucure de soare și de un înot revigorant. O zi petrecută aici în sezonul cald garantează momente maritime de neuitat.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Locul desemnat drept large home este un conac distinctiv în Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "en": [{"name": "Georges 5 theater", "text": "Georges 5 theater is an active theatrical performance space in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC is a regional theatre venue situated in the city of Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archaeological Museum", "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence", "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal is a popular beach resort destination along the coast of Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Roman Amphitheatre", "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk is a traditional market and a popular attraction in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Jounieh old street near corniche", "text": "The Jounieh old street near the corniche is a charming historical attraction.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Public sand beach Jounieh", "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "The Samaya Beach Resort in Jounieh is a wonderful destination to recharge right by the sparkling Mediterranean Sea. Its exclusive and relaxed atmosphere draws holidaymakers who appreciate sunny hours lounging and refreshing swims. Spending a day here during the warm season guarantees truly memorable maritime moments.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "The site designated as a large home is a distinctive manor in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}]},
     type: "city",
     parent: "LB-JL",
     coords: [35.6186, 33.9814],
@@ -1097,7 +1097,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محجر بعلبك",
+                  "name": "Baalbek Quarry",
                   "text": "Ez a kőbánya Baalbekben egy jelentős régészeti lelőhely.",
                   "category": "historical",
                   "coords": [
@@ -1133,7 +1133,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "name": "Sayyida Khawla Shrine",
                   "text": "Sayyida Khawla sírhelye egy jelentős vallási emlékmű Baalbekben.",
                   "category": "historical",
                   "coords": [
@@ -1502,7 +1502,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     id: "nabatieh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "كراج بيروت - نبطية",
+                  "name": "Beirut Garage - Nabatieh",
                   "text": "كراج بيروت - نبطية ist ein anerkanntes lokales Denkmal in Nabatäa.",
                   "category": "historical",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كفرجوز",
+                  "name": "Kfar Joz",
                   "text": "كفرجوز ist ein bemerkenswertes historisches Denkmal in Nabatäa.",
                   "category": "historical",
                   "coords": [
@@ -1522,7 +1522,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "كراج بيروت - نبطية",
+                  "name": "Beirut Garage - Nabatieh",
                   "text": "A كراج بيروت - نبطية egy elismert helyi műemlék Nabatije városában.",
                   "category": "historical",
                   "coords": [
@@ -1531,7 +1531,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كفرجوز",
+                  "name": "Kfar Joz",
                   "text": "A كفرجوز egy figyelemre méltó történelmi műemlék Nabatije-ben.",
                   "category": "historical",
                   "coords": [
@@ -1542,7 +1542,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "كراج بيروت - نبطية",
+                  "name": "Beirut Garage - Nabatieh",
                   "text": "كراج بيروت - نبطية este un monument local recunoscut, aflat în Nabatäa.",
                   "category": "historical",
                   "coords": [
@@ -1551,7 +1551,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كفرجوز",
+                  "name": "Kfar Joz",
                   "text": "كفرجوز se distinge ca un monument istoric remarcabil în Nabatäa.",
                   "category": "historical",
                   "coords": [
@@ -1562,7 +1562,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "كراج بيروت - نبطية",
+                  "name": "Beirut Garage - Nabatieh",
                   "text": "كراج بيروت - نبطية is a recognized local monument found in Nabatäa.",
                   "category": "historical",
                   "coords": [
@@ -1571,7 +1571,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كفرجوز",
+                  "name": "Kfar Joz",
                   "text": "كفرجوز stands as a noteworthy historical monument in Nabatäa.",
                   "category": "historical",
                   "coords": [
@@ -1694,7 +1694,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بلاكين عاليه",
+                  "name": "Aley Balconies",
                   "text": "Aley erkélye egy jól ismert kilátópont a város felett.",
                   "category": "natural",
                   "coords": [
@@ -1703,7 +1703,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "راس الجبل عاليه",
+                  "name": "Ras Al-Jabal Aley",
                   "text": "Ras al-Jabal egy népszerű látnivaló Aleyban.",
                   "category": "landmark",
                   "coords": [
@@ -1714,7 +1714,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف الحرير",
+                  "name": "Silk Museum",
                   "text": "Muzeul Mătăsii din Aley oferă perspective asupra meșteșugurilor tradiționale.",
                   "category": "museum",
                   "coords": [
@@ -2357,7 +2357,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "شلالات جزين",
+                  "name": "Jezzine Waterfalls",
                   "text": "Ez a hely egy helyi látványosság Jezzine városában.",
                   "category": "landmark",
                   "coords": [
@@ -2828,7 +2828,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين القبو",
+                  "name": "Ain Al-Qabu",
                   "text": "عين القبو ist eine natürliche Quelle in Hasbaya.",
                   "category": "landmark",
                   "coords": [
@@ -2857,7 +2857,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين القبو",
+                  "name": "Ain Al-Qabu",
                   "text": "Az عين القبو egy természetes forrás Hasbaya területén.",
                   "category": "landmark",
                   "coords": [
@@ -2886,7 +2886,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين القبو",
+                  "name": "Ain Al-Qabu",
                   "text": "عين القبو este un izvor natural situat în Hasbaya.",
                   "category": "landmark",
                   "coords": [
@@ -2915,7 +2915,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين القبو",
+                  "name": "Ain Al-Qabu",
                   "text": "عين القبو is a natural water spring located in Hasbaya.",
                   "category": "landmark",
                   "coords": [
@@ -3164,7 +3164,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت عبد الرحمن",
+                  "name": "Beit Abdul Rahman",
                   "text": "بيت عبد الرحمن ist eine lokale Attraktion in Anjar.",
                   "category": "landmark",
                   "coords": [
@@ -3229,7 +3229,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت عبد الرحمن",
+                  "name": "Beit Abdul Rahman",
                   "text": "A بيت عبد الرحمن egy helyi látványosság Anjar városában.",
                   "category": "landmark",
                   "coords": [
@@ -3294,7 +3294,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت عبد الرحمن",
+                  "name": "Beit Abdul Rahman",
                   "text": "بيت عبد الرحمن este o atracție locală situată în Anjar.",
                   "category": "landmark",
                   "coords": [
@@ -3359,7 +3359,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت عبد الرحمن",
+                  "name": "Beit Abdul Rahman",
                   "text": "بيت عبد الرحمن is a local tourist attraction situated in Anjar.",
                   "category": "landmark",
                   "coords": [
@@ -3581,7 +3581,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جثمان يوسف بيك كرم",
+                  "name": "Youssef Bey Karam Memorial",
                   "text": "جثمان يوسف بيك كرم ist eine Gedenkstätte in Ehden.",
                   "category": "landmark",
                   "coords": [
@@ -3619,7 +3619,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جثمان يوسف بيك كرم",
+                  "name": "Youssef Bey Karam Memorial",
                   "text": "A جثمان يوسف بيك كرم egy emlékmű és látványosság Ehden városában.",
                   "category": "landmark",
                   "coords": [
@@ -3657,7 +3657,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جثمان يوسف بيك كرم",
+                  "name": "Youssef Bey Karam Memorial",
                   "text": "جثمان يوسف بيك كرم este o atracție memorială situată în Ehden.",
                   "category": "landmark",
                   "coords": [
@@ -3695,7 +3695,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جثمان يوسف بيك كرم",
+                  "name": "Youssef Bey Karam Memorial",
                   "text": "جثمان يوسف بيك كرم is a memorial tourist attraction located in Ehden.",
                   "category": "landmark",
                   "coords": [
@@ -3771,7 +3771,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     id: "qobayat-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف الحيوانات والفراشات",
+                  "name": "Wildlife and Butterfly Museum",
                   "text": "Diese Einrichtung dient als Museum in Kobayat.",
                   "category": "museum",
                   "coords": [
@@ -3791,7 +3791,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف الحيوانات والفراشات",
+                  "name": "Wildlife and Butterfly Museum",
                   "text": "Ez a létesítmény múzeumként működik Kobayat városában.",
                   "category": "museum",
                   "coords": [
@@ -3811,7 +3811,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف الحيوانات والفراشات",
+                  "name": "Wildlife and Butterfly Museum",
                   "text": "Această facilitate servește ca muzeu în Kobayat.",
                   "category": "museum",
                   "coords": [
@@ -3831,7 +3831,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "متحف الحيوانات والفراشات",
+                  "name": "Wildlife and Butterfly Museum",
                   "text": "This facility serves as a museum located in Kobayat.",
                   "category": "museum",
                   "coords": [
@@ -3927,7 +3927,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "منزل عيناتا بيت خنافر",
+                  "name": "Ainata Beit Khanafer House",
                   "text": "Ez a történelmi ház Bint Dschubailban egy helyi látnivaló.",
                   "category": "landmark",
                   "coords": [

@@ -6,7 +6,7 @@ export const hongkongCitiesV2: POI[] = [
     id: "hongkong-central-cities-v2", "sights": {
       "de": [
             {
-                  "name": "香港大學美術博物館 University Museum & Art Gallery",
+                  "name": "University Museum and Art Gallery",
                   "text": "Museum für Kunst und Antiquitäten in Central.",
                   "category": "museum",
                   "coords": [
@@ -15,7 +15,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港杜莎夫人蠟像館 Madame Tussauds Hong Kong",
+                  "name": "Madame Tussauds Hong Kong",
                   "text": "Wachsmuseum in Central.",
                   "category": "museum",
                   "coords": [
@@ -24,7 +24,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "許士芬地質博物館 Stephen Hui Geological Museum",
+                  "name": "Stephen Hui Geological Museum",
                   "text": "Geologisches Museum der Universität in Central.",
                   "category": "museum",
                   "coords": [
@@ -33,7 +33,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "一新美術館 Sun Museum",
+                  "name": "Sun Museum",
                   "text": "Kunstmuseum in Central.",
                   "category": "museum",
                   "coords": [
@@ -42,7 +42,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "name": "Flagstaff House Museum of Tea Ware",
                   "text": "Museum für Tee-Utensilien im Flagstaff House in Central.",
                   "category": "museum",
                   "coords": [
@@ -51,7 +51,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hong Kong Science Museum",
                   "text": "Wissenschaftsmuseum mit interaktiven Exponaten.",
                   "category": "museum",
                   "coords": [
@@ -60,7 +60,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "警隊博物館 Police Museum",
+                  "name": "Police Museum",
                   "text": "Museum zur Geschichte der Polizei in Hongkong.",
                   "category": "museum",
                   "coords": [
@@ -69,7 +69,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Umfassendes Museum zur Geschichte Hongkongs.",
                   "category": "museum",
                   "coords": [
@@ -78,7 +78,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "Zentrum zur Erforschung des kulturellen Erbes.",
                   "category": "museum",
                   "coords": [
@@ -87,7 +87,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "name": "Hong Kong Visual Arts Centre",
                   "text": "Zentrum für visuelle Künste.",
                   "category": "museum",
                   "coords": [
@@ -96,7 +96,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery",
                   "text": "Ausstellungsraum zur Stadtplanung.",
                   "category": "museum",
                   "coords": [
@@ -105,7 +105,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "name": "Health Education Exhibition and Resource Centre",
                   "text": "Bildungszentrum für Gesundheitserziehung.",
                   "category": "museum",
                   "coords": [
@@ -114,7 +114,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Hong Kong Space Museum",
                   "text": "Museum für Astronomie und Weltraumforschung.",
                   "category": "museum",
                   "coords": [
@@ -123,7 +123,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "name": "Former Marine Police Headquarters",
                   "text": "Historisches Hauptquartier der Marinepolizei.",
                   "category": "historical",
                   "coords": [
@@ -132,7 +132,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "國殤之柱 Pillar of Shame",
+                  "name": "Pillar of Shame",
                   "text": "Denkmal, das an historische Ereignisse erinnert.",
                   "category": "historical",
                   "coords": [
@@ -141,7 +141,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "維多利亞城界碑 Boundary Stone, City of Victoria",
+                  "name": "Boundary Stone of the City of Victoria",
                   "text": "Historischer Grenzstein der Stadt Victoria.",
                   "category": "historical",
                   "coords": [
@@ -150,7 +150,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "Ehemalige zentrale Regierungsgebäude.",
                   "category": "historical",
                   "coords": [
@@ -168,7 +168,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "戲曲中心 Xiqu Centre",
+                  "name": "Xiqu Centre",
                   "text": "Zentrum für chinesische Oper und darstellende Künste.",
                   "category": "cultural",
                   "coords": [
@@ -177,7 +177,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "藝穗會 Fringe Club",
+                  "name": "Fringe Club",
                   "text": "Kunst- und Unterhaltungszentrum.",
                   "category": "cultural",
                   "coords": [
@@ -195,7 +195,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hong Kong Arts Centre",
                   "text": "Zentrum für zeitgenössische Kunst und Bildung.",
                   "category": "cultural",
                   "coords": [
@@ -204,7 +204,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大館 Tai Kwun",
+                  "name": "Tai Kwun",
                   "text": "Kunst- und Kulturerbezentrum im ehemaligen Gefängniskomplex.",
                   "category": "cultural",
                   "coords": [
@@ -213,7 +213,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "name": "China Congregational Church",
                   "text": "Christliche Kongregationskirche.",
                   "category": "religious",
                   "coords": [
@@ -222,7 +222,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "name": "St. John's Cathedral",
                   "text": "Historische anglikanische Kathedrale.",
                   "category": "religious",
                   "coords": [
@@ -231,7 +231,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖安多尼堂 St. Anthony's Church",
+                  "name": "St. Anthony's Church",
                   "text": "Katholische Kirche in Hongkong.",
                   "category": "religious",
                   "coords": [
@@ -240,7 +240,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督教香港崇真會救恩堂 Tsung Tsin Mission of HK Kau Yan Church",
+                  "name": "Kau Yan Church",
                   "text": "Historische christliche Missionskirche.",
                   "category": "religious",
                   "coords": [
@@ -249,7 +249,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖母無原罪主教座堂 The Hong Kong Cathedral of the Immaculate Conception",
+                  "name": "Cathedral of the Immaculate Conception",
                   "text": "Bedeutende römisch-katholische Kathedrale.",
                   "category": "religious",
                   "coords": [
@@ -258,7 +258,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "Historische Moschee für die muslimische Gemeinschaft.",
                   "category": "religious",
                   "coords": [
@@ -267,7 +267,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "name": "Masjid Ammar and Osman Ramju Sadick Islamic Centre",
                   "text": "Islamisches Zentrum mit einer Moschee.",
                   "category": "religious",
                   "coords": [
@@ -276,7 +276,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "name": "Pak Tai Temple",
                   "text": "Traditioneller daoistischer Tempel.",
                   "category": "religious",
                   "coords": [
@@ -285,7 +285,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "幻彩詠香江 Symphony of Lights",
+                  "name": "Symphony of Lights",
                   "text": "Spektakuläre nächtliche Lichtshow am Hafen.",
                   "category": "landmark",
                   "coords": [
@@ -294,7 +294,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廟街 Temple Street",
+                  "name": "Temple Street",
                   "text": "Belebte Straße, bekannt für ihre Nachtmärkte.",
                   "category": "landmark",
                   "coords": [
@@ -303,7 +303,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "諾士佛臺 Knutsford Terrace",
+                  "name": "Knutsford Terrace",
                   "text": "Fußgängerzone mit vielen Restaurants und Bars.",
                   "category": "landmark",
                   "coords": [
@@ -312,7 +312,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System",
+                  "name": "Central-Mid-Levels Escalator System",
                   "text": "Längstes überdachtes Rolltreppensystem der Welt.",
                   "category": "landmark",
                   "coords": [
@@ -321,7 +321,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "Großes Riesenrad mit Blick auf den Hafen.",
                   "category": "landmark",
                   "coords": [
@@ -330,7 +330,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "怡和午砲 Noonday Gun",
+                  "name": "Noonday Gun",
                   "text": "Kanone, die traditionell mittags abgefeuert wird.",
                   "category": "landmark",
                   "coords": [
@@ -339,7 +339,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔街市 Wanchai Market",
+                  "name": "Wanchai Market",
                   "text": "Historischer Markt und Handelszentrum.",
                   "category": "landmark",
                   "coords": [
@@ -348,7 +348,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "魯班先師廟 Lo Pan Temple",
+                  "name": "Lo Pan Temple",
                   "text": "Tempel zu Ehren des Schutzheiligen der Zimmerleute.",
                   "category": "landmark",
                   "coords": [
@@ -357,7 +357,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "扯旗山 Victoria Peak",
+                  "name": "Victoria Peak",
                   "text": "Berühmter Gipfel mit Panoramablick über die Stadt.",
                   "category": "natural",
                   "coords": [
@@ -366,7 +366,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "西高山 High West",
+                  "name": "High West",
                   "text": "Hügel mit Blick auf die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
@@ -375,7 +375,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "奇力山 Mount Kellett",
+                  "name": "Mount Kellett",
                   "text": "Gipfel in den Bergen von Hongkong.",
                   "category": "natural",
                   "coords": [
@@ -384,7 +384,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "田灣山 Tin Wan Shan",
+                  "name": "Tin Wan Shan",
                   "text": "Berggipfel mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
@@ -393,7 +393,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "金馬倫山 Mount Cameron",
+                  "name": "Mount Cameron",
                   "text": "Erhobener Punkt mit Blick auf die Stadt.",
                   "category": "natural",
                   "coords": [
@@ -402,7 +402,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天際100 Sky100",
+                  "name": "Sky100",
                   "text": "Aussichtsplattform in einem hohen Wolkenkratzer.",
                   "category": "natural",
                   "coords": [
@@ -411,7 +411,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "龍虎山 Lung Fu Shan",
+                  "name": "Lung Fu Shan",
                   "text": "Gipfel, beliebt für Outdoor-Aktivitäten.",
                   "category": "natural",
                   "coords": [
@@ -420,7 +420,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "Hügel mit historischem Signalposten.",
                   "category": "natural",
                   "coords": [
@@ -429,7 +429,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦山 Mount Gough",
+                  "name": "Mount Gough",
                   "text": "Bekannter Berg in den Hügeln von Hongkong.",
                   "category": "natural",
                   "coords": [
@@ -447,7 +447,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "Beliebter Stadtpark mit Grünflächen.",
                   "category": "park",
                   "coords": [
@@ -456,7 +456,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐治五世紀念公園 King George V Memorial Park",
+                  "name": "King George V Memorial Park",
                   "text": "Gedenkpark zu Ehren von König George V.",
                   "category": "park",
                   "coords": [
@@ -465,7 +465,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "卑路乍灣公園 Belcher Bay Park",
+                  "name": "Belcher Bay Park",
                   "text": "Park an der Küste.",
                   "category": "park",
                   "coords": [
@@ -474,7 +474,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中山紀念公園 Sun Yat Sen Memorial Park",
+                  "name": "Sun Yat Sen Memorial Park",
                   "text": "Gedenkpark für Sun Yat-sen.",
                   "category": "park",
                   "coords": [
@@ -521,7 +521,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "香港大學美術博物館 University Museum & Art Gallery",
+                  "name": "University Museum and Art Gallery",
                   "text": "Művészeti és régiségmúzeum Centralban.",
                   "category": "museum",
                   "coords": [
@@ -530,7 +530,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港杜莎夫人蠟像館 Madame Tussauds Hong Kong",
+                  "name": "Madame Tussauds Hong Kong",
                   "text": "Viaszmúzeum Centralban.",
                   "category": "museum",
                   "coords": [
@@ -539,7 +539,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "許士芬地質博物館 Stephen Hui Geological Museum",
+                  "name": "Stephen Hui Geological Museum",
                   "text": "Egyetemi földtani múzeum Centralban.",
                   "category": "museum",
                   "coords": [
@@ -548,7 +548,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "一新美術館 Sun Museum",
+                  "name": "Sun Museum",
                   "text": "Művészeti múzeum Centralban.",
                   "category": "museum",
                   "coords": [
@@ -557,7 +557,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "name": "Flagstaff House Museum of Tea Ware",
                   "text": "Teázási eszközök múzeuma a Flagstaff House-ban, Centralban.",
                   "category": "museum",
                   "coords": [
@@ -566,7 +566,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hong Kong Science Museum",
                   "text": "Tudományos múzeum interaktív kiállításokkal.",
                   "category": "museum",
                   "coords": [
@@ -575,7 +575,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "警隊博物館 Police Museum",
+                  "name": "Police Museum",
                   "text": "A hongkongi rendőrség történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -584,7 +584,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Átfogó múzeum Hongkong történelméről.",
                   "category": "museum",
                   "coords": [
@@ -593,7 +593,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "Központ a kulturális örökség feltárására.",
                   "category": "museum",
                   "coords": [
@@ -602,7 +602,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "name": "Hong Kong Visual Arts Centre",
                   "text": "Központ a vizuális művészetek számára.",
                   "category": "museum",
                   "coords": [
@@ -611,7 +611,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery",
                   "text": "Kiállítótér a várostervezésről.",
                   "category": "museum",
                   "coords": [
@@ -620,7 +620,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "name": "Health Education Exhibition and Resource Centre",
                   "text": "Oktatási központ egészségügyi neveléshez.",
                   "category": "museum",
                   "coords": [
@@ -629,7 +629,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Hong Kong Space Museum",
                   "text": "Csillagászati és űrkutatási múzeum.",
                   "category": "museum",
                   "coords": [
@@ -638,7 +638,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "name": "Former Marine Police Headquarters",
                   "text": "A tengerészeti rendőrség egykori főhadiszállása.",
                   "category": "historical",
                   "coords": [
@@ -647,7 +647,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "國殤之柱 Pillar of Shame",
+                  "name": "Pillar of Shame",
                   "text": "Emlékmű, amely történelmi eseményekre utal.",
                   "category": "historical",
                   "coords": [
@@ -656,7 +656,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "維多利亞城界碑 Boundary Stone, City of Victoria",
+                  "name": "Boundary Stone of the City of Victoria",
                   "text": "Victoria városának történelmi határköve.",
                   "category": "historical",
                   "coords": [
@@ -665,7 +665,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "A központi kormányzati hivatalok egykori épülete.",
                   "category": "historical",
                   "coords": [
@@ -683,7 +683,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "戲曲中心 Xiqu Centre",
+                  "name": "Xiqu Centre",
                   "text": "Központ a kínai operának és előadóművészetnek.",
                   "category": "cultural",
                   "coords": [
@@ -692,7 +692,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "藝穗會 Fringe Club",
+                  "name": "Fringe Club",
                   "text": "Művészeti és szórakoztató központ.",
                   "category": "cultural",
                   "coords": [
@@ -710,7 +710,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hong Kong Arts Centre",
                   "text": "Központ a kortárs művészet és oktatás számára.",
                   "category": "cultural",
                   "coords": [
@@ -719,7 +719,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大館 Tai Kwun",
+                  "name": "Tai Kwun",
                   "text": "Művészeti és kulturális örökségi központ egykori börtönkomplexumban.",
                   "category": "cultural",
                   "coords": [
@@ -728,7 +728,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "name": "China Congregational Church",
                   "text": "Keresztény gyülekezeti templom.",
                   "category": "religious",
                   "coords": [
@@ -737,7 +737,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "name": "St. John's Cathedral",
                   "text": "Történelmi anglikán katedrális.",
                   "category": "religious",
                   "coords": [
@@ -746,7 +746,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖安多尼堂 St. Anthony's Church",
+                  "name": "St. Anthony's Church",
                   "text": "Katolikus templom Hongkongban.",
                   "category": "religious",
                   "coords": [
@@ -755,7 +755,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督教香港崇真會救恩堂 Tsung Tsin Mission of HK Kau Yan Church",
+                  "name": "Kau Yan Church",
                   "text": "Történelmi keresztény missziós templom.",
                   "category": "religious",
                   "coords": [
@@ -764,7 +764,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖母無原罪主教座堂 The Hong Kong Cathedral of the Immaculate Conception",
+                  "name": "Cathedral of the Immaculate Conception",
                   "text": "Jelentős római katolikus székesegyház.",
                   "category": "religious",
                   "coords": [
@@ -773,7 +773,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "Történelmi mecset a muszlim közösség számára.",
                   "category": "religious",
                   "coords": [
@@ -782,7 +782,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "name": "Masjid Ammar and Osman Ramju Sadick Islamic Centre",
                   "text": "Iszlám központ mecsettel.",
                   "category": "religious",
                   "coords": [
@@ -791,7 +791,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "name": "Pak Tai Temple",
                   "text": "Hagyományos taoista templom.",
                   "category": "religious",
                   "coords": [
@@ -800,7 +800,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "幻彩詠香江 Symphony of Lights",
+                  "name": "Symphony of Lights",
                   "text": "Látványos éjszakai fényshow a kikötőben.",
                   "category": "landmark",
                   "coords": [
@@ -809,7 +809,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廟街 Temple Street",
+                  "name": "Temple Street",
                   "text": "Nyüzsgő utca, amely az éjszakai piacairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -818,7 +818,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "諾士佛臺 Knutsford Terrace",
+                  "name": "Knutsford Terrace",
                   "text": "Gyalogos övezet számos étteremmel és bárral.",
                   "category": "landmark",
                   "coords": [
@@ -827,7 +827,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System",
+                  "name": "Central-Mid-Levels Escalator System",
                   "text": "A világ leghosszabb fedett mozgólépcső-rendszere.",
                   "category": "landmark",
                   "coords": [
@@ -836,7 +836,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "Nagy óriáskerék kilátással a kikötőre.",
                   "category": "landmark",
                   "coords": [
@@ -845,7 +845,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "怡和午砲 Noonday Gun",
+                  "name": "Noonday Gun",
                   "text": "Ágyú, amelyet hagyományosan délben sütnek el.",
                   "category": "landmark",
                   "coords": [
@@ -854,7 +854,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔街市 Wanchai Market",
+                  "name": "Wanchai Market",
                   "text": "Történelmi piac és kereskedelmi központ.",
                   "category": "landmark",
                   "coords": [
@@ -863,7 +863,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "魯班先師廟 Lo Pan Temple",
+                  "name": "Lo Pan Temple",
                   "text": "Templom az ácsok védőszentjének tiszteletére.",
                   "category": "landmark",
                   "coords": [
@@ -872,7 +872,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "扯旗山 Victoria Peak",
+                  "name": "Victoria Peak",
                   "text": "Híres hegycsúcs panorámás kilátással a városra.",
                   "category": "natural",
                   "coords": [
@@ -881,7 +881,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "西高山 High West",
+                  "name": "High West",
                   "text": "Domb kilátással a környező tájra.",
                   "category": "natural",
                   "coords": [
@@ -890,7 +890,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "奇力山 Mount Kellett",
+                  "name": "Mount Kellett",
                   "text": "Hegycsúcs Hongkong hegyeiben.",
                   "category": "natural",
                   "coords": [
@@ -899,7 +899,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "田灣山 Tin Wan Shan",
+                  "name": "Tin Wan Shan",
                   "text": "Hegycsúcs túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
@@ -908,7 +908,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "金馬倫山 Mount Cameron",
+                  "name": "Mount Cameron",
                   "text": "Magaslati pont kilátással a városra.",
                   "category": "natural",
                   "coords": [
@@ -917,7 +917,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天際100 Sky100",
+                  "name": "Sky100",
                   "text": "Kilátó egy magas felhőkarcolóban.",
                   "category": "natural",
                   "coords": [
@@ -926,7 +926,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "龍虎山 Lung Fu Shan",
+                  "name": "Lung Fu Shan",
                   "text": "Hegycsúcs, népszerű a szabadtéri tevékenységekhez.",
                   "category": "natural",
                   "coords": [
@@ -935,7 +935,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "Domb történelmi jelzőállomással.",
                   "category": "natural",
                   "coords": [
@@ -944,7 +944,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦山 Mount Gough",
+                  "name": "Mount Gough",
                   "text": "Ismert hegy Hongkong dombjai között.",
                   "category": "natural",
                   "coords": [
@@ -962,7 +962,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "Népszerű városi park zöldfelületekkel.",
                   "category": "park",
                   "coords": [
@@ -971,7 +971,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐治五世紀念公園 King George V Memorial Park",
+                  "name": "King George V Memorial Park",
                   "text": "Emlékpark V. György király tiszteletére.",
                   "category": "park",
                   "coords": [
@@ -980,7 +980,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "卑路乍灣公園 Belcher Bay Park",
+                  "name": "Belcher Bay Park",
                   "text": "Park a tengerparton.",
                   "category": "park",
                   "coords": [
@@ -989,7 +989,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中山紀念公園 Sun Yat Sen Memorial Park",
+                  "name": "Sun Yat Sen Memorial Park",
                   "text": "Emlékpark Szun Jat-szen tiszteletére.",
                   "category": "park",
                   "coords": [
@@ -1036,7 +1036,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "香港大學美術博物館 University Museum & Art Gallery",
+                  "name": "University Museum and Art Gallery",
                   "text": "Muzeu de artă și antichități în Central.",
                   "category": "museum",
                   "coords": [
@@ -1045,7 +1045,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港杜莎夫人蠟像館 Madame Tussauds Hong Kong",
+                  "name": "Madame Tussauds Hong Kong",
                   "text": "Muzeu al figurilor de ceară în Central.",
                   "category": "museum",
                   "coords": [
@@ -1054,7 +1054,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "許士芬地質博物館 Stephen Hui Geological Museum",
+                  "name": "Stephen Hui Geological Museum",
                   "text": "Muzeu geologic universitar în Central.",
                   "category": "museum",
                   "coords": [
@@ -1063,7 +1063,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "一新美術館 Sun Museum",
+                  "name": "Sun Museum",
                   "text": "Muzeu de artă în Central.",
                   "category": "museum",
                   "coords": [
@@ -1072,7 +1072,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "name": "Flagstaff House Museum of Tea Ware",
                   "text": "Muzeu de ustensile pentru ceai găzduit în Flagstaff House în Central.",
                   "category": "museum",
                   "coords": [
@@ -1081,7 +1081,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hong Kong Science Museum",
                   "text": "Muzeu de știință cu exponate interactive.",
                   "category": "museum",
                   "coords": [
@@ -1090,7 +1090,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "警隊博物館 Police Museum",
+                  "name": "Police Museum",
                   "text": "Muzeu dedicat istoriei poliției din Hong Kong.",
                   "category": "museum",
                   "coords": [
@@ -1099,7 +1099,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Muzeu cuprinzător despre istoria Hong Kong-ului.",
                   "category": "museum",
                   "coords": [
@@ -1108,7 +1108,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "Centru dedicat explorării patrimoniului cultural.",
                   "category": "museum",
                   "coords": [
@@ -1117,7 +1117,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "name": "Hong Kong Visual Arts Centre",
                   "text": "Centru pentru arte vizuale.",
                   "category": "museum",
                   "coords": [
@@ -1126,7 +1126,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery",
                   "text": "Spațiu expozițional dedicat planificării urbane.",
                   "category": "museum",
                   "coords": [
@@ -1135,7 +1135,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "name": "Health Education Exhibition and Resource Centre",
                   "text": "Centru educațional pentru educație sanitară.",
                   "category": "museum",
                   "coords": [
@@ -1144,7 +1144,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Hong Kong Space Museum",
                   "text": "Muzeu dedicat astronomiei și explorării spațiale.",
                   "category": "museum",
                   "coords": [
@@ -1153,7 +1153,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "name": "Former Marine Police Headquarters",
                   "text": "Fostul sediu al poliției maritime.",
                   "category": "historical",
                   "coords": [
@@ -1162,7 +1162,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "國殤之柱 Pillar of Shame",
+                  "name": "Pillar of Shame",
                   "text": "Monument care comemorează evenimente istorice.",
                   "category": "historical",
                   "coords": [
@@ -1171,7 +1171,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "維多利亞城界碑 Boundary Stone, City of Victoria",
+                  "name": "Boundary Stone of the City of Victoria",
                   "text": "Piatră de hotar istorică a orașului Victoria.",
                   "category": "historical",
                   "coords": [
@@ -1180,7 +1180,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "Clădirile fostelor birouri guvernamentale centrale.",
                   "category": "historical",
                   "coords": [
@@ -1198,7 +1198,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "戲曲中心 Xiqu Centre",
+                  "name": "Xiqu Centre",
                   "text": "Centru pentru operă chineză și artele spectacolului.",
                   "category": "cultural",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "藝穗會 Fringe Club",
+                  "name": "Fringe Club",
                   "text": "Centru de artă și divertisment.",
                   "category": "cultural",
                   "coords": [
@@ -1225,7 +1225,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hong Kong Arts Centre",
                   "text": "Centru pentru artă contemporană și educație.",
                   "category": "cultural",
                   "coords": [
@@ -1234,7 +1234,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大館 Tai Kwun",
+                  "name": "Tai Kwun",
                   "text": "Centru de artă și patrimoniu într-un fost complex penitenciar.",
                   "category": "cultural",
                   "coords": [
@@ -1243,7 +1243,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "name": "China Congregational Church",
                   "text": "Biserică creștină congregatională.",
                   "category": "religious",
                   "coords": [
@@ -1252,7 +1252,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "name": "St. John's Cathedral",
                   "text": "Catedrală anglicană istorică.",
                   "category": "religious",
                   "coords": [
@@ -1261,7 +1261,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖安多尼堂 St. Anthony's Church",
+                  "name": "St. Anthony's Church",
                   "text": "Biserică catolică în Hong Kong.",
                   "category": "religious",
                   "coords": [
@@ -1270,7 +1270,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督教香港崇真會救恩堂 Tsung Tsin Mission of HK Kau Yan Church",
+                  "name": "Kau Yan Church",
                   "text": "Biserică creștină misionară istorică.",
                   "category": "religious",
                   "coords": [
@@ -1279,7 +1279,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖母無原罪主教座堂 The Hong Kong Cathedral of the Immaculate Conception",
+                  "name": "Cathedral of the Immaculate Conception",
                   "text": "Catedrală romano-catolică importantă.",
                   "category": "religious",
                   "coords": [
@@ -1288,7 +1288,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "Moschee istorică pentru comunitatea musulmană.",
                   "category": "religious",
                   "coords": [
@@ -1297,7 +1297,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "name": "Masjid Ammar and Osman Ramju Sadick Islamic Centre",
                   "text": "Centru islamic cu o moschee.",
                   "category": "religious",
                   "coords": [
@@ -1306,7 +1306,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "name": "Pak Tai Temple",
                   "text": "Templu taoist tradițional.",
                   "category": "religious",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "幻彩詠香江 Symphony of Lights",
+                  "name": "Symphony of Lights",
                   "text": "Spectacol de lumini nocturn spectaculos în port.",
                   "category": "landmark",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廟街 Temple Street",
+                  "name": "Temple Street",
                   "text": "Stradă animată, cunoscută pentru piețele sale de noapte.",
                   "category": "landmark",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "諾士佛臺 Knutsford Terrace",
+                  "name": "Knutsford Terrace",
                   "text": "Zonă pietonală cu numeroase restaurante și baruri.",
                   "category": "landmark",
                   "coords": [
@@ -1342,7 +1342,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中環至半山自動扶手電梯系統 Central-Mid-Levels Escalator System",
+                  "name": "Central-Mid-Levels Escalator System",
                   "text": "Cel mai lung sistem de scări rulante acoperite din lume.",
                   "category": "landmark",
                   "coords": [
@@ -1351,7 +1351,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "Roată panoramică mare cu vedere la port.",
                   "category": "landmark",
                   "coords": [
@@ -1360,7 +1360,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "怡和午砲 Noonday Gun",
+                  "name": "Noonday Gun",
                   "text": "Tun tras tradițional la prânz.",
                   "category": "landmark",
                   "coords": [
@@ -1369,7 +1369,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "灣仔街市 Wanchai Market",
+                  "name": "Wanchai Market",
                   "text": "Piață istorică și centru comercial.",
                   "category": "landmark",
                   "coords": [
@@ -1378,7 +1378,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "魯班先師廟 Lo Pan Temple",
+                  "name": "Lo Pan Temple",
                   "text": "Templu în cinstea patronului spiritual al tâmplarilor.",
                   "category": "landmark",
                   "coords": [
@@ -1387,7 +1387,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "扯旗山 Victoria Peak",
+                  "name": "Victoria Peak",
                   "text": "Vârf celebru cu vedere panoramică asupra orașului.",
                   "category": "natural",
                   "coords": [
@@ -1396,7 +1396,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "西高山 High West",
+                  "name": "High West",
                   "text": "Deal cu vedere asupra peisajului înconjurător.",
                   "category": "natural",
                   "coords": [
@@ -1405,7 +1405,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "奇力山 Mount Kellett",
+                  "name": "Mount Kellett",
                   "text": "Vârf în munții din Hong Kong.",
                   "category": "natural",
                   "coords": [
@@ -1414,7 +1414,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "田灣山 Tin Wan Shan",
+                  "name": "Tin Wan Shan",
                   "text": "Vârf de munte cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
@@ -1423,7 +1423,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "金馬倫山 Mount Cameron",
+                  "name": "Mount Cameron",
                   "text": "Punct ridicat cu vedere spre oraș.",
                   "category": "natural",
                   "coords": [
@@ -1432,7 +1432,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天際100 Sky100",
+                  "name": "Sky100",
                   "text": "Platformă de observare într-un zgârie-nori înalt.",
                   "category": "natural",
                   "coords": [
@@ -1441,7 +1441,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "龍虎山 Lung Fu Shan",
+                  "name": "Lung Fu Shan",
                   "text": "Vârf popular pentru activități în aer liber.",
                   "category": "natural",
                   "coords": [
@@ -1450,7 +1450,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "Deal cu un post de semnalizare istoric.",
                   "category": "natural",
                   "coords": [
@@ -1459,7 +1459,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦山 Mount Gough",
+                  "name": "Mount Gough",
                   "text": "Munte cunoscut în dealurile Hong Kong-ului.",
                   "category": "natural",
                   "coords": [
@@ -1477,7 +1477,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "Parc urban popular cu spații verzi.",
                   "category": "park",
                   "coords": [
@@ -1486,7 +1486,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐治五世紀念公園 King George V Memorial Park",
+                  "name": "King George V Memorial Park",
                   "text": "Parc memorial în onoarea regelui George al V-lea.",
                   "category": "park",
                   "coords": [
@@ -1495,7 +1495,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "卑路乍灣公園 Belcher Bay Park",
+                  "name": "Belcher Bay Park",
                   "text": "Parc pe coastă.",
                   "category": "park",
                   "coords": [
@@ -1504,7 +1504,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中山紀念公園 Sun Yat Sen Memorial Park",
+                  "name": "Sun Yat Sen Memorial Park",
                   "text": "Parc memorial pentru Sun Yat-sen.",
                   "category": "park",
                   "coords": [
@@ -1803,7 +1803,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "Historic mosque serving the Muslim community.",
                   "category": "religious",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Das Hong Kong Museum of History in Tsim Sha Tsui widmet sich der Bewahrung des historischen und kulturellen Erbes der Region.",
                   "category": "museum",
                   "coords": [
@@ -2202,7 +2202,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "Justice Place, die ehemaligen Central Government Offices, fungiert als Rathauskomplex in Tsim Sha Tsui.",
                   "category": "historical",
                   "coords": [
@@ -3178,7 +3178,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "Justice Place, fostele birouri guvernamentale centrale, funcționează ca un complex administrativ în Tsim Sha Tsui.",
                   "category": "historical",
                   "coords": [
@@ -4152,7 +4152,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-sha-tin-cities-v2.webp",
   },
   {
-    id: "hongkong-tuen-mun-cities-v2", "sights": {"de": [{"name": "加多利灣泳灘 Kadoorie Beach", "text": "Eingebettet im Bezirk Tuen Mun in Hongkong, besticht der Kadoorie Beach durch einen beliebten, feinen Sandstrand. Die Umgebung verbindet die geschäftige Energie der Stadt mit einer entspannten, familienorientierten Strandatmosphäre. Sie werden hier viele Menschen sehen, die schwimmen, Sandburgen bauen oder einfach am Wasser entspannen. Die Anreise mit öffentlichen Verkehrsmitteln erspart an sonnigen Tagen die stressige Parkplatzsuche.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Butterfly Beach", "text": "Der Butterfly Beach ist ein bekannter Rückzugsort an der Küste im Hongkonger Bezirk Tuen Mun. Er bietet eine lebhafte und malerische Kulisse, die regelmäßig Familien und Freundesgruppen für einen Tagesausflug anzieht. Besucher können im Meer schwimmen, am Wasser spazieren gehen oder sich zu einem nachmittäglichen Picknick in Strandnähe versammeln. Da er sehr beliebt ist, bietet ein Besuch unter der Woche deutlich mehr Ruhe und Platz.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "青山灣泳灘 Castle Peak Beach", "text": "Dieser schöne Küstenabschnitt in Tuen Mun ist als Castle Peak Beach bekannt. Besucher aus Hongkong schätzen die Gelegenheit, hier am Wasser spazieren zu gehen und die Meeresbrise zu genießen. Ein Ausflug bietet sich besonders an, um dem Trubel zu entfliehen. Ein Besuch in den frühen Morgenstunden sorgt für besonders viel Ruhe.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "Ein interessantes Ziel an der Küste von Tuen Mun", "text": "Ein interessantes Ziel an der Küste von Tuen Mun ist der künstlich angelegte Golden Beach. Hier erwartet Erholungssuchende ein entspanntes Stranderlebnis direkt in Hongkong. Das weitläufige Areal lädt zum Sonnenbaden und zu ausgiebigen Spaziergängen am Wasser ein. Wer die größten Menschenmengen meiden möchte, sollte am besten unter der Woche anreisen.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pui To Pagoda", "text": "Die Pui To Pagoda ist eine archäologische Stätte in Tuen Mun.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "咖啡灣 Cafeteria Beach", "text": "In Tuen Mun verbirgt sich mit dem Cafeteria Beach ein wunderbar entspannter Strand. Die Hongkonger Küstenlandschaft zeigt sich hier von ihrer ruhigen Seite, fernab des städtischen Lärms. Badegäste können im Sand verweilen, schwimmen oder einfach die Aussicht auf das Meer auf sich wirken lassen. Für einen angenehmen Platz empfiehlt sich eine frühe Anreise am Vormittag.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Das Reptile House in Tuen Mun beherbergt verschiedene Reptilienarten.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "Castle Peak SSSI ist ein geschütztes Naturschutzgebiet in Tuen Mun.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "Castle Peak Bay ist eine malerische Bucht in Tuen Mun.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "Castle Peak ist ein markanter Gipfel in Tuen Mun.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "Por Lo Shan ist ein bekannter Gipfel in Tuen Mun.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "蝴蝶灣公園 Butterfly Beach Park", "text": "Direkt an der Küste von Tuen Mun gelegen, bietet der Butterfly Beach Park eine reizvolle Kombination aus Parkanlage und Strandzugang. Einheimische und Touristen nutzen diesen Ort in Hongkong gleichermaßen für gemütliche Spaziergänge unter freiem Himmel. Die grüne Umgebung geht fließend in die Strandlandschaft über und lädt zum Verweilen ein. An sonnigen Nachmittagen ist das Areal besonders stimmungsvoll.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "Wu Shan Recreation Playground ist ein Park in Tuen Mun.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Wah Fat Playground ist ein Park in Tuen Mun.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "Wu Shan Riverside Park ist eine Parkanlage in Tuen Mun.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "Tuen Mun Riverside Garden ist ein schöner Park in Tuen Mun.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "海豚廣場 Dolphin Square", "text": "Dolphin Square bietet einen schönen Aussichtspunkt in Tuen Mun.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Tuen Mun Town Hall ist ein kulturelles Zentrum in Tuen Mun.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "Dr Sun Yat-sen Monument ist ein Denkmal in Tuen Mun.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "Tuen Mun Trail Rainbow Section ist ein Weg in Tuen Mun.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "The Bed of Heavenly Queen ist eine Sehenswürdigkeit in Tuen Mun.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Iron Man Rock ist eine skurrile Felsformation in Tuen Mun.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "左右門神 sind Felsformationen in Tuen Mun.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Chairman Mao Rock ist eine markante Felsformation in Tuen Mun.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Alarm Clock Rock ist eine Felsformation in Tuen Mun.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "九管石塔 bietet einen schönen Aussichtspunkt in Tuen Mun.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Gully ist eine natürliche Sehenswürdigkeit in Tuen Mun.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung", "text": "Sin Hing Tung ist eine Tempelanlage in Tuen Mun.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "清涼法苑 Ching Leung Nunnery", "text": "Kloster in Tuen Mun.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "青松觀 Ching Chung Koon", "text": "Traditionelle Tempelanlage in Tuen Mun.", "category": "religious", "coords": [113.973417, 22.40635]}], "hu": [{"name": "hongkongi Tuen Mun térségében található Kadoorie Beach", "text": "A hongkongi Tuen Mun térségében található Kadoorie Beach egy népszerű homokos partszakasszal büszkélkedhet. A környezet a város nyüzsgő energiáját egy nyugodt, családias tengerparti hangulattal ötvözi. Számítson arra, hogy embereket láthat úszni, homokvárat építeni, vagy egyszerűen csak kikapcsolódni a tengerparton. A tömegközlekedés igénybevétele segít elkerülni a parkolóhely keresésével járó stresszt egy napsütéses napon.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Butterfly Beach", "text": "A Butterfly Beach egy jól ismert tengerparti menedékhely Hongkong Tuen Mun negyedében. Élénk és festői környezetet kínál, amely gyakran vonzza a kirándulni vágyó baráti társaságokat és családokat. A látogatók óceáni úszáson, tengerparti sétákon vehetnek részt, vagy összegyűlhetnek egy délutáni piknikre a part közelében. Mivel rendkívül kedvelt hely, a hétköznapi látogatás csendesebb teret biztosít az elnyújtózáshoz.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "青山灣泳灘 Castle Peak Beach", "text": "Ez a gyönyörű partszakasz Tuen Mun területén Castle Peak Beach néven ismert. Hongkongi látogatók értékelik a lehetőséget, hogy itt a vízparton sétáljanak és élvezzék a tengeri szellőt. A kirándulás különösen alkalmas arra, hogy kiszakadjunk a mindennapi nyüzsgésből. Egy kora reggeli látogatás biztosítja a legnagyobb nyugalmat.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "Egy érdekes célpont Tuen Mun partjainál a mesterségesen kialakított Golden Beach. Itt egy pihentető tengerparti élmény várja a kikapcsolódni vágyókat közvetlenül Hongkongban. A tágas terület napozásra és hosszú vízparti sétákra csábít. Aki el szeretné kerülni a legnagyobb tömeget, annak érdemes hétköznap érkeznie.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pui To pagoda", "text": "A Pui To pagoda egy régészeti helyszín Tuen Munban.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "咖啡灣 Cafeteria Beach", "text": "Tuen Mun területén bújik meg a csodálatosan nyugodt Cafeteria Beach. A hongkongi partvidék itt a békés arcát mutatja, távol a városi zajtól. A fürdőzők elidőzhetnek a homokban, úszhatnak, vagy egyszerűen csak élvezhetik a tengeri kilátást. A kellemes hely biztosítása érdekében érdemes már délelőtt megérkezni.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "A tuen muni Reptile House különféle hüllőfajoknak ad otthont.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "A Castle Peak SSSI egy védett természetvédelmi terület Tuen Munban.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "A Castle Peak Bay egy festői öböl Tuen Munban.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "A Castle Peak egy jellegzetes hegycsúcs Tuen Munban.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "A Por Lo Shan egy ismert hegycsúcs Tuen Munban.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "közvetlenül Tuen Mun partján fekvő Butterfly Beach Park", "text": "A közvetlenül Tuen Mun partján fekvő Butterfly Beach Park a park és a strand megközelítésének elragadó kombinációját kínálja. A helyiek és a turisták egyaránt használják ezt a hongkongi helyszínt kellemes szabadtéri sétákra. A zöld környezet zökkenőmentesen megy át a tengerparti tájba, és maradásra csábít. Napsütéses délutánokon a terület különösen hangulatos.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "A Wu Shan Recreation Playground egy park Tuen Munban.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "A Wah Fat Playground egy park Tuen Munban.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "A Wu Shan Riverside Park egy park Tuen Munban.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "A Tuen Mun Riverside Garden egy szép park Tuen Munban.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "Dolphin Square", "text": "A Dolphin Square egy szép kilátópont Tuen Munban.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "A Tuen Mun Town Hall egy kulturális központ Tuen Munban.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "A Dr Sun Yat-sen Monument egy emlékmű Tuen Munban.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "A Tuen Mun Trail Rainbow Section egy gyalogút Tuen Munban.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "A The Bed of Heavenly Queen egy látnivaló Tuen Munban.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Az Iron Man Rock egy különleges sziklaformáció Tuen Munban.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "A 左右門神 különleges sziklaformációk Tuen Munban.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "A Chairman Mao Rock egy jellegzetes sziklaformáció Tuen Munban.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Az Alarm Clock Rock egy különleges sziklaformáció Tuen Munban.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "A 九管石塔 egy szép kilátópont Tuen Munban.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "A Gully egy természeti látnivaló Tuen Munban.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung", "text": "A Sin Hing Tung egy templom Tuen Munban.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "清涼法苑 Ching Leung Nunnery", "text": "Kolostor Tuen Munban.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "青松觀 Ching Chung Koon", "text": "Hagyományos templomkomplexum Tuen Munban.", "category": "religious", "coords": [113.973417, 22.40635]}], "ro": [{"name": "加多利灣泳灘 Kadoorie Beach", "text": "Amplasată în zona Tuen Mun din Hong Kong, plaja Kadoorie prezintă o întindere populară de nisip de coastă. Cadrul îmbină energia aglomerată a orașului cu o atmosferă de litoral relaxată, orientată spre familie. Așteptați-vă să vedeți oameni bucurându-se de înot, construind castele de nisip sau pur și simplu relaxându-se la mare. Utilizarea transportului public pentru a ajunge vă ajută să evitați stresul găsirii unui loc de parcare într-o zi însorită.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Plaja Butterfly", "text": "Plaja Butterfly este un refugiu de coastă bine cunoscut, situat în cartierul Tuen Mun din Hong Kong. Oferă un cadru plin de viață și pitoresc, atrăgând frecvent grupuri de prieteni și familii care caută o zi de ieșire. Vizitatorii se pot angaja în înotul în ocean, plimbări pe malul mării sau adunări pentru un picnic după-amiaza lângă țărm. Deoarece este foarte favorizată, o vizită în timpul săptămânii oferă un spațiu mai liniștit pentru a vă desfășura.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "Această frumoasă porțiune de coastă din Tuen Mun", "text": "Această frumoasă porțiune de coastă din Tuen Mun este cunoscută sub numele de Castle Peak Beach. Vizitatorii din Hong Kong apreciază ocazia de a se plimba pe malul apei și de a se bucura de briza mării. O vizită aici este o oportunitate excelentă de a scăpa de agitația cotidiană. Ajungând dimineața devreme, veți avea parte de o liniște deosebită.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "O destinație interesantă pe coasta din Tuen Mun", "text": "O destinație interesantă pe coasta din Tuen Mun este plaja artificială Golden Beach. Aici, cei care caută relaxare se pot bucura de o experiență liniștită la plajă, chiar în Hong Kong. Zona spațioasă invită la plajă și la plimbări lungi pe malul apei. Cei care doresc să evite cele mai mari aglomerații ar trebui să sosească în timpul săptămânii.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pagoda Pui To", "text": "Pagoda Pui To este un sit arheologic din Tuen Mun.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "咖啡灣 Cafeteria Beach", "text": "În Tuen Mun se ascunde Cafeteria Beach, o plajă minunat de relaxantă. Litoralul din Hong Kong își arată aici latura liniștită, departe de zgomotul urban. Oaspeții pot sta pe nisip, pot înota sau pur și simplu pot admira priveliștea oceanului. Pentru a găsi un loc plăcut, se recomandă o sosire timpurie în cursul dimineții.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Reptile House din Tuen Mun găzduiește diverse specii de reptile.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "Castle Peak SSSI este o rezervație naturală protejată din Tuen Mun.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "Castle Peak Bay este un golf pitoresc din Tuen Mun.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "Castle Peak este un vârf muntos distinctiv din Tuen Mun.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "Por Lo Shan este un vârf muntos cunoscut din Tuen Mun.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "蝴蝶灣公園 Butterfly Beach Park", "text": "Situat chiar pe coasta din Tuen Mun, Butterfly Beach Park oferă o combinație fermecătoare de spațiu verde și acces la plajă. Localnicii și turiștii deopotrivă folosesc acest loc din Hong Kong pentru plimbări relaxante în aer liber. Împrejurimile verzi se îmbină perfect cu peisajul de pe plajă și vă invită să zăboviți. În după-amiezile însorite, zona are o atmosferă cu totul specială.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "Wu Shan Recreation Playground este un parc din Tuen Mun.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Wah Fat Playground este un parc din Tuen Mun.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "Wu Shan Riverside Park este un parc din Tuen Mun.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "Tuen Mun Riverside Garden este o grădină frumoasă din Tuen Mun.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "海豚廣場 Dolphin Square", "text": "Dolphin Square oferă un punct de observație frumos în Tuen Mun.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Tuen Mun Town Hall este un centru cultural din Tuen Mun.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "Dr Sun Yat-sen Monument este un monument din Tuen Mun.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "Tuen Mun Trail Rainbow Section este un traseu din Tuen Mun.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "The Bed of Heavenly Queen este o atracție din Tuen Mun.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Iron Man Rock este o formațiune stâncoasă neobișnuită din Tuen Mun.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "左右門神 sunt formațiuni stâncoase din Tuen Mun.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Chairman Mao Rock este o formațiune stâncoasă distinctivă din Tuen Mun.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Alarm Clock Rock este o formațiune stâncoasă din Tuen Mun.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "九管石塔 oferă un punct de observație frumos în Tuen Mun.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Gully este o atracție naturală din Tuen Mun.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung", "text": "Sin Hing Tung este un templu din Tuen Mun.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "清涼法苑 Ching Leung Nunnery", "text": "Mănăstire în Tuen Mun.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "青松觀 Ching Chung Koon", "text": "Complex de temple tradiționale în Tuen Mun.", "category": "religious", "coords": [113.973417, 22.40635]}], "en": [{"name": "Kadoorie Beach", "text": "Nestled in the Tuen Mun area of Hong Kong, Kadoorie Beach features a popular sweep of coastal sand. The setting blends the busy energy of the city with a relaxed, family-oriented seaside atmosphere. Expect to see people enjoying a swim, building sandcastles, or simply unwinding by the sea. Using public transport to arrive helps avoid the stress of finding parking on a sunny day.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Butterfly Beach", "text": "Butterfly Beach is a well-known coastal retreat located in Hong Kong's Tuen Mun district. It offers a lively and scenic setting, frequently attracting groups of friends and families looking for a day out. Visitors can engage in ocean swims, seaside walks, or gathering for an afternoon picnic near the shoreline. Since it is highly favored, visiting on a weekday provides a quieter space to spread out.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "Castle Peak Beach", "text": "This beautiful coastal stretch in Tuen Mun is known as Castle Peak Beach. Visitors from Hong Kong appreciate the opportunity to walk along the water and enjoy the sea breeze. An excursion here is particularly suitable for escaping the daily hustle and bustle. Visiting in the early morning hours provides exceptional tranquility.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "Golden Beach", "text": "An interesting destination on the Tuen Mun coast is the artificially created Golden Beach. Those seeking relaxation can expect a tranquil beach experience right here in Hong Kong. The spacious area invites visitors to sunbathe and take long walks by the water. Arriving during the week is advisable for avoiding the largest crowds.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pui To Pagoda", "text": "The Pui To Pagoda is an archaeological site in Tuen Mun.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "Cafeteria Beach", "text": "Tucked away in Tuen Mun is the wonderfully relaxed Cafeteria Beach. The Hong Kong coastline reveals its peaceful side here, far from the urban noise. Bathers can linger on the sand, swim, or simply soak in the ocean views. Arriving early in the morning is recommended to secure a pleasant spot.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "Reptile House", "text": "The Reptile House in Tuen Mun houses various reptile species.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "Castle Peak SSSI is a protected nature reserve in Tuen Mun.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "Castle Peak Bay is a scenic bay in Tuen Mun.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "Castle Peak is a prominent peak in Tuen Mun.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "Por Lo Shan is a well-known peak in Tuen Mun.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "Butterfly Beach Park", "text": "Situated right on the Tuen Mun coast, Butterfly Beach Park offers a charming combination of parkland and beach access. Locals and tourists alike utilize this Hong Kong location for leisurely outdoor strolls. The green surroundings blend seamlessly into the beach landscape, inviting you to linger. The area is particularly atmospheric on sunny afternoons.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "Wu Shan Recreation Playground is a park in Tuen Mun.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Wah Fat Playground is a park in Tuen Mun.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "Wu Shan Riverside Park is a park in Tuen Mun.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "Tuen Mun Riverside Garden is a nice park in Tuen Mun.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "Dolphin Square", "text": "Dolphin Square offers a beautiful viewpoint in Tuen Mun.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Tuen Mun Town Hall is a cultural centre in Tuen Mun.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "Dr Sun Yat-sen Monument is a monument in Tuen Mun.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "Tuen Mun Trail Rainbow Section is a trail in Tuen Mun.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "The Bed of Heavenly Queen is an attraction in Tuen Mun.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Iron Man Rock is a quirky rock formation in Tuen Mun.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "左右門神 are rock formations in Tuen Mun.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Chairman Mao Rock is a distinctive rock formation in Tuen Mun.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Alarm Clock Rock is a rock formation in Tuen Mun.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "九管石塔 offers a beautiful viewpoint in Tuen Mun.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Gully is a natural attraction in Tuen Mun.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Sin Hing Tung is a temple in Tuen Mun.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "Ching Leung Nunnery", "text": "Nunnery in Tuen Mun.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "Ching Chung Koon", "text": "Traditional temple complex in Tuen Mun.", "category": "religious", "coords": [113.973417, 22.40635]}]},
+    id: "hongkong-tuen-mun-cities-v2", "sights": {"de": [{"name": "加多利灣泳灘 Kadoorie Beach", "text": "Eingebettet im Bezirk Tuen Mun in Hongkong, besticht der Kadoorie Beach durch einen beliebten, feinen Sandstrand. Die Umgebung verbindet die geschäftige Energie der Stadt mit einer entspannten, familienorientierten Strandatmosphäre. Sie werden hier viele Menschen sehen, die schwimmen, Sandburgen bauen oder einfach am Wasser entspannen. Die Anreise mit öffentlichen Verkehrsmitteln erspart an sonnigen Tagen die stressige Parkplatzsuche.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Butterfly Beach", "text": "Der Butterfly Beach ist ein bekannter Rückzugsort an der Küste im Hongkonger Bezirk Tuen Mun. Er bietet eine lebhafte und malerische Kulisse, die regelmäßig Familien und Freundesgruppen für einen Tagesausflug anzieht. Besucher können im Meer schwimmen, am Wasser spazieren gehen oder sich zu einem nachmittäglichen Picknick in Strandnähe versammeln. Da er sehr beliebt ist, bietet ein Besuch unter der Woche deutlich mehr Ruhe und Platz.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "青山灣泳灘 Castle Peak Beach", "text": "Dieser schöne Küstenabschnitt in Tuen Mun ist als Castle Peak Beach bekannt. Besucher aus Hongkong schätzen die Gelegenheit, hier am Wasser spazieren zu gehen und die Meeresbrise zu genießen. Ein Ausflug bietet sich besonders an, um dem Trubel zu entfliehen. Ein Besuch in den frühen Morgenstunden sorgt für besonders viel Ruhe.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "Ein interessantes Ziel an der Küste von Tuen Mun", "text": "Ein interessantes Ziel an der Küste von Tuen Mun ist der künstlich angelegte Golden Beach. Hier erwartet Erholungssuchende ein entspanntes Stranderlebnis direkt in Hongkong. Das weitläufige Areal lädt zum Sonnenbaden und zu ausgiebigen Spaziergängen am Wasser ein. Wer die größten Menschenmengen meiden möchte, sollte am besten unter der Woche anreisen.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pui To Pagoda", "text": "Die Pui To Pagoda ist eine archäologische Stätte in Tuen Mun.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "咖啡灣 Cafeteria Beach", "text": "In Tuen Mun verbirgt sich mit dem Cafeteria Beach ein wunderbar entspannter Strand. Die Hongkonger Küstenlandschaft zeigt sich hier von ihrer ruhigen Seite, fernab des städtischen Lärms. Badegäste können im Sand verweilen, schwimmen oder einfach die Aussicht auf das Meer auf sich wirken lassen. Für einen angenehmen Platz empfiehlt sich eine frühe Anreise am Vormittag.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Das Reptile House in Tuen Mun beherbergt verschiedene Reptilienarten.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "Castle Peak SSSI ist ein geschütztes Naturschutzgebiet in Tuen Mun.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "Castle Peak Bay ist eine malerische Bucht in Tuen Mun.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "Castle Peak ist ein markanter Gipfel in Tuen Mun.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "Por Lo Shan ist ein bekannter Gipfel in Tuen Mun.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "蝴蝶灣公園 Butterfly Beach Park", "text": "Direkt an der Küste von Tuen Mun gelegen, bietet der Butterfly Beach Park eine reizvolle Kombination aus Parkanlage und Strandzugang. Einheimische und Touristen nutzen diesen Ort in Hongkong gleichermaßen für gemütliche Spaziergänge unter freiem Himmel. Die grüne Umgebung geht fließend in die Strandlandschaft über und lädt zum Verweilen ein. An sonnigen Nachmittagen ist das Areal besonders stimmungsvoll.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "Wu Shan Recreation Playground ist ein Park in Tuen Mun.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Wah Fat Playground ist ein Park in Tuen Mun.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "Wu Shan Riverside Park ist eine Parkanlage in Tuen Mun.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "Tuen Mun Riverside Garden ist ein schöner Park in Tuen Mun.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "海豚廣場 Dolphin Square", "text": "Dolphin Square bietet einen schönen Aussichtspunkt in Tuen Mun.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Tuen Mun Town Hall ist ein kulturelles Zentrum in Tuen Mun.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "Dr Sun Yat-sen Monument ist ein Denkmal in Tuen Mun.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "Tuen Mun Trail Rainbow Section ist ein Weg in Tuen Mun.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "The Bed of Heavenly Queen ist eine Sehenswürdigkeit in Tuen Mun.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Iron Man Rock ist eine skurrile Felsformation in Tuen Mun.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "左右門神 sind Felsformationen in Tuen Mun.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Chairman Mao Rock ist eine markante Felsformation in Tuen Mun.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Alarm Clock Rock ist eine Felsformation in Tuen Mun.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "九管石塔 bietet einen schönen Aussichtspunkt in Tuen Mun.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Gully ist eine natürliche Sehenswürdigkeit in Tuen Mun.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung", "text": "Sin Hing Tung ist eine Tempelanlage in Tuen Mun.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "清涼法苑 Ching Leung Nunnery", "text": "Kloster in Tuen Mun.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "青松觀 Ching Chung Koon", "text": "Traditionelle Tempelanlage in Tuen Mun.", "category": "religious", "coords": [113.973417, 22.40635]}], "hu": [{"name": "hongkongi Tuen Mun térségében található Kadoorie Beach", "text": "A hongkongi Tuen Mun térségében található Kadoorie Beach egy népszerű homokos partszakasszal büszkélkedhet. A környezet a város nyüzsgő energiáját egy nyugodt, családias tengerparti hangulattal ötvözi. Számítson arra, hogy embereket láthat úszni, homokvárat építeni, vagy egyszerűen csak kikapcsolódni a tengerparton. A tömegközlekedés igénybevétele segít elkerülni a parkolóhely keresésével járó stresszt egy napsütéses napon.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Butterfly Beach", "text": "A Butterfly Beach egy jól ismert tengerparti menedékhely Hongkong Tuen Mun negyedében. Élénk és festői környezetet kínál, amely gyakran vonzza a kirándulni vágyó baráti társaságokat és családokat. A látogatók óceáni úszáson, tengerparti sétákon vehetnek részt, vagy összegyűlhetnek egy délutáni piknikre a part közelében. Mivel rendkívül kedvelt hely, a hétköznapi látogatás csendesebb teret biztosít az elnyújtózáshoz.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "青山灣泳灘 Castle Peak Beach", "text": "Ez a gyönyörű partszakasz Tuen Mun területén Castle Peak Beach néven ismert. Hongkongi látogatók értékelik a lehetőséget, hogy itt a vízparton sétáljanak és élvezzék a tengeri szellőt. A kirándulás különösen alkalmas arra, hogy kiszakadjunk a mindennapi nyüzsgésből. Egy kora reggeli látogatás biztosítja a legnagyobb nyugalmat.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "Egy érdekes célpont Tuen Mun partjainál a mesterségesen kialakított Golden Beach. Itt egy pihentető tengerparti élmény várja a kikapcsolódni vágyókat közvetlenül Hongkongban. A tágas terület napozásra és hosszú vízparti sétákra csábít. Aki el szeretné kerülni a legnagyobb tömeget, annak érdemes hétköznap érkeznie.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pui To pagoda", "text": "A Pui To pagoda egy régészeti helyszín Tuen Munban.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "咖啡灣 Cafeteria Beach", "text": "Tuen Mun területén bújik meg a csodálatosan nyugodt Cafeteria Beach. A hongkongi partvidék itt a békés arcát mutatja, távol a városi zajtól. A fürdőzők elidőzhetnek a homokban, úszhatnak, vagy egyszerűen csak élvezhetik a tengeri kilátást. A kellemes hely biztosítása érdekében érdemes már délelőtt megérkezni.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "A tuen muni Reptile House különféle hüllőfajoknak ad otthont.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "A Castle Peak SSSI egy védett természetvédelmi terület Tuen Munban.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "A Castle Peak Bay egy festői öböl Tuen Munban.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "A Castle Peak egy jellegzetes hegycsúcs Tuen Munban.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "A Por Lo Shan egy ismert hegycsúcs Tuen Munban.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "közvetlenül Tuen Mun partján fekvő Butterfly Beach Park", "text": "A közvetlenül Tuen Mun partján fekvő Butterfly Beach Park a park és a strand megközelítésének elragadó kombinációját kínálja. A helyiek és a turisták egyaránt használják ezt a hongkongi helyszínt kellemes szabadtéri sétákra. A zöld környezet zökkenőmentesen megy át a tengerparti tájba, és maradásra csábít. Napsütéses délutánokon a terület különösen hangulatos.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "A Wu Shan Recreation Playground egy park Tuen Munban.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "A Wah Fat Playground egy park Tuen Munban.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "A Wu Shan Riverside Park egy park Tuen Munban.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "A Tuen Mun Riverside Garden egy szép park Tuen Munban.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "Dolphin Square", "text": "A Dolphin Square egy szép kilátópont Tuen Munban.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "A Tuen Mun Town Hall egy kulturális központ Tuen Munban.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "A Dr Sun Yat-sen Monument egy emlékmű Tuen Munban.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "A Tuen Mun Trail Rainbow Section egy gyalogút Tuen Munban.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "A The Bed of Heavenly Queen egy látnivaló Tuen Munban.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Az Iron Man Rock egy különleges sziklaformáció Tuen Munban.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "A 左右門神 különleges sziklaformációk Tuen Munban.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "A Chairman Mao Rock egy jellegzetes sziklaformáció Tuen Munban.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Az Alarm Clock Rock egy különleges sziklaformáció Tuen Munban.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "A 九管石塔 egy szép kilátópont Tuen Munban.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "A Gully egy természeti látnivaló Tuen Munban.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung", "text": "A Sin Hing Tung egy templom Tuen Munban.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "清涼法苑 Ching Leung Nunnery", "text": "Kolostor Tuen Munban.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "青松觀 Ching Chung Koon", "text": "Hagyományos templomkomplexum Tuen Munban.", "category": "religious", "coords": [113.973417, 22.40635]}], "ro": [{"name": "加多利灣泳灘 Kadoorie Beach", "text": "Amplasată în zona Tuen Mun din Hong Kong, plaja Kadoorie prezintă o întindere populară de nisip de coastă. Cadrul îmbină energia aglomerată a orașului cu o atmosferă de litoral relaxată, orientată spre familie. Așteptați-vă să vedeți oameni bucurându-se de înot, construind castele de nisip sau pur și simplu relaxându-se la mare. Utilizarea transportului public pentru a ajunge vă ajută să evitați stresul găsirii unui loc de parcare într-o zi însorită.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Plaja Butterfly", "text": "Plaja Butterfly este un refugiu de coastă bine cunoscut, situat în cartierul Tuen Mun din Hong Kong. Oferă un cadru plin de viață și pitoresc, atrăgând frecvent grupuri de prieteni și familii care caută o zi de ieșire. Vizitatorii se pot angaja în înotul în ocean, plimbări pe malul mării sau adunări pentru un picnic după-amiaza lângă țărm. Deoarece este foarte favorizată, o vizită în timpul săptămânii oferă un spațiu mai liniștit pentru a vă desfășura.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "Această frumoasă porțiune de coastă din Tuen Mun", "text": "Această frumoasă porțiune de coastă din Tuen Mun este cunoscută sub numele de Castle Peak Beach. Vizitatorii din Hong Kong apreciază ocazia de a se plimba pe malul apei și de a se bucura de briza mării. O vizită aici este o oportunitate excelentă de a scăpa de agitația cotidiană. Ajungând dimineața devreme, veți avea parte de o liniște deosebită.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "O destinație interesantă pe coasta din Tuen Mun", "text": "O destinație interesantă pe coasta din Tuen Mun este plaja artificială Golden Beach. Aici, cei care caută relaxare se pot bucura de o experiență liniștită la plajă, chiar în Hong Kong. Zona spațioasă invită la plajă și la plimbări lungi pe malul apei. Cei care doresc să evite cele mai mari aglomerații ar trebui să sosească în timpul săptămânii.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pagoda Pui To", "text": "Pagoda Pui To este un sit arheologic din Tuen Mun.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "咖啡灣 Cafeteria Beach", "text": "În Tuen Mun se ascunde Cafeteria Beach, o plajă minunat de relaxantă. Litoralul din Hong Kong își arată aici latura liniștită, departe de zgomotul urban. Oaspeții pot sta pe nisip, pot înota sau pur și simplu pot admira priveliștea oceanului. Pentru a găsi un loc plăcut, se recomandă o sosire timpurie în cursul dimineții.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Reptile House din Tuen Mun găzduiește diverse specii de reptile.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "Castle Peak SSSI este o rezervație naturală protejată din Tuen Mun.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "Castle Peak Bay este un golf pitoresc din Tuen Mun.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "Castle Peak este un vârf muntos distinctiv din Tuen Mun.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "Por Lo Shan este un vârf muntos cunoscut din Tuen Mun.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "蝴蝶灣公園 Butterfly Beach Park", "text": "Situat chiar pe coasta din Tuen Mun, Butterfly Beach Park oferă o combinație fermecătoare de spațiu verde și acces la plajă. Localnicii și turiștii deopotrivă folosesc acest loc din Hong Kong pentru plimbări relaxante în aer liber. Împrejurimile verzi se îmbină perfect cu peisajul de pe plajă și vă invită să zăboviți. În după-amiezile însorite, zona are o atmosferă cu totul specială.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "Wu Shan Recreation Playground este un parc din Tuen Mun.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Wah Fat Playground este un parc din Tuen Mun.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "Wu Shan Riverside Park este un parc din Tuen Mun.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "Tuen Mun Riverside Garden este o grădină frumoasă din Tuen Mun.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "海豚廣場 Dolphin Square", "text": "Dolphin Square oferă un punct de observație frumos în Tuen Mun.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Tuen Mun Town Hall este un centru cultural din Tuen Mun.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "Dr Sun Yat-sen Monument este un monument din Tuen Mun.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "Tuen Mun Trail Rainbow Section este un traseu din Tuen Mun.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "The Bed of Heavenly Queen este o atracție din Tuen Mun.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Iron Man Rock este o formațiune stâncoasă neobișnuită din Tuen Mun.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "左右門神 sunt formațiuni stâncoase din Tuen Mun.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Chairman Mao Rock este o formațiune stâncoasă distinctivă din Tuen Mun.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Alarm Clock Rock este o formațiune stâncoasă din Tuen Mun.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "九管石塔 oferă un punct de observație frumos în Tuen Mun.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Gully este o atracție naturală din Tuen Mun.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung", "text": "Sin Hing Tung este un templu din Tuen Mun.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "清涼法苑 Ching Leung Nunnery", "text": "Mănăstire în Tuen Mun.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "青松觀 Ching Chung Koon", "text": "Complex de temple tradiționale în Tuen Mun.", "category": "religious", "coords": [113.973417, 22.40635]}], "en": [{"name": "Kadoorie Beach", "text": "Nestled in the Tuen Mun area of Hong Kong, Kadoorie Beach features a popular sweep of coastal sand. The setting blends the busy energy of the city with a relaxed, family-oriented seaside atmosphere. Expect to see people enjoying a swim, building sandcastles, or simply unwinding by the sea. Using public transport to arrive helps avoid the stress of finding parking on a sunny day.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Butterfly Beach", "text": "Butterfly Beach is a well-known coastal retreat located in Hong Kong's Tuen Mun district. It offers a lively and scenic setting, frequently attracting groups of friends and families looking for a day out. Visitors can engage in ocean swims, seaside walks, or gathering for an afternoon picnic near the shoreline. Since it is highly favored, visiting on a weekday provides a quieter space to spread out.", "category": "recreational", "coords": [113.956915, 22.372472]}, {"name": "Castle Peak Beach", "text": "This beautiful coastal stretch in Tuen Mun is known as Castle Peak Beach. Visitors from Hong Kong appreciate the opportunity to walk along the water and enjoy the sea breeze. An excursion here is particularly suitable for escaping the daily hustle and bustle. Visiting in the early morning hours provides exceptional tranquility.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "Golden Beach", "text": "An interesting destination on the Tuen Mun coast is the artificially created Golden Beach. Those seeking relaxation can expect a tranquil beach experience right here in Hong Kong. The spacious area invites visitors to sunbathe and take long walks by the water. Arriving during the week is advisable for avoiding the largest crowds.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Pui To Pagoda", "text": "The Pui To Pagoda is an archaeological site in Tuen Mun.", "category": "historical", "coords": [113.959, 22.391888]}, {"name": "Cafeteria Beach", "text": "Tucked away in Tuen Mun is the wonderfully relaxed Cafeteria Beach. The Hong Kong coastline reveals its peaceful side here, far from the urban noise. Bathers can linger on the sand, swim, or simply soak in the ocean views. Arriving early in the morning is recommended to secure a pleasant spot.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "Reptile House", "text": "The Reptile House in Tuen Mun houses various reptile species.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak SSSI", "text": "Castle Peak SSSI is a protected nature reserve in Tuen Mun.", "category": "natural", "coords": [113.953524, 22.389267]}, {"name": "Castle Peak Bay", "text": "Castle Peak Bay is a scenic bay in Tuen Mun.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Castle Peak", "text": "Castle Peak is a prominent peak in Tuen Mun.", "category": "natural", "coords": [113.953311, 22.388282]}, {"name": "Por Lo Shan", "text": "Por Lo Shan is a well-known peak in Tuen Mun.", "category": "natural", "coords": [113.96305, 22.400367]}, {"name": "Butterfly Beach Park", "text": "Situated right on the Tuen Mun coast, Butterfly Beach Park offers a charming combination of parkland and beach access. Locals and tourists alike utilize this Hong Kong location for leisurely outdoor strolls. The green surroundings blend seamlessly into the beach landscape, inviting you to linger. The area is particularly atmospheric on sunny afternoons.", "category": "park", "coords": [113.957664, 22.373891]}, {"name": "Wu Shan Recreation Playground", "text": "Wu Shan Recreation Playground is a park in Tuen Mun.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Wah Fat Playground is a park in Tuen Mun.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Wu Shan Riverside Park", "text": "Wu Shan Riverside Park is a park in Tuen Mun.", "category": "park", "coords": [113.968022, 22.383768]}, {"name": "Tuen Mun Riverside Garden", "text": "Tuen Mun Riverside Garden is a nice park in Tuen Mun.", "category": "park", "coords": [113.976608, 22.40515]}, {"name": "Dolphin Square", "text": "Dolphin Square offers a beautiful viewpoint in Tuen Mun.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Tuen Mun Town Hall is a cultural centre in Tuen Mun.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Dr Sun Yat-sen Monument", "text": "Dr Sun Yat-sen Monument is a monument in Tuen Mun.", "category": "historical", "coords": [113.959386, 22.377538]}, {"name": "Tuen Mun Trail Rainbow Section", "text": "Tuen Mun Trail Rainbow Section is a trail in Tuen Mun.", "category": "landmark", "coords": [113.983528, 22.398942]}, {"name": "The Bed of Heavenly Queen", "text": "The Bed of Heavenly Queen is an attraction in Tuen Mun.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Iron Man Rock is a quirky rock formation in Tuen Mun.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "左右門神 are rock formations in Tuen Mun.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Chairman Mao Rock is a distinctive rock formation in Tuen Mun.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Alarm Clock Rock is a rock formation in Tuen Mun.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "九管石塔 offers a beautiful viewpoint in Tuen Mun.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Gully is a natural attraction in Tuen Mun.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Sin Hing Tung is a temple in Tuen Mun.", "category": "religious", "coords": [113.977735, 22.393777]}, {"name": "Ching Leung Nunnery", "text": "Nunnery in Tuen Mun.", "category": "religious", "coords": [113.98045, 22.410054]}, {"name": "Ching Chung Koon", "text": "Traditional temple complex in Tuen Mun.", "category": "religious", "coords": [113.973417, 22.40635]}]},
     parent: "HK",
     type: "town",
     name: { de: "Tuen Mun", hu: "Tuen Mun", ro: "Tuen Mun", en: "Tuen Mun" },
@@ -4434,7 +4434,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 ist eine lokale Attraktion, die die alte Polizeistation in Mong Kok darstellt.",
                   "category": "landmark",
                   "coords": [
@@ -4895,7 +4895,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "A 油麻地警署 egy helyi látványosság, amely a régi rendőrkapitányságot képviseli Mong Kokban.",
                   "category": "landmark",
                   "coords": [
@@ -5356,7 +5356,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 este o atracție locală care reprezintă vechea secție de poliție din Mong Kok.",
                   "category": "landmark",
                   "coords": [
@@ -5817,7 +5817,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 is a local attraction representing the old police station in Mong Kok.",
                   "category": "landmark",
                   "coords": [
@@ -6243,7 +6243,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Attraktion in Yuen Long.",
                   "category": "landmark",
                   "coords": [
@@ -6270,7 +6270,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南生圍婚紗橋",
+                  "name": "Nam Sang Wai Wedding Bridge",
                   "text": "Aussichtspunkt in Yuen Long.",
                   "category": "natural",
                   "coords": [
@@ -6416,7 +6416,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Látnivaló Yuen Longban.",
                   "category": "landmark",
                   "coords": [
@@ -6443,7 +6443,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南生圍婚紗橋",
+                  "name": "Nam Sang Wai Wedding Bridge",
                   "text": "Kilátópont Yuen Longban.",
                   "category": "natural",
                   "coords": [
@@ -6589,7 +6589,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Atracție în Yuen Long.",
                   "category": "landmark",
                   "coords": [
@@ -6616,7 +6616,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南生圍婚紗橋",
+                  "name": "Nam Sang Wai Wedding Bridge",
                   "text": "Punct de observație în Yuen Long.",
                   "category": "natural",
                   "coords": [
@@ -6762,7 +6762,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Attraction in Yuen Long.",
                   "category": "landmark",
                   "coords": [
@@ -6789,7 +6789,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南生圍婚紗橋",
+                  "name": "Nam Sang Wai Wedding Bridge",
                   "text": "Viewpoint in Yuen Long.",
                   "category": "natural",
                   "coords": [
@@ -6960,7 +6960,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-tseung-kwan-o-cities-v2.webp",
   },
   {
-    id: "hongkong-kwun-tong-cities-v2", "sights": {"de": [{"name": "葛量洪號滅火輪展覽館 Fireboat Alexander Grantham Exhibition Gallery", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "賽馬會鯉魚門創意館 Jockey Club Lei Yue Mun Plus", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "船塢劇場 Dockyard Theatre", "text": "Theater in Kwun Tong.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "炮台山 Devil's Peak", "text": "Der Berg 炮台山 Devil's Peak ist eine natürliche Erhebung im Bezirk Kwun Tong in Hongkong. Naturliebhaber können das Gelände dieses Berges bei einer Wanderung erkunden.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "茅湖山 Mau Wu Shan", "text": "Die natürliche Erhebung 茅湖山 Mau Wu Shan befindet sich im Gebiet von Kwun Tong. Dieser Berg in Hongkong bietet Wanderern eine landschaftlich reizvolle Umgebung fernab der städtischen Hektik.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "五桂山 Black Hill", "text": "Der Berg 五桂山 Black Hill ragt als natürliche Landschaftsform im Bezirk Kwun Tong empor. Besucher können hier die Natur Hongkongs bei einem Ausflug auf die Anhöhe genießen.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "照鏡環山 Chiu Keng Wan Shan", "text": "Im Stadtteil Kwun Tong bildet der Berg 照鏡環山 Chiu Keng Wan Shan ein natürliches Terrain. Entdecker können seine Hänge erkunden, um die Naturlandschaft Hongkongs zu erleben.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "鱷魚山 Crocodile Hill", "text": "Die als 鱷魚山 Crocodile Hill bekannte natürliche Erhebung befindet sich in Kwun Tong, Hongkong. Wer einen Spaziergang auf einen Berg sucht, kann die Wege dieses Hügels durchstreifen.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "沈雲山 Shum Wan Shan", "text": "Der im Bezirk Kwun Tong gelegene Berg 沈雲山 Shum Wan Shan ist ein natürlicher Rückzugsort in Hongkong. Diese Erhebung eignet sich hervorragend für Besucher, die gerne wandern und die Natur genießen.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "平山 Flat Hill", "text": "Das Naturgebiet des 平山 Flat Hill erstreckt sich direkt im Hongkonger Bezirk Kwun Tong. Dieser Berg bietet die Möglichkeit, Aktivitäten im Freien in unmittelbarer Nähe zur Stadt zu unternehmen.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "大上托 Tai Sheung Tok", "text": "Der 大上托 Tai Sheung Tok ist ein natürlicher Berg in Kwun Tong, der eine grüne Oase in Hongkong darstellt. Besucher können die Pfade erkunden und die bergige Umgebung auf sich wirken lassen.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "茶果嶺 Cha Kwo Ling", "text": "Der Berg 茶果嶺 Cha Kwo Ling ist Teil der natürlichen Landschaft in Kwun Tong. Auf diesem Gelände haben Besucher die Gelegenheit, die raue Natur Hongkongs zu erfahren.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "寶翠公園 Po Tsui Park", "text": "Im Herzen von Kwun Tong bietet der 寶翠公園 Po Tsui Park eine grüne Erholungsfläche für die Öffentlichkeit. Dieser Park in Hongkong lädt zu entspannten Spaziergängen und ruhigen Momenten ein.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "藍田公園 Lam Tin Park", "text": "Der 藍田公園 Lam Tin Park ist eine friedliche Parkanlage im Stadtteil Kwun Tong. Er stellt sowohl für Einwohner Hongkongs als auch für Touristen offene Freizeiteinrichtungen zur Verfügung.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "坪石遊樂場 Ping Shek Playground", "text": "Der für Aktivitäten im Freien gestaltete 坪石遊樂場 Ping Shek Playground ist ein Freizeitpark in Kwun Tong. Dieser Spielplatz in Hongkong bietet reichlich Platz für Erholung und Begegnungen.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "西灣河遊樂場 Sai Wan Ho Playground", "text": "Der 西灣河遊樂場 Sai Wan Ho Playground in Kwun Tong bietet eine aktive Parkumgebung. Besucher dieser Anlage in Hongkong können die verschiedenen Erholungsflächen und Spielgeräte nutzen.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "茅湖山觀測台 Mau Wu Shan Observation Post", "text": "Ruinen in Kwun Tong.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "渣華道遊樂場 Java Road Playground", "text": "Der 渣華道遊樂場 Java Road Playground ist ein ausgewiesener Spiel- und Parkbereich in Kwun Tong. Es handelt sich um einen leicht zugänglichen Ort in Hongkong, der auf aktive Freizeitgestaltung ausgelegt ist.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "九龍灣遊樂場 Kowloon Bay Playground", "text": "Der in Kwun Tong gelegene 九龍灣遊樂場 Kowloon Bay Playground fungiert als städtischer Park und Erholungsgebiet. An diesem lebendigen Ort in Hongkong können Besucher verschiedensten Freizeitaktivitäten im Freien nachgehen.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "三家村遊樂場 Sam Ka Tsuen Recreation Ground", "text": "Freizeitanlage in Kwun Tong.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "彩榮路公園 Choi Wing Road Park", "text": "Der 彩榮路公園 Choi Wing Road Park bringt ein Stück Natur nach Kwun Tong und ist ein gepflegter Stadtpark in Hongkong. Er besticht durch seine strukturierte grüne Umgebung, die zu einem beruhigenden Spaziergang einlädt.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "順利邨公園 Shun Lee Tsuen Park", "text": "Der 順利邨公園 Shun Lee Tsuen Park im Bezirk Kwun Tong bietet Einwohnern und Besuchern eine heitere Parkatmosphäre. Diese Grünanlage in Hongkong wird besonders für die entspannte Freizeitgestaltung geschätzt.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "康寧道公園（第二期） Hong Ning Road Park (Phase 2)", "text": "Die Anlage 康寧道公園（第二期） Hong Ning Road Park (Phase 2) erweitert das Parkangebot in Kwun Tong. Dieser Ort in Hongkong schafft zusätzliche Freiflächen für öffentliche Erholung und Pausen im Grünen.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "麗港公園 Laguna Park", "text": "Der 麗港公園 Laguna Park ist ein angelegter Stadtpark, der in Kwun Tong der lokalen Gemeinschaft dient. Er ist ein wunderbares Ziel in Hongkong für alle, die an der frischen Luft inmitten von Bepflanzungen aufatmen wollen.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "佐敦谷公園 Jordan Valley Park", "text": "Großer Park in Kwun Tong.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "零碳天地 Zero Carbon Building", "text": "Das Gelände des 零碳天地 Zero Carbon Building in Kwun Tong dient als innovativer Park im Zeichen der Nachhaltigkeit. Besucher dieser Anlage in Hongkong können hier Umweltinitiativen in einer Parklandschaft entdecken.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "Der Lam Wah Street Playground bietet eine städtische Erholungsfläche im Viertel Kwun Tong. Dieser Spielplatz in Hongkong ist ein beliebter Treffpunkt für Familien und Kinder aus der Umgebung.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "油塘道遊樂場 Yau Tong Road Playground", "text": "Mitten in Kwun Tong befindet sich der Yau Tong Road Playground, der als lokaler Freiraum dient. Besucher dieses Spielplatzes in Hongkong erwartet eine typische städtische Umgebung mit Spielgeräten.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "Der Hoi Bun Road Park ist eine grüne Oase im geschäftigen Stadtteil Kwun Tong. Spaziergänger können in diesem Park in Hongkong eine willkommene Auszeit vom städtischen Trubel genießen.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "秀明道公園 Sau Ming Road Park", "text": "In der Gegend von Kwun Tong lädt der Sau Ming Road Park Besucher zum Verweilen im Freien ein. Die gepflegten Anlagen dieses Hongkonger Parks bieten eine angenehme Atmosphäre für Erholungssuchende.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "觀塘海濱花園 Kwun Tong Promenade", "text": "Promenade in Kwun Tong.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Für die Bewohner von Kwun Tong", "text": "Für die Bewohner von Kwun Tong ist der Yuet Wah Street Playground ein vertrauter Ort der Begegnung. Dieser Spielplatz in Hongkong bereichert das Stadtbild mit einer Zone für sportliche und spielerische Aktivitäten.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "安德道遊樂場 On Tak Road Playground", "text": "Der On Tak Road Playground stellt eine wichtige Infrastruktur für Freizeitaktivitäten im Stadtbezirk Kwun Tong dar. Kinder und Erwachsene finden auf diesem Hongkonger Spielplatz Raum für Bewegung.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "牛頭角公園 Ngau Tau Kok Park", "text": "Eingerahmt von der Bebauung in Kwun Tong bildet der Ngau Tau Kok Park ein städtisches Naherholungsgebiet. Dieser Park in Hongkong ist ein ruhiger Rückzugsort für Naturfreunde inmitten der Metropole.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "安秀道公園 On Sau Road Park", "text": "Das Angebot an Grünflächen in Kwun Tong wird durch den On Sau Road Park sinnvoll ergänzt. Besucher dieses Parks in Hongkong können sich auf Spazierwege und eine entspannte Umgebung freuen.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "秀茂坪紀念公園 Sau Mau Ping Memorial Park", "text": "Gedenkpark in Kwun Tong.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "啓德郵輪碼頭公園 Kai Tak Cruise Terminal Park", "text": "Park am Kreuzfahrtterminal in Kwun Tong.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Hong Ning Road Park in Kwun Tong", "text": "Hong Ning Road Park in Kwun Tong ist eine öffentliche Grünanlage.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Kwun Tong Tsai Bucht", "text": "Die Kwun Tong Tsai Bucht ist ein Gewässer in Kwun Tong.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "The Salt Yard in Kwun Tong ist ein Kultur- und Kunstzentrum.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Osage in Kwun Tong ist ein Kunstzentrum.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "Suicide Wall in Kwun Tong", "text": "Die Suicide Wall in Kwun Tong ist eine bekannte Attraktion.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "Die Jimmy Bridge ist eine Attraktion in Kwun Tong.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "Das Jat Incline Marker Denkmal steht in Kwun Tong.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "East Kowloon Cultural Centre in Kwun Tong", "text": "Das East Kowloon Cultural Centre in Kwun Tong ist ein Kunstzentrum.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "Gough Battery in Kwun Tong", "text": "Die Gough Battery in Kwun Tong ist eine historische Ruinenstätte.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Tin Hau Tempel in Cha Kwo Ling (Kwun Tong)", "text": "Der Tin Hau Tempel in Cha Kwo Ling (Kwun Tong) ist ein traditioneller Kultbau.", "category": "religious", "coords": [114.229657, 22.299531]}], "hu": [{"name": "葛量洪號滅火輪展覽館 Fireboat Alexander Grantham Exhibition Gallery", "text": "Múzeum Kwun Tongban.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "賽馬會鯉魚門創意館 Jockey Club Lei Yue Mun Plus", "text": "Múzeum Kwun Tongban.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "船塢劇場 Dockyard Theatre", "text": "Színház Kwun Tongban.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "炮台山 Devil's Peak", "text": "A 炮台山 Devil's Peak egy feltűnő természetes hegy Hongkong Kwun Tong kerületében. A szabadtéri programok kedvelői felfedezhetik a magaslaton futó ösvényeket.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "茅湖山 Mau Wu Shan", "text": "A Kwun Tong területén magasodó 茅湖山 Mau Wu Shan egy természetes hegyvidéki terület. A hegy festői környezetet biztosít azoknak, akik Hongkongban szeretnének túrázni.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "五桂山 Black Hill", "text": "A Black Hill (五桂山) egy természetes hegycsúcs Kwun Tong kerületében. A hegy Hongkong természetes tájainak felfedezésére hívja az idelátogatókat.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "照鏡環山 Chiu Keng Wan Shan", "text": "A Kwun Tongban elhelyezkedő 照鏡環山 Chiu Keng Wan Shan egy természetes hegyi terep Hongkongban. A felfedezők a hegyoldalakon túrázva tapasztalhatják meg a helyi természeti környezetet.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "鱷魚山 Crocodile Hill", "text": "Az 鱷魚山 Crocodile Hill egy ismert természetes magaslat Hongkong Kwun Tong részén. A hegyi sétára vágyó látogatók bejárhatják ennek az egyedülálló dombnak az ösvényeit.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "沈雲山 Shum Wan Shan", "text": "A Kwun Tong területén fekvő 沈雲山 Shum Wan Shan hegye egy természetes menedék Hongkongban. Ideális célpont azoknak a látogatóknak, akik túrázni szeretnének a természetben.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "平山 Flat Hill", "text": "A 平山 Flat Hill egy természetes hegyvidéki területet kínál Hongkong Kwun Tong kerületében. Ez a csúcs lehetővé teszi a látogatók számára, hogy szabadtéri tevékenységeket végezzenek egy városi környezet közelében.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "大上托 Tai Sheung Tok", "text": "A Kwun Tongban magasodó 大上托 Tai Sheung Tok egy természetes hegy, amely zöld területet kínál Hongkongban. Az idelátogatók felfedezhetik ösvényeit és élvezhetik a hegyvidéki környezetet.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "茶果嶺 Cha Kwo Ling", "text": "A 茶果嶺 Cha Kwo Ling a Kwun Tongban található természetes hegyi táj részét képezi. Ez egy magaslati terület, ahol a látogatók megtapasztalhatják Hongkong sziklás terepét.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "寶翠公園 Po Tsui Park", "text": "A Kwun Tongban található 寶翠公園 Po Tsui Park egy zöld közterület a lakosság kikapcsolódására. A látogatók nyugodt sétákat tehetnek vagy pihenhetnek ebben a hongkongi városi parkban.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "藍田公園 Lam Tin Park", "text": "A 藍田公園 Lam Tin Park egy békés park Kwun Tong kerületében. A terület Hongkong lakosai és a turisták számára egyaránt kellemes szabadtéri lehetőségeket kínál.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "坪石遊樂場 Ping Shek Playground", "text": "A szabadtéri tevékenységekre tervezett 坪石遊樂場 Ping Shek Playground egy rekreációs park Kwun Tongban. Ez a hongkongi játszótér bőséges teret kínál a kikapcsolódásra és a közösségi programokra.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "西灣河遊樂場 Sai Wan Ho Playground", "text": "A Kwun Tong területén lévő 西灣河遊樂場 Sai Wan Ho Playground aktív parki környezetet biztosít. A hongkongi létesítmény látogatói kihasználhatják a rekreációs tereket és a játszótér szolgáltatásait.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "茅湖山觀測台 Mau Wu Shan Observation Post", "text": "Romok Kwun Tongban.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "渣華道遊樂場 Java Road Playground", "text": "A 渣華道遊樂場 Java Road Playground egy kijelölt játék- és parkterület Kwun Tongban. Ez egy könnyen megközelíthető hongkongi helyszín, amelyet az aktív szórakozásra és a helyi szabadidő eltöltésére terveztek.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "九龍灣遊樂場 Kowloon Bay Playground", "text": "A Kwun Tongban elhelyezkedő 九龍灣遊樂場 Kowloon Bay Playground városi parkként és rekreációs területként működik. Az emberek különféle szabadtéri tevékenységeket folytathatnak ezen a nyüzsgő hongkongi helyszínen.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "三家村遊樂場 Sam Ka Tsuen Recreation Ground", "text": "Szabadidőközpont Kwun Tongban.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "彩榮路公園 Choi Wing Road Park", "text": "A Kwun Tong természetközeli hangulatát növelő 彩榮路公園 Choi Wing Road Park egy jól karbantartott városi park Hongkongban. Strukturált zöld környezete tökéletes egy nyugtató sétához.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "順利邨公園 Shun Lee Tsuen Park", "text": "A Kwun Tong kerületben található 順利邨公園 Shun Lee Tsuen Park nyugodt parki légkört biztosít a lakosok és a látogatók számára. Ezt a hongkongi zöldterületet sokan kedvelik hétköznapi pihenésre.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "康寧道公園（第二期） Hong Ning Road Park (Phase 2)", "text": "A 康寧道公園（第二期） Hong Ning Road Park (Phase 2) kibővíti a Kwun Tongban elérhető parki létesítményeket. Ez a hongkongi helyszín további nyitott területeket biztosít a lakosság szabadidős tevékenységeihez.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "麗港公園 Laguna Park", "text": "A Kwun Tongban megbúvó 麗港公園 Laguna Park egy parkosított városi közterület a helyi közösség számára. Kellemes hongkongi úti cél azoknak, akik friss levegőre és növényzetre vágynak.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "佐敦谷公園 Jordan Valley Park", "text": "Nagy park Kwun Tongban.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "零碳天地 Zero Carbon Building", "text": "A 零碳天地 Zero Carbon Building területe Kwun Tongban egy innovatív parkként működik, amely a fenntarthatóságot hirdeti. A hongkongi helyszínre látogatók egy szabadtéri parki környezetben ismerhetik meg a környezetvédelmi kezdeményezéseket.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "A Lam Wah Street Playground egy városi játszótér, amely Kwun Tong kerületében található. Ez a hongkongi kikapcsolódási pont ideális hely a helyi családok és gyerekek számára.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "油塘道遊樂場 Yau Tong Road Playground", "text": "Kwun Tong szívében található a Yau Tong Road Playground, amely helyi szabadidős térként szolgál. A hongkongi játszótér látogatóit egy jellegzetes városi környezet várja.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "A Hoi Bun Road Park egy zöldellő oázis Kwun Tong nyüzsgő kerületében. A sétálók ebben a hongkongi parkban kellemes pihenést élvezhetnek a városi forgatag elől.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "秀明道公園 Sau Ming Road Park", "text": "Kwun Tong környékén a Sau Ming Road Park szabadtéri időtöltésre hívogatja a látogatókat. Ennek a hongkongi parknak a gondozott területei kellemes légkört biztosítanak a pihenni vágyóknak.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "觀塘海濱花園 Kwun Tong Promenade", "text": "Sétány Kwun Tongban.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "月華街遊樂場 Yuet Wah Street Playground", "text": "Kwun Tong lakói számára a Yuet Wah Street Playground egy ismerős találkozóhely. Ez a hongkongi játszótér sport- és játéklehetőségekkel gazdagítja a városképet.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "安德道遊樂場 On Tak Road Playground", "text": "Az On Tak Road Playground fontos szabadidős infrastruktúrát jelent Kwun Tong városrészében. Gyermekek és felnőttek egyaránt teret találnak a mozgásra ezen a hongkongi játszótéren.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "Kwun Tong épületei által körülvett Ngau Tau Kok Park", "text": "A Kwun Tong épületei által körülvett Ngau Tau Kok Park egy városi üdülőterület. Ez a hongkongi park békés menedéket nyújt a természet kedvelőinek a metropolisz közepén.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "安秀道公園 On Sau Road Park", "text": "Kwun Tong zöldterületeinek kínálatát hasznosan egészíti ki az On Sau Road Park. A hongkongi park látogatói sétányokra és nyugodt környezetre számíthatnak.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "秀茂坪紀念公園 Sau Mau Ping Memorial Park", "text": "Emlékpark Kwun Tongban.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "啓德郵輪碼頭公園 Kai Tak Cruise Terminal Park", "text": "Park a hajókikötőnél Kwun Tongban.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Kwun Tong-ban található Hong Ning Road Park", "text": "A Kwun Tong-ban található Hong Ning Road Park egy közpark.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Kwun Tong Tsai-öböl", "text": "A Kwun Tong Tsai-öböl egy vízfelület Kwun Tongban.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "A kwun tong-i The Salt Yard egy művészeti központ.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Az Osage egy művészeti központ Kwun Tongban.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "kwun tong-i Suicide Wall", "text": "A kwun tong-i Suicide Wall egy ismert látványosság.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "A Jimmy Bridge egy látványosság Kwun Tongban.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "A Jat Incline Marker emlékmű Kwun Tongban található.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "kwun tong-i East Kowloon Kulturális Központ", "text": "A kwun tong-i East Kowloon Kulturális Központ egy művészeti intézmény.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "kwun tong-i Gough Battery", "text": "A kwun tong-i Gough Battery egy történelmi romterület.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Cha Kwo Ling-i Tin Hau templom (Kwun Tong)", "text": "A Cha Kwo Ling-i Tin Hau templom (Kwun Tong) egy hagyományos szakrális épület.", "category": "religious", "coords": [114.229657, 22.299531]}], "ro": [{"name": "葛量洪號滅火輪展覽館 Fireboat Alexander Grantham Exhibition Gallery", "text": "Muzeu în Kwun Tong.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "賽馬會鯉魚門創意館 Jockey Club Lei Yue Mun Plus", "text": "Muzeu în Kwun Tong.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "船塢劇場 Dockyard Theatre", "text": "Teatru în Kwun Tong.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "炮台山 Devil's Peak", "text": "Devil's Peak (炮台山) este un munte natural proeminent situat în zona Kwun Tong din Hong Kong. Iubitorii de natură pot explora traseele acestui teren înalt.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "茅湖山 Mau Wu Shan", "text": "Situat în Kwun Tong, 茅湖山 Mau Wu Shan este o zonă muntoasă naturală care oferă o evadare din orașul aglomerat. Muntele oferă un mediu pitoresc pentru cei care doresc să facă drumeții în Hong Kong.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "五桂山 Black Hill", "text": "Black Hill (五桂山) se înalță ca un vârf natural în districtul Kwun Tong. Muntele invită vizitatorii să se bucure de traseele și peisajele naturale din Hong Kong.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "照鏡環山 Chiu Keng Wan Shan", "text": "Situat în Kwun Tong, 照鏡環山 Chiu Keng Wan Shan formează un teren muntos natural în Hong Kong. Exploratorii se pot aventura pe versanții săi pentru a experimenta mediul natural local.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "鱷魚山 Crocodile Hill", "text": "鱷魚山 Crocodile Hill este o elevație naturală recunoscută, situată în Kwun Tong, Hong Kong. Vizitatorii care caută o plimbare pe munte pot parcurge cărările acestui deal.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "沈雲山 Shum Wan Shan", "text": "Situat în Kwun Tong, muntele 沈雲山 Shum Wan Shan reprezintă un refugiu natural în Hong Kong. Este un loc ideal pentru vizitatorii care doresc să facă drumeții și să se bucure de natură.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "平山 Flat Hill", "text": "平山 Flat Hill oferă o zonă muntoasă naturală chiar în districtul Kwun Tong din Hong Kong. Acest vârf permite vizitatorilor să participe la activități în aer liber în apropierea orașului.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "大上托 Tai Sheung Tok", "text": "Ridicându-se în Kwun Tong, 大上托 Tai Sheung Tok este un munte natural care oferă un spațiu verde în Hong Kong. Oamenii care îl vizitează pot descoperi cărările sale și pot admira împrejurimile muntoase.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "茶果嶺 Cha Kwo Ling", "text": "茶果嶺 Cha Kwo Ling face parte din peisajul montan natural aflat în Kwun Tong. Este o zonă înaltă unde vizitatorii pot explora terenul accidentat al Hong Kong-ului.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "寶翠公園 Po Tsui Park", "text": "Situat în Kwun Tong, 寶翠公園 Po Tsui Park este un spațiu verde dedicat recreerii publice. Vizitatorii se pot bucura de o plimbare liniștită sau de relaxare în acest parc urban din Hong Kong.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "藍田公園 Lam Tin Park", "text": "藍田公園 Lam Tin Park servește ca un parc liniștit ascuns în districtul Kwun Tong. Oferă atât rezidenților din Hong Kong, cât și turiștilor, facilități deschise în aer liber.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "坪石遊樂場 Ping Shek Playground", "text": "Proiectat pentru activități în aer liber, 坪石遊樂場 Ping Shek Playground este un parc de recreere din Kwun Tong. Acest loc de joacă din Hong Kong dispune de spațiu amplu pentru recreere și adunări comunitare.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "西灣河遊樂場 Sai Wan Ho Playground", "text": "Situat în Kwun Tong, 西灣河遊樂場 Sai Wan Ho Playground oferă un mediu de parc activ. Vizitatorii acestei locații din Hong Kong pot profita de spațiile sale de recreere și de facilitățile locului de joacă.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "茅湖山觀測台 Mau Wu Shan Observation Post", "text": "Ruine în Kwun Tong.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "渣華道遊樂場 Java Road Playground", "text": "渣華道遊樂場 Java Road Playground oferă o zonă desemnată de joacă și parc în Kwun Tong. Este un loc accesibil din Hong Kong, conceput pentru bucurie activă și timp liber local.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "九龍灣遊樂場 Kowloon Bay Playground", "text": "Situat în Kwun Tong, 九龍灣遊樂場 Kowloon Bay Playground funcționează ca un parc urban și o zonă de recreere. Oamenii se pot angaja în diverse activități în aer liber în această locație animată din Hong Kong.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "三家村遊樂場 Sam Ka Tsuen Recreation Ground", "text": "Facilitate de recreere în Kwun Tong.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "彩榮路公園 Choi Wing Road Park", "text": "Adăugând o notă de natură în Kwun Tong, 彩榮路公園 Choi Wing Road Park este un parc urban bine întreținut din Hong Kong. Oferă un mediu verde structurat, perfect pentru o plimbare liniștitoare.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "順利邨公園 Shun Lee Tsuen Park", "text": "Situat în districtul Kwun Tong, 順利邨公園 Shun Lee Tsuen Park oferă rezidenților și vizitatorilor o atmosferă senină de parc. Acest spațiu verde din Hong Kong este preferat pentru relaxare ocazională.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "康寧道公園（第二期） Hong Ning Road Park (Phase 2)", "text": "康寧道公園（第二期） Hong Ning Road Park (Phase 2) extinde facilitățile de parc disponibile în Kwun Tong. Această locație din Hong Kong oferă zone deschise suplimentare pentru agrement public și pauze în aer liber.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "麗港公園 Laguna Park", "text": "Ascuns în Kwun Tong, 麗港公園 Laguna Park este un parc urban amenajat, care deservește comunitatea locală. Este o destinație încântătoare din Hong Kong pentru cei care caută aer proaspăt în mijlocul verdeții plantate.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "佐敦谷公園 Jordan Valley Park", "text": "Parc mare în Kwun Tong.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "零碳天地 Zero Carbon Building", "text": "Situl 零碳天地 Zero Carbon Building din Kwun Tong funcționează ca un parc inovator care demonstrează sustenabilitatea. Vizitatorii acestui spațiu din Hong Kong pot explora inițiativele de mediu într-un cadru de parc în aer liber.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "臨華街遊樂場 Lam Wah Street Playground", "text": "Lam Wah Street Playground oferă un spațiu de recreere urban în cartierul Kwun Tong. Acest loc de joacă din Hong Kong este un punct de întâlnire popular pentru familiile și copiii din zonă.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "油塘道遊樂場 Yau Tong Road Playground", "text": "Situat în Kwun Tong, Yau Tong Road Playground servește drept spațiu public local de relaxare. Vizitatorii acestui loc de joacă din Hong Kong se pot aștepta la un mediu urban tipic cu echipamente specifice.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "Hoi Bun Road Park este o oază verde în aglomeratul cartier Kwun Tong. Trecătorii se pot bucura de o pauză binevenită de la agitația urbană în acest parc din Hong Kong.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "秀明道公園 Sau Ming Road Park", "text": "În zona Kwun Tong, Sau Ming Road Park invită vizitatorii să petreacă timp în aer liber. Spațiile bine întreținute ale acestui parc din Hong Kong oferă o atmosferă plăcută pentru cei care caută relaxarea.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "觀塘海濱花園 Kwun Tong Promenade", "text": "Promenadă în Kwun Tong.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Pentru locuitorii din Kwun Tong, Yuet Wah Street Playground", "text": "Pentru locuitorii din Kwun Tong, Yuet Wah Street Playground este un loc familiar de întâlnire. Acest loc de joacă din Hong Kong îmbogățește peisajul urban cu o zonă destinată activităților sportive și ludice.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "On Tak Road Playground", "text": "On Tak Road Playground reprezintă o infrastructură importantă pentru activitățile de agrement din districtul Kwun Tong. Copiii și adulții găsesc spațiu pentru mișcare în acest loc de joacă din Hong Kong.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "牛頭角公園 Ngau Tau Kok Park", "text": "Înconjurat de clădirile din Kwun Tong, Ngau Tau Kok Park formează o zonă urbană de recreere. Acest parc din Hong Kong este un refugiu liniștit pentru iubitorii de natură în mijlocul metropolei.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "Oferta de spații verzi din Kwun Tong", "text": "Oferta de spații verzi din Kwun Tong este completată util de On Sau Road Park. Vizitatorii acestui parc din Hong Kong se pot aștepta la alei de promenadă și la un mediu relaxant.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "秀茂坪紀念公園 Sau Mau Ping Memorial Park", "text": "Parc memorial în Kwun Tong.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "啓德郵輪碼頭公園 Kai Tak Cruise Terminal Park", "text": "Parc la terminalul de croaziere în Kwun Tong.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Hong Ning Road Park din Kwun Tong", "text": "Hong Ning Road Park din Kwun Tong este un parc public.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Golful Kwun Tong Tsai", "text": "Golful Kwun Tong Tsai este o zonă acvatică în Kwun Tong.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "The Salt Yard din Kwun Tong este un centru de artă.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Osage din Kwun Tong este un centru de artă.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "Suicide Wall din Kwun Tong", "text": "Suicide Wall din Kwun Tong este o atracție cunoscută.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "Jimmy Bridge este o atracție în Kwun Tong.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "Monumentul Jat Incline Marker se află în Kwun Tong.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "Centrul Cultural East Kowloon din Kwun Tong", "text": "Centrul Cultural East Kowloon din Kwun Tong este un centru de artă.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "Gough Battery din Kwun Tong", "text": "Gough Battery din Kwun Tong este un sit istoric în ruină.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Templul Tin Hau din Cha Kwo Ling (Kwun Tong)", "text": "Templul Tin Hau din Cha Kwo Ling (Kwun Tong) este un lăcaș de cult tradițional.", "category": "religious", "coords": [114.229657, 22.299531]}], "en": [{"name": "Fireboat Alexander Grantham Exhibition Gallery", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "Jockey Club Lei Yue Mun Plus", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "Dockyard Theatre", "text": "Theatre in Kwun Tong.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "Devil's Peak", "text": "Devil's Peak (炮台山) is a prominent natural mountain located within the Kwun Tong area of Hong Kong. Outdoor enthusiasts can explore the trails along this elevated terrain.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "Mau Wu Shan", "text": "Found in Kwun Tong, 茅湖山 Mau Wu Shan is a natural mountainous area offering an escape from the busy city. It provides a scenic environment for those wishing to hike in Hong Kong.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "Black Hill", "text": "Black Hill (五桂山) stands as a natural peak within the district of Kwun Tong. It invites visitors to enjoy its trails and the natural landscapes of Hong Kong.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "Chiu Keng Wan Shan", "text": "Located in Kwun Tong, 照鏡環山 Chiu Keng Wan Shan forms a natural mountain terrain in Hong Kong. Explorers can venture up its slopes to experience the local natural environment.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "Crocodile Hill", "text": "鱷魚山 Crocodile Hill is a recognized natural elevation situated in Kwun Tong, Hong Kong. Visitors seeking a mountain walk can traverse the paths of this unique hill.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "Shum Wan Shan", "text": "Situated within Kwun Tong, the mountain of 沈雲山 Shum Wan Shan presents a natural retreat in Hong Kong. It is an ideal spot for visitors looking to hike and immerse themselves in nature.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "Flat Hill", "text": "平山 Flat Hill provides a natural mountainous area right in the Kwun Tong district of Hong Kong. This peak allows visitors to take part in outdoor activities amidst an urban setting.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "Tai Sheung Tok", "text": "Rising in Kwun Tong, 大上托 Tai Sheung Tok is a natural mountain offering a green space within Hong Kong. People visiting can discover its paths and enjoy the mountainous surroundings.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "Cha Kwo Ling", "text": "茶果嶺 Cha Kwo Ling forms part of the natural mountain landscape found in Kwun Tong. It is an elevated area where visitors can experience the rocky terrain of Hong Kong.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "Po Tsui Park", "text": "Situated in Kwun Tong, 寶翠公園 Po Tsui Park is a dedicated green space for public recreation. Visitors can enjoy a leisurely walk or relaxation in this Hong Kong urban park.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "Lam Tin Park", "text": "藍田公園 Lam Tin Park serves as a peaceful park nestled within the district of Kwun Tong. It provides Hong Kong residents and tourists alike with open outdoor facilities.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "Ping Shek Playground", "text": "Designed for outdoor activity, 坪石遊樂場 Ping Shek Playground is a recreational park in Kwun Tong. This Hong Kong playground features ample space for recreation and community gathering.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "Sai Wan Ho Playground", "text": "Located within Kwun Tong, 西灣河遊樂場 Sai Wan Ho Playground offers an active park environment. Visitors to this Hong Kong venue can take advantage of its recreational spaces and playground amenities.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "Mau Wu Shan Observation Post", "text": "Ruins in Kwun Tong.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "Java Road Playground", "text": "渣華道遊樂場 Java Road Playground provides a designated play and park area in Kwun Tong. It is an accessible Hong Kong spot designed for active enjoyment and local leisure.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "Kowloon Bay Playground", "text": "Positioned in Kwun Tong, 九龍灣遊樂場 Kowloon Bay Playground functions as an urban park and recreation area. People can engage in various outdoor pursuits at this lively Hong Kong site.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "Sam Ka Tsuen Recreation Ground", "text": "Recreation ground in Kwun Tong.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "Choi Wing Road Park", "text": "Adding a touch of nature to Kwun Tong, 彩榮路公園 Choi Wing Road Park is a well-maintained urban park in Hong Kong. It offers a structured green environment perfect for a calming stroll.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "Shun Lee Tsuen Park", "text": "Situated in the Kwun Tong district, 順利邨公園 Shun Lee Tsuen Park provides residents and visitors with a serene park atmosphere. This Hong Kong green space is favored for casual relaxation.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "Hong Ning Road Park (Phase 2)", "text": "康寧道公園（第二期） Hong Ning Road Park (Phase 2) extends the park facilities available in Kwun Tong. This Hong Kong location grants additional open areas for public leisure and outdoor breaks.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "Laguna Park", "text": "Nestled in Kwun Tong, 麗港公園 Laguna Park is a landscaped urban park serving the local community. It is a delightful Hong Kong destination for those seeking fresh air amidst planted greenery.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "Jordan Valley Park", "text": "Large park in Kwun Tong.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "Zero Carbon Building", "text": "The 零碳天地 Zero Carbon Building site in Kwun Tong functions as an innovative park demonstrating sustainability. Visitors to this Hong Kong space can explore environmental initiatives within an outdoor park setting.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "The Lam Wah Street Playground offers an urban recreation area in the Kwun Tong neighborhood. This playground in Hong Kong is a popular gathering spot for local families and children.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "Yau Tong Road Playground", "text": "Located in Kwun Tong, the Yau Tong Road Playground serves as a local public space. Visitors to this Hong Kong playground can expect a typical urban environment with play equipment.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "The Hoi Bun Road Park is a green oasis in the bustling Kwun Tong district. Walkers can enjoy a welcome break from the urban hustle in this Hong Kong park.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "Sau Ming Road Park", "text": "In the Kwun Tong area, the Sau Ming Road Park invites visitors to spend time outdoors. The well-kept grounds of this Hong Kong park provide a pleasant atmosphere for those seeking relaxation.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "Kwun Tong Promenade", "text": "Promenade in Kwun Tong.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Yuet Wah Street Playground", "text": "For the residents of Kwun Tong, the Yuet Wah Street Playground is a familiar meeting place. This Hong Kong playground enriches the cityscape with an area dedicated to sports and playful activities.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "On Tak Road Playground", "text": "The On Tak Road Playground represents an important piece of infrastructure for leisure activities in the Kwun Tong district. Children and adults alike find space for exercise at this Hong Kong playground.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "Ngau Tau Kok Park", "text": "Framed by the buildings of Kwun Tong, the Ngau Tau Kok Park forms an urban recreation area. This Hong Kong park is a quiet retreat for nature lovers in the middle of the metropolis.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "On Sau Road Park", "text": "The supply of green spaces in Kwun Tong is usefully complemented by the On Sau Road Park. Visitors to this Hong Kong park can look forward to walking paths and a relaxed environment.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "Sau Mau Ping Memorial Park", "text": "Memorial park in Kwun Tong.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "Kai Tak Cruise Terminal Park", "text": "Park at the cruise terminal in Kwun Tong.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Hong Ning Road Park (Phase 1)", "text": "Hong Ning Road Park in Kwun Tong is a public park.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Kwun Tong Tsai Wan", "text": "Kwun Tong Tsai Bay is a body of water in Kwun Tong.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "The Salt Yard in Kwun Tong is an arts centre.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Osage in Kwun Tong is an arts centre.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "Suicide Wall", "text": "The Suicide Wall in Kwun Tong is a well-known attraction.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "Jimmy Bridge is an attraction in Kwun Tong.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "The Jat Incline Marker monument is located in Kwun Tong.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "East Kowloon Cultural Centre", "text": "The East Kowloon Cultural Centre in Kwun Tong is an arts centre.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "Gough Battery", "text": "Gough Battery in Kwun Tong is a historical ruin site.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Tin Hau Temple (Cha Kwo Ling)", "text": "The Tin Hau Temple in Cha Kwo Ling (Kwun Tong) is a traditional place of worship.", "category": "religious", "coords": [114.229657, 22.299531]}]},
+    id: "hongkong-kwun-tong-cities-v2", "sights": {"de": [{"name": "葛量洪號滅火輪展覽館 Fireboat Alexander Grantham Exhibition Gallery", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "Jockey Club Lei Yue Mun Plus", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "Dockyard Theatre", "text": "Theater in Kwun Tong.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "Devil's Peak", "text": "Der Berg 炮台山 Devil's Peak ist eine natürliche Erhebung im Bezirk Kwun Tong in Hongkong. Naturliebhaber können das Gelände dieses Berges bei einer Wanderung erkunden.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "Mau Wu Shan", "text": "Die natürliche Erhebung 茅湖山 Mau Wu Shan befindet sich im Gebiet von Kwun Tong. Dieser Berg in Hongkong bietet Wanderern eine landschaftlich reizvolle Umgebung fernab der städtischen Hektik.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "Black Hill", "text": "Der Berg 五桂山 Black Hill ragt als natürliche Landschaftsform im Bezirk Kwun Tong empor. Besucher können hier die Natur Hongkongs bei einem Ausflug auf die Anhöhe genießen.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "Chiu Keng Wan Shan", "text": "Im Stadtteil Kwun Tong bildet der Berg 照鏡環山 Chiu Keng Wan Shan ein natürliches Terrain. Entdecker können seine Hänge erkunden, um die Naturlandschaft Hongkongs zu erleben.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "Crocodile Hill", "text": "Die als 鱷魚山 Crocodile Hill bekannte natürliche Erhebung befindet sich in Kwun Tong, Hongkong. Wer einen Spaziergang auf einen Berg sucht, kann die Wege dieses Hügels durchstreifen.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "Shum Wan Shan", "text": "Der im Bezirk Kwun Tong gelegene Berg 沈雲山 Shum Wan Shan ist ein natürlicher Rückzugsort in Hongkong. Diese Erhebung eignet sich hervorragend für Besucher, die gerne wandern und die Natur genießen.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "Flat Hill", "text": "Das Naturgebiet des 平山 Flat Hill erstreckt sich direkt im Hongkonger Bezirk Kwun Tong. Dieser Berg bietet die Möglichkeit, Aktivitäten im Freien in unmittelbarer Nähe zur Stadt zu unternehmen.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "Tai Sheung Tok", "text": "Der 大上托 Tai Sheung Tok ist ein natürlicher Berg in Kwun Tong, der eine grüne Oase in Hongkong darstellt. Besucher können die Pfade erkunden und die bergige Umgebung auf sich wirken lassen.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "Cha Kwo Ling", "text": "Der Berg 茶果嶺 Cha Kwo Ling ist Teil der natürlichen Landschaft in Kwun Tong. Auf diesem Gelände haben Besucher die Gelegenheit, die raue Natur Hongkongs zu erfahren.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "Po Tsui Park", "text": "Im Herzen von Kwun Tong bietet der 寶翠公園 Po Tsui Park eine grüne Erholungsfläche für die Öffentlichkeit. Dieser Park in Hongkong lädt zu entspannten Spaziergängen und ruhigen Momenten ein.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "Lam Tin Park", "text": "Der 藍田公園 Lam Tin Park ist eine friedliche Parkanlage im Stadtteil Kwun Tong. Er stellt sowohl für Einwohner Hongkongs als auch für Touristen offene Freizeiteinrichtungen zur Verfügung.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "Ping Shek Playground", "text": "Der für Aktivitäten im Freien gestaltete 坪石遊樂場 Ping Shek Playground ist ein Freizeitpark in Kwun Tong. Dieser Spielplatz in Hongkong bietet reichlich Platz für Erholung und Begegnungen.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "Sai Wan Ho Playground", "text": "Der 西灣河遊樂場 Sai Wan Ho Playground in Kwun Tong bietet eine aktive Parkumgebung. Besucher dieser Anlage in Hongkong können die verschiedenen Erholungsflächen und Spielgeräte nutzen.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "Mau Wu Shan Observation Post", "text": "Ruinen in Kwun Tong.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "Java Road Playground", "text": "Der 渣華道遊樂場 Java Road Playground ist ein ausgewiesener Spiel- und Parkbereich in Kwun Tong. Es handelt sich um einen leicht zugänglichen Ort in Hongkong, der auf aktive Freizeitgestaltung ausgelegt ist.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "Kowloon Bay Playground", "text": "Der in Kwun Tong gelegene 九龍灣遊樂場 Kowloon Bay Playground fungiert als städtischer Park und Erholungsgebiet. An diesem lebendigen Ort in Hongkong können Besucher verschiedensten Freizeitaktivitäten im Freien nachgehen.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "Sam Ka Tsuen Recreation Ground", "text": "Freizeitanlage in Kwun Tong.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "Choi Wing Road Park", "text": "Der 彩榮路公園 Choi Wing Road Park bringt ein Stück Natur nach Kwun Tong und ist ein gepflegter Stadtpark in Hongkong. Er besticht durch seine strukturierte grüne Umgebung, die zu einem beruhigenden Spaziergang einlädt.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "Shun Lee Tsuen Park", "text": "Der 順利邨公園 Shun Lee Tsuen Park im Bezirk Kwun Tong bietet Einwohnern und Besuchern eine heitere Parkatmosphäre. Diese Grünanlage in Hongkong wird besonders für die entspannte Freizeitgestaltung geschätzt.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "Hong Ning Road Park (Phase 2)", "text": "Die Anlage 康寧道公園（第二期） Hong Ning Road Park (Phase 2) erweitert das Parkangebot in Kwun Tong. Dieser Ort in Hongkong schafft zusätzliche Freiflächen für öffentliche Erholung und Pausen im Grünen.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "Laguna Park", "text": "Der 麗港公園 Laguna Park ist ein angelegter Stadtpark, der in Kwun Tong der lokalen Gemeinschaft dient. Er ist ein wunderbares Ziel in Hongkong für alle, die an der frischen Luft inmitten von Bepflanzungen aufatmen wollen.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "Jordan Valley Park", "text": "Großer Park in Kwun Tong.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "Zero Carbon Building", "text": "Das Gelände des 零碳天地 Zero Carbon Building in Kwun Tong dient als innovativer Park im Zeichen der Nachhaltigkeit. Besucher dieser Anlage in Hongkong können hier Umweltinitiativen in einer Parklandschaft entdecken.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "Der Lam Wah Street Playground bietet eine städtische Erholungsfläche im Viertel Kwun Tong. Dieser Spielplatz in Hongkong ist ein beliebter Treffpunkt für Familien und Kinder aus der Umgebung.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "Yau Tong Road Playground", "text": "Mitten in Kwun Tong befindet sich der Yau Tong Road Playground, der als lokaler Freiraum dient. Besucher dieses Spielplatzes in Hongkong erwartet eine typische städtische Umgebung mit Spielgeräten.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "Der Hoi Bun Road Park ist eine grüne Oase im geschäftigen Stadtteil Kwun Tong. Spaziergänger können in diesem Park in Hongkong eine willkommene Auszeit vom städtischen Trubel genießen.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "Sau Ming Road Park", "text": "In der Gegend von Kwun Tong lädt der Sau Ming Road Park Besucher zum Verweilen im Freien ein. Die gepflegten Anlagen dieses Hongkonger Parks bieten eine angenehme Atmosphäre für Erholungssuchende.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "Kwun Tong Promenade", "text": "Promenade in Kwun Tong.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Für die Bewohner von Kwun Tong", "text": "Für die Bewohner von Kwun Tong ist der Yuet Wah Street Playground ein vertrauter Ort der Begegnung. Dieser Spielplatz in Hongkong bereichert das Stadtbild mit einer Zone für sportliche und spielerische Aktivitäten.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "On Tak Road Playground", "text": "Der On Tak Road Playground stellt eine wichtige Infrastruktur für Freizeitaktivitäten im Stadtbezirk Kwun Tong dar. Kinder und Erwachsene finden auf diesem Hongkonger Spielplatz Raum für Bewegung.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "Ngau Tau Kok Park", "text": "Eingerahmt von der Bebauung in Kwun Tong bildet der Ngau Tau Kok Park ein städtisches Naherholungsgebiet. Dieser Park in Hongkong ist ein ruhiger Rückzugsort für Naturfreunde inmitten der Metropole.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "On Sau Road Park", "text": "Das Angebot an Grünflächen in Kwun Tong wird durch den On Sau Road Park sinnvoll ergänzt. Besucher dieses Parks in Hongkong können sich auf Spazierwege und eine entspannte Umgebung freuen.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "Sau Mau Ping Memorial Park", "text": "Gedenkpark in Kwun Tong.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "Kai Tak Cruise Terminal Park", "text": "Park am Kreuzfahrtterminal in Kwun Tong.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Hong Ning Road Park in Kwun Tong", "text": "Hong Ning Road Park in Kwun Tong ist eine öffentliche Grünanlage.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Kwun Tong Tsai Bucht", "text": "Die Kwun Tong Tsai Bucht ist ein Gewässer in Kwun Tong.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "The Salt Yard in Kwun Tong ist ein Kultur- und Kunstzentrum.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Osage in Kwun Tong ist ein Kunstzentrum.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "Suicide Wall in Kwun Tong", "text": "Die Suicide Wall in Kwun Tong ist eine bekannte Attraktion.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "Die Jimmy Bridge ist eine Attraktion in Kwun Tong.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "Das Jat Incline Marker Denkmal steht in Kwun Tong.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "East Kowloon Cultural Centre in Kwun Tong", "text": "Das East Kowloon Cultural Centre in Kwun Tong ist ein Kunstzentrum.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "Gough Battery in Kwun Tong", "text": "Die Gough Battery in Kwun Tong ist eine historische Ruinenstätte.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Tin Hau Tempel in Cha Kwo Ling (Kwun Tong)", "text": "Der Tin Hau Tempel in Cha Kwo Ling (Kwun Tong) ist ein traditioneller Kultbau.", "category": "religious", "coords": [114.229657, 22.299531]}], "hu": [{"name": "葛量洪號滅火輪展覽館 Fireboat Alexander Grantham Exhibition Gallery", "text": "Múzeum Kwun Tongban.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "Jockey Club Lei Yue Mun Plus", "text": "Múzeum Kwun Tongban.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "Dockyard Theatre", "text": "Színház Kwun Tongban.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "Devil's Peak", "text": "A 炮台山 Devil's Peak egy feltűnő természetes hegy Hongkong Kwun Tong kerületében. A szabadtéri programok kedvelői felfedezhetik a magaslaton futó ösvényeket.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "Mau Wu Shan", "text": "A Kwun Tong területén magasodó 茅湖山 Mau Wu Shan egy természetes hegyvidéki terület. A hegy festői környezetet biztosít azoknak, akik Hongkongban szeretnének túrázni.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "Black Hill", "text": "A Black Hill (五桂山) egy természetes hegycsúcs Kwun Tong kerületében. A hegy Hongkong természetes tájainak felfedezésére hívja az idelátogatókat.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "Chiu Keng Wan Shan", "text": "A Kwun Tongban elhelyezkedő 照鏡環山 Chiu Keng Wan Shan egy természetes hegyi terep Hongkongban. A felfedezők a hegyoldalakon túrázva tapasztalhatják meg a helyi természeti környezetet.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "Crocodile Hill", "text": "Az 鱷魚山 Crocodile Hill egy ismert természetes magaslat Hongkong Kwun Tong részén. A hegyi sétára vágyó látogatók bejárhatják ennek az egyedülálló dombnak az ösvényeit.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "Shum Wan Shan", "text": "A Kwun Tong területén fekvő 沈雲山 Shum Wan Shan hegye egy természetes menedék Hongkongban. Ideális célpont azoknak a látogatóknak, akik túrázni szeretnének a természetben.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "Flat Hill", "text": "A 平山 Flat Hill egy természetes hegyvidéki területet kínál Hongkong Kwun Tong kerületében. Ez a csúcs lehetővé teszi a látogatók számára, hogy szabadtéri tevékenységeket végezzenek egy városi környezet közelében.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "Tai Sheung Tok", "text": "A Kwun Tongban magasodó 大上托 Tai Sheung Tok egy természetes hegy, amely zöld területet kínál Hongkongban. Az idelátogatók felfedezhetik ösvényeit és élvezhetik a hegyvidéki környezetet.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "Cha Kwo Ling", "text": "A 茶果嶺 Cha Kwo Ling a Kwun Tongban található természetes hegyi táj részét képezi. Ez egy magaslati terület, ahol a látogatók megtapasztalhatják Hongkong sziklás terepét.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "Po Tsui Park", "text": "A Kwun Tongban található 寶翠公園 Po Tsui Park egy zöld közterület a lakosság kikapcsolódására. A látogatók nyugodt sétákat tehetnek vagy pihenhetnek ebben a hongkongi városi parkban.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "Lam Tin Park", "text": "A 藍田公園 Lam Tin Park egy békés park Kwun Tong kerületében. A terület Hongkong lakosai és a turisták számára egyaránt kellemes szabadtéri lehetőségeket kínál.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "Ping Shek Playground", "text": "A szabadtéri tevékenységekre tervezett 坪石遊樂場 Ping Shek Playground egy rekreációs park Kwun Tongban. Ez a hongkongi játszótér bőséges teret kínál a kikapcsolódásra és a közösségi programokra.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "Sai Wan Ho Playground", "text": "A Kwun Tong területén lévő 西灣河遊樂場 Sai Wan Ho Playground aktív parki környezetet biztosít. A hongkongi létesítmény látogatói kihasználhatják a rekreációs tereket és a játszótér szolgáltatásait.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "Mau Wu Shan Observation Post", "text": "Romok Kwun Tongban.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "Java Road Playground", "text": "A 渣華道遊樂場 Java Road Playground egy kijelölt játék- és parkterület Kwun Tongban. Ez egy könnyen megközelíthető hongkongi helyszín, amelyet az aktív szórakozásra és a helyi szabadidő eltöltésére terveztek.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "Kowloon Bay Playground", "text": "A Kwun Tongban elhelyezkedő 九龍灣遊樂場 Kowloon Bay Playground városi parkként és rekreációs területként működik. Az emberek különféle szabadtéri tevékenységeket folytathatnak ezen a nyüzsgő hongkongi helyszínen.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "Sam Ka Tsuen Recreation Ground", "text": "Szabadidőközpont Kwun Tongban.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "Choi Wing Road Park", "text": "A Kwun Tong természetközeli hangulatát növelő 彩榮路公園 Choi Wing Road Park egy jól karbantartott városi park Hongkongban. Strukturált zöld környezete tökéletes egy nyugtató sétához.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "Shun Lee Tsuen Park", "text": "A Kwun Tong kerületben található 順利邨公園 Shun Lee Tsuen Park nyugodt parki légkört biztosít a lakosok és a látogatók számára. Ezt a hongkongi zöldterületet sokan kedvelik hétköznapi pihenésre.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "Hong Ning Road Park (Phase 2)", "text": "A 康寧道公園（第二期） Hong Ning Road Park (Phase 2) kibővíti a Kwun Tongban elérhető parki létesítményeket. Ez a hongkongi helyszín további nyitott területeket biztosít a lakosság szabadidős tevékenységeihez.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "Laguna Park", "text": "A Kwun Tongban megbúvó 麗港公園 Laguna Park egy parkosított városi közterület a helyi közösség számára. Kellemes hongkongi úti cél azoknak, akik friss levegőre és növényzetre vágynak.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "Jordan Valley Park", "text": "Nagy park Kwun Tongban.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "Zero Carbon Building", "text": "A 零碳天地 Zero Carbon Building területe Kwun Tongban egy innovatív parkként működik, amely a fenntarthatóságot hirdeti. A hongkongi helyszínre látogatók egy szabadtéri parki környezetben ismerhetik meg a környezetvédelmi kezdeményezéseket.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "A Lam Wah Street Playground egy városi játszótér, amely Kwun Tong kerületében található. Ez a hongkongi kikapcsolódási pont ideális hely a helyi családok és gyerekek számára.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "Yau Tong Road Playground", "text": "Kwun Tong szívében található a Yau Tong Road Playground, amely helyi szabadidős térként szolgál. A hongkongi játszótér látogatóit egy jellegzetes városi környezet várja.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "A Hoi Bun Road Park egy zöldellő oázis Kwun Tong nyüzsgő kerületében. A sétálók ebben a hongkongi parkban kellemes pihenést élvezhetnek a városi forgatag elől.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "Sau Ming Road Park", "text": "Kwun Tong környékén a Sau Ming Road Park szabadtéri időtöltésre hívogatja a látogatókat. Ennek a hongkongi parknak a gondozott területei kellemes légkört biztosítanak a pihenni vágyóknak.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "Kwun Tong Promenade", "text": "Sétány Kwun Tongban.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Yuet Wah Street Playground", "text": "Kwun Tong lakói számára a Yuet Wah Street Playground egy ismerős találkozóhely. Ez a hongkongi játszótér sport- és játéklehetőségekkel gazdagítja a városképet.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "On Tak Road Playground", "text": "Az On Tak Road Playground fontos szabadidős infrastruktúrát jelent Kwun Tong városrészében. Gyermekek és felnőttek egyaránt teret találnak a mozgásra ezen a hongkongi játszótéren.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "Kwun Tong épületei által körülvett Ngau Tau Kok Park", "text": "A Kwun Tong épületei által körülvett Ngau Tau Kok Park egy városi üdülőterület. Ez a hongkongi park békés menedéket nyújt a természet kedvelőinek a metropolisz közepén.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "On Sau Road Park", "text": "Kwun Tong zöldterületeinek kínálatát hasznosan egészíti ki az On Sau Road Park. A hongkongi park látogatói sétányokra és nyugodt környezetre számíthatnak.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "Sau Mau Ping Memorial Park", "text": "Emlékpark Kwun Tongban.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "Kai Tak Cruise Terminal Park", "text": "Park a hajókikötőnél Kwun Tongban.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Kwun Tong-ban található Hong Ning Road Park", "text": "A Kwun Tong-ban található Hong Ning Road Park egy közpark.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Kwun Tong Tsai-öböl", "text": "A Kwun Tong Tsai-öböl egy vízfelület Kwun Tongban.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "A kwun tong-i The Salt Yard egy művészeti központ.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Az Osage egy művészeti központ Kwun Tongban.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "kwun tong-i Suicide Wall", "text": "A kwun tong-i Suicide Wall egy ismert látványosság.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "A Jimmy Bridge egy látványosság Kwun Tongban.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "A Jat Incline Marker emlékmű Kwun Tongban található.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "kwun tong-i East Kowloon Kulturális Központ", "text": "A kwun tong-i East Kowloon Kulturális Központ egy művészeti intézmény.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "kwun tong-i Gough Battery", "text": "A kwun tong-i Gough Battery egy történelmi romterület.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Cha Kwo Ling-i Tin Hau templom (Kwun Tong)", "text": "A Cha Kwo Ling-i Tin Hau templom (Kwun Tong) egy hagyományos szakrális épület.", "category": "religious", "coords": [114.229657, 22.299531]}], "ro": [{"name": "葛量洪號滅火輪展覽館 Fireboat Alexander Grantham Exhibition Gallery", "text": "Muzeu în Kwun Tong.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "Jockey Club Lei Yue Mun Plus", "text": "Muzeu în Kwun Tong.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "Dockyard Theatre", "text": "Teatru în Kwun Tong.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "Devil's Peak", "text": "Devil's Peak (炮台山) este un munte natural proeminent situat în zona Kwun Tong din Hong Kong. Iubitorii de natură pot explora traseele acestui teren înalt.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "Mau Wu Shan", "text": "Situat în Kwun Tong, 茅湖山 Mau Wu Shan este o zonă muntoasă naturală care oferă o evadare din orașul aglomerat. Muntele oferă un mediu pitoresc pentru cei care doresc să facă drumeții în Hong Kong.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "Black Hill", "text": "Black Hill (五桂山) se înalță ca un vârf natural în districtul Kwun Tong. Muntele invită vizitatorii să se bucure de traseele și peisajele naturale din Hong Kong.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "Chiu Keng Wan Shan", "text": "Situat în Kwun Tong, 照鏡環山 Chiu Keng Wan Shan formează un teren muntos natural în Hong Kong. Exploratorii se pot aventura pe versanții săi pentru a experimenta mediul natural local.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "Crocodile Hill", "text": "鱷魚山 Crocodile Hill este o elevație naturală recunoscută, situată în Kwun Tong, Hong Kong. Vizitatorii care caută o plimbare pe munte pot parcurge cărările acestui deal.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "Shum Wan Shan", "text": "Situat în Kwun Tong, muntele 沈雲山 Shum Wan Shan reprezintă un refugiu natural în Hong Kong. Este un loc ideal pentru vizitatorii care doresc să facă drumeții și să se bucure de natură.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "Flat Hill", "text": "平山 Flat Hill oferă o zonă muntoasă naturală chiar în districtul Kwun Tong din Hong Kong. Acest vârf permite vizitatorilor să participe la activități în aer liber în apropierea orașului.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "Tai Sheung Tok", "text": "Ridicându-se în Kwun Tong, 大上托 Tai Sheung Tok este un munte natural care oferă un spațiu verde în Hong Kong. Oamenii care îl vizitează pot descoperi cărările sale și pot admira împrejurimile muntoase.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "Cha Kwo Ling", "text": "茶果嶺 Cha Kwo Ling face parte din peisajul montan natural aflat în Kwun Tong. Este o zonă înaltă unde vizitatorii pot explora terenul accidentat al Hong Kong-ului.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "Po Tsui Park", "text": "Situat în Kwun Tong, 寶翠公園 Po Tsui Park este un spațiu verde dedicat recreerii publice. Vizitatorii se pot bucura de o plimbare liniștită sau de relaxare în acest parc urban din Hong Kong.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "Lam Tin Park", "text": "藍田公園 Lam Tin Park servește ca un parc liniștit ascuns în districtul Kwun Tong. Oferă atât rezidenților din Hong Kong, cât și turiștilor, facilități deschise în aer liber.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "Ping Shek Playground", "text": "Proiectat pentru activități în aer liber, 坪石遊樂場 Ping Shek Playground este un parc de recreere din Kwun Tong. Acest loc de joacă din Hong Kong dispune de spațiu amplu pentru recreere și adunări comunitare.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "Sai Wan Ho Playground", "text": "Situat în Kwun Tong, 西灣河遊樂場 Sai Wan Ho Playground oferă un mediu de parc activ. Vizitatorii acestei locații din Hong Kong pot profita de spațiile sale de recreere și de facilitățile locului de joacă.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "Mau Wu Shan Observation Post", "text": "Ruine în Kwun Tong.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "Java Road Playground", "text": "渣華道遊樂場 Java Road Playground oferă o zonă desemnată de joacă și parc în Kwun Tong. Este un loc accesibil din Hong Kong, conceput pentru bucurie activă și timp liber local.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "Kowloon Bay Playground", "text": "Situat în Kwun Tong, 九龍灣遊樂場 Kowloon Bay Playground funcționează ca un parc urban și o zonă de recreere. Oamenii se pot angaja în diverse activități în aer liber în această locație animată din Hong Kong.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "Sam Ka Tsuen Recreation Ground", "text": "Facilitate de recreere în Kwun Tong.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "Choi Wing Road Park", "text": "Adăugând o notă de natură în Kwun Tong, 彩榮路公園 Choi Wing Road Park este un parc urban bine întreținut din Hong Kong. Oferă un mediu verde structurat, perfect pentru o plimbare liniștitoare.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "Shun Lee Tsuen Park", "text": "Situat în districtul Kwun Tong, 順利邨公園 Shun Lee Tsuen Park oferă rezidenților și vizitatorilor o atmosferă senină de parc. Acest spațiu verde din Hong Kong este preferat pentru relaxare ocazională.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "Hong Ning Road Park (Phase 2)", "text": "康寧道公園（第二期） Hong Ning Road Park (Phase 2) extinde facilitățile de parc disponibile în Kwun Tong. Această locație din Hong Kong oferă zone deschise suplimentare pentru agrement public și pauze în aer liber.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "Laguna Park", "text": "Ascuns în Kwun Tong, 麗港公園 Laguna Park este un parc urban amenajat, care deservește comunitatea locală. Este o destinație încântătoare din Hong Kong pentru cei care caută aer proaspăt în mijlocul verdeții plantate.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "Jordan Valley Park", "text": "Parc mare în Kwun Tong.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "Zero Carbon Building", "text": "Situl 零碳天地 Zero Carbon Building din Kwun Tong funcționează ca un parc inovator care demonstrează sustenabilitatea. Vizitatorii acestui spațiu din Hong Kong pot explora inițiativele de mediu într-un cadru de parc în aer liber.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "Lam Wah Street Playground oferă un spațiu de recreere urban în cartierul Kwun Tong. Acest loc de joacă din Hong Kong este un punct de întâlnire popular pentru familiile și copiii din zonă.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "Yau Tong Road Playground", "text": "Situat în Kwun Tong, Yau Tong Road Playground servește drept spațiu public local de relaxare. Vizitatorii acestui loc de joacă din Hong Kong se pot aștepta la un mediu urban tipic cu echipamente specifice.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "Hoi Bun Road Park este o oază verde în aglomeratul cartier Kwun Tong. Trecătorii se pot bucura de o pauză binevenită de la agitația urbană în acest parc din Hong Kong.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "Sau Ming Road Park", "text": "În zona Kwun Tong, Sau Ming Road Park invită vizitatorii să petreacă timp în aer liber. Spațiile bine întreținute ale acestui parc din Hong Kong oferă o atmosferă plăcută pentru cei care caută relaxarea.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "Kwun Tong Promenade", "text": "Promenadă în Kwun Tong.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Pentru locuitorii din Kwun Tong, Yuet Wah Street Playground", "text": "Pentru locuitorii din Kwun Tong, Yuet Wah Street Playground este un loc familiar de întâlnire. Acest loc de joacă din Hong Kong îmbogățește peisajul urban cu o zonă destinată activităților sportive și ludice.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "On Tak Road Playground", "text": "On Tak Road Playground reprezintă o infrastructură importantă pentru activitățile de agrement din districtul Kwun Tong. Copiii și adulții găsesc spațiu pentru mișcare în acest loc de joacă din Hong Kong.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "Ngau Tau Kok Park", "text": "Înconjurat de clădirile din Kwun Tong, Ngau Tau Kok Park formează o zonă urbană de recreere. Acest parc din Hong Kong este un refugiu liniștit pentru iubitorii de natură în mijlocul metropolei.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "Oferta de spații verzi din Kwun Tong", "text": "Oferta de spații verzi din Kwun Tong este completată util de On Sau Road Park. Vizitatorii acestui parc din Hong Kong se pot aștepta la alei de promenadă și la un mediu relaxant.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "Sau Mau Ping Memorial Park", "text": "Parc memorial în Kwun Tong.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "Kai Tak Cruise Terminal Park", "text": "Parc la terminalul de croaziere în Kwun Tong.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Hong Ning Road Park din Kwun Tong", "text": "Hong Ning Road Park din Kwun Tong este un parc public.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Golful Kwun Tong Tsai", "text": "Golful Kwun Tong Tsai este o zonă acvatică în Kwun Tong.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "The Salt Yard din Kwun Tong este un centru de artă.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Osage din Kwun Tong este un centru de artă.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "Suicide Wall din Kwun Tong", "text": "Suicide Wall din Kwun Tong este o atracție cunoscută.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "Jimmy Bridge este o atracție în Kwun Tong.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "Monumentul Jat Incline Marker se află în Kwun Tong.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "Centrul Cultural East Kowloon din Kwun Tong", "text": "Centrul Cultural East Kowloon din Kwun Tong este un centru de artă.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "Gough Battery din Kwun Tong", "text": "Gough Battery din Kwun Tong este un sit istoric în ruină.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Templul Tin Hau din Cha Kwo Ling (Kwun Tong)", "text": "Templul Tin Hau din Cha Kwo Ling (Kwun Tong) este un lăcaș de cult tradițional.", "category": "religious", "coords": [114.229657, 22.299531]}], "en": [{"name": "Fireboat Alexander Grantham Exhibition Gallery", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.219237, 22.289268]}, {"name": "Jockey Club Lei Yue Mun Plus", "text": "Museum in Kwun Tong.", "category": "museum", "coords": [114.237485, 22.28911]}, {"name": "Dockyard Theatre", "text": "Theatre in Kwun Tong.", "category": "cultural", "coords": [114.212876, 22.289064]}, {"name": "Devil's Peak", "text": "Devil's Peak (炮台山) is a prominent natural mountain located within the Kwun Tong area of Hong Kong. Outdoor enthusiasts can explore the trails along this elevated terrain.", "category": "natural", "coords": [114.243888, 22.293773]}, {"name": "Mau Wu Shan", "text": "Found in Kwun Tong, 茅湖山 Mau Wu Shan is a natural mountainous area offering an escape from the busy city. It provides a scenic environment for those wishing to hike in Hong Kong.", "category": "natural", "coords": [114.251407, 22.312875]}, {"name": "Black Hill", "text": "Black Hill (五桂山) stands as a natural peak within the district of Kwun Tong. It invites visitors to enjoy its trails and the natural landscapes of Hong Kong.", "category": "natural", "coords": [114.24462, 22.309693]}, {"name": "Chiu Keng Wan Shan", "text": "Located in Kwun Tong, 照鏡環山 Chiu Keng Wan Shan forms a natural mountain terrain in Hong Kong. Explorers can venture up its slopes to experience the local natural environment.", "category": "natural", "coords": [114.246028, 22.299988]}, {"name": "Crocodile Hill", "text": "鱷魚山 Crocodile Hill is a recognized natural elevation situated in Kwun Tong, Hong Kong. Visitors seeking a mountain walk can traverse the paths of this unique hill.", "category": "natural", "coords": [114.220101, 22.318851]}, {"name": "Shum Wan Shan", "text": "Situated within Kwun Tong, the mountain of 沈雲山 Shum Wan Shan presents a natural retreat in Hong Kong. It is an ideal spot for visitors looking to hike and immerse themselves in nature.", "category": "natural", "coords": [114.223135, 22.324223]}, {"name": "Flat Hill", "text": "平山 Flat Hill provides a natural mountainous area right in the Kwun Tong district of Hong Kong. This peak allows visitors to take part in outdoor activities amidst an urban setting.", "category": "natural", "coords": [114.218815, 22.330748]}, {"name": "Tai Sheung Tok", "text": "Rising in Kwun Tong, 大上托 Tai Sheung Tok is a natural mountain offering a green space within Hong Kong. People visiting can discover its paths and enjoy the mountainous surroundings.", "category": "natural", "coords": [114.238994, 22.325103]}, {"name": "Cha Kwo Ling", "text": "茶果嶺 Cha Kwo Ling forms part of the natural mountain landscape found in Kwun Tong. It is an elevated area where visitors can experience the rocky terrain of Hong Kong.", "category": "natural", "coords": [114.228666, 22.303062]}, {"name": "Po Tsui Park", "text": "Situated in Kwun Tong, 寶翠公園 Po Tsui Park is a dedicated green space for public recreation. Visitors can enjoy a leisurely walk or relaxation in this Hong Kong urban park.", "category": "park", "coords": [114.253194, 22.324864]}, {"name": "Lam Tin Park", "text": "藍田公園 Lam Tin Park serves as a peaceful park nestled within the district of Kwun Tong. It provides Hong Kong residents and tourists alike with open outdoor facilities.", "category": "park", "coords": [114.240296, 22.310922]}, {"name": "Ping Shek Playground", "text": "Designed for outdoor activity, 坪石遊樂場 Ping Shek Playground is a recreational park in Kwun Tong. This Hong Kong playground features ample space for recreation and community gathering.", "category": "park", "coords": [114.212058, 22.332543]}, {"name": "Sai Wan Ho Playground", "text": "Located within Kwun Tong, 西灣河遊樂場 Sai Wan Ho Playground offers an active park environment. Visitors to this Hong Kong venue can take advantage of its recreational spaces and playground amenities.", "category": "park", "coords": [114.223103, 22.286071]}, {"name": "Mau Wu Shan Observation Post", "text": "Ruins in Kwun Tong.", "category": "historical", "coords": [114.252681, 22.310818]}, {"name": "Java Road Playground", "text": "渣華道遊樂場 Java Road Playground provides a designated play and park area in Kwun Tong. It is an accessible Hong Kong spot designed for active enjoyment and local leisure.", "category": "park", "coords": [114.209639, 22.290874]}, {"name": "Kowloon Bay Playground", "text": "Positioned in Kwun Tong, 九龍灣遊樂場 Kowloon Bay Playground functions as an urban park and recreation area. People can engage in various outdoor pursuits at this lively Hong Kong site.", "category": "park", "coords": [114.210263, 22.326151]}, {"name": "Sam Ka Tsuen Recreation Ground", "text": "Recreation ground in Kwun Tong.", "category": "park", "coords": [114.237267, 22.293936]}, {"name": "Choi Wing Road Park", "text": "Adding a touch of nature to Kwun Tong, 彩榮路公園 Choi Wing Road Park is a well-maintained urban park in Hong Kong. It offers a structured green environment perfect for a calming stroll.", "category": "park", "coords": [114.21888, 22.327118]}, {"name": "Shun Lee Tsuen Park", "text": "Situated in the Kwun Tong district, 順利邨公園 Shun Lee Tsuen Park provides residents and visitors with a serene park atmosphere. This Hong Kong green space is favored for casual relaxation.", "category": "park", "coords": [114.224927, 22.329735]}, {"name": "Hong Ning Road Park (Phase 2)", "text": "康寧道公園（第二期） Hong Ning Road Park (Phase 2) extends the park facilities available in Kwun Tong. This Hong Kong location grants additional open areas for public leisure and outdoor breaks.", "category": "park", "coords": [114.225859, 22.320435]}, {"name": "Laguna Park", "text": "Nestled in Kwun Tong, 麗港公園 Laguna Park is a landscaped urban park serving the local community. It is a delightful Hong Kong destination for those seeking fresh air amidst planted greenery.", "category": "park", "coords": [114.226498, 22.307002]}, {"name": "Jordan Valley Park", "text": "Large park in Kwun Tong.", "category": "park", "coords": [114.221372, 22.329477]}, {"name": "Zero Carbon Building", "text": "The 零碳天地 Zero Carbon Building site in Kwun Tong functions as an innovative park demonstrating sustainability. Visitors to this Hong Kong space can explore environmental initiatives within an outdoor park setting.", "category": "park", "coords": [114.208369, 22.320953]}, {"name": "Lam Wah Street Playground", "text": "The Lam Wah Street Playground offers an urban recreation area in the Kwun Tong neighborhood. This playground in Hong Kong is a popular gathering spot for local families and children.", "category": "park", "coords": [114.206827, 22.322762]}, {"name": "Yau Tong Road Playground", "text": "Located in Kwun Tong, the Yau Tong Road Playground serves as a local public space. Visitors to this Hong Kong playground can expect a typical urban environment with play equipment.", "category": "park", "coords": [114.233977, 22.300377]}, {"name": "Hoi Bun Road Park", "text": "The Hoi Bun Road Park is a green oasis in the bustling Kwun Tong district. Walkers can enjoy a welcome break from the urban hustle in this Hong Kong park.", "category": "park", "coords": [114.215678, 22.314853]}, {"name": "Sau Ming Road Park", "text": "In the Kwun Tong area, the Sau Ming Road Park invites visitors to spend time outdoors. The well-kept grounds of this Hong Kong park provide a pleasant atmosphere for those seeking relaxation.", "category": "park", "coords": [114.229955, 22.322316]}, {"name": "Kwun Tong Promenade", "text": "Promenade in Kwun Tong.", "category": "park", "coords": [114.216947, 22.312293]}, {"name": "Yuet Wah Street Playground", "text": "For the residents of Kwun Tong, the Yuet Wah Street Playground is a familiar meeting place. This Hong Kong playground enriches the cityscape with an area dedicated to sports and playful activities.", "category": "park", "coords": [114.226664, 22.315078]}, {"name": "On Tak Road Playground", "text": "The On Tak Road Playground represents an important piece of infrastructure for leisure activities in the Kwun Tong district. Children and adults alike find space for exercise at this Hong Kong playground.", "category": "park", "coords": [114.216992, 22.32017]}, {"name": "Ngau Tau Kok Park", "text": "Framed by the buildings of Kwun Tong, the Ngau Tau Kok Park forms an urban recreation area. This Hong Kong park is a quiet retreat for nature lovers in the middle of the metropolis.", "category": "park", "coords": [114.215317, 22.322651]}, {"name": "On Sau Road Park", "text": "The supply of green spaces in Kwun Tong is usefully complemented by the On Sau Road Park. Visitors to this Hong Kong park can look forward to walking paths and a relaxed environment.", "category": "park", "coords": [114.232185, 22.323266]}, {"name": "Sau Mau Ping Memorial Park", "text": "Memorial park in Kwun Tong.", "category": "park", "coords": [114.228946, 22.318034]}, {"name": "Kai Tak Cruise Terminal Park", "text": "Park at the cruise terminal in Kwun Tong.", "category": "park", "coords": [114.213482, 22.305948]}, {"name": "Hong Ning Road Park (Phase 1)", "text": "Hong Ning Road Park in Kwun Tong is a public park.", "category": "park", "coords": [114.224186, 22.319791]}, {"name": "Kwun Tong Tsai Wan", "text": "Kwun Tong Tsai Bay is a body of water in Kwun Tong.", "category": "landmark", "coords": [114.233573, 22.296963]}, {"name": "The Salt Yard", "text": "The Salt Yard in Kwun Tong is an arts centre.", "category": "cultural", "coords": [114.219791, 22.311845]}, {"name": "Osage", "text": "Osage in Kwun Tong is an arts centre.", "category": "cultural", "coords": [114.225571, 22.308554]}, {"name": "Suicide Wall", "text": "The Suicide Wall in Kwun Tong is a well-known attraction.", "category": "landmark", "coords": [114.223074, 22.338342]}, {"name": "Jimmy Bridge", "text": "Jimmy Bridge is an attraction in Kwun Tong.", "category": "landmark", "coords": [114.213396, 22.317273]}, {"name": "Jat Incline Marker", "text": "The Jat Incline Marker monument is located in Kwun Tong.", "category": "historical", "coords": [114.218204, 22.333928]}, {"name": "East Kowloon Cultural Centre", "text": "The East Kowloon Cultural Centre in Kwun Tong is an arts centre.", "category": "cultural", "coords": [114.215123, 22.324382]}, {"name": "Gough Battery", "text": "Gough Battery in Kwun Tong is a historical ruin site.", "category": "historical", "coords": [114.242221, 22.29146]}, {"name": "Tin Hau Temple (Cha Kwo Ling)", "text": "The Tin Hau Temple in Cha Kwo Ling (Kwun Tong) is a traditional place of worship.", "category": "religious", "coords": [114.229657, 22.299531]}]},
     parent: "HK",
     type: "city",
     name: { de: "Kwun Tong", hu: "Kwun Tong", ro: "Kwun Tong", en: "Kwun Tong" },
@@ -7095,7 +7095,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-north-point-cities-v2.webp",
   },
   {
-    id: "hongkong-stanley-cities-v2", "sights": {"de": [{"name": "銀洲 Round Island", "text": "Der Round Island Leuchtturm befindet sich in Stanley.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "南灣海灘 South Bay Beach", "text": "Stanley beheimatet mit dem South Bay Beach einen charmanten Rückzugsort an der Hongkonger Küste. Dieser Strand verspricht sonnige Stunden am Meer und eine wohltuende Atmosphäre. Besucher können die Sandfläche für entspanntes Sonnenbaden oder einen erfrischenden Spaziergang am Wasser nutzen. Um den Tag optimal auszukosten, lohnt sich ein Besuch während der warmen Sommermonate.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "淺水灣泳灘 Repulse Bay Beach", "text": "Als beliebter Treffpunkt in Stanley zieht der Repulse Bay Beach zahlreiche Küstenliebhaber aus ganz Hongkong an. Das belebte Ambiente macht diesen Strand zu einem hervorragenden Ort für gesellige Stunden und Badespaß. Spaziergänger und Schwimmer finden hier gleichermaßen ideale Bedingungen vor. Es ist ratsam, am Wochenende etwas mehr Zeit für die Anfahrt einzuplanen.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Versteckt in der Küstenlinie von Stanley", "text": "Versteckt in der Küstenlinie von Stanley liegt der ruhige Turtle Cove Beach. Dieser kleine, aber feine Strand in Hongkong bietet eine wunderbare Kulisse für eine Auszeit am Ozean. Die friedliche Atmosphäre lädt zum Schwimmen und Träumen auf dem weichen Sand ein. Frühaufsteher sichern sich hier die besten Plätze direkt am Wasser.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "舂坎角泳灘 Chung Hom Kok Beach", "text": "Die Bucht des Chung Hom Kok Beach prägt das reizvolle Landschaftsbild von Stanley in Hongkong. Wer das Meer liebt, wird die entspannte Umgebung dieses Strandes schnell zu schätzen wissen. Ein Tag lässt sich hier wunderbar mit Sonnenbaden und leichten Schwimmzügen verbringen. Für einen rundum gelungenen Ausflug sollten ausreichend Getränke eingepackt werden.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "聖士提反灣泳灘 St. Stephen's Beach", "text": "An der südlichen Küste von Stanley entfaltet der St. Stephen's Beach seinen ganz eigenen Charme. Dieser Hongkonger Strand besticht durch seine entspannte Atmosphäre, die Familien und Erholungssuchende anzieht. Das klare Wasser und der einladende Sand machen ihn ideal für entspannte Stunden am Meer. Besonders in den späten Nachmittagsstunden taucht die Sonne den Sand in ein weiches Licht.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "中灣泳灘 Middle Bay Beach", "text": "Zwischen den bekannteren Buchten Stanleys bietet der Middle Bay Beach eine ruhigere Alternative für Strandgänger in Hongkong. Die sanft geschwungene Küstenlinie schafft einen behaglichen Ort für ausgedehnte Sonnenbäder. Badegäste erfreuen sich an der Möglichkeit, ungestört im Meerwasser zu planschen. Ein Besuch unter der Woche garantiert ein besonders ungestörtes Naturerlebnis.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "香港懲教博物館 Hong Kong Correctional Services Museum", "text": "Das Hong Kong Correctional Services Museum in Stanley zeigt die Geschichte des Strafvollzugs.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "夏萍灣泳灘 Hairpin Beach", "text": "Der charakteristische Hairpin Beach bereichert die Küstenlandschaft rund um Stanley in Hongkong. Diese überschaubare Strandbucht lädt mit ihrer intimen Atmosphäre dazu ein, die Seele baumeln zu lassen. Ob für einen kurzen Strandspaziergang oder zum entspannten Lesen auf dem Handtuch – der Ort hat für jeden etwas zu bieten. Wer die Stille sucht, findet sie hier am ehesten in den Vormittagsstunden.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "黃麻角", "text": "Der Bluff Head Leuchtturm steht in Stanley.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "Das Carol Yang Blackbox Theatre ist ein Theater in Stanley.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour SSSI", "text": "Das Tai Tam Harbour SSSI ist ein Naturschutzgebiet in Stanley.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "Umgeben von der malerischen Kulisse Stanleys ist der Round Island Beach ein reizvolles Stück Hongkonger Küste. Die abseitige Lage verleiht diesem Meeresufer eine angenehm entschleunigte Grundstimmung. Besucher können das sanfte Rauschen der Wellen bei einem Picknick am Strand genießen. Für den Rückweg empfiehlt es sich, die Gezeiten im Auge zu behalten.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "Stone Hill ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "Kwai Shan ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "Cheung Lin Shan ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "Lo Fu Shan ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "孖崗山南峰 Stanley Mound", "text": "Stanley Mound gehört zum Gebirgszug The Twins in Stanley.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "Nordgipfel von The Twins", "text": "Der Nordgipfel von The Twins ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "Der Stanley Ma Hang Park ist eine Grünanlage in Stanley.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "Der Stanley Market ist eine bekannte Attraktion in Stanley.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "Der Rhino Rock ist eine markante Felsformation in Stanley.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "Das Pillbox 033 ist ein historisches Verteidigungsdenkmal in Stanley.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Teufelsklauen-Felsen", "text": "Der Teufelsklauen-Felsen ist eine Attraktion in Stanley.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "Der Snoopy Rock ist eine Felsformation in Stanley.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Bruce Lee’s Filming Location", "text": "Bruce Lee’s Filming Location ist ein Aussichtspunkt in Stanley.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "Die Tai Tam Bay Pillbox ist eine historische Ruine in Stanley.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "Die Ruinen der Palm Villa sind ein Denkmal in Stanley.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "Obelisk (Süd)", "text": "Der Obelisk (Süd) ist eine historische Ruinenstätte in Stanley.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Der Shek O Road Lookout ist ein Aussichtspunkt in Stanley.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Tin Hau Tempel in Stanley", "text": "Der Tin Hau Tempel in Stanley ist ein traditioneller Kultbau.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "Stanley Moschee", "text": "Die Stanley Moschee ist ein bedeutendes islamisches Gotteshaus in Stanley.", "category": "religious", "coords": [114.218867, 22.215038]}], "hu": [{"name": "銀洲 Round Island", "text": "A Round Island világítótorony Stanleyben található.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "南灣海灘 South Bay Beach", "text": "Stanley ad otthont a South Bay Beach-nek, egy hangulatos menedéknek a hongkongi tengerparton. Ez a strand napsütéses órákat ígér a tengernél és nyugtató légkört. A látogatók a homokos területet pihentető napozásra vagy egy frissítő vízparti sétára használhatják. A nap maximális kihasználása érdekében érdemes a meleg nyári hónapokban ellátogatni ide.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "淺水灣泳灘 Repulse Bay Beach", "text": "A Stanley egyik kedvelt találkozóhelyeként ismert Repulse Bay Beach számos partkedvelőt vonz egész Hongkongból. A nyüzsgő légkör kiváló hellyé teszi ezt a strandot a társasági órákhoz és a fürdőzéshez. A sétálók és az úszók egyaránt ideális feltételeket találnak itt. Hétvégén tanácsos egy kicsit több időt szánni az utazásra.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "龜背灣泳灘 Turtle Cove Beach", "text": "Stanley partvidékén bújik meg a csendes Turtle Cove Beach. Ez a kis, de finom hongkongi strand csodálatos hátteret kínál egy óceánparti pihenéshez. A békés légkör úszásra és álmodozásra csábít a puha homokon. A korán kelők itt a legjobb helyeket biztosíthatják maguknak közvetlenül a vízparton.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Chung Hom Kok Beach öble határozza meg", "text": "A Chung Hom Kok Beach öble határozza meg a hongkongi Stanley bájos tájképét. Aki szereti a tengert, gyorsan értékelni fogja ennek a strandnak a pihentető környezetét. Egy napot itt csodálatosan el lehet tölteni napozással és könnyű úszással. Egy minden szempontból sikeres kiránduláshoz érdemes elegendő italt csomagolni.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "Stanley déli partján", "text": "A Stanley déli partján a St. Stephen's Beach kibontakoztatja egyedi varázsát. Ez a hongkongi strand nyugodt légkörével hódít, amely vonzza a családokat és a pihenni vágyókat. A tiszta víz és a hívogató homok ideálissá teszi a tengernél töltött pihentető órákhoz. A nap különösen a késő délutáni órákban fürdeti lágy fényben a homokot.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "Stanley ismertebb öblei között", "text": "A Stanley ismertebb öblei között a Middle Bay Beach egy csendesebb alternatívát kínál a hongkongi strandolók számára. A lágyan ívelő partvonal hangulatos helyet teremt a hosszas napozáshoz. A fürdőzők örömmel használják ki a lehetőséget, hogy zavartalanul csobbanjanak a tengervízben. Egy hétköznapi látogatás garantálja a leginkább háborítatlan természeti élményt.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "stanley-i Hong Kong Correctional Services Múzeum", "text": "A stanley-i Hong Kong Correctional Services Múzeum a büntetés-végrehajtás történetét mutatja be.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "jellegzetes Hairpin Beach gazdagítja", "text": "A jellegzetes Hairpin Beach gazdagítja a hongkongi Stanley körüli partvidéket. Ez az áttekinthető strandöböl intim hangulatával arra csábít, hogy kikapcsolódjunk és pihenjünk. Legyen szó egy rövid tengerparti sétáról vagy egy pihentető olvasásról a törölközőn - a hely mindenkinek tartogat valamit. Aki csendre vágyik, a délelőtti órákban találja meg itt a leginkább.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "黃麻角", "text": "A Bluff Head világítótorony Stanleyben áll.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "A Carol Yang Blackbox Színház egy színház Stanleyben.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour SSSI", "text": "A Tai Tam Harbour SSSI egy természetvédelmi terület Stanleyben.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "A Stanley festői hátterével körülvett Round Island Beach a hongkongi tengerpart egy bájos szakasza. Az eldugott elhelyezkedés kellemesen lelassult alaphangulatot kölcsönöz ennek a tengerpartnak. A látogatók egy tengerparti piknik során élvezhetik a hullámok lágy morajlását. A visszaúthoz érdemes figyelemmel kísérni az árapályt.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "A Stone Hill egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "A Kwai Shan egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "A Cheung Lin Shan egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "A Lo Fu Shan egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "Stanley Mound", "text": "A Stanley Mound a The Twins hegyvonulat része Stanleyben.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "The Twins északi csúcsa", "text": "A The Twins északi csúcsa egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "A Stanley Ma Hang Park egy közpark Stanleyben.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "A Stanley Market egy népszerű látványosság Stanleyben.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "A Rhino Rock egy jellegzetes sziklaformáció Stanleyben.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "A Pillbox 033 egy történelmi védelmi emlékhely Stanleyben.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Teufelsklauen-Felsen (Ördögkarom-szikla)", "text": "A Teufelsklauen-Felsen (Ördögkarom-szikla) egy látványosság Stanleyben.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "A Snoopy Rock egy sziklaformáció Stanleyben.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "李小龍取景地", "text": "Bruce Lee forgatási helyszíne egy kilátópont Stanleyben.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "A Tai Tam Bay Pillbox egy történelmi romterület Stanleyben.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "A Palm Villa romjai egy emlékhely Stanleyben.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "obeliszk (déli)", "text": "Az obeliszk (déli) egy történelmi romterület Stanleyben.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "A Shek O Road Lookout egy kilátópont Stanleyben.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "stanley-i Tin Hau templom", "text": "A stanley-i Tin Hau templom egy hagyományos szakrális épület.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "stanley-i mecset", "text": "A stanley-i mecset egy jelentős iszlám istentiszteleti hely Stanleyben.", "category": "religious", "coords": [114.218867, 22.215038]}], "ro": [{"name": "Farul Round Island", "text": "Farul Round Island se află în Stanley.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "南灣海灘 South Bay Beach", "text": "Stanley găzduiește South Bay Beach, un refugiu fermecător pe coasta din Hong Kong. Această plajă promite ore însorite lângă mare și o atmosferă liniștitoare. Vizitatorii pot folosi suprafața de nisip pentru a face plajă relaxantă sau pentru o plimbare revigorantă pe malul apei. Pentru a profita la maximum de zi, merită să faceți o vizită în timpul lunilor calde de vară.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "淺水灣泳灘 Repulse Bay Beach", "text": "Fiind un punct de întâlnire popular în Stanley, Repulse Bay Beach atrage numeroși iubitori ai litoralului din întregul Hong Kong. Atmosfera plină de viață face din această plajă un loc excelent pentru socializare și înot. Atât pasionații de plimbări, cât și înotătorii vor găsi aici condiții ideale. Este indicat să acordați ceva mai mult timp pentru călătorie în weekenduri.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Ascunsă pe coasta din Stanley", "text": "Ascunsă pe coasta din Stanley se află liniștita Turtle Cove Beach. Această plajă mică, dar rafinată din Hong Kong oferă un decor minunat pentru o pauză la ocean. Atmosfera pașnică vă invită să înotați și să visați pe nisipul moale. Cei care se trezesc devreme își vor asigura cele mai bune locuri chiar pe malul apei.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "舂坎角泳灘 Chung Hom Kok Beach", "text": "Golful Chung Hom Kok Beach conturează peisajul fermecător din Stanley, Hong Kong. Cei care iubesc marea vor aprecia rapid mediul relaxant al acestei plaje. Aici se poate petrece o zi minunată făcând plajă și înotând ușor. Pentru o excursie complet reușită, asigurați-vă că luați cu voi suficiente băuturi.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "聖士提反灣泳灘 St. Stephen's Beach", "text": "Pe coasta sudică din Stanley, St. Stephen's Beach își dezvăluie propriul farmec. Această plajă din Hong Kong captivează prin atmosfera sa relaxată, care atrage familiile și pe cei care caută odihnă. Apa limpede și nisipul primitor o fac ideală pentru ore de relaxare lângă mare. Mai ales în orele târzii ale după-amiezii, soarele scaldă nisipul într-o lumină blândă.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "中灣泳灘 Middle Bay Beach", "text": "Printre golfurile mai cunoscute din Stanley, Middle Bay Beach oferă o alternativă mai liniștită pentru iubitorii de plajă din Hong Kong. Linia de coastă ușor curbată creează un loc confortabil pentru plajă extinsă. Oaspeții se bucură de oportunitatea de a se bălăci nestingheriți în apa mării. O vizită în timpul săptămânii garantează o experiență în natură deosebit de netulburată.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "香港懲教博物館 Hong Kong Correctional Services Museum", "text": "Muzeul Serviciilor Corecționale din Hong Kong din Stanley prezintă istoria sistemului penitenciar.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "夏萍灣泳灘 Hairpin Beach", "text": "Caracteristica Hairpin Beach îmbogățește peisajul de coastă din jurul Stanley, Hong Kong. Acest mic golf cu plajă vă invită să vă relaxați complet datorită atmosferei sale intime. Fie că este vorba de o scurtă plimbare pe plajă sau de o lectură relaxantă pe prosop - locul are ceva de oferit pentru toată lumea. Cei care caută liniștea o vor găsi cel mai probabil în orele dimineții.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "Farul Bluff Head", "text": "Farul Bluff Head se află în Stanley.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "Carol Yang Blackbox Theatre este un teatru în Stanley.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour SSSI", "text": "Tai Tam Harbour SSSI este o rezervație naturală în Stanley.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "Înconjurat de fundalul pitoresc din Stanley, Round Island Beach este o porțiune fermecătoare a coastei din Hong Kong. Locația retrasă conferă acestui mal al mării o atmosferă generală plăcut de lentă. Vizitatorii se pot bucura de sunetul blând al valurilor în timpul unui picnic pe plajă. Pentru drumul de întoarcere, se recomandă să fiți atenți la maree.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "Stone Hill este un vârf muntos în Stanley.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "Kwai Shan este un vârf muntos în Stanley.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "Cheung Lin Shan este un vârf muntos în Stanley.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "Lo Fu Shan este un vârf muntos în Stanley.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "孖崗山南峰 Stanley Mound", "text": "Stanley Mound face parte din masivul The Twins în Stanley.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "Vârful de Nord al masivului The Twins", "text": "Vârful de Nord al masivului The Twins este un vârf muntos în Stanley.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "Stanley Ma Hang Park este un parc public în Stanley.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "Stanley Market este o atracție populară în Stanley.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "Rhino Rock este o formațiune stâncoasă distinctivă în Stanley.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "Pillbox 033 este un monument istoric de apărare în Stanley.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Stânca Ghearei Diavolului", "text": "Stânca Ghearei Diavolului este o atracție în Stanley.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "Snoopy Rock este o formațiune stâncoasă în Stanley.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Locația de filmare a lui Bruce Lee", "text": "Locația de filmare a lui Bruce Lee este un punct de belvedere în Stanley.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "Tai Tam Bay Pillbox este o ruină istorică în Stanley.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "Ruinele Palm Villa sunt un monument în Stanley.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "Obeliscul (Sud)", "text": "Obeliscul (Sud) este un sit istoric în ruină în Stanley.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout este un punct de belvedere în Stanley.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Templul Tin Hau din Stanley", "text": "Templul Tin Hau din Stanley este un lăcaș de cult tradițional.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "Moscheea din Stanley", "text": "Moscheea din Stanley este un lăcaș de cult islamic important în Stanley.", "category": "religious", "coords": [114.218867, 22.215038]}], "en": [{"name": "Round Island", "text": "The Round Island lighthouse is located in Stanley.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "South Bay Beach", "text": "Stanley is home to South Bay Beach, a charming retreat on the Hong Kong coast. This beach promises sunny hours by the sea and a soothing atmosphere. Visitors can use the sandy expanse for relaxed sunbathing or a refreshing walk along the water. Visiting during the warm summer months is highly rewarding to make the most of the day.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "Repulse Bay Beach", "text": "As a popular gathering spot in Stanley, Repulse Bay Beach attracts numerous coastal lovers from all over Hong Kong. The lively ambiance makes this beach an excellent place for socializing and swimming fun. Strollers and swimmers alike will find ideal conditions here. It is advisable to allow a little extra time for the journey on weekends.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Turtle Cove Beach", "text": "Tucked away along the Stanley coastline is the quiet Turtle Cove Beach. This small but fine beach in Hong Kong provides a wonderful backdrop for a break by the ocean. The peaceful atmosphere invites you to swim and dream on the soft sand. Early risers can secure the best spots right by the water's edge.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Chung Hom Kok Beach", "text": "The bay of Chung Hom Kok Beach shapes the charming landscape of Stanley in Hong Kong. Those who love the sea will quickly appreciate the relaxed environment of this beach. A day can be wonderfully spent here sunbathing and enjoying light swimming. Packing plenty of drinks is recommended for a thoroughly successful excursion.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "St. Stephen's Beach", "text": "On the southern coast of Stanley, St. Stephen's Beach unfolds its very own charm. This Hong Kong beach captivates with its relaxed atmosphere, attracting families and those seeking recreation. The clear water and inviting sand make it ideal for relaxing hours by the sea. The sun bathes the sand in a soft light, especially in the late afternoon hours.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "Middle Bay Beach", "text": "Between the more famous bays of Stanley, Middle Bay Beach offers a quieter alternative for beachgoers in Hong Kong. The gently curving coastline creates a cozy spot for extended sunbathing. Bathers enjoy the opportunity to splash around in the seawater undisturbed. Visiting during the week guarantees a particularly undisturbed nature experience.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "Hong Kong Correctional Services Museum", "text": "The Hong Kong Correctional Services Museum in Stanley displays the history of the correctional system.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "Hairpin Beach", "text": "The characteristic Hairpin Beach enriches the coastal landscape around Stanley in Hong Kong. This manageable beach bay invites you to unwind entirely with its intimate atmosphere. Whether for a short stroll along the beach or relaxed reading on a towel, the place has something to offer everyone. Those seeking silence are most likely to find it here in the morning hours.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "Bluff Head", "text": "The Bluff Head lighthouse is located in Stanley.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "The Carol Yang Blackbox Theatre is a theatre in Stanley.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Tai Tam Harbour SSSI is a nature reserve in Stanley.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "Surrounded by the picturesque backdrop of Stanley, Round Island Beach is a charming stretch of the Hong Kong coast. The secluded location gives this seashore a pleasantly decelerated underlying mood. Visitors can enjoy the gentle sound of the waves during a beach picnic. It is advisable to keep an eye on the tides for the return journey.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "Stone Hill is a peak in Stanley.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "Kwai Shan is a peak in Stanley.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "Cheung Lin Shan is a peak in Stanley.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "Lo Fu Shan is a peak in Stanley.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "Stanley Mound", "text": "Stanley Mound is part of The Twins range in Stanley.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "North Peak, The Twins", "text": "The North Peak of The Twins is a peak in Stanley.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "Stanley Ma Hang Park is a park in Stanley.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "Stanley Market is a well-known attraction in Stanley.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "Rhino Rock is a distinctive rock formation in Stanley.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "Pillbox 033 is a historical defense monument in Stanley.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Devil's Claw Rock", "text": "The Devil's Claw Rock is an attraction in Stanley.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "Snoopy Rock is a rock formation in Stanley.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Bruce Lee’s filming location", "text": "Bruce Lee’s filming location is a viewpoint in Stanley.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "The Tai Tam Bay Pillbox is a historical ruin in Stanley.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "The ruins of Palm Villa are a monument in Stanley.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "Obelisk (South)", "text": "The Obelisk (South) is a historical ruin site in Stanley.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout is a viewpoint in Stanley.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Tin Hau Temple", "text": "The Tin Hau Temple in Stanley is a traditional place of worship.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "Stanley Mosque", "text": "The Stanley Mosque is an important place of Islamic worship in Stanley.", "category": "religious", "coords": [114.218867, 22.215038]}]},
+    id: "hongkong-stanley-cities-v2", "sights": {"de": [{"name": "Round Island", "text": "Der Round Island Leuchtturm befindet sich in Stanley.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "South Bay Beach", "text": "Stanley beheimatet mit dem South Bay Beach einen charmanten Rückzugsort an der Hongkonger Küste. Dieser Strand verspricht sonnige Stunden am Meer und eine wohltuende Atmosphäre. Besucher können die Sandfläche für entspanntes Sonnenbaden oder einen erfrischenden Spaziergang am Wasser nutzen. Um den Tag optimal auszukosten, lohnt sich ein Besuch während der warmen Sommermonate.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "Repulse Bay Beach", "text": "Als beliebter Treffpunkt in Stanley zieht der Repulse Bay Beach zahlreiche Küstenliebhaber aus ganz Hongkong an. Das belebte Ambiente macht diesen Strand zu einem hervorragenden Ort für gesellige Stunden und Badespaß. Spaziergänger und Schwimmer finden hier gleichermaßen ideale Bedingungen vor. Es ist ratsam, am Wochenende etwas mehr Zeit für die Anfahrt einzuplanen.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Versteckt in der Küstenlinie von Stanley", "text": "Versteckt in der Küstenlinie von Stanley liegt der ruhige Turtle Cove Beach. Dieser kleine, aber feine Strand in Hongkong bietet eine wunderbare Kulisse für eine Auszeit am Ozean. Die friedliche Atmosphäre lädt zum Schwimmen und Träumen auf dem weichen Sand ein. Frühaufsteher sichern sich hier die besten Plätze direkt am Wasser.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Chung Hom Kok Beach", "text": "Die Bucht des Chung Hom Kok Beach prägt das reizvolle Landschaftsbild von Stanley in Hongkong. Wer das Meer liebt, wird die entspannte Umgebung dieses Strandes schnell zu schätzen wissen. Ein Tag lässt sich hier wunderbar mit Sonnenbaden und leichten Schwimmzügen verbringen. Für einen rundum gelungenen Ausflug sollten ausreichend Getränke eingepackt werden.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "St. Stephen's Beach", "text": "An der südlichen Küste von Stanley entfaltet der St. Stephen's Beach seinen ganz eigenen Charme. Dieser Hongkonger Strand besticht durch seine entspannte Atmosphäre, die Familien und Erholungssuchende anzieht. Das klare Wasser und der einladende Sand machen ihn ideal für entspannte Stunden am Meer. Besonders in den späten Nachmittagsstunden taucht die Sonne den Sand in ein weiches Licht.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "Middle Bay Beach", "text": "Zwischen den bekannteren Buchten Stanleys bietet der Middle Bay Beach eine ruhigere Alternative für Strandgänger in Hongkong. Die sanft geschwungene Küstenlinie schafft einen behaglichen Ort für ausgedehnte Sonnenbäder. Badegäste erfreuen sich an der Möglichkeit, ungestört im Meerwasser zu planschen. Ein Besuch unter der Woche garantiert ein besonders ungestörtes Naturerlebnis.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "Hong Kong Correctional Services Museum", "text": "Das Hong Kong Correctional Services Museum in Stanley zeigt die Geschichte des Strafvollzugs.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "Hairpin Beach", "text": "Der charakteristische Hairpin Beach bereichert die Küstenlandschaft rund um Stanley in Hongkong. Diese überschaubare Strandbucht lädt mit ihrer intimen Atmosphäre dazu ein, die Seele baumeln zu lassen. Ob für einen kurzen Strandspaziergang oder zum entspannten Lesen auf dem Handtuch – der Ort hat für jeden etwas zu bieten. Wer die Stille sucht, findet sie hier am ehesten in den Vormittagsstunden.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "Bluff Head", "text": "Der Bluff Head Leuchtturm steht in Stanley.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "Das Carol Yang Blackbox Theatre ist ein Theater in Stanley.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour SSSI", "text": "Das Tai Tam Harbour SSSI ist ein Naturschutzgebiet in Stanley.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "Umgeben von der malerischen Kulisse Stanleys ist der Round Island Beach ein reizvolles Stück Hongkonger Küste. Die abseitige Lage verleiht diesem Meeresufer eine angenehm entschleunigte Grundstimmung. Besucher können das sanfte Rauschen der Wellen bei einem Picknick am Strand genießen. Für den Rückweg empfiehlt es sich, die Gezeiten im Auge zu behalten.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "Stone Hill ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "Kwai Shan ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "Cheung Lin Shan ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "Lo Fu Shan ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "Stanley Mound", "text": "Stanley Mound gehört zum Gebirgszug The Twins in Stanley.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "Nordgipfel von The Twins", "text": "Der Nordgipfel von The Twins ist eine Erhebung in Stanley.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "Der Stanley Ma Hang Park ist eine Grünanlage in Stanley.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "Der Stanley Market ist eine bekannte Attraktion in Stanley.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "Der Rhino Rock ist eine markante Felsformation in Stanley.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "Das Pillbox 033 ist ein historisches Verteidigungsdenkmal in Stanley.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Teufelsklauen-Felsen", "text": "Der Teufelsklauen-Felsen ist eine Attraktion in Stanley.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "Der Snoopy Rock ist eine Felsformation in Stanley.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Bruce Lee’s Filming Location", "text": "Bruce Lee’s Filming Location ist ein Aussichtspunkt in Stanley.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "Die Tai Tam Bay Pillbox ist eine historische Ruine in Stanley.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "Die Ruinen der Palm Villa sind ein Denkmal in Stanley.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "Obelisk (Süd)", "text": "Der Obelisk (Süd) ist eine historische Ruinenstätte in Stanley.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Der Shek O Road Lookout ist ein Aussichtspunkt in Stanley.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Tin Hau Tempel in Stanley", "text": "Der Tin Hau Tempel in Stanley ist ein traditioneller Kultbau.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "Stanley Moschee", "text": "Die Stanley Moschee ist ein bedeutendes islamisches Gotteshaus in Stanley.", "category": "religious", "coords": [114.218867, 22.215038]}], "hu": [{"name": "Round Island", "text": "A Round Island világítótorony Stanleyben található.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "South Bay Beach", "text": "Stanley ad otthont a South Bay Beach-nek, egy hangulatos menedéknek a hongkongi tengerparton. Ez a strand napsütéses órákat ígér a tengernél és nyugtató légkört. A látogatók a homokos területet pihentető napozásra vagy egy frissítő vízparti sétára használhatják. A nap maximális kihasználása érdekében érdemes a meleg nyári hónapokban ellátogatni ide.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "Repulse Bay Beach", "text": "A Stanley egyik kedvelt találkozóhelyeként ismert Repulse Bay Beach számos partkedvelőt vonz egész Hongkongból. A nyüzsgő légkör kiváló hellyé teszi ezt a strandot a társasági órákhoz és a fürdőzéshez. A sétálók és az úszók egyaránt ideális feltételeket találnak itt. Hétvégén tanácsos egy kicsit több időt szánni az utazásra.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Turtle Cove Beach", "text": "Stanley partvidékén bújik meg a csendes Turtle Cove Beach. Ez a kis, de finom hongkongi strand csodálatos hátteret kínál egy óceánparti pihenéshez. A békés légkör úszásra és álmodozásra csábít a puha homokon. A korán kelők itt a legjobb helyeket biztosíthatják maguknak közvetlenül a vízparton.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Chung Hom Kok Beach öble határozza meg", "text": "A Chung Hom Kok Beach öble határozza meg a hongkongi Stanley bájos tájképét. Aki szereti a tengert, gyorsan értékelni fogja ennek a strandnak a pihentető környezetét. Egy napot itt csodálatosan el lehet tölteni napozással és könnyű úszással. Egy minden szempontból sikeres kiránduláshoz érdemes elegendő italt csomagolni.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "Stanley déli partján", "text": "A Stanley déli partján a St. Stephen's Beach kibontakoztatja egyedi varázsát. Ez a hongkongi strand nyugodt légkörével hódít, amely vonzza a családokat és a pihenni vágyókat. A tiszta víz és a hívogató homok ideálissá teszi a tengernél töltött pihentető órákhoz. A nap különösen a késő délutáni órákban fürdeti lágy fényben a homokot.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "Stanley ismertebb öblei között", "text": "A Stanley ismertebb öblei között a Middle Bay Beach egy csendesebb alternatívát kínál a hongkongi strandolók számára. A lágyan ívelő partvonal hangulatos helyet teremt a hosszas napozáshoz. A fürdőzők örömmel használják ki a lehetőséget, hogy zavartalanul csobbanjanak a tengervízben. Egy hétköznapi látogatás garantálja a leginkább háborítatlan természeti élményt.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "stanley-i Hong Kong Correctional Services Múzeum", "text": "A stanley-i Hong Kong Correctional Services Múzeum a büntetés-végrehajtás történetét mutatja be.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "jellegzetes Hairpin Beach gazdagítja", "text": "A jellegzetes Hairpin Beach gazdagítja a hongkongi Stanley körüli partvidéket. Ez az áttekinthető strandöböl intim hangulatával arra csábít, hogy kikapcsolódjunk és pihenjünk. Legyen szó egy rövid tengerparti sétáról vagy egy pihentető olvasásról a törölközőn - a hely mindenkinek tartogat valamit. Aki csendre vágyik, a délelőtti órákban találja meg itt a leginkább.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "Bluff Head", "text": "A Bluff Head világítótorony Stanleyben áll.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "A Carol Yang Blackbox Színház egy színház Stanleyben.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour SSSI", "text": "A Tai Tam Harbour SSSI egy természetvédelmi terület Stanleyben.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "A Stanley festői hátterével körülvett Round Island Beach a hongkongi tengerpart egy bájos szakasza. Az eldugott elhelyezkedés kellemesen lelassult alaphangulatot kölcsönöz ennek a tengerpartnak. A látogatók egy tengerparti piknik során élvezhetik a hullámok lágy morajlását. A visszaúthoz érdemes figyelemmel kísérni az árapályt.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "A Stone Hill egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "A Kwai Shan egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "A Cheung Lin Shan egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "A Lo Fu Shan egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "Stanley Mound", "text": "A Stanley Mound a The Twins hegyvonulat része Stanleyben.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "The Twins északi csúcsa", "text": "A The Twins északi csúcsa egy hegycsúcs Stanleyben.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "A Stanley Ma Hang Park egy közpark Stanleyben.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "A Stanley Market egy népszerű látványosság Stanleyben.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "A Rhino Rock egy jellegzetes sziklaformáció Stanleyben.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "A Pillbox 033 egy történelmi védelmi emlékhely Stanleyben.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Teufelsklauen-Felsen (Ördögkarom-szikla)", "text": "A Teufelsklauen-Felsen (Ördögkarom-szikla) egy látványosság Stanleyben.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "A Snoopy Rock egy sziklaformáció Stanleyben.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Bruce Lee Filming Location", "text": "Bruce Lee forgatási helyszíne egy kilátópont Stanleyben.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "A Tai Tam Bay Pillbox egy történelmi romterület Stanleyben.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "A Palm Villa romjai egy emlékhely Stanleyben.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "obeliszk (déli)", "text": "Az obeliszk (déli) egy történelmi romterület Stanleyben.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "A Shek O Road Lookout egy kilátópont Stanleyben.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "stanley-i Tin Hau templom", "text": "A stanley-i Tin Hau templom egy hagyományos szakrális épület.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "stanley-i mecset", "text": "A stanley-i mecset egy jelentős iszlám istentiszteleti hely Stanleyben.", "category": "religious", "coords": [114.218867, 22.215038]}], "ro": [{"name": "Farul Round Island", "text": "Farul Round Island se află în Stanley.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "South Bay Beach", "text": "Stanley găzduiește South Bay Beach, un refugiu fermecător pe coasta din Hong Kong. Această plajă promite ore însorite lângă mare și o atmosferă liniștitoare. Vizitatorii pot folosi suprafața de nisip pentru a face plajă relaxantă sau pentru o plimbare revigorantă pe malul apei. Pentru a profita la maximum de zi, merită să faceți o vizită în timpul lunilor calde de vară.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "Repulse Bay Beach", "text": "Fiind un punct de întâlnire popular în Stanley, Repulse Bay Beach atrage numeroși iubitori ai litoralului din întregul Hong Kong. Atmosfera plină de viață face din această plajă un loc excelent pentru socializare și înot. Atât pasionații de plimbări, cât și înotătorii vor găsi aici condiții ideale. Este indicat să acordați ceva mai mult timp pentru călătorie în weekenduri.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Ascunsă pe coasta din Stanley", "text": "Ascunsă pe coasta din Stanley se află liniștita Turtle Cove Beach. Această plajă mică, dar rafinată din Hong Kong oferă un decor minunat pentru o pauză la ocean. Atmosfera pașnică vă invită să înotați și să visați pe nisipul moale. Cei care se trezesc devreme își vor asigura cele mai bune locuri chiar pe malul apei.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Chung Hom Kok Beach", "text": "Golful Chung Hom Kok Beach conturează peisajul fermecător din Stanley, Hong Kong. Cei care iubesc marea vor aprecia rapid mediul relaxant al acestei plaje. Aici se poate petrece o zi minunată făcând plajă și înotând ușor. Pentru o excursie complet reușită, asigurați-vă că luați cu voi suficiente băuturi.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "St. Stephen's Beach", "text": "Pe coasta sudică din Stanley, St. Stephen's Beach își dezvăluie propriul farmec. Această plajă din Hong Kong captivează prin atmosfera sa relaxată, care atrage familiile și pe cei care caută odihnă. Apa limpede și nisipul primitor o fac ideală pentru ore de relaxare lângă mare. Mai ales în orele târzii ale după-amiezii, soarele scaldă nisipul într-o lumină blândă.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "Middle Bay Beach", "text": "Printre golfurile mai cunoscute din Stanley, Middle Bay Beach oferă o alternativă mai liniștită pentru iubitorii de plajă din Hong Kong. Linia de coastă ușor curbată creează un loc confortabil pentru plajă extinsă. Oaspeții se bucură de oportunitatea de a se bălăci nestingheriți în apa mării. O vizită în timpul săptămânii garantează o experiență în natură deosebit de netulburată.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "Hong Kong Correctional Services Museum", "text": "Muzeul Serviciilor Corecționale din Hong Kong din Stanley prezintă istoria sistemului penitenciar.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "Hairpin Beach", "text": "Caracteristica Hairpin Beach îmbogățește peisajul de coastă din jurul Stanley, Hong Kong. Acest mic golf cu plajă vă invită să vă relaxați complet datorită atmosferei sale intime. Fie că este vorba de o scurtă plimbare pe plajă sau de o lectură relaxantă pe prosop - locul are ceva de oferit pentru toată lumea. Cei care caută liniștea o vor găsi cel mai probabil în orele dimineții.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "Farul Bluff Head", "text": "Farul Bluff Head se află în Stanley.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "Carol Yang Blackbox Theatre este un teatru în Stanley.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour SSSI", "text": "Tai Tam Harbour SSSI este o rezervație naturală în Stanley.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "Înconjurat de fundalul pitoresc din Stanley, Round Island Beach este o porțiune fermecătoare a coastei din Hong Kong. Locația retrasă conferă acestui mal al mării o atmosferă generală plăcut de lentă. Vizitatorii se pot bucura de sunetul blând al valurilor în timpul unui picnic pe plajă. Pentru drumul de întoarcere, se recomandă să fiți atenți la maree.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "Stone Hill este un vârf muntos în Stanley.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "Kwai Shan este un vârf muntos în Stanley.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "Cheung Lin Shan este un vârf muntos în Stanley.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "Lo Fu Shan este un vârf muntos în Stanley.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "Stanley Mound", "text": "Stanley Mound face parte din masivul The Twins în Stanley.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "Vârful de Nord al masivului The Twins", "text": "Vârful de Nord al masivului The Twins este un vârf muntos în Stanley.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "Stanley Ma Hang Park este un parc public în Stanley.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "Stanley Market este o atracție populară în Stanley.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "Rhino Rock este o formațiune stâncoasă distinctivă în Stanley.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "Pillbox 033 este un monument istoric de apărare în Stanley.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Stânca Ghearei Diavolului", "text": "Stânca Ghearei Diavolului este o atracție în Stanley.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "Snoopy Rock este o formațiune stâncoasă în Stanley.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Locația de filmare a lui Bruce Lee", "text": "Locația de filmare a lui Bruce Lee este un punct de belvedere în Stanley.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "Tai Tam Bay Pillbox este o ruină istorică în Stanley.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "Ruinele Palm Villa sunt un monument în Stanley.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "Obeliscul (Sud)", "text": "Obeliscul (Sud) este un sit istoric în ruină în Stanley.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout este un punct de belvedere în Stanley.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Templul Tin Hau din Stanley", "text": "Templul Tin Hau din Stanley este un lăcaș de cult tradițional.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "Moscheea din Stanley", "text": "Moscheea din Stanley este un lăcaș de cult islamic important în Stanley.", "category": "religious", "coords": [114.218867, 22.215038]}], "en": [{"name": "Round Island", "text": "The Round Island lighthouse is located in Stanley.", "category": "landmark", "coords": [114.18515, 22.2141]}, {"name": "South Bay Beach", "text": "Stanley is home to South Bay Beach, a charming retreat on the Hong Kong coast. This beach promises sunny hours by the sea and a soothing atmosphere. Visitors can use the sandy expanse for relaxed sunbathing or a refreshing walk along the water. Visiting during the warm summer months is highly rewarding to make the most of the day.", "category": "recreational", "coords": [114.197491, 22.225122]}, {"name": "Repulse Bay Beach", "text": "As a popular gathering spot in Stanley, Repulse Bay Beach attracts numerous coastal lovers from all over Hong Kong. The lively ambiance makes this beach an excellent place for socializing and swimming fun. Strollers and swimmers alike will find ideal conditions here. It is advisable to allow a little extra time for the journey on weekends.", "category": "recreational", "coords": [114.196175, 22.236451]}, {"name": "Turtle Cove Beach", "text": "Tucked away along the Stanley coastline is the quiet Turtle Cove Beach. This small but fine beach in Hong Kong provides a wonderful backdrop for a break by the ocean. The peaceful atmosphere invites you to swim and dream on the soft sand. Early risers can secure the best spots right by the water's edge.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Chung Hom Kok Beach", "text": "The bay of Chung Hom Kok Beach shapes the charming landscape of Stanley in Hong Kong. Those who love the sea will quickly appreciate the relaxed environment of this beach. A day can be wonderfully spent here sunbathing and enjoying light swimming. Packing plenty of drinks is recommended for a thoroughly successful excursion.", "category": "recreational", "coords": [114.202068, 22.217767]}, {"name": "St. Stephen's Beach", "text": "On the southern coast of Stanley, St. Stephen's Beach unfolds its very own charm. This Hong Kong beach captivates with its relaxed atmosphere, attracting families and those seeking recreation. The clear water and inviting sand make it ideal for relaxing hours by the sea. The sun bathes the sand in a soft light, especially in the late afternoon hours.", "category": "recreational", "coords": [114.21484, 22.212521]}, {"name": "Middle Bay Beach", "text": "Between the more famous bays of Stanley, Middle Bay Beach offers a quieter alternative for beachgoers in Hong Kong. The gently curving coastline creates a cozy spot for extended sunbathing. Bathers enjoy the opportunity to splash around in the seawater undisturbed. Visiting during the week guarantees a particularly undisturbed nature experience.", "category": "recreational", "coords": [114.198016, 22.22973]}, {"name": "Hong Kong Correctional Services Museum", "text": "The Hong Kong Correctional Services Museum in Stanley displays the history of the correctional system.", "category": "museum", "coords": [114.217998, 22.21624]}, {"name": "Hairpin Beach", "text": "The characteristic Hairpin Beach enriches the coastal landscape around Stanley in Hong Kong. This manageable beach bay invites you to unwind entirely with its intimate atmosphere. Whether for a short stroll along the beach or relaxed reading on a towel, the place has something to offer everyone. Those seeking silence are most likely to find it here in the morning hours.", "category": "recreational", "coords": [114.214948, 22.224139]}, {"name": "Bluff Head", "text": "The Bluff Head lighthouse is located in Stanley.", "category": "landmark", "coords": [114.213917, 22.1951]}, {"name": "Carol Yang Blackbox Theatre", "text": "The Carol Yang Blackbox Theatre is a theatre in Stanley.", "category": "cultural", "coords": [114.215152, 22.216024]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Tai Tam Harbour SSSI is a nature reserve in Stanley.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Round Island Beach", "text": "Surrounded by the picturesque backdrop of Stanley, Round Island Beach is a charming stretch of the Hong Kong coast. The secluded location gives this seashore a pleasantly decelerated underlying mood. Visitors can enjoy the gentle sound of the waves during a beach picnic. It is advisable to keep an eye on the tides for the return journey.", "category": "recreational", "coords": [114.185233, 22.217321]}, {"name": "Stone Hill", "text": "Stone Hill is a peak in Stanley.", "category": "natural", "coords": [114.210398, 22.229992]}, {"name": "Kwai Shan", "text": "Kwai Shan is a peak in Stanley.", "category": "natural", "coords": [114.21964, 22.235439]}, {"name": "Cheung Lin Shan", "text": "Cheung Lin Shan is a peak in Stanley.", "category": "natural", "coords": [114.209492, 22.236736]}, {"name": "Lo Fu Shan", "text": "Lo Fu Shan is a peak in Stanley.", "category": "natural", "coords": [114.211453, 22.234787]}, {"name": "Stanley Mound", "text": "Stanley Mound is part of The Twins range in Stanley.", "category": "natural", "coords": [114.205458, 22.230684]}, {"name": "North Peak, The Twins", "text": "The North Peak of The Twins is a peak in Stanley.", "category": "natural", "coords": [114.206519, 22.235769]}, {"name": "Stanley Ma Hang Park", "text": "Stanley Ma Hang Park is a park in Stanley.", "category": "park", "coords": [114.208252, 22.217949]}, {"name": "Stanley Market", "text": "Stanley Market is a well-known attraction in Stanley.", "category": "landmark", "coords": [114.212515, 22.218195]}, {"name": "Rhino Rock", "text": "Rhino Rock is a distinctive rock formation in Stanley.", "category": "landmark", "coords": [114.217593, 22.2063]}, {"name": "Pillbox 033", "text": "Pillbox 033 is a historical defense monument in Stanley.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Devil's Claw Rock", "text": "The Devil's Claw Rock is an attraction in Stanley.", "category": "landmark", "coords": [114.201558, 22.215718]}, {"name": "Snoopy Rock", "text": "Snoopy Rock is a rock formation in Stanley.", "category": "landmark", "coords": [114.199986, 22.214202]}, {"name": "Bruce Lee’s filming location", "text": "Bruce Lee’s filming location is a viewpoint in Stanley.", "category": "natural", "coords": [114.219077, 22.229052]}, {"name": "Tai Tam Bay Pillbox", "text": "The Tai Tam Bay Pillbox is a historical ruin in Stanley.", "category": "historical", "coords": [114.218099, 22.226774]}, {"name": "Palm Villa’s ruins", "text": "The ruins of Palm Villa are a monument in Stanley.", "category": "historical", "coords": [114.218154, 22.229063]}, {"name": "Obelisk (South)", "text": "The Obelisk (South) is a historical ruin site in Stanley.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout is a viewpoint in Stanley.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Tin Hau Temple", "text": "The Tin Hau Temple in Stanley is a traditional place of worship.", "category": "religious", "coords": [114.209263, 22.219052]}, {"name": "Stanley Mosque", "text": "The Stanley Mosque is an important place of Islamic worship in Stanley.", "category": "religious", "coords": [114.218867, 22.215038]}]},
     parent: "HK",
     type: "town",
     name: { de: "Stanley", hu: "Stanley", ro: "Stanley", en: "Stanley" },
@@ -7140,7 +7140,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-stanley-cities-v2.webp",
   },
   {
-    id: "hongkong-sai-kung-cities-v2", "sights": {"de": [{"name": "三星灣泳灘 Trio Beach", "text": "Mit seinem malerischen Sandstrand zieht der Trio Beach Erholungssuchende nach Sai Kung. Die Küste Hongkongs präsentiert sich hier mit sanften Wellen und einer naturnahen Umgebung. Besucher lieben es, hier zu schwimmen oder an der Wasserlinie zu entspannen. An warmen Tagen lohnt sich eine frühe Ankunft, um den besten Schattenplatz zu ergattern.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "橋咀泳灘 Kiu Tsui Beach", "text": "Auf Sharp Island bei Sai Kung gelegen, lockt der Kiu Tsui Beach als beliebter Badestrand. Die Hongkonger Inselwelt bietet hier ein maritimes Erlebnis der besonderen Art, umrahmt von Küstenlandschaften. Strandgänger verbringen ihre Zeit mit Sonnenbaden und erfrischenden Runden im Meer. Ein bequemes Paar Schuhe für die Anreise zur Insel ist sehr zu empfehlen.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Lions Nature Education Centre in Sai Kung", "text": "Das Lions Nature Education Centre in Sai Kung ist ein Museum, das sich der Natur- und Umwelterziehung widmet.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "Kiu Tsui Pai ist ein Leuchtturm in der Küstenregion von Sai Kung.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Volcano Discovery Centre in Sai Kung", "text": "Das Volcano Discovery Centre in Sai Kung ist ein Museum zur geologischen Geschichte der Region.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "Tombolo ist ein charakteristischer Strandabschnitt in Sai Kung.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "Sha Ha ist ein lokaler Strand in Sai Kung, der zum Entspannen einlädt.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "Pyramid Hill ist ein markanter, pyramidenförmiger Berggipfel in Sai Kung.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "Der Man Yee Playground ist ein öffentlicher Spielplatz und Park in Sai Kung.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Ngong Ping Viewing Point in Sai Kung", "text": "Der Ngong Ping Viewing Point in Sai Kung bietet einen fantastischen Panoramablick auf die Umgebung.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "Canoe Rock ist eine natürliche Felsformation und Sehenswürdigkeit in Sai Kung.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "白沙洲", "text": "白沙洲 ist eine landschaftliche Attraktion in Sai Kung.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "大鏟洲", "text": "大鏟洲 ist ein lokales Ausflugsziel und eine Attraktion in Sai Kung.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "中尉石室", "text": "中尉石室 ist eine einzigartige Sehenswürdigkeit in der Gegend von Sai Kung.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "Die Sai Kung Seafood Street ist eine berühmte Attraktion für Liebhaber von frischen Meeresfrüchten.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "佛光寺", "text": "佛光寺 ist eine kulturelle und religiöse Sehenswürdigkeit in Sai Kung.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "聯達五鄉公立學校", "text": "聯達五鄉公立學校 sind die historischen Überreste einer ehemaligen öffentlichen Schule in Sai Kung.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "Der Shui Long Wo Star Lookout ist ein Beobachtungspunkt für Sterngucker in Sai Kung.", "category": "landmark", "coords": [114.277093, 22.404667]}], "hu": [{"name": "三星灣泳灘 Trio Beach", "text": "Festői homokos strandjával a Trio Beach a pihenni vágyókat Sai Kungba vonzza. Hongkong partvidéke itt lágy hullámokkal és természetközeli környezettel mutatkozik be. A látogatók szeretnek itt úszni, vagy egyszerűen csak lazítani a vízparton. Meleg napokon érdemes korán érkezni, hogy a legjobb árnyékos helyet foglalhassuk el.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "橋咀泳灘 Kiu Tsui Beach", "text": "A Sai Kung melletti Sharp Island-en található Kiu Tsui Beach népszerű fürdőstrandként vonzza a látogatókat. A hongkongi szigetvilág itt egy különleges tengeri élményt nyújt, partvidéki tájakkal övezve. A strandolók napozással és a tengerben tett frissítő körökkel töltik idejüket. A szigetre való utazáshoz egy kényelmes cipő erősen ajánlott.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Sai Kung-i Lions Nature Education Centre", "text": "A Sai Kung-i Lions Nature Education Centre egy természetvédelmi és oktatási múzeum.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "A Kiu Tsui Pai egy világítótorony Sai Kung partvidékén.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Sai Kung-i Volcano Discovery Centre", "text": "A Sai Kung-i Volcano Discovery Centre a régió geológiai történelmét bemutató múzeum.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "A Tombolo egy jellegzetes strand Sai Kung területén.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "A Sha Ha egy helyi strand Sai Kungban, amely tökéletes a pihenésre.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "A Pyramid Hill egy jellegzetes, piramis alakú hegycsúcs Sai Kung területén.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "A Man Yee Playground egy nyilvános játszótér és park Sai Kung területén.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Sai Kung-i Ngong Ping Viewing Point csodálatos panorámát nyújt", "text": "A Sai Kung-i Ngong Ping Viewing Point csodálatos panorámát nyújt a környékre.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "A Canoe Rock egy természetes sziklaképződmény és látványosság Sai Kungban.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "白沙洲", "text": "A 白沙洲 egy természeti látványosság Sai Kung területén.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "大鏟洲", "text": "A 大鏟洲 egy érdekes látnivaló Sai Kung területén.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "中尉石室", "text": "A 中尉石室 egy egyedi látványosság Sai Kung környékén.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "A Sai Kung Seafood Street egy híres gasztronómiai látványosság a friss tengeri ételeket kedvelők számára.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "佛光寺", "text": "A 佛光寺 egy kulturális és vallási látványosság Sai Kung területén.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "聯達五鄉公立學校", "text": "A 聯達五鄉公立學校 egy egykori állami iskola történelmi romja Sai Kungban.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "A Shui Long Wo Star Lookout egy csillagászati megfigyelőhely Sai Kung területén.", "category": "landmark", "coords": [114.277093, 22.404667]}], "ro": [{"name": "三星灣泳灘 Trio Beach", "text": "Cu plaja sa pitorească de nisip, Trio Beach atrage persoanele care caută relaxare în Sai Kung. Coasta din Hong Kong se prezintă aici cu valuri blânde și un mediu apropiat de natură. Vizitatorilor le place să înoate aici sau să se relaxeze la marginea apei. În zilele călduroase, sosirea devreme merită efortul pentru a prinde cel mai bun loc la umbră.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "橋咀泳灘 Kiu Tsui Beach", "text": "Situată pe insula Sharp lângă Sai Kung, Kiu Tsui Beach atrage vizitatorii ca o plajă populară. Lumea insulară din Hong Kong oferă aici o experiență maritimă specială, încadrată de peisaje de coastă. Oaspeții plajei își petrec timpul făcând plajă și înotând revigorant în mare. O pereche confortabilă de pantofi este foarte recomandată pentru călătoria pe insulă.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Lions Nature Education Centre din Sai Kung", "text": "Lions Nature Education Centre din Sai Kung este un muzeu dedicat educației despre natură și mediu.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "Kiu Tsui Pai este un far situat în regiunea de coastă a orașului Sai Kung.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Volcano Discovery Centre din Sai Kung", "text": "Volcano Discovery Centre din Sai Kung este un muzeu axat pe istoria geologică a regiunii.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "Tombolo este o plajă caracteristică situată în Sai Kung.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "Sha Ha este o plajă locală din Sai Kung, potrivită pentru relaxare.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "Pyramid Hill este un vârf montan distinctiv, în formă de piramidă, situat în Sai Kung.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "Man Yee Playground este un parc public și loc de joacă din Sai Kung.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "昂平觀景台 Ngong Ping Viewing Point", "text": "Ngong Ping Viewing Point din Sai Kung oferă o priveliște panoramică excelentă asupra împrejurimilor.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "Canoe Rock este o formațiune stâncoasă naturală și o atracție în Sai Kung.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "白沙洲", "text": "白沙洲 este o atracție naturală situată în Sai Kung.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "大鏟洲", "text": "大鏟洲 este o atracție turistică interesantă din Sai Kung.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "中尉石室", "text": "中尉石室 este o atracție turistică unică din zona Sai Kung.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "Sai Kung Seafood Street este o atracție faimoasă pentru restaurantele sale cu fructe de mare proaspete.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "佛光寺", "text": "佛光寺 este o atracție culturală și religioasă din Sai Kung.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "聯達五鄉公立學校", "text": "聯達五鄉公立學校 reprezintă ruinele istorice ale unei foste școli publice din Sai Kung.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "Shui Long Wo Star Lookout este un punct de observare astronomică situat în Sai Kung.", "category": "landmark", "coords": [114.277093, 22.404667]}], "en": [{"name": "Trio Beach", "text": "With its picturesque sandy beach, Trio Beach attracts relaxation seekers to Sai Kung. The Hong Kong coastline presents itself here with gentle waves and a close-to-nature environment. Visitors love to swim here or relax at the water's edge. On warm days, an early arrival is worthwhile to grab the best shady spot.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "Kiu Tsui Beach", "text": "Located on Sharp Island near Sai Kung, Kiu Tsui Beach beckons as a popular bathing beach. The Hong Kong island world offers a special maritime experience here, framed by coastal landscapes. Beachgoers spend their time sunbathing and taking refreshing swims in the sea. A comfortable pair of shoes is highly recommended for the journey to the island.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Lions Nature Education Centre", "text": "The Lions Nature Education Centre in Sai Kung is a museum dedicated to environmental and nature education.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "Kiu Tsui Pai is a lighthouse located in the coastal area of Sai Kung.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Volcano Discovery Centre", "text": "The Volcano Discovery Centre in Sai Kung is a museum exhibiting the geological history of the region.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "Tombolo is a distinct beach area located in Sai Kung.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "Sha Ha is a local beach in Sai Kung offering a spot for relaxation.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "Pyramid Hill is a distinctive, pyramid-shaped peak located in Sai Kung.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "Man Yee Playground is a public park and recreational area in Sai Kung.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Ngong Ping Viewing Point", "text": "Ngong Ping Viewing Point in Sai Kung offers an excellent panoramic view of the surrounding landscape.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "Canoe Rock is a natural rock formation and visitor attraction in Sai Kung.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "白沙洲", "text": "白沙洲 is a natural scenic attraction located in Sai Kung.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "大鏟洲", "text": "大鏟洲 is a point of interest and attraction in Sai Kung.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "中尉石室", "text": "中尉石室 is a unique visitor attraction situated in the Sai Kung area.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "Sai Kung Seafood Street is a famous culinary attraction known for its fresh seafood restaurants.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "佛光寺", "text": "佛光寺 is a cultural and religious attraction located in Sai Kung.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "聯達五鄉公立學校", "text": "聯達五鄉公立學校 features the historic ruins of a former public school in Sai Kung.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "Shui Long Wo Star Lookout is an astronomical observation point located in Sai Kung.", "category": "landmark", "coords": [114.277093, 22.404667]}]},
+    id: "hongkong-sai-kung-cities-v2", "sights": {"de": [{"name": "Trio Beach", "text": "Mit seinem malerischen Sandstrand zieht der Trio Beach Erholungssuchende nach Sai Kung. Die Küste Hongkongs präsentiert sich hier mit sanften Wellen und einer naturnahen Umgebung. Besucher lieben es, hier zu schwimmen oder an der Wasserlinie zu entspannen. An warmen Tagen lohnt sich eine frühe Ankunft, um den besten Schattenplatz zu ergattern.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "Kiu Tsui Beach", "text": "Auf Sharp Island bei Sai Kung gelegen, lockt der Kiu Tsui Beach als beliebter Badestrand. Die Hongkonger Inselwelt bietet hier ein maritimes Erlebnis der besonderen Art, umrahmt von Küstenlandschaften. Strandgänger verbringen ihre Zeit mit Sonnenbaden und erfrischenden Runden im Meer. Ein bequemes Paar Schuhe für die Anreise zur Insel ist sehr zu empfehlen.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Lions Nature Education Centre in Sai Kung", "text": "Das Lions Nature Education Centre in Sai Kung ist ein Museum, das sich der Natur- und Umwelterziehung widmet.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "Kiu Tsui Pai ist ein Leuchtturm in der Küstenregion von Sai Kung.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Volcano Discovery Centre in Sai Kung", "text": "Das Volcano Discovery Centre in Sai Kung ist ein Museum zur geologischen Geschichte der Region.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "Tombolo ist ein charakteristischer Strandabschnitt in Sai Kung.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "Sha Ha ist ein lokaler Strand in Sai Kung, der zum Entspannen einlädt.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "Pyramid Hill ist ein markanter, pyramidenförmiger Berggipfel in Sai Kung.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "Der Man Yee Playground ist ein öffentlicher Spielplatz und Park in Sai Kung.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Ngong Ping Viewing Point in Sai Kung", "text": "Der Ngong Ping Viewing Point in Sai Kung bietet einen fantastischen Panoramablick auf die Umgebung.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "Canoe Rock ist eine natürliche Felsformation und Sehenswürdigkeit in Sai Kung.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "Pak Sha Chau", "text": "白沙洲 ist eine landschaftliche Attraktion in Sai Kung.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "Tai Chan Chau", "text": "大鏟洲 ist ein lokales Ausflugsziel und eine Attraktion in Sai Kung.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "Lieutenant's Stone Chamber", "text": "中尉石室 ist eine einzigartige Sehenswürdigkeit in der Gegend von Sai Kung.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "Die Sai Kung Seafood Street ist eine berühmte Attraktion für Liebhaber von frischen Meeresfrüchten.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "Fat Kwong Temple", "text": "佛光寺 ist eine kulturelle und religiöse Sehenswürdigkeit in Sai Kung.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "Luen Tat Five Villages Public School", "text": "聯達五鄉公立學校 sind die historischen Überreste einer ehemaligen öffentlichen Schule in Sai Kung.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "Der Shui Long Wo Star Lookout ist ein Beobachtungspunkt für Sterngucker in Sai Kung.", "category": "landmark", "coords": [114.277093, 22.404667]}], "hu": [{"name": "Trio Beach", "text": "Festői homokos strandjával a Trio Beach a pihenni vágyókat Sai Kungba vonzza. Hongkong partvidéke itt lágy hullámokkal és természetközeli környezettel mutatkozik be. A látogatók szeretnek itt úszni, vagy egyszerűen csak lazítani a vízparton. Meleg napokon érdemes korán érkezni, hogy a legjobb árnyékos helyet foglalhassuk el.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "Kiu Tsui Beach", "text": "A Sai Kung melletti Sharp Island-en található Kiu Tsui Beach népszerű fürdőstrandként vonzza a látogatókat. A hongkongi szigetvilág itt egy különleges tengeri élményt nyújt, partvidéki tájakkal övezve. A strandolók napozással és a tengerben tett frissítő körökkel töltik idejüket. A szigetre való utazáshoz egy kényelmes cipő erősen ajánlott.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Sai Kung-i Lions Nature Education Centre", "text": "A Sai Kung-i Lions Nature Education Centre egy természetvédelmi és oktatási múzeum.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "A Kiu Tsui Pai egy világítótorony Sai Kung partvidékén.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Sai Kung-i Volcano Discovery Centre", "text": "A Sai Kung-i Volcano Discovery Centre a régió geológiai történelmét bemutató múzeum.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "A Tombolo egy jellegzetes strand Sai Kung területén.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "A Sha Ha egy helyi strand Sai Kungban, amely tökéletes a pihenésre.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "A Pyramid Hill egy jellegzetes, piramis alakú hegycsúcs Sai Kung területén.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "A Man Yee Playground egy nyilvános játszótér és park Sai Kung területén.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Sai Kung-i Ngong Ping Viewing Point csodálatos panorámát nyújt", "text": "A Sai Kung-i Ngong Ping Viewing Point csodálatos panorámát nyújt a környékre.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "A Canoe Rock egy természetes sziklaképződmény és látványosság Sai Kungban.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "Pak Sha Chau", "text": "A 白沙洲 egy természeti látványosság Sai Kung területén.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "Tai Chan Chau", "text": "A 大鏟洲 egy érdekes látnivaló Sai Kung területén.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "Lieutenant's Stone Chamber", "text": "A 中尉石室 egy egyedi látványosság Sai Kung környékén.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "A Sai Kung Seafood Street egy híres gasztronómiai látványosság a friss tengeri ételeket kedvelők számára.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "Fat Kwong Temple", "text": "A 佛光寺 egy kulturális és vallási látványosság Sai Kung területén.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "Luen Tat Five Villages Public School", "text": "A 聯達五鄉公立學校 egy egykori állami iskola történelmi romja Sai Kungban.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "A Shui Long Wo Star Lookout egy csillagászati megfigyelőhely Sai Kung területén.", "category": "landmark", "coords": [114.277093, 22.404667]}], "ro": [{"name": "Trio Beach", "text": "Cu plaja sa pitorească de nisip, Trio Beach atrage persoanele care caută relaxare în Sai Kung. Coasta din Hong Kong se prezintă aici cu valuri blânde și un mediu apropiat de natură. Vizitatorilor le place să înoate aici sau să se relaxeze la marginea apei. În zilele călduroase, sosirea devreme merită efortul pentru a prinde cel mai bun loc la umbră.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "Kiu Tsui Beach", "text": "Situată pe insula Sharp lângă Sai Kung, Kiu Tsui Beach atrage vizitatorii ca o plajă populară. Lumea insulară din Hong Kong oferă aici o experiență maritimă specială, încadrată de peisaje de coastă. Oaspeții plajei își petrec timpul făcând plajă și înotând revigorant în mare. O pereche confortabilă de pantofi este foarte recomandată pentru călătoria pe insulă.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Lions Nature Education Centre din Sai Kung", "text": "Lions Nature Education Centre din Sai Kung este un muzeu dedicat educației despre natură și mediu.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "Kiu Tsui Pai este un far situat în regiunea de coastă a orașului Sai Kung.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Volcano Discovery Centre din Sai Kung", "text": "Volcano Discovery Centre din Sai Kung este un muzeu axat pe istoria geologică a regiunii.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "Tombolo este o plajă caracteristică situată în Sai Kung.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "Sha Ha este o plajă locală din Sai Kung, potrivită pentru relaxare.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "Pyramid Hill este un vârf montan distinctiv, în formă de piramidă, situat în Sai Kung.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "Man Yee Playground este un parc public și loc de joacă din Sai Kung.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Ngong Ping Viewing Point", "text": "Ngong Ping Viewing Point din Sai Kung oferă o priveliște panoramică excelentă asupra împrejurimilor.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "Canoe Rock este o formațiune stâncoasă naturală și o atracție în Sai Kung.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "Pak Sha Chau", "text": "白沙洲 este o atracție naturală situată în Sai Kung.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "Tai Chan Chau", "text": "大鏟洲 este o atracție turistică interesantă din Sai Kung.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "Lieutenant's Stone Chamber", "text": "中尉石室 este o atracție turistică unică din zona Sai Kung.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "Sai Kung Seafood Street este o atracție faimoasă pentru restaurantele sale cu fructe de mare proaspete.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "Fat Kwong Temple", "text": "佛光寺 este o atracție culturală și religioasă din Sai Kung.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "Luen Tat Five Villages Public School", "text": "聯達五鄉公立學校 reprezintă ruinele istorice ale unei foste școli publice din Sai Kung.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "Shui Long Wo Star Lookout este un punct de observare astronomică situat în Sai Kung.", "category": "landmark", "coords": [114.277093, 22.404667]}], "en": [{"name": "Trio Beach", "text": "With its picturesque sandy beach, Trio Beach attracts relaxation seekers to Sai Kung. The Hong Kong coastline presents itself here with gentle waves and a close-to-nature environment. Visitors love to swim here or relax at the water's edge. On warm days, an early arrival is worthwhile to grab the best shady spot.", "category": "recreational", "coords": [114.267744, 22.357552]}, {"name": "Kiu Tsui Beach", "text": "Located on Sharp Island near Sai Kung, Kiu Tsui Beach beckons as a popular bathing beach. The Hong Kong island world offers a special maritime experience here, framed by coastal landscapes. Beachgoers spend their time sunbathing and taking refreshing swims in the sea. A comfortable pair of shoes is highly recommended for the journey to the island.", "category": "recreational", "coords": [114.28873, 22.368107]}, {"name": "Lions Nature Education Centre", "text": "The Lions Nature Education Centre in Sai Kung is a museum dedicated to environmental and nature education.", "category": "museum", "coords": [114.264294, 22.374264]}, {"name": "Kiu Tsui Pai", "text": "Kiu Tsui Pai is a lighthouse located in the coastal area of Sai Kung.", "category": "landmark", "coords": [114.284617, 22.362133]}, {"name": "Volcano Discovery Centre", "text": "The Volcano Discovery Centre in Sai Kung is a museum exhibiting the geological history of the region.", "category": "museum", "coords": [114.274086, 22.3824]}, {"name": "Tombolo", "text": "Tombolo is a distinct beach area located in Sai Kung.", "category": "recreational", "coords": [114.287894, 22.365168]}, {"name": "Sha Ha", "text": "Sha Ha is a local beach in Sai Kung offering a spot for relaxation.", "category": "recreational", "coords": [114.276203, 22.388809]}, {"name": "Pyramid Hill", "text": "Pyramid Hill is a distinctive, pyramid-shaped peak located in Sai Kung.", "category": "natural", "coords": [114.252831, 22.396764]}, {"name": "Man Yee Playground", "text": "Man Yee Playground is a public park and recreational area in Sai Kung.", "category": "park", "coords": [114.271984, 22.381264]}, {"name": "Ngong Ping Viewing Point", "text": "Ngong Ping Viewing Point in Sai Kung offers an excellent panoramic view of the surrounding landscape.", "category": "natural", "coords": [114.252877, 22.390974]}, {"name": "Canoe Rock", "text": "Canoe Rock is a natural rock formation and visitor attraction in Sai Kung.", "category": "landmark", "coords": [114.246236, 22.396418]}, {"name": "Pak Sha Chau", "text": "白沙洲 is a natural scenic attraction located in Sai Kung.", "category": "landmark", "coords": [114.28734, 22.376212]}, {"name": "Tai Chan Chau", "text": "大鏟洲 is a point of interest and attraction in Sai Kung.", "category": "landmark", "coords": [114.29068, 22.375472]}, {"name": "Lieutenant's Stone Chamber", "text": "中尉石室 is a unique visitor attraction situated in the Sai Kung area.", "category": "landmark", "coords": [114.244703, 22.392815]}, {"name": "Sai Kung Seafood Street", "text": "Sai Kung Seafood Street is a famous culinary attraction known for its fresh seafood restaurants.", "category": "landmark", "coords": [114.272123, 22.379465]}, {"name": "Fat Kwong Temple", "text": "佛光寺 is a cultural and religious attraction located in Sai Kung.", "category": "landmark", "coords": [114.258504, 22.368288]}, {"name": "Luen Tat Five Villages Public School", "text": "聯達五鄉公立學校 features the historic ruins of a former public school in Sai Kung.", "category": "historical", "coords": [114.246385, 22.382965]}, {"name": "Shui Long Wo Star Lookout", "text": "Shui Long Wo Star Lookout is an astronomical observation point located in Sai Kung.", "category": "landmark", "coords": [114.277093, 22.404667]}]},
     parent: "HK",
     type: "town",
     name: { de: "Sai Kung", hu: "Sai Kung", ro: "Sai Kung", en: "Sai Kung" },
@@ -7908,7 +7908,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "Denkmal des Abzeichens des Royal Hong Kong Regiment in Sheung Shui.",
                   "category": "historical",
                   "coords": [
@@ -7917,7 +7917,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "龍躍頭天后宮 Tin Hau Temple, Lung Yeuk Tau",
+                  "name": "Tin Hau Temple, Lung Yeuk Tau",
                   "text": "Traditioneller Tin Hau Tempel in Lung Yeuk Tau, Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -7926,7 +7926,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北區大會堂 North District Town Hall",
+                  "name": "North District Town Hall",
                   "text": "Gemeindehaus im North District, Sheung Shui.",
                   "category": "historical",
                   "coords": [
@@ -7935,7 +7935,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃帝祠 The Emperor Hall",
+                  "name": "The Emperor Hall",
                   "text": "Beeindruckende Kaiserhalle in Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -7944,7 +7944,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港觀宗寺 Hong Kong Kun Chung Temple",
+                  "name": "Hong Kong Kun Chung Temple",
                   "text": "Hong Kong Kun Chung Tempel in Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -7953,7 +7953,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖若瑟堂 St. Joseph's Church Fanling",
+                  "name": "St. Joseph's Church",
                   "text": "St. Joseph Kirche in Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -8090,7 +8090,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "A Royal Hong Kong Regiment jelvényének emlékműve Sheung Shuiban.",
                   "category": "historical",
                   "coords": [
@@ -8099,7 +8099,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "龍躍頭天后宮 Tin Hau Temple, Lung Yeuk Tau",
+                  "name": "Tin Hau Temple, Lung Yeuk Tau",
                   "text": "Hagyományos Tin Hau templom Lung Yeuk Tauban, Sheung Shuiban.",
                   "category": "religious",
                   "coords": [
@@ -8108,7 +8108,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北區大會堂 North District Town Hall",
+                  "name": "North District Town Hall",
                   "text": "Közösségi ház a North Districtben, Sheung Shuiban.",
                   "category": "historical",
                   "coords": [
@@ -8117,7 +8117,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃帝祠 The Emperor Hall",
+                  "name": "The Emperor Hall",
                   "text": "Lenyűgöző császári csarnok Sheung Shuiban.",
                   "category": "religious",
                   "coords": [
@@ -8126,7 +8126,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港觀宗寺 Hong Kong Kun Chung Temple",
+                  "name": "Hong Kong Kun Chung Temple",
                   "text": "Hong Kong Kun Chung templom Sheung Shuiban.",
                   "category": "religious",
                   "coords": [
@@ -8135,7 +8135,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖若瑟堂 St. Joseph's Church Fanling",
+                  "name": "St. Joseph's Church",
                   "text": "Szent József-templom Sheung Shuiban.",
                   "category": "religious",
                   "coords": [
@@ -8272,7 +8272,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "Monument al emblemei Regimentului Regal din Hong Kong în Sheung Shui.",
                   "category": "historical",
                   "coords": [
@@ -8281,7 +8281,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "龍躍頭天后宮 Tin Hau Temple, Lung Yeuk Tau",
+                  "name": "Tin Hau Temple, Lung Yeuk Tau",
                   "text": "Templul tradițional Tin Hau din Lung Yeuk Tau, Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -8290,7 +8290,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北區大會堂 North District Town Hall",
+                  "name": "North District Town Hall",
                   "text": "Primăria Districtului de Nord din Sheung Shui.",
                   "category": "historical",
                   "coords": [
@@ -8299,7 +8299,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃帝祠 The Emperor Hall",
+                  "name": "The Emperor Hall",
                   "text": "Impunătoarea Sală a Împăratului din Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -8308,7 +8308,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港觀宗寺 Hong Kong Kun Chung Temple",
+                  "name": "Hong Kong Kun Chung Temple",
                   "text": "Templul Hong Kong Kun Chung din Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -8317,7 +8317,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖若瑟堂 St. Joseph's Church Fanling",
+                  "name": "St. Joseph's Church",
                   "text": "Biserica Sf. Iosif din Sheung Shui.",
                   "category": "religious",
                   "coords": [
@@ -8454,7 +8454,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "Monument of the Royal Hong Kong Regiment badge in Sheung Shui.",
                   "category": "historical",
                   "coords": [
@@ -8664,7 +8664,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "芳名碑",
+                  "name": "Monument of Names",
                   "text": "Das 芳名碑 ist ein historisches Denkmal in Fanling.",
                   "category": "historical",
                   "coords": [
@@ -8673,7 +8673,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "來發公園",
+                  "name": "Loi Fat Park",
                   "text": "來發公園 ist eine als Denkmal klassifizierte Stätte in Fanling.",
                   "category": "historical",
                   "coords": [
@@ -8682,7 +8682,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "城門新村 ist ein historisches Dorf und Denkmal in der Region Fanling.",
                   "category": "historical",
                   "coords": [
@@ -8691,7 +8691,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "前皇家香港軍團義勇軍軍徽 ist ein historisches militärisches Denkmal in Fanling.",
                   "category": "historical",
                   "coords": [
@@ -8846,7 +8846,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北大刀屻觀景臺 Pak Tai To Yan Viewing Point",
+                  "name": "Pak Tai To Yan Viewing Point",
                   "text": "A Pak Tai To Yan Viewing Point kiváló kilátást nyújt Fanling vidékére.",
                   "category": "natural",
                   "coords": [
@@ -8855,7 +8855,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "芳名碑",
+                  "name": "Monument of Names",
                   "text": "A 芳名碑 egy történelmi emlékmű Fanling területén.",
                   "category": "historical",
                   "coords": [
@@ -8864,7 +8864,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "來發公園",
+                  "name": "Loi Fat Park",
                   "text": "A 來發公園 egy emlékműként számon tartott helyszín Fanlingban.",
                   "category": "historical",
                   "coords": [
@@ -8873,7 +8873,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "A 城門新村 egy történelmi falu és műemlék Fanling régiójában.",
                   "category": "historical",
                   "coords": [
@@ -8882,7 +8882,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "A 前皇家香港軍團義勇軍軍徽 egy történelmi katonai emlékmű Fanlingban.",
                   "category": "historical",
                   "coords": [
@@ -9037,7 +9037,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北大刀屻觀景臺 Pak Tai To Yan Viewing Point",
+                  "name": "Pak Tai To Yan Viewing Point",
                   "text": "Pak Tai To Yan Viewing Point oferă o priveliște excelentă asupra orașului Fanling.",
                   "category": "natural",
                   "coords": [
@@ -9046,7 +9046,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "芳名碑",
+                  "name": "Monument of Names",
                   "text": "芳名碑 este un monument istoric situat în Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9055,7 +9055,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "來發公園",
+                  "name": "Loi Fat Park",
                   "text": "來發公園 este un sit clasificat ca monument în Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9064,7 +9064,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "城門新村 este un sat istoric și monument din regiunea Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9073,7 +9073,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "前皇家香港軍團義勇軍軍徽 este un monument istoric militar situat în Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9237,7 +9237,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "芳名碑",
+                  "name": "Monument of Names",
                   "text": "芳名碑 is a historical monument located in Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9246,7 +9246,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "來發公園",
+                  "name": "Loi Fat Park",
                   "text": "來發公園 is a recognized monumental site located in Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9255,7 +9255,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "城門新村 is a historical village and monument site in the Fanling region.",
                   "category": "historical",
                   "coords": [
@@ -9264,7 +9264,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "前皇家香港軍團義勇軍軍徽 is a historical military monument located in Fanling.",
                   "category": "historical",
                   "coords": [
@@ -9411,7 +9411,7 @@ export const hongkongCitiesV2: POI[] = [
     id: "hongkong-tin-shui-wai-cities-v2", "sights": {
       "de": [
             {
-                  "name": "靈渡寺 Ling To Monastery",
+                  "name": "Ling To Monastery",
                   "text": "Friedliches Ling To Kloster in Tin Shui Wai.",
                   "category": "religious",
                   "coords": [
@@ -9510,7 +9510,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Historisches Gebäude Tat Tak Kung So in Tin Shui Wai.",
                   "category": "landmark",
                   "coords": [
@@ -9519,7 +9519,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "錫降村遊樂場 Sik Kong Tsuen Playground",
+                  "name": "Sik Kong Tsuen Playground",
                   "text": "Spielplatz Sik Kong Tsuen in Tin Shui Wai.",
                   "category": "park",
                   "coords": [
@@ -9528,7 +9528,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏夏路花園 Ping Ha Road Garden",
+                  "name": "Ping Ha Road Garden",
                   "text": "Garten Ping Ha Road in Tin Shui Wai.",
                   "category": "park",
                   "coords": [
@@ -9564,7 +9564,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廈村鄧氏宗祠 Tang Ancestral Hall, Ha Tsuen",
+                  "name": "Tang Ancestral Hall, Ha Tsuen",
                   "text": "Ahnenhalle der Familie Tang in Tin Shui Wai.",
                   "category": "historical",
                   "coords": [
@@ -9584,7 +9584,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "靈渡寺 Ling To Monastery",
+                  "name": "Ling To Monastery",
                   "text": "Békés Ling To kolostor Tin Shui Waiban.",
                   "category": "religious",
                   "coords": [
@@ -9683,7 +9683,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Történelmi Tat Tak Kung So épület Tin Shui Waiban.",
                   "category": "landmark",
                   "coords": [
@@ -9692,7 +9692,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "錫降村遊樂場 Sik Kong Tsuen Playground",
+                  "name": "Sik Kong Tsuen Playground",
                   "text": "Sik Kong Tsuen játszótér Tin Shui Waiban.",
                   "category": "park",
                   "coords": [
@@ -9701,7 +9701,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏夏路花園 Ping Ha Road Garden",
+                  "name": "Ping Ha Road Garden",
                   "text": "Ping Ha Road kert Tin Shui Waiban.",
                   "category": "park",
                   "coords": [
@@ -9737,7 +9737,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廈村鄧氏宗祠 Tang Ancestral Hall, Ha Tsuen",
+                  "name": "Tang Ancestral Hall, Ha Tsuen",
                   "text": "A Tang család ősi csarnoka Tin Shui Waiban.",
                   "category": "historical",
                   "coords": [
@@ -9757,7 +9757,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "靈渡寺 Ling To Monastery",
+                  "name": "Ling To Monastery",
                   "text": "Mănăstirea liniștită Ling To din Tin Shui Wai.",
                   "category": "religious",
                   "coords": [
@@ -9856,7 +9856,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Clădire istorică Tat Tak Kung So în Tin Shui Wai.",
                   "category": "landmark",
                   "coords": [
@@ -9865,7 +9865,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "錫降村遊樂場 Sik Kong Tsuen Playground",
+                  "name": "Sik Kong Tsuen Playground",
                   "text": "Loc de joacă Sik Kong Tsuen în Tin Shui Wai.",
                   "category": "park",
                   "coords": [
@@ -9874,7 +9874,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏夏路花園 Ping Ha Road Garden",
+                  "name": "Ping Ha Road Garden",
                   "text": "Grădina Ping Ha Road în Tin Shui Wai.",
                   "category": "park",
                   "coords": [
@@ -9910,7 +9910,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廈村鄧氏宗祠 Tang Ancestral Hall, Ha Tsuen",
+                  "name": "Tang Ancestral Hall, Ha Tsuen",
                   "text": "Sala ancestrală a familiei Tang în Tin Shui Wai.",
                   "category": "historical",
                   "coords": [
@@ -10029,7 +10029,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "Historic building Tat Tak Kung So in Tin Shui Wai.",
                   "category": "landmark",
                   "coords": [
@@ -10146,7 +10146,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-tin-shui-wai-cities-v2.webp",
   },
   {
-    id: "hongkong-tsing-yi-cities-v2", "sights": {"de": [{"name": "Kwai Tsing Theatre", "text": "Das Kwai Tsing Theatre ist ein bekanntes Theater für darstellende Künste in Tsing Yi.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "近水灣泳灘 Approach Beach", "text": "In Tsing Yi erfreut sich der Approach Beach als bekannter öffentlicher Strand großer Beliebtheit. Die maritime Atmosphäre dieses Hongkonger Küstenabschnitts ist durch eine lebhafte, aber entspannte Stimmung geprägt. Gäste schätzen die Gelegenheit zum Schwimmen und für Spaziergänge entlang der Sandfläche. Für einen reibungslosen Strandtag sollten Handtuch und Sonnencreme nicht fehlen.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "Das South Tsing Yi SSSI ist ein Naturschutzgebiet in Tsing Yi.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "Der Lantau Link Viewing Point ist ein malerischer Aussichtspunkt in Tsing Yi.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "Sai Shan ist ein markanter Berggipfel in Tsing Yi.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "Der Sai Lau Kok Garden ist eine bekannte Parkanlage in Tsing Yi.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "Der Jockey Club Tak Wah Park ist ein bekannter öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "Der Sha Tsui Road Playground ist ein bekannter Park und Erholungsbereich in Tsing Yi.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "Der Sam Pei Square Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "Der Tsuen Wan Riviera Park ist ein bekannter Uferpark in Tsing Yi.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "Der Kwai Yi Road Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "Der Lai King Hill Road Playground ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "Der Central Kwai Chung Park ist eine prominente Grünfläche in Tsing Yi.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "Der Cheung Wan Street Rest Garden ist ein bekannter Park und Ruheplatz in Tsing Yi.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "Der Tsing Yi Four Village Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "Die Chuung Tat Road Sitting-out Area ist ein kleiner Park mit Sitzgelegenheiten in Tsing Yi.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "Der Chung Mei Road Temporary Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "Der Tsing Hung Road Playground ist ein Park in der Stadt Tsing Yi.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "Der Mei King Playground ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "Der Tsing Yi Park ist ein großer öffentlicher Park mit Freizeiteinrichtungen in Tsing Yi.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "Der Kwai Shing Circuit Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "Der Kwai Shing Playground ist ein bekannter Gemeindepark in Tsing Yi.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "Der Kwai Hop Street Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "Der Shing Mun Valley Park ist ein bekannter, weitläufiger Park in Tsing Yi.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "Der Kwai Chung Park ist ein bekannter öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "Der Kwai Chung San Kui Park ist eine bekannte grüne Erholungsfläche in Tsing Yi.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "Der Tsing Yi Road West Park ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "Der Tsuen Wing Street Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "Der Tai Wo Hau Road South Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "Der Tsuen King Circuit Garden ist ein öffentlicher Garten in Tsing Yi.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "Der Liu To Road Playground ist eine lokale Parkanlage in Tsing Yi.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "Der Tsing Yu Street Garden ist ein ruhiger Garten in Tsing Yi.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "Der Kwai Shun Street Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "Der Tai Wo Hau Road Playground ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "Der Tsing Yi Northeast Park ist ein bekannter öffentlicher Park mit Sportanlagen in Tsing Yi.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "Die Tsing Yi Promenade ist ein malerischer Uferpark in Tsing Yi.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "Der Hing Fong Road Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "Die Jockey Club Kwai Shing Circuit Sitting-out Area ist ein entspannender Garten in Tsing Yi.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "Das Rambler Channel Typhoon Shelter ist eine geschützte Bucht in Tsing Yi.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "Der Lai Chi Ling Road Lookout Point ist ein malerischer Aussichtspunkt in Tsing Yi.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "青山道六至六咪半村", "text": "青山道六至六咪半村 sind historische Ruinen in Tsing Yi.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "Die Dope! Gallery ist eine Kunstgalerie in Tsing Yi.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "Das Sam Tung Uk Museum ist ein bedeutendes historisches Hausmuseum in Tsing Yi.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "Der Tsuen Wan Tin Hau Temple ist eine bekannte Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "Die St. Thomas The Apostle Catholic Church ist eine Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing-Ma-Brücke", "text": "Die Tsing Ma Bridge ist eine bedeutende Hängebrücke, die nach Tsing Yi führt.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "Die Tsing Tsuen Bridge ist ein markantes Bauwerk in Tsing Yi.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "Die Kwai Tsing Bridge ist eine anerkannte Brückenverbindung in Tsing Yi.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "Die Cheung Tsing Bridge ist eine bekannte Brücke für den Verkehr in Tsing Yi.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "Der Tsing Tak Tong Tat-more Temple ist eine lokale Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "Die Crown of Thorns' Church ist eine bekannte Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.122519, 22.368165]}], "hu": [{"name": "Kwai Tsing Theatre", "text": "A Kwai Tsing Theatre egy jelentős színház Tsing Yi városában.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "近水灣泳灘 Approach Beach", "text": "Tsing Yi területén az Approach Beach, mint ismert nyilvános strand, nagy népszerűségnek örvend. Ennek a hongkongi partszakasznak a tengeri atmoszféráját élénk, de mégis nyugodt hangulat jellemzi. A vendégek értékelik az úszás és a homokos felületen tett séták lehetőségét. A zavartalan strandoláshoz nem szabad megfeledkezni a törölközőről és a naptejről.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "A South Tsing Yi SSSI egy természetvédelmi terület Tsing Yi-ben.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "A Lantau Link Viewing Point egy festői kilátó Tsing Yi városában.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "A Sai Shan egy kiemelkedő hegycsúcs Tsing Yi-ben.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "A Sai Lau Kok Garden egy jól ismert park Tsing Yi-ben.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "A Jockey Club Tak Wah Park egy jelentős közpark Tsing Yi-ben.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "A Sha Tsui Road Playground egy elismert park és játszótér Tsing Yi-ben.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "A Sam Pei Square Playground egy helyi park Tsing Yi városában.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "A Tsuen Wan Riviera Park egy jelentős tengerparti park Tsing Yi-ben.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "A Kwai Yi Road Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "A Lai King Hill Road Playground egy közpark Tsing Yi-ben.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "A Central Kwai Chung Park egy kiemelkedő zöldterület Tsing Yi-ben.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "A Cheung Wan Street Rest Garden egy elismert pihenőpark Tsing Yi-ben.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "A Tsing Yi Four Village Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "A Chuung Tat Road Sitting-out Area egy kis park és pihenőhely Tsing Yi-ben.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "A Chung Mei Road Temporary Playground egy rekreációs park Tsing Yi-ben.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "A Tsing Hung Road Playground egy park Tsing Yi városában.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "A Mei King Playground egy közpark Tsing Yi-ben.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "A Tsing Yi Park egy jelentős közpark rekreációs létesítményekkel Tsing Yi-ben.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "A Kwai Shing Circuit Playground egy szabadidőpark Tsing Yi városában.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "A Kwai Shing Playground egy ismert közösségi park Tsing Yi-ben.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "A Kwai Hop Street Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "A Shing Mun Valley Park egy kiemelkedően nagy kiterjedésű park Tsing Yi-ben.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "A Kwai Chung Park egy elismert közpark Tsing Yi-ben.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "A Kwai Chung San Kui Park egy jelentős zöld rekreációs terület Tsing Yi-ben.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "A Tsing Yi Road West Park egy közpark Tsing Yi városában.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "A Tsuen Wing Street Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "A Tai Wo Hau Road South Playground egy rekreációs park Tsing Yi-ben.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "A Tsuen King Circuit Garden egy nyilvános kert Tsing Yi-ben.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "A Liu To Road Playground egy helyi park Tsing Yi városában.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "A Tsing Yu Street Garden egy csendes kert Tsing Yi-ben.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "A Kwai Shun Street Playground egy rekreációs park Tsing Yi-ben.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "A Tai Wo Hau Road Playground egy közpark Tsing Yi városában.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "A Tsing Yi Northeast Park egy sportlétesítményeket kínáló elismert park Tsing Yi-ben.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "A Tsing Yi Promenade egy festői tengerparti park Tsing Yi-ben.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "A Hing Fong Road Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "A Jockey Club Kwai Shing Circuit Sitting-out Area egy pihentető kert Tsing Yi-ben.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "A Rambler Channel Typhoon Shelter egy védett öböl Tsing Yi városában.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "A Lai Chi Ling Road Lookout Point egy kilátópont Tsing Yi-ben.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "青山道六至六咪半村", "text": "A 青山道六至六咪半村 történelmi romokat jelöl Tsing Yi-ben.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "A Dope! Gallery egy művészeti galéria Tsing Yi-ben.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "A Sam Tung Uk Museum egy jelentős történelmi házmúzeum Tsing Yi-ben.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "A Tsuen Wan Tin Hau Temple egy jelentős istentiszteleti hely Tsing Yi városában.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "A St. Thomas The Apostle Catholic Church egy vallási épület Tsing Yi-ben.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing Ma Bridge", "text": "A Tsing Ma Bridge egy jelentős függőhíd Tsing Yi-ben.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "A Tsing Tsuen Bridge egy kiemelkedő híd Tsing Yi városában.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "A Kwai Tsing Bridge egy elismert híd Tsing Yi-ben.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "A Cheung Tsing Bridge egy jelentős közlekedési híd Tsing Yi városában.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "A Tsing Tak Tong Tat-more Temple egy helyi istentiszteleti hely Tsing Yi-ben.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "A Crown of Thorns' Church egy jelentős istentiszteleti hely Tsing Yi-ben.", "category": "religious", "coords": [114.122519, 22.368165]}], "ro": [{"name": "Kwai Tsing Theatre", "text": "Kwai Tsing Theatre este un teatru notabil situat în Tsing Yi.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "近水灣泳灘 Approach Beach", "text": "În Tsing Yi, Approach Beach se bucură de o mare popularitate ca plajă publică bine-cunoscută. Atmosfera maritimă a acestei porțiuni de coastă din Hong Kong este caracterizată de o stare de spirit plină de viață, dar relaxată. Oaspeții apreciază oportunitatea de a înota și de a se plimba de-a lungul suprafeței de nisip. Pentru o zi de plajă fără probleme, prosopul și crema de protecție solară nu ar trebui să lipsească.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "South Tsing Yi SSSI este o rezervație naturală situată în Tsing Yi.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "Lantau Link Viewing Point este un punct de belvedere pitoresc situat în Tsing Yi.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "Sai Shan este un vârf montan proeminent situat în Tsing Yi.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "Sai Lau Kok Garden este un parc bine-cunoscut din Tsing Yi.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "Jockey Club Tak Wah Park este un parc public notabil situat în Tsing Yi.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "Sha Tsui Road Playground este un parc și o zonă de recreere recunoscută din Tsing Yi.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "Sam Pei Square Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "Tsuen Wan Riviera Park este un parc notabil pe malul apei situat în Tsing Yi.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "Kwai Yi Road Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "Lai King Hill Road Playground este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "Central Kwai Chung Park este un spațiu verde proeminent situat în Tsing Yi.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "Cheung Wan Street Rest Garden este un parc recunoscut ce oferă un spațiu de odihnă în Tsing Yi.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "Tsing Yi Four Village Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "Chuung Tat Road Sitting-out Area este un mic parc cu locuri de relaxare în Tsing Yi.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "Chung Mei Road Temporary Playground este un parc de recreere în Tsing Yi.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "Tsing Hung Road Playground este un parc situat în orașul Tsing Yi.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "Mei King Playground este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "Tsing Yi Park este un parc public major cu facilități de recreere în Tsing Yi.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "Kwai Shing Circuit Playground este un parc de recreere din Tsing Yi.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "Kwai Shing Playground este un parc comunitar notabil din Tsing Yi.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "Kwai Hop Street Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "Shing Mun Valley Park este un parc extins și proeminent din Tsing Yi.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "Kwai Chung Park este un parc public recunoscut situat în Tsing Yi.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "Kwai Chung San Kui Park este un spațiu verde de recreere notabil din Tsing Yi.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "Tsing Yi Road West Park este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "Tsuen Wing Street Playground este un parc local din Tsing Yi.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "Tai Wo Hau Road South Playground este un parc de recreere în Tsing Yi.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "Tsuen King Circuit Garden este o grădină publică situată în Tsing Yi.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "Liu To Road Playground este un spațiu verde local din Tsing Yi.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "Tsing Yu Street Garden este o grădină liniștită situată în Tsing Yi.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "Kwai Shun Street Playground este un parc de recreere în Tsing Yi.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "Tai Wo Hau Road Playground este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "Tsing Yi Northeast Park este un parc public recunoscut, cu facilități sportive în Tsing Yi.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "Tsing Yi Promenade este un parc pitoresc pe malul mării situat în Tsing Yi.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "Hing Fong Road Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "Jockey Club Kwai Shing Circuit Sitting-out Area este o grădină relaxantă în Tsing Yi.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "Rambler Channel Typhoon Shelter este un golf protejat situat în Tsing Yi.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "Lai Chi Ling Road Lookout Point este un punct de observare panoramic în Tsing Yi.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "青山道六至六咪半村", "text": "青山道六至六咪半村 reprezintă niște ruine istorice situate în Tsing Yi.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "Dope! Gallery este o galerie de artă situată în Tsing Yi.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "Sam Tung Uk Museum este un notabil muzeu casă istorică situat în Tsing Yi.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "Tsuen Wan Tin Hau Temple este un lăcaș de cult notabil situat în Tsing Yi.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "St. Thomas The Apostle Catholic Church este un lăcaș de cult situat în Tsing Yi.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing Ma Bridge", "text": "Tsing Ma Bridge este un pod suspendat major care face legătura cu Tsing Yi.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "Tsing Tsuen Bridge este un pod proeminent situat în Tsing Yi.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "Kwai Tsing Bridge este un pod recunoscut ce conectează Tsing Yi.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "Cheung Tsing Bridge este un pod notabil ce facilitează transportul în Tsing Yi.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "Tsing Tak Tong Tat-more Temple este un lăcaș de cult local din Tsing Yi.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "Crown of Thorns' Church este un lăcaș de cult notabil din Tsing Yi.", "category": "religious", "coords": [114.122519, 22.368165]}], "en": [{"name": "Kwai Tsing Theatre", "text": "Kwai Tsing Theatre is a notable performing arts venue located in Tsing Yi.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "Approach Beach", "text": "In Tsing Yi, Approach Beach enjoys great popularity as a well-known public beach. The maritime atmosphere of this Hong Kong coastal stretch is characterized by a lively yet relaxed mood. Guests appreciate the opportunity for swimming and walks along the sandy surface. A towel and sunscreen should not be missing for a smooth beach day.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "South Tsing Yi SSSI is a nature reserve situated in Tsing Yi.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "Lantau Link Viewing Point is a scenic viewpoint located in Tsing Yi.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "Sai Shan is a prominent mountain peak located in Tsing Yi.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "Sai Lau Kok Garden is a well-known park space in Tsing Yi.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "Jockey Club Tak Wah Park is a notable public park situated in Tsing Yi.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "Sha Tsui Road Playground is a recognized park and recreation area in Tsing Yi.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "Sam Pei Square Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "Tsuen Wan Riviera Park is a notable waterfront park located in Tsing Yi.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "Kwai Yi Road Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "Lai King Hill Road Playground is a public park located in Tsing Yi.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "Central Kwai Chung Park is a prominent green space located in Tsing Yi.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "Cheung Wan Street Rest Garden is a recognized park providing a resting space in Tsing Yi.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "Tsing Yi Four Village Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "Chuung Tat Road Sitting-out Area is a small park and seating area in Tsing Yi.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "Chung Mei Road Temporary Playground is a recreational park area in Tsing Yi.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "Tsing Hung Road Playground is a park situated in the city of Tsing Yi.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "Mei King Playground is a public park space located in Tsing Yi.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "Tsing Yi Park is a major public park offering recreational facilities in Tsing Yi.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "Kwai Shing Circuit Playground is a recreational park area in Tsing Yi.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "Kwai Shing Playground is a notable community park in Tsing Yi.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "Kwai Hop Street Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "Shing Mun Valley Park is a prominent expansive park in Tsing Yi.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "Kwai Chung Park is a recognized public park located in Tsing Yi.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "Kwai Chung San Kui Park is a notable green recreational space in Tsing Yi.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "Tsing Yi Road West Park is a public park located in Tsing Yi.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "Tsuen Wing Street Playground is a local park in Tsing Yi.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "Tai Wo Hau Road South Playground is a recreational park in Tsing Yi.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "Tsuen King Circuit Garden is a public garden located in Tsing Yi.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "Liu To Road Playground is a local park space in Tsing Yi.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "Tsing Yu Street Garden is a quiet garden situated in Tsing Yi.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "Kwai Shun Street Playground is a recreational park in Tsing Yi.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "Tai Wo Hau Road Playground is a public park located in Tsing Yi.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "Tsing Yi Northeast Park is a recognized public park offering sports facilities in Tsing Yi.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "Tsing Yi Promenade is a scenic waterfront park situated in Tsing Yi.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "Hing Fong Road Playground is a local park located in Tsing Yi.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "Jockey Club Kwai Shing Circuit Sitting-out Area is a relaxing garden space in Tsing Yi.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "Rambler Channel Typhoon Shelter is a protective bay area located in Tsing Yi.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "Lai Chi Ling Road Lookout Point is a scenic viewpoint situated in Tsing Yi.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "青山道六至六咪半村", "text": "青山道六至六咪半村 represents historical ruins located in Tsing Yi.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "Dope! Gallery is an art gallery situated in Tsing Yi.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "Sam Tung Uk Museum is a notable historic house museum located in Tsing Yi.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "Tsuen Wan Tin Hau Temple is a notable place of worship situated in Tsing Yi.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "St. Thomas The Apostle Catholic Church is a place of worship located in Tsing Yi.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing Ma Bridge", "text": "Tsing Ma Bridge is a major suspension bridge connecting to Tsing Yi.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "Tsing Tsuen Bridge is a prominent bridge structure located in Tsing Yi.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "Kwai Tsing Bridge is a recognized bridge connecting Tsing Yi.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "Cheung Tsing Bridge is a notable bridge facilitating transport in Tsing Yi.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "Tsing Tak Tong Tat-more Temple is a local place of worship in Tsing Yi.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "Crown of Thorns' Church is a notable place of worship located in Tsing Yi.", "category": "religious", "coords": [114.122519, 22.368165]}]},
+    id: "hongkong-tsing-yi-cities-v2", "sights": {"de": [{"name": "Kwai Tsing Theatre", "text": "Das Kwai Tsing Theatre ist ein bekanntes Theater für darstellende Künste in Tsing Yi.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "Approach Beach", "text": "In Tsing Yi erfreut sich der Approach Beach als bekannter öffentlicher Strand großer Beliebtheit. Die maritime Atmosphäre dieses Hongkonger Küstenabschnitts ist durch eine lebhafte, aber entspannte Stimmung geprägt. Gäste schätzen die Gelegenheit zum Schwimmen und für Spaziergänge entlang der Sandfläche. Für einen reibungslosen Strandtag sollten Handtuch und Sonnencreme nicht fehlen.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "Das South Tsing Yi SSSI ist ein Naturschutzgebiet in Tsing Yi.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "Der Lantau Link Viewing Point ist ein malerischer Aussichtspunkt in Tsing Yi.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "Sai Shan ist ein markanter Berggipfel in Tsing Yi.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "Der Sai Lau Kok Garden ist eine bekannte Parkanlage in Tsing Yi.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "Der Jockey Club Tak Wah Park ist ein bekannter öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "Der Sha Tsui Road Playground ist ein bekannter Park und Erholungsbereich in Tsing Yi.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "Der Sam Pei Square Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "Der Tsuen Wan Riviera Park ist ein bekannter Uferpark in Tsing Yi.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "Der Kwai Yi Road Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "Der Lai King Hill Road Playground ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "Der Central Kwai Chung Park ist eine prominente Grünfläche in Tsing Yi.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "Der Cheung Wan Street Rest Garden ist ein bekannter Park und Ruheplatz in Tsing Yi.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "Der Tsing Yi Four Village Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "Die Chuung Tat Road Sitting-out Area ist ein kleiner Park mit Sitzgelegenheiten in Tsing Yi.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "Der Chung Mei Road Temporary Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "Der Tsing Hung Road Playground ist ein Park in der Stadt Tsing Yi.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "Der Mei King Playground ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "Der Tsing Yi Park ist ein großer öffentlicher Park mit Freizeiteinrichtungen in Tsing Yi.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "Der Kwai Shing Circuit Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "Der Kwai Shing Playground ist ein bekannter Gemeindepark in Tsing Yi.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "Der Kwai Hop Street Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "Der Shing Mun Valley Park ist ein bekannter, weitläufiger Park in Tsing Yi.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "Der Kwai Chung Park ist ein bekannter öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "Der Kwai Chung San Kui Park ist eine bekannte grüne Erholungsfläche in Tsing Yi.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "Der Tsing Yi Road West Park ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "Der Tsuen Wing Street Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "Der Tai Wo Hau Road South Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "Der Tsuen King Circuit Garden ist ein öffentlicher Garten in Tsing Yi.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "Der Liu To Road Playground ist eine lokale Parkanlage in Tsing Yi.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "Der Tsing Yu Street Garden ist ein ruhiger Garten in Tsing Yi.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "Der Kwai Shun Street Playground ist ein Erholungspark in Tsing Yi.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "Der Tai Wo Hau Road Playground ist ein öffentlicher Park in Tsing Yi.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "Der Tsing Yi Northeast Park ist ein bekannter öffentlicher Park mit Sportanlagen in Tsing Yi.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "Die Tsing Yi Promenade ist ein malerischer Uferpark in Tsing Yi.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "Der Hing Fong Road Playground ist ein lokaler Park in Tsing Yi.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "Die Jockey Club Kwai Shing Circuit Sitting-out Area ist ein entspannender Garten in Tsing Yi.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "Das Rambler Channel Typhoon Shelter ist eine geschützte Bucht in Tsing Yi.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "Der Lai Chi Ling Road Lookout Point ist ein malerischer Aussichtspunkt in Tsing Yi.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "Castle Peak Road 6 to 6.5 Mile Village", "text": "青山道六至六咪半村 sind historische Ruinen in Tsing Yi.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "Die Dope! Gallery ist eine Kunstgalerie in Tsing Yi.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "Das Sam Tung Uk Museum ist ein bedeutendes historisches Hausmuseum in Tsing Yi.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "Der Tsuen Wan Tin Hau Temple ist eine bekannte Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "Die St. Thomas The Apostle Catholic Church ist eine Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing-Ma-Brücke", "text": "Die Tsing Ma Bridge ist eine bedeutende Hängebrücke, die nach Tsing Yi führt.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "Die Tsing Tsuen Bridge ist ein markantes Bauwerk in Tsing Yi.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "Die Kwai Tsing Bridge ist eine anerkannte Brückenverbindung in Tsing Yi.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "Die Cheung Tsing Bridge ist eine bekannte Brücke für den Verkehr in Tsing Yi.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "Der Tsing Tak Tong Tat-more Temple ist eine lokale Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "Die Crown of Thorns' Church ist eine bekannte Kultstätte in Tsing Yi.", "category": "religious", "coords": [114.122519, 22.368165]}], "hu": [{"name": "Kwai Tsing Theatre", "text": "A Kwai Tsing Theatre egy jelentős színház Tsing Yi városában.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "Approach Beach", "text": "Tsing Yi területén az Approach Beach, mint ismert nyilvános strand, nagy népszerűségnek örvend. Ennek a hongkongi partszakasznak a tengeri atmoszféráját élénk, de mégis nyugodt hangulat jellemzi. A vendégek értékelik az úszás és a homokos felületen tett séták lehetőségét. A zavartalan strandoláshoz nem szabad megfeledkezni a törölközőről és a naptejről.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "A South Tsing Yi SSSI egy természetvédelmi terület Tsing Yi-ben.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "A Lantau Link Viewing Point egy festői kilátó Tsing Yi városában.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "A Sai Shan egy kiemelkedő hegycsúcs Tsing Yi-ben.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "A Sai Lau Kok Garden egy jól ismert park Tsing Yi-ben.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "A Jockey Club Tak Wah Park egy jelentős közpark Tsing Yi-ben.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "A Sha Tsui Road Playground egy elismert park és játszótér Tsing Yi-ben.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "A Sam Pei Square Playground egy helyi park Tsing Yi városában.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "A Tsuen Wan Riviera Park egy jelentős tengerparti park Tsing Yi-ben.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "A Kwai Yi Road Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "A Lai King Hill Road Playground egy közpark Tsing Yi-ben.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "A Central Kwai Chung Park egy kiemelkedő zöldterület Tsing Yi-ben.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "A Cheung Wan Street Rest Garden egy elismert pihenőpark Tsing Yi-ben.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "A Tsing Yi Four Village Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "A Chuung Tat Road Sitting-out Area egy kis park és pihenőhely Tsing Yi-ben.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "A Chung Mei Road Temporary Playground egy rekreációs park Tsing Yi-ben.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "A Tsing Hung Road Playground egy park Tsing Yi városában.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "A Mei King Playground egy közpark Tsing Yi-ben.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "A Tsing Yi Park egy jelentős közpark rekreációs létesítményekkel Tsing Yi-ben.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "A Kwai Shing Circuit Playground egy szabadidőpark Tsing Yi városában.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "A Kwai Shing Playground egy ismert közösségi park Tsing Yi-ben.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "A Kwai Hop Street Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "A Shing Mun Valley Park egy kiemelkedően nagy kiterjedésű park Tsing Yi-ben.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "A Kwai Chung Park egy elismert közpark Tsing Yi-ben.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "A Kwai Chung San Kui Park egy jelentős zöld rekreációs terület Tsing Yi-ben.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "A Tsing Yi Road West Park egy közpark Tsing Yi városában.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "A Tsuen Wing Street Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "A Tai Wo Hau Road South Playground egy rekreációs park Tsing Yi-ben.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "A Tsuen King Circuit Garden egy nyilvános kert Tsing Yi-ben.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "A Liu To Road Playground egy helyi park Tsing Yi városában.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "A Tsing Yu Street Garden egy csendes kert Tsing Yi-ben.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "A Kwai Shun Street Playground egy rekreációs park Tsing Yi-ben.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "A Tai Wo Hau Road Playground egy közpark Tsing Yi városában.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "A Tsing Yi Northeast Park egy sportlétesítményeket kínáló elismert park Tsing Yi-ben.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "A Tsing Yi Promenade egy festői tengerparti park Tsing Yi-ben.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "A Hing Fong Road Playground egy helyi park Tsing Yi-ben.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "A Jockey Club Kwai Shing Circuit Sitting-out Area egy pihentető kert Tsing Yi-ben.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "A Rambler Channel Typhoon Shelter egy védett öböl Tsing Yi városában.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "A Lai Chi Ling Road Lookout Point egy kilátópont Tsing Yi-ben.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "Castle Peak Road 6 to 6.5 Mile Village", "text": "A 青山道六至六咪半村 történelmi romokat jelöl Tsing Yi-ben.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "A Dope! Gallery egy művészeti galéria Tsing Yi-ben.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "A Sam Tung Uk Museum egy jelentős történelmi házmúzeum Tsing Yi-ben.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "A Tsuen Wan Tin Hau Temple egy jelentős istentiszteleti hely Tsing Yi városában.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "A St. Thomas The Apostle Catholic Church egy vallási épület Tsing Yi-ben.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing Ma Bridge", "text": "A Tsing Ma Bridge egy jelentős függőhíd Tsing Yi-ben.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "A Tsing Tsuen Bridge egy kiemelkedő híd Tsing Yi városában.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "A Kwai Tsing Bridge egy elismert híd Tsing Yi-ben.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "A Cheung Tsing Bridge egy jelentős közlekedési híd Tsing Yi városában.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "A Tsing Tak Tong Tat-more Temple egy helyi istentiszteleti hely Tsing Yi-ben.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "A Crown of Thorns' Church egy jelentős istentiszteleti hely Tsing Yi-ben.", "category": "religious", "coords": [114.122519, 22.368165]}], "ro": [{"name": "Kwai Tsing Theatre", "text": "Kwai Tsing Theatre este un teatru notabil situat în Tsing Yi.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "Approach Beach", "text": "În Tsing Yi, Approach Beach se bucură de o mare popularitate ca plajă publică bine-cunoscută. Atmosfera maritimă a acestei porțiuni de coastă din Hong Kong este caracterizată de o stare de spirit plină de viață, dar relaxată. Oaspeții apreciază oportunitatea de a înota și de a se plimba de-a lungul suprafeței de nisip. Pentru o zi de plajă fără probleme, prosopul și crema de protecție solară nu ar trebui să lipsească.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "South Tsing Yi SSSI este o rezervație naturală situată în Tsing Yi.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "Lantau Link Viewing Point este un punct de belvedere pitoresc situat în Tsing Yi.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "Sai Shan este un vârf montan proeminent situat în Tsing Yi.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "Sai Lau Kok Garden este un parc bine-cunoscut din Tsing Yi.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "Jockey Club Tak Wah Park este un parc public notabil situat în Tsing Yi.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "Sha Tsui Road Playground este un parc și o zonă de recreere recunoscută din Tsing Yi.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "Sam Pei Square Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "Tsuen Wan Riviera Park este un parc notabil pe malul apei situat în Tsing Yi.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "Kwai Yi Road Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "Lai King Hill Road Playground este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "Central Kwai Chung Park este un spațiu verde proeminent situat în Tsing Yi.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "Cheung Wan Street Rest Garden este un parc recunoscut ce oferă un spațiu de odihnă în Tsing Yi.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "Tsing Yi Four Village Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "Chuung Tat Road Sitting-out Area este un mic parc cu locuri de relaxare în Tsing Yi.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "Chung Mei Road Temporary Playground este un parc de recreere în Tsing Yi.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "Tsing Hung Road Playground este un parc situat în orașul Tsing Yi.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "Mei King Playground este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "Tsing Yi Park este un parc public major cu facilități de recreere în Tsing Yi.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "Kwai Shing Circuit Playground este un parc de recreere din Tsing Yi.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "Kwai Shing Playground este un parc comunitar notabil din Tsing Yi.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "Kwai Hop Street Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "Shing Mun Valley Park este un parc extins și proeminent din Tsing Yi.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "Kwai Chung Park este un parc public recunoscut situat în Tsing Yi.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "Kwai Chung San Kui Park este un spațiu verde de recreere notabil din Tsing Yi.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "Tsing Yi Road West Park este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "Tsuen Wing Street Playground este un parc local din Tsing Yi.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "Tai Wo Hau Road South Playground este un parc de recreere în Tsing Yi.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "Tsuen King Circuit Garden este o grădină publică situată în Tsing Yi.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "Liu To Road Playground este un spațiu verde local din Tsing Yi.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "Tsing Yu Street Garden este o grădină liniștită situată în Tsing Yi.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "Kwai Shun Street Playground este un parc de recreere în Tsing Yi.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "Tai Wo Hau Road Playground este un parc public situat în Tsing Yi.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "Tsing Yi Northeast Park este un parc public recunoscut, cu facilități sportive în Tsing Yi.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "Tsing Yi Promenade este un parc pitoresc pe malul mării situat în Tsing Yi.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "Hing Fong Road Playground este un parc local situat în Tsing Yi.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "Jockey Club Kwai Shing Circuit Sitting-out Area este o grădină relaxantă în Tsing Yi.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "Rambler Channel Typhoon Shelter este un golf protejat situat în Tsing Yi.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "Lai Chi Ling Road Lookout Point este un punct de observare panoramic în Tsing Yi.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "Castle Peak Road 6 to 6.5 Mile Village", "text": "青山道六至六咪半村 reprezintă niște ruine istorice situate în Tsing Yi.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "Dope! Gallery este o galerie de artă situată în Tsing Yi.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "Sam Tung Uk Museum este un notabil muzeu casă istorică situat în Tsing Yi.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "Tsuen Wan Tin Hau Temple este un lăcaș de cult notabil situat în Tsing Yi.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "St. Thomas The Apostle Catholic Church este un lăcaș de cult situat în Tsing Yi.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing Ma Bridge", "text": "Tsing Ma Bridge este un pod suspendat major care face legătura cu Tsing Yi.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "Tsing Tsuen Bridge este un pod proeminent situat în Tsing Yi.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "Kwai Tsing Bridge este un pod recunoscut ce conectează Tsing Yi.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "Cheung Tsing Bridge este un pod notabil ce facilitează transportul în Tsing Yi.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "Tsing Tak Tong Tat-more Temple este un lăcaș de cult local din Tsing Yi.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "Crown of Thorns' Church este un lăcaș de cult notabil din Tsing Yi.", "category": "religious", "coords": [114.122519, 22.368165]}], "en": [{"name": "Kwai Tsing Theatre", "text": "Kwai Tsing Theatre is a notable performing arts venue located in Tsing Yi.", "category": "cultural", "coords": [114.126196, 22.356866]}, {"name": "Approach Beach", "text": "In Tsing Yi, Approach Beach enjoys great popularity as a well-known public beach. The maritime atmosphere of this Hong Kong coastal stretch is characterized by a lively yet relaxed mood. Guests appreciate the opportunity for swimming and walks along the sandy surface. A towel and sunscreen should not be missing for a smooth beach day.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "South Tsing Yi SSSI", "text": "South Tsing Yi SSSI is a nature reserve situated in Tsing Yi.", "category": "natural", "coords": [114.101552, 22.3372]}, {"name": "Lantau Link Viewing Point", "text": "Lantau Link Viewing Point is a scenic viewpoint located in Tsing Yi.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Sai Shan", "text": "Sai Shan is a prominent mountain peak located in Tsing Yi.", "category": "natural", "coords": [114.103135, 22.3464]}, {"name": "Sai Lau Kok Garden", "text": "Sai Lau Kok Garden is a well-known park space in Tsing Yi.", "category": "park", "coords": [114.117886, 22.373066]}, {"name": "Jockey Club Tak Wah Park", "text": "Jockey Club Tak Wah Park is a notable public park situated in Tsing Yi.", "category": "park", "coords": [114.118481, 22.370273]}, {"name": "Sha Tsui Road Playground", "text": "Sha Tsui Road Playground is a recognized park and recreation area in Tsing Yi.", "category": "park", "coords": [114.113574, 22.371988]}, {"name": "Sam Pei Square Playground", "text": "Sam Pei Square Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.116823, 22.368711]}, {"name": "Tsuen Wan Riviera Park", "text": "Tsuen Wan Riviera Park is a notable waterfront park located in Tsing Yi.", "category": "park", "coords": [114.11247, 22.362753]}, {"name": "Kwai Yi Road Playground", "text": "Kwai Yi Road Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.127949, 22.355148]}, {"name": "Lai King Hill Road Playground", "text": "Lai King Hill Road Playground is a public park located in Tsing Yi.", "category": "park", "coords": [114.127516, 22.345951]}, {"name": "Central Kwai Chung Park", "text": "Central Kwai Chung Park is a prominent green space located in Tsing Yi.", "category": "park", "coords": [114.133139, 22.356026]}, {"name": "Cheung Wan Street Rest Garden", "text": "Cheung Wan Street Rest Garden is a recognized park providing a resting space in Tsing Yi.", "category": "park", "coords": [114.109015, 22.351908]}, {"name": "Tsing Yi Four Village Playground", "text": "Tsing Yi Four Village Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.101208, 22.353216]}, {"name": "Chuung Tat Road Sitting-out Area", "text": "Chuung Tat Road Sitting-out Area is a small park and seating area in Tsing Yi.", "category": "park", "coords": [114.11001, 22.349324]}, {"name": "Chung Mei Road Temporary Playground", "text": "Chung Mei Road Temporary Playground is a recreational park area in Tsing Yi.", "category": "park", "coords": [114.108076, 22.350473]}, {"name": "Tsing Hung Road Playground", "text": "Tsing Hung Road Playground is a park situated in the city of Tsing Yi.", "category": "park", "coords": [114.109566, 22.342854]}, {"name": "Mei King Playground", "text": "Mei King Playground is a public park space located in Tsing Yi.", "category": "park", "coords": [114.107646, 22.34367]}, {"name": "Tsing Yi Park", "text": "Tsing Yi Park is a major public park offering recreational facilities in Tsing Yi.", "category": "park", "coords": [114.105233, 22.356036]}, {"name": "Kwai Shing Circuit Playground", "text": "Kwai Shing Circuit Playground is a recreational park area in Tsing Yi.", "category": "park", "coords": [114.128226, 22.362181]}, {"name": "Kwai Shing Playground", "text": "Kwai Shing Playground is a notable community park in Tsing Yi.", "category": "park", "coords": [114.125321, 22.361916]}, {"name": "Kwai Hop Street Playground", "text": "Kwai Hop Street Playground is a local park situated in Tsing Yi.", "category": "park", "coords": [114.129509, 22.365226]}, {"name": "Shing Mun Valley Park", "text": "Shing Mun Valley Park is a prominent expansive park in Tsing Yi.", "category": "park", "coords": [114.126981, 22.375381]}, {"name": "Kwai Chung Park", "text": "Kwai Chung Park is a recognized public park located in Tsing Yi.", "category": "park", "coords": [114.119544, 22.354664]}, {"name": "Kwai Chung San Kui Park", "text": "Kwai Chung San Kui Park is a notable green recreational space in Tsing Yi.", "category": "park", "coords": [114.130531, 22.367134]}, {"name": "Tsing Yi Road West Park", "text": "Tsing Yi Road West Park is a public park located in Tsing Yi.", "category": "park", "coords": [114.099145, 22.352729]}, {"name": "Tsuen Wing Street Playground", "text": "Tsuen Wing Street Playground is a local park in Tsing Yi.", "category": "park", "coords": [114.121122, 22.368108]}, {"name": "Tai Wo Hau Road South Playground", "text": "Tai Wo Hau Road South Playground is a recreational park in Tsing Yi.", "category": "park", "coords": [114.124891, 22.36578]}, {"name": "Tsuen King Circuit Garden", "text": "Tsuen King Circuit Garden is a public garden located in Tsing Yi.", "category": "park", "coords": [114.110856, 22.377976]}, {"name": "Liu To Road Playground", "text": "Liu To Road Playground is a local park space in Tsing Yi.", "category": "park", "coords": [114.097105, 22.355733]}, {"name": "Tsing Yu Street Garden", "text": "Tsing Yu Street Garden is a quiet garden situated in Tsing Yi.", "category": "park", "coords": [114.101363, 22.354537]}, {"name": "Kwai Shun Street Playground", "text": "Kwai Shun Street Playground is a recreational park in Tsing Yi.", "category": "park", "coords": [114.124211, 22.35439]}, {"name": "Tai Wo Hau Road Playground", "text": "Tai Wo Hau Road Playground is a public park located in Tsing Yi.", "category": "park", "coords": [114.131211, 22.365498]}, {"name": "Tsing Yi Northeast Park", "text": "Tsing Yi Northeast Park is a recognized public park offering sports facilities in Tsing Yi.", "category": "park", "coords": [114.098884, 22.362153]}, {"name": "Tsing Yi Promenade", "text": "Tsing Yi Promenade is a scenic waterfront park situated in Tsing Yi.", "category": "park", "coords": [114.105174, 22.357885]}, {"name": "Hing Fong Road Playground", "text": "Hing Fong Road Playground is a local park located in Tsing Yi.", "category": "park", "coords": [114.128801, 22.361174]}, {"name": "Jockey Club Kwai Shing Circuit Sitting-out Area", "text": "Jockey Club Kwai Shing Circuit Sitting-out Area is a relaxing garden space in Tsing Yi.", "category": "park", "coords": [114.124156, 22.360269]}, {"name": "Rambler Channel Typhoon Shelter", "text": "Rambler Channel Typhoon Shelter is a protective bay area located in Tsing Yi.", "category": "landmark", "coords": [114.114231, 22.355823]}, {"name": "Lai Chi Ling Road Lookout Point", "text": "Lai Chi Ling Road Lookout Point is a scenic viewpoint situated in Tsing Yi.", "category": "natural", "coords": [114.132043, 22.345118]}, {"name": "Castle Peak Road 6 to 6.5 Mile Village", "text": "青山道六至六咪半村 represents historical ruins located in Tsing Yi.", "category": "historical", "coords": [114.133432, 22.353001]}, {"name": "Dope! Gallery", "text": "Dope! Gallery is an art gallery situated in Tsing Yi.", "category": "museum", "coords": [114.119651, 22.367968]}, {"name": "Sam Tung Uk Museum", "text": "Sam Tung Uk Museum is a notable historic house museum located in Tsing Yi.", "category": "landmark", "coords": [114.120226, 22.372035]}, {"name": "Tsuen Wan Tin Hau Temple", "text": "Tsuen Wan Tin Hau Temple is a notable place of worship situated in Tsing Yi.", "category": "religious", "coords": [114.121386, 22.373169]}, {"name": "St. Thomas The Apostle Catholic Church", "text": "St. Thomas The Apostle Catholic Church is a place of worship located in Tsing Yi.", "category": "religious", "coords": [114.104206, 22.354572]}, {"name": "Tsing Ma Bridge", "text": "Tsing Ma Bridge is a major suspension bridge connecting to Tsing Yi.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Tsing Tsuen Bridge", "text": "Tsing Tsuen Bridge is a prominent bridge structure located in Tsing Yi.", "category": "landmark", "coords": [114.11027, 22.360038]}, {"name": "Kwai Tsing Bridge", "text": "Kwai Tsing Bridge is a recognized bridge connecting Tsing Yi.", "category": "landmark", "coords": [114.114031, 22.348437]}, {"name": "Cheung Tsing Bridge", "text": "Cheung Tsing Bridge is a notable bridge facilitating transport in Tsing Yi.", "category": "landmark", "coords": [114.113435, 22.349447]}, {"name": "Tsing Tak Tong Tat-more Temple", "text": "Tsing Tak Tong Tat-more Temple is a local place of worship in Tsing Yi.", "category": "religious", "coords": [114.106481, 22.351582]}, {"name": "Crown of Thorns' Church", "text": "Crown of Thorns' Church is a notable place of worship located in Tsing Yi.", "category": "religious", "coords": [114.122519, 22.368165]}]},
     parent: "HK",
     type: "town",
     name: { de: "Tsing Yi", hu: "Tsing Yi", ro: "Tsing Yi", en: "Tsing Yi" },
@@ -10239,7 +10239,7 @@ export const hongkongCitiesV2: POI[] = [
     id: "hongkong-fo-tan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "稻鄉飲食文化博物館 Tao Heung Museum of Food Culture",
+                  "name": "Tao Heung Museum of Food Culture",
                   "text": "Tao Heung Museum für Esskultur in Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10248,7 +10248,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "賽馬會氣候變化博物館 Jockey Club Museum of Climate Change",
+                  "name": "Jockey Club Museum of Climate Change",
                   "text": "Jockey Club Museum zum Klimawandel in Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10257,7 +10257,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文化博物館 Hong Kong Heritage Museum",
+                  "name": "Hong Kong Heritage Museum",
                   "text": "Hong Kong Heritage Museum bewahrt lokale Geschichte in Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10266,7 +10266,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李福和朱美琳劇院 Fook Wo and Laura Jee Li Theatre",
+                  "name": "Fook Wo and Laura Jee Li Theatre",
                   "text": "Theater Fook Wo and Laura Jee Li in Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10275,7 +10275,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "邵逸夫堂 Sir Run Run Shaw Hall",
+                  "name": "Sir Run Run Shaw Hall",
                   "text": "Sir Run Run Shaw Hall in Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10284,7 +10284,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "文物館 Art Museum",
+                  "name": "Art Museum",
                   "text": "Kunstmuseum in Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10293,7 +10293,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "露天廣場 Amiphitheater",
+                  "name": "Amphitheater",
                   "text": "Amphitheater für Freilichtaufführungen in Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10302,7 +10302,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "利希慎音樂廳 Lee Hysan Concert Hall",
+                  "name": "Lee Hysan Concert Hall",
                   "text": "Lee Hysan Konzertsaal in Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10311,7 +10311,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "史諾比開心世界 Snoopy's World",
+                  "name": "Snoopy's World",
                   "text": "Themenpark Snoopy's World in Fo Tan.",
                   "category": "family",
                   "coords": [
@@ -10320,7 +10320,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "銅鑼灣山 Tung Lo Wan Hill",
+                  "name": "Tung Lo Wan Hill",
                   "text": "Hügel Tung Lo Wan in Fo Tan.",
                   "category": "natural",
                   "coords": [
@@ -10329,7 +10329,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "圓洲角公園 Yuen Chau Kok Park",
+                  "name": "Yuen Chau Kok Park",
                   "text": "Yuen Chau Kok Park in Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10338,7 +10338,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彭福公園 Penfold Park",
+                  "name": "Penfold Park",
                   "text": "Penfold Park, eine grüne Oase in Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10347,7 +10347,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "桂地街花園 Kwei Tei Street Garden",
+                  "name": "Kwei Tei Street Garden",
                   "text": "Garten Kwei Tei Street in Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10356,7 +10356,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "馬鞍山海濱長廊 Ma On Shan Promenade",
+                  "name": "Ma On Shan Promenade",
                   "text": "Promenade Ma On Shan in Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10365,7 +10365,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "劉氐宗祠",
+                  "name": "Liu Ancestral Hall",
                   "text": "Ruinen der Ahnenhalle Liu in Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -10374,7 +10374,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "德華公立學校",
+                  "name": "Tak Wah School",
                   "text": "Ruinen der Tak Wah Schule in Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -10383,7 +10383,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "曾大屋 Tsang Tai Uk",
+                  "name": "Tsang Tai Uk",
                   "text": "Aussichtspunkt Tsang Tai Uk in Fo Tan.",
                   "category": "natural",
                   "coords": [
@@ -10401,7 +10401,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB205",
+                  "name": "Pillbox PB205",
                   "text": "Ruinen des Maschinengewehrbunkers PB205 in Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -10410,7 +10410,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "博雅山莊 Pok Ngar Villa",
+                  "name": "Pok Ngar Villa",
                   "text": "Villa Pok Ngar in Fo Tan.",
                   "category": "landmark",
                   "coords": [
@@ -10419,7 +10419,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "昂堂山獅子亭 Ngong Tong Shan Lion's Pavilion",
+                  "name": "Ngong Tong Shan Lion's Pavilion",
                   "text": "Ngong Tong Shan Löwen-Pavillon als Aussichtspunkt in Fo Tan.",
                   "category": "natural",
                   "coords": [
@@ -10428,7 +10428,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港聖公會沙田堂 Shatin Anglican Church",
+                  "name": "Shatin Anglican Church",
                   "text": "Anglikanische Kirche Shatin in Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -10437,7 +10437,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖歐爾發堂 St. Alfred's Church",
+                  "name": "St. Alfred's Church",
                   "text": "St. Alfred Kirche in Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -10446,7 +10446,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "車公廟 Che Kung Temple",
+                  "name": "Che Kung Temple",
                   "text": "Che Kung Tempel, ein bekannter taoistischer Tempel in Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -10455,7 +10455,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "古巖淨苑 Koon Ngam Ching Yuen",
+                  "name": "Koon Ngam Ching Yuen",
                   "text": "Koon Ngam Ching Yuen Tempelanlage in Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -10464,7 +10464,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "Lutherische Theologische Hochschule in Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -10473,7 +10473,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "瀝源橋 Lek Yuen Bridge",
+                  "name": "Lek Yuen Bridge",
                   "text": "Brücke Lek Yuen in Fo Tan.",
                   "category": "landmark",
                   "coords": [
@@ -10482,7 +10482,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "翠榕橋 Banyan Bridge",
+                  "name": "Banyan Bridge",
                   "text": "Banyan-Brücke in Fo Tan.",
                   "category": "landmark",
                   "coords": [
@@ -10529,7 +10529,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "稻鄉飲食文化博物館 Tao Heung Museum of Food Culture",
+                  "name": "Tao Heung Museum of Food Culture",
                   "text": "Tao Heung étkezési kultúra múzeum Fo Tanban.",
                   "category": "museum",
                   "coords": [
@@ -10538,7 +10538,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "賽馬會氣候變化博物館 Jockey Club Museum of Climate Change",
+                  "name": "Jockey Club Museum of Climate Change",
                   "text": "Jockey Club éghajlatváltozási múzeum Fo Tanban.",
                   "category": "museum",
                   "coords": [
@@ -10547,7 +10547,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文化博物館 Hong Kong Heritage Museum",
+                  "name": "Hong Kong Heritage Museum",
                   "text": "A Hong Kong Heritage Museum helyi történelmet őriz Fo Tanban.",
                   "category": "museum",
                   "coords": [
@@ -10556,7 +10556,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李福和朱美琳劇院 Fook Wo and Laura Jee Li Theatre",
+                  "name": "Fook Wo and Laura Jee Li Theatre",
                   "text": "Fook Wo and Laura Jee Li színház Fo Tanban.",
                   "category": "cultural",
                   "coords": [
@@ -10565,7 +10565,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "邵逸夫堂 Sir Run Run Shaw Hall",
+                  "name": "Sir Run Run Shaw Hall",
                   "text": "Sir Run Run Shaw csarnok Fo Tanban.",
                   "category": "cultural",
                   "coords": [
@@ -10574,7 +10574,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "文物館 Art Museum",
+                  "name": "Art Museum",
                   "text": "Művészeti múzeum Fo Tanban.",
                   "category": "museum",
                   "coords": [
@@ -10583,7 +10583,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "露天廣場 Amiphitheater",
+                  "name": "Amphitheater",
                   "text": "Amfiteátrum szabadtéri előadásokhoz Fo Tanban.",
                   "category": "cultural",
                   "coords": [
@@ -10592,7 +10592,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "利希慎音樂廳 Lee Hysan Concert Hall",
+                  "name": "Lee Hysan Concert Hall",
                   "text": "Lee Hysan koncertterem Fo Tanban.",
                   "category": "cultural",
                   "coords": [
@@ -10601,7 +10601,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "史諾比開心世界 Snoopy's World",
+                  "name": "Snoopy's World",
                   "text": "Snoopy's World vidámpark Fo Tanban.",
                   "category": "family",
                   "coords": [
@@ -10610,7 +10610,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "銅鑼灣山 Tung Lo Wan Hill",
+                  "name": "Tung Lo Wan Hill",
                   "text": "Tung Lo Wan domb Fo Tanban.",
                   "category": "natural",
                   "coords": [
@@ -10619,7 +10619,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "圓洲角公園 Yuen Chau Kok Park",
+                  "name": "Yuen Chau Kok Park",
                   "text": "Yuen Chau Kok park Fo Tanban.",
                   "category": "park",
                   "coords": [
@@ -10628,7 +10628,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彭福公園 Penfold Park",
+                  "name": "Penfold Park",
                   "text": "Penfold Park, egy zöld oázis Fo Tanban.",
                   "category": "park",
                   "coords": [
@@ -10637,7 +10637,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "桂地街花園 Kwei Tei Street Garden",
+                  "name": "Kwei Tei Street Garden",
                   "text": "Kwei Tei Street kert Fo Tanban.",
                   "category": "park",
                   "coords": [
@@ -10646,7 +10646,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "馬鞍山海濱長廊 Ma On Shan Promenade",
+                  "name": "Ma On Shan Promenade",
                   "text": "Ma On Shan sétány Fo Tanban.",
                   "category": "park",
                   "coords": [
@@ -10655,7 +10655,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "劉氐宗祠",
+                  "name": "Liu Ancestral Hall",
                   "text": "A Liu ősi csarnok romjai Fo Tanban.",
                   "category": "historical",
                   "coords": [
@@ -10664,7 +10664,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "德華公立學校",
+                  "name": "Tak Wah School",
                   "text": "A Tak Wah iskola romjai Fo Tanban.",
                   "category": "historical",
                   "coords": [
@@ -10673,7 +10673,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "曾大屋 Tsang Tai Uk",
+                  "name": "Tsang Tai Uk",
                   "text": "Tsang Tai Uk kilátópont Fo Tanban.",
                   "category": "natural",
                   "coords": [
@@ -10691,7 +10691,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB205",
+                  "name": "Pillbox PB205",
                   "text": "A PB205 géppuskás bunker romjai Fo Tanban.",
                   "category": "historical",
                   "coords": [
@@ -10700,7 +10700,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "博雅山莊 Pok Ngar Villa",
+                  "name": "Pok Ngar Villa",
                   "text": "Pok Ngar villa Fo Tanban.",
                   "category": "landmark",
                   "coords": [
@@ -10709,7 +10709,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "昂堂山獅子亭 Ngong Tong Shan Lion's Pavilion",
+                  "name": "Ngong Tong Shan Lion's Pavilion",
                   "text": "Ngong Tong Shan Oroszlán pavilon kilátópontként Fo Tanban.",
                   "category": "natural",
                   "coords": [
@@ -10718,7 +10718,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港聖公會沙田堂 Shatin Anglican Church",
+                  "name": "Shatin Anglican Church",
                   "text": "Shatin anglikán templom Fo Tanban.",
                   "category": "religious",
                   "coords": [
@@ -10727,7 +10727,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖歐爾發堂 St. Alfred's Church",
+                  "name": "St. Alfred's Church",
                   "text": "Szent Alfréd-templom Fo Tanban.",
                   "category": "religious",
                   "coords": [
@@ -10736,7 +10736,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "車公廟 Che Kung Temple",
+                  "name": "Che Kung Temple",
                   "text": "Che Kung templom, egy ismert taoista templom Fo Tanban.",
                   "category": "religious",
                   "coords": [
@@ -10745,7 +10745,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "古巖淨苑 Koon Ngam Ching Yuen",
+                  "name": "Koon Ngam Ching Yuen",
                   "text": "Koon Ngam Ching Yuen templomegyüttes Fo Tanban.",
                   "category": "religious",
                   "coords": [
@@ -10754,7 +10754,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "Lutheránus Teológiai Főiskola Fo Tanban.",
                   "category": "religious",
                   "coords": [
@@ -10763,7 +10763,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "瀝源橋 Lek Yuen Bridge",
+                  "name": "Lek Yuen Bridge",
                   "text": "Lek Yuen híd Fo Tanban.",
                   "category": "landmark",
                   "coords": [
@@ -10772,7 +10772,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "翠榕橋 Banyan Bridge",
+                  "name": "Banyan Bridge",
                   "text": "Banyan híd Fo Tanban.",
                   "category": "landmark",
                   "coords": [
@@ -10819,7 +10819,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "稻鄉飲食文化博物館 Tao Heung Museum of Food Culture",
+                  "name": "Tao Heung Museum of Food Culture",
                   "text": "Muzeul culturii alimentare Tao Heung din Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10828,7 +10828,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "賽馬會氣候變化博物館 Jockey Club Museum of Climate Change",
+                  "name": "Jockey Club Museum of Climate Change",
                   "text": "Muzeul Jockey Club privind schimbările climatice din Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10837,7 +10837,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文化博物館 Hong Kong Heritage Museum",
+                  "name": "Hong Kong Heritage Museum",
                   "text": "Muzeul Hong Kong Heritage păstrează istoria locală în Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10846,7 +10846,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李福和朱美琳劇院 Fook Wo and Laura Jee Li Theatre",
+                  "name": "Fook Wo and Laura Jee Li Theatre",
                   "text": "Teatrul Fook Wo and Laura Jee Li din Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10855,7 +10855,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "邵逸夫堂 Sir Run Run Shaw Hall",
+                  "name": "Sir Run Run Shaw Hall",
                   "text": "Sala Sir Run Run Shaw din Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10864,7 +10864,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "文物館 Art Museum",
+                  "name": "Art Museum",
                   "text": "Muzeu de artă în Fo Tan.",
                   "category": "museum",
                   "coords": [
@@ -10873,7 +10873,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "露天廣場 Amiphitheater",
+                  "name": "Amphitheater",
                   "text": "Amfiteatru pentru spectacole în aer liber în Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10882,7 +10882,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "利希慎音樂廳 Lee Hysan Concert Hall",
+                  "name": "Lee Hysan Concert Hall",
                   "text": "Sala de concerte Lee Hysan din Fo Tan.",
                   "category": "cultural",
                   "coords": [
@@ -10891,7 +10891,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "史諾比開心世界 Snoopy's World",
+                  "name": "Snoopy's World",
                   "text": "Parc tematic Snoopy's World în Fo Tan.",
                   "category": "family",
                   "coords": [
@@ -10900,7 +10900,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "銅鑼灣山 Tung Lo Wan Hill",
+                  "name": "Tung Lo Wan Hill",
                   "text": "Dealul Tung Lo Wan în Fo Tan.",
                   "category": "natural",
                   "coords": [
@@ -10909,7 +10909,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "圓洲角公園 Yuen Chau Kok Park",
+                  "name": "Yuen Chau Kok Park",
                   "text": "Parcul Yuen Chau Kok în Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10918,7 +10918,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彭福公園 Penfold Park",
+                  "name": "Penfold Park",
                   "text": "Penfold Park, o oază verde în Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10927,7 +10927,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "桂地街花園 Kwei Tei Street Garden",
+                  "name": "Kwei Tei Street Garden",
                   "text": "Grădina Kwei Tei Street din Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10936,7 +10936,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "馬鞍山海濱長廊 Ma On Shan Promenade",
+                  "name": "Ma On Shan Promenade",
                   "text": "Promenada Ma On Shan din Fo Tan.",
                   "category": "park",
                   "coords": [
@@ -10945,7 +10945,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "劉氐宗祠",
+                  "name": "Liu Ancestral Hall",
                   "text": "Ruinele sălii ancestrale Liu în Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -10954,7 +10954,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "德華公立學校",
+                  "name": "Tak Wah School",
                   "text": "Ruinele școlii Tak Wah în Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -10963,7 +10963,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "曾大屋 Tsang Tai Uk",
+                  "name": "Tsang Tai Uk",
                   "text": "Punct de observație Tsang Tai Uk în Fo Tan.",
                   "category": "natural",
                   "coords": [
@@ -10981,7 +10981,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB205",
+                  "name": "Pillbox PB205",
                   "text": "Ruinele buncărului de mitralieră PB205 în Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -10990,7 +10990,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "博雅山莊 Pok Ngar Villa",
+                  "name": "Pok Ngar Villa",
                   "text": "Vila Pok Ngar în Fo Tan.",
                   "category": "landmark",
                   "coords": [
@@ -10999,7 +10999,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "昂堂山獅子亭 Ngong Tong Shan Lion's Pavilion",
+                  "name": "Ngong Tong Shan Lion's Pavilion",
                   "text": "Ngong Tong Shan Pavilionul Leului ca punct de observație în Fo Tan.",
                   "category": "natural",
                   "coords": [
@@ -11008,7 +11008,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港聖公會沙田堂 Shatin Anglican Church",
+                  "name": "Shatin Anglican Church",
                   "text": "Biserica anglicană Shatin din Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -11017,7 +11017,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖歐爾發堂 St. Alfred's Church",
+                  "name": "St. Alfred's Church",
                   "text": "Biserica Sf. Alfred din Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -11026,7 +11026,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "車公廟 Che Kung Temple",
+                  "name": "Che Kung Temple",
                   "text": "Templul Che Kung, un cunoscut templu taoist din Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -11035,7 +11035,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "古巖淨苑 Koon Ngam Ching Yuen",
+                  "name": "Koon Ngam Ching Yuen",
                   "text": "Complexul de temple Koon Ngam Ching Yuen din Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -11044,7 +11044,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "Seminarul Teologic Luteran din Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -11053,7 +11053,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "瀝源橋 Lek Yuen Bridge",
+                  "name": "Lek Yuen Bridge",
                   "text": "Podul Lek Yuen din Fo Tan.",
                   "category": "landmark",
                   "coords": [
@@ -11062,7 +11062,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "翠榕橋 Banyan Bridge",
+                  "name": "Banyan Bridge",
                   "text": "Podul Banyan din Fo Tan.",
                   "category": "landmark",
                   "coords": [
@@ -11235,7 +11235,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "劉氐宗祠",
+                  "name": "Liu Ancestral Hall",
                   "text": "Ruins of the Liu ancestral hall in Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -11244,7 +11244,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "德華公立學校",
+                  "name": "Tak Wah School",
                   "text": "Ruins of the Tak Wah school in Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -11271,7 +11271,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB205",
+                  "name": "Pillbox PB205",
                   "text": "Ruins of the machine gun bunker PB205 in Fo Tan.",
                   "category": "historical",
                   "coords": [
@@ -11334,7 +11334,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "Lutheran Theological Seminary in Fo Tan.",
                   "category": "religious",
                   "coords": [
@@ -11544,7 +11544,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 (Yau Ma Tei Police Station) ist eine bekannte historische Sehenswürdigkeit in Sham Shui Po.",
                   "category": "landmark",
                   "coords": [
@@ -12050,7 +12050,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "A 油麻地警署 (Yau Ma Tei Rendőrkapitányság) egy nevezetes történelmi látványosság Sham Shui Po területén.",
                   "category": "landmark",
                   "coords": [
@@ -12556,7 +12556,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 (Secția de Poliție Yau Ma Tei) este o atracție istorică notabilă situată în Sham Shui Po.",
                   "category": "landmark",
                   "coords": [
@@ -13062,7 +13062,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 (Yau Ma Tei Police Station) is a notable historical attraction situated in Sham Shui Po.",
                   "category": "landmark",
                   "coords": [
@@ -14183,7 +14183,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "A(z) Checkerboard Hill egy nevezetes hegycsúcs Kowloon Tong városrészben.",
                   "category": "natural",
                   "coords": [
@@ -14192,7 +14192,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "尖山 Eagle's Nest",
+                  "name": "Eagle's Nest",
                   "text": "A(z) Eagle's Nest egy nevezetes hegycsúcs Kowloon Tong városrészben.",
                   "category": "natural",
                   "coords": [
@@ -14201,7 +14201,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十二號山 No. 12 Hill",
+                  "name": "No. 12 Hill",
                   "text": "A(z) No. 12 Hill egy nevezetes hegycsúcs Kowloon Tong városrészben.",
                   "category": "natural",
                   "coords": [
@@ -14210,7 +14210,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "筆架山 Beacon Hill",
+                  "name": "Beacon Hill",
                   "text": "A(z) Beacon Hill egy nevezetes hegycsúcs Kowloon Tong városrészben.",
                   "category": "natural",
                   "coords": [
@@ -14219,7 +14219,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "A(z) Pak Hok Shan egy nevezetes hegycsúcs Kowloon Tong városrészben.",
                   "category": "natural",
                   "coords": [
@@ -14228,7 +14228,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "加多利山 Kadoorie Hill",
+                  "name": "Kadoorie Hill",
                   "text": "A(z) Kadoorie Hill egy nevezetes hegycsúcs Kowloon Tong városrészben.",
                   "category": "natural",
                   "coords": [
@@ -14237,7 +14237,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "通州街公園 Tung Chau Street Park",
+                  "name": "Tung Chau Street Park",
                   "text": "A(z) Tung Chau Street Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14246,7 +14246,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "A(z) Shek Kip Mei Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14255,7 +14255,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "A(z) Kowloon Tsai Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14264,7 +14264,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "A(z) Ko Shan Road Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14273,7 +14273,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南蓮園池 Nan Lian Garden",
+                  "name": "Nan Lian Garden",
                   "text": "A(z) Nam Lian Garden egy nevezetes kert Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14282,7 +14282,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂群街公園 Lok Kwan Street Park",
+                  "name": "Lok Kwan Street Park",
                   "text": "A(z) Lok Kwan Street Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14291,7 +14291,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鳳德公園 Fung Tak Park",
+                  "name": "Fung Tak Park",
                   "text": "A(z) Fung Tak Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14300,7 +14300,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "斧山公園 Hammer Hill Park",
+                  "name": "Hammer Hill Park",
                   "text": "A(z) Hammer Hill Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14309,7 +14309,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "深水埗公園 Sham Shui Po Park",
+                  "name": "Sham Shui Po Park",
                   "text": "A(z) Sham Shui Po Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14318,7 +14318,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "A(z) Po Kong Village Road Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14327,7 +14327,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩虹道遊樂場 Choi Hung Road Playground",
+                  "name": "Choi Hung Road Playground",
                   "text": "A(z) Choi Hung Road Playground egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14336,7 +14336,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "A(z) Fa Hui Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14345,7 +14345,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "獅子山公園 Lion Rock Park",
+                  "name": "Lion Rock Park",
                   "text": "A(z) Lion Rock Park egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14354,7 +14354,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安慰英靈紀念碑 World War II Japanese Army Memorial Pagoda",
+                  "name": "Japanese War Memorial Pagoda",
                   "text": "A(z) World War II Japanese Army Memorial Pagoda egy nevezetes emlékmű Kowloon Tong városrészben.",
                   "category": "historical",
                   "coords": [
@@ -14363,7 +14363,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖公會聖十架堂 Sheng Kung Hui Calvary Church",
+                  "name": "Calvary Church",
                   "text": "A(z) Sheng Kung Hui Calvary Church egy nevezetes istentiszteleti hely Kowloon Tong városrészben.",
                   "category": "religious",
                   "coords": [
@@ -14372,7 +14372,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+                  "name": "Wong Tai Sin Cultural Garden",
                   "text": "A(z) Wong Tai Sin Cultural Garden egy nevezetes park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14381,7 +14381,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "A(z) Shang Sin Chun Tong egy istentiszteleti hely Kowloon Tong városrészben.",
                   "category": "religious",
                   "coords": [
@@ -14390,7 +14390,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "櫻桃街公園 Cherry Street Park",
+                  "name": "Cherry Street Park",
                   "text": "A(z) Cherry Street Park egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14399,7 +14399,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌和老街公園 Cornwall Street Park",
+                  "name": "Cornwall Street Park",
                   "text": "A(z) Cornwall Street Park egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14408,7 +14408,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士三號公園 Morse Park No. 3",
+                  "name": "Morse Park No. 3",
                   "text": "A(z) Morse Park No. 3 egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14417,7 +14417,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂富公園 Lok Fu Park",
+                  "name": "Lok Fu Park",
                   "text": "A(z) Lok Fu Park egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14426,7 +14426,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地配水庫休憩花園 Yau Ma Tei Service Reservoir Rest Garden",
+                  "name": "Yau Ma Tei Service Reservoir Rest Garden",
                   "text": "A(z) Yau Ma Tei Service Reservoir Rest Garden egy kert Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14435,7 +14435,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "海心公園 Hoi Sham Park",
+                  "name": "Hoi Sham Park",
                   "text": "A(z) Hoi Sham Park egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14444,7 +14444,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "東何文田配水庫遊樂場 Ho Man Tin East Service Reservoir Playground",
+                  "name": "Ho Man Tin East Service Reservoir Playground",
                   "text": "A(z) Ho Man Tin East Service Reservoir Playground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14453,7 +14453,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "詩歌舞遊樂場 Sycamore Playground",
+                  "name": "Sycamore Playground",
                   "text": "A(z) Sycamore Playground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14462,7 +14462,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "晏架街遊樂場 Anchor Street Playground",
+                  "name": "Anchor Street Playground",
                   "text": "A(z) Anchor Street Playground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14471,7 +14471,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "景雲街遊樂場 King Wan Street Playground",
+                  "name": "King Wan Street Playground",
                   "text": "A(z) King Wan Street Playground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14480,7 +14480,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "土瓜灣遊樂場 To Kwa Wan Recreation Ground",
+                  "name": "To Kwa Wan Recreation Ground",
                   "text": "A(z) To Kwa Wan Recreation Ground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14489,7 +14489,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾中央遊樂場 Shek Kip Mei Central Playground",
+                  "name": "Shek Kip Mei Central Playground",
                   "text": "A(z) Shek Kip Mei Central Playground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14498,7 +14498,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士四號公園 Morse Park No. 4",
+                  "name": "Morse Park No. 4",
                   "text": "A(z) Morse Park No. 4 egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14507,7 +14507,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "洗衣街花園 Sai Yee Street Garden",
+                  "name": "Sai Yee Street Garden",
                   "text": "A(z) Sai Yee Street Garden egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -14516,7 +14516,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾配水庫遊樂場 Shek Kip Mei Service Reservoir Playground",
+                  "name": "Shek Kip Mei Service Reservoir Playground",
                   "text": "A(z) Shek Kip Mei Service Reservoir Playground egy park Kowloon Tong városrészben.",
                   "category": "park",
                   "coords": [
@@ -18260,7 +18260,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "耶穌基督後期聖徒教會中國香港聖殿",
+                  "name": "Hong Kong China Temple",
                   "text": "A Hong Kong China Temple Az Utolsó Napok Szentjeinek egyik kiemelkedő istentiszteleti helye Diamond Hillben.",
                   "category": "religious",
                   "coords": [
@@ -18674,7 +18674,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "金城道遊樂場 Kam Shing Road Recreation Ground",
+                  "name": "Kam Shing Road Recreation Ground",
                   "text": "A Kam Shing Road Recreation Ground szabadtéri tevékenységekhez tervezett közösségi tér Diamond Hillben.",
                   "category": "park",
                   "coords": [
@@ -19117,7 +19117,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士四號公園 Morse Park No. 4",
+                  "name": "Morse Park No. 4",
                   "text": "Morse Park No. 4 face parte dintr-un sistem mai larg de parcuri care oferă facilități sportive în Diamond Hill.",
                   "category": "park",
                   "coords": [
@@ -20211,7 +20211,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "回教清真禮拜總堂 Jamia Mosque ist eine bekannte Kultstätte in Kennedy Town.",
                   "category": "religious",
                   "coords": [
@@ -20400,7 +20400,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "西區公眾貨物裝卸區 Western District Public Cargo Working Area",
+                  "name": "Western District Public Cargo Working Area",
                   "text": "Die Western District Public Cargo Working Area, auch als Instagram Pier bekannt, ist eine beliebte Sehenswürdigkeit in Kennedy Town.",
                   "category": "landmark",
                   "coords": [
@@ -20537,7 +20537,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "香港大學美術博物館 University Museum & Art Gallery",
+                  "name": "University Museum and Art Gallery",
                   "text": "A(z) University Museum and Art Gallery egy nevezetes múzeum Kennedy Town városrészben.",
                   "category": "museum",
                   "coords": [
@@ -20546,7 +20546,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港杜莎夫人蠟像館 Madame Tussauds Hong Kong",
+                  "name": "Madame Tussauds Hong Kong",
                   "text": "A(z) Madame Tussauds Hong Kong egy nevezetes múzeum Kennedy Town városrészben.",
                   "category": "museum",
                   "coords": [
@@ -20555,7 +20555,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "許士芬地質博物館 Stephen Hui Geological Museum",
+                  "name": "Stephen Hui Geological Museum",
                   "text": "A(z) Stephen Hui Geological Museum egy nevezetes múzeum Kennedy Town városrészben.",
                   "category": "museum",
                   "coords": [
@@ -20564,7 +20564,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "一新美術館 Sun Museum",
+                  "name": "Sun Museum",
                   "text": "A(z) Sun Museum egy nevezetes múzeum Kennedy Town városrészben.",
                   "category": "museum",
                   "coords": [
@@ -20573,7 +20573,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港醫學博物館 Hong Kong Museum of Medical Sciences",
+                  "name": "Hong Kong Museum of Medical Sciences",
                   "text": "A(z) Hong Kong Museum of Medical Sciences egy nevezetes múzeum Kennedy Town városrészben.",
                   "category": "museum",
                   "coords": [
@@ -20582,7 +20582,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "孫中山紀念館 Dr Sun Yat-sen Museum",
+                  "name": "Dr Sun Yat-sen Museum",
                   "text": "A(z) Dr Sun Yat-sen Museum egy nevezetes múzeum Kennedy Town városrészben.",
                   "category": "museum",
                   "coords": [
@@ -20591,7 +20591,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩星嶺要塞 Mount Davis Fort",
+                  "name": "Mount Davis Fort",
                   "text": "A(z) Mount Davis Fort egy nevezetes erőd Kennedy Town városrészben.",
                   "category": "fortress",
                   "coords": [
@@ -20600,7 +20600,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "國殤之柱 Pillar of Shame",
+                  "name": "Pillar of Shame",
                   "text": "A(z) Pillar of Shame egy nevezetes romterület Kennedy Town városrészben.",
                   "category": "historical",
                   "coords": [
@@ -20609,7 +20609,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "維多利亞城界碑 Boundary Stone, City of Victoria",
+                  "name": "Boundary Stone of the City of Victoria",
                   "text": "A(z) Boundary Stone, City of Victoria egy nevezetes emlékmű Kennedy Town városrészben.",
                   "category": "historical",
                   "coords": [
@@ -20618,7 +20618,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "律政中心 Justice Place",
+                  "name": "Justice Place",
                   "text": "A(z) Justice Place egy nevezetes városháza Kennedy Town városrészben.",
                   "category": "historical",
                   "coords": [
@@ -20636,7 +20636,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "藝穗會 Fringe Club",
+                  "name": "Fringe Club",
                   "text": "A(z) Fringe Club egy nevezetes művészeti központ Kennedy Town városrészben.",
                   "category": "cultural",
                   "coords": [
@@ -20645,7 +20645,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大館 Tai Kwun",
+                  "name": "Tai Kwun",
                   "text": "A(z) Tai Kwun egy nevezetes művészeti központ Kennedy Town városrészben.",
                   "category": "cultural",
                   "coords": [
@@ -20654,7 +20654,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖安多尼堂 St. Anthony's Church",
+                  "name": "St. Anthony's Church",
                   "text": "A(z) St. Anthony's Church egy nevezetes istentiszteleti hely Kennedy Town városrészben.",
                   "category": "religious",
                   "coords": [
@@ -20663,7 +20663,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "基督教香港崇真會救恩堂 Tsung Tsin Mission of HK Kau Yan Church",
+                  "name": "Kau Yan Church",
                   "text": "A(z) Tsung Tsin Mission of Hong Kong Kau Yan Church egy nevezetes istentiszteleti hely Kennedy Town városrészben.",
                   "category": "religious",
                   "coords": [
@@ -20672,7 +20672,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天主教聖母無原罪主教座堂 The Hong Kong Cathedral of the Immaculate Conception",
+                  "name": "Cathedral of the Immaculate Conception",
                   "text": "A(z) Cathedral of the Immaculate Conception egy nevezetes istentiszteleti hely Kennedy Town városrészben.",
                   "category": "religious",
                   "coords": [
@@ -20681,7 +20681,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "A(z) 回教清真禮拜總堂 Jamia Mosque egy nevezetes istentiszteleti hely Kennedy Town városrészben.",
                   "category": "religious",
                   "coords": [
@@ -20834,7 +20834,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "堅尼地城臨時遊樂場 Kennedy Town Temporary Recreation Ground",
+                  "name": "Kennedy Town Temporary Recreation Ground",
                   "text": "A Kennedy Town Temporary Recreation Ground szabadidős területeket kínál Kennedy Townban.",
                   "category": "park",
                   "coords": [
@@ -21151,7 +21151,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "回教清真禮拜總堂 Jamia Mosque este un lăcaș de cult notabil situat în Kennedy Town.",
                   "category": "religious",
                   "coords": [
@@ -21304,7 +21304,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "堅尼地城臨時遊樂場 Kennedy Town Temporary Recreation Ground",
+                  "name": "Kennedy Town Temporary Recreation Ground",
                   "text": "Kennedy Town Temporary Recreation Ground oferă spații de recreere în Kennedy Town.",
                   "category": "park",
                   "coords": [
@@ -21340,7 +21340,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "西區公眾貨物裝卸區 Western District Public Cargo Working Area",
+                  "name": "Western District Public Cargo Working Area",
                   "text": "Western District Public Cargo Working Area, cunoscută și sub numele de Instagram Pier, este o atracție populară în Kennedy Town.",
                   "category": "landmark",
                   "coords": [
@@ -21448,7 +21448,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "李陞街遊樂場 Li Sing Street Playground",
+                  "name": "Li Sing Street Playground",
                   "text": "Li Sing Street Playground oferă un spațiu verde în Kennedy Town.",
                   "category": "park",
                   "coords": [
@@ -21621,7 +21621,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "回教清真禮拜總堂 Jamia Mosque",
+                  "name": "Jamia Mosque",
                   "text": "回教清真禮拜總堂 Jamia Mosque is a notable place of worship located in Kennedy Town.",
                   "category": "religious",
                   "coords": [
@@ -22263,7 +22263,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃竹坑石刻 Rock Carvings at Wong Chuk Hang",
+                  "name": "Rock Carvings at Wong Chuk Hang",
                   "text": "Die Felsritzungen von Wong Chuk Hang sind eine archäologische Stätte in Ap Lei Chau.",
                   "category": "historical",
                   "coords": [
@@ -23901,7 +23901,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Das Hong Kong Museum of History dokumentiert die Geschichte der Region in Jordan.",
                   "category": "museum",
                   "coords": [
@@ -23910,7 +23910,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "Das Hong Kong Heritage Discovery Centre in Jordan bewahrt wertvolle historische Artefakte.",
                   "category": "museum",
                   "coords": [
@@ -23928,7 +23928,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery",
                   "text": "Die City Gallery in Jordan informiert Besucher über die Stadtplanung von Hongkong.",
                   "category": "museum",
                   "coords": [
@@ -23973,7 +23973,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hong Kong Arts Centre",
                   "text": "Das Hong Kong Arts Centre in Jordan fördert zeitgenössische Kunst und Kultur.",
                   "category": "cultural",
                   "coords": [
@@ -24333,7 +24333,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北帝廟 Pak Tai Temple",
+                  "name": "Pak Tai Temple",
                   "text": "Ein Tempel in Jordan, gewidmet der Gottheit Pak Tai.",
                   "category": "religious",
                   "coords": [
@@ -24342,7 +24342,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "櫻桃街公園 Cherry Street Park",
+                  "name": "Cherry Street Park",
                   "text": "Ein öffentlicher Park in Jordan.",
                   "category": "park",
                   "coords": [
@@ -24351,7 +24351,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "港灣道花園 Harbour Road Garden",
+                  "name": "Harbour Road Garden",
                   "text": "Ein Garten an der Harbour Road in Jordan.",
                   "category": "park",
                   "coords": [
@@ -24360,7 +24360,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地配水庫休憩花園 Yau Ma Tei Service Reservoir Rest Garden",
+                  "name": "Yau Ma Tei Service Reservoir Rest Garden",
                   "text": "Eine ruhige Gartenanlage am Yau Ma Tei Service Reservoir.",
                   "category": "park",
                   "coords": [
@@ -24389,7 +24389,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "A Jordanben található Hong Kong Heritage Discovery Centre értékes történelmi leleteket őriz.",
                   "category": "museum",
                   "coords": [
@@ -24407,7 +24407,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery",
                   "text": "A Jordanben található City Gallery Hongkong várostervezéséről tájékoztatja a látogatókat.",
                   "category": "museum",
                   "coords": [
@@ -24569,7 +24569,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "A Jordanben található Hong Kong Observation Wheel csodálatos kilátást nyújt a városra.",
                   "category": "landmark",
                   "coords": [
@@ -24605,7 +24605,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "窩仔山 Woh Chai Shan",
+                  "name": "Woh Chai Shan",
                   "text": "Woh Chai Shan egy kiemelkedő pont Jordanben.",
                   "category": "natural",
                   "coords": [
@@ -24812,7 +24812,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北帝廟 Pak Tai Temple",
+                  "name": "Pak Tai Temple",
                   "text": "Egy Jordanban található templom, amelyet Pak Tai istenségnek szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -24821,7 +24821,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "櫻桃街公園 Cherry Street Park",
+                  "name": "Cherry Street Park",
                   "text": "Egy nyilvános park Jordanban.",
                   "category": "park",
                   "coords": [
@@ -24830,7 +24830,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "港灣道花園 Harbour Road Garden",
+                  "name": "Harbour Road Garden",
                   "text": "Egy kert a Jordan Harbour Roadon.",
                   "category": "park",
                   "coords": [
@@ -24839,7 +24839,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地配水庫休憩花園 Yau Ma Tei Service Reservoir Rest Garden",
+                  "name": "Yau Ma Tei Service Reservoir Rest Garden",
                   "text": "Egy nyugodt kert a Yau Ma Tei víztározónál.",
                   "category": "park",
                   "coords": [
@@ -24859,7 +24859,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Hong Kong Museum of History documentează istoria regiunii în Jordan.",
                   "category": "museum",
                   "coords": [
@@ -24868,7 +24868,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "name": "Hong Kong Heritage Discovery Centre",
                   "text": "Hong Kong Heritage Discovery Centre din Jordan păstrează artefacte istorice valoroase.",
                   "category": "museum",
                   "coords": [
@@ -24886,7 +24886,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "展城館 City Gallery",
+                  "name": "City Gallery",
                   "text": "City Gallery din Jordan informează vizitatorii despre planificarea urbană din Hong Kong.",
                   "category": "museum",
                   "coords": [
@@ -24904,7 +24904,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港太空館 Hong Kong Space Museum",
+                  "name": "Hong Kong Space Museum",
                   "text": "Hong Kong Space Museum din Jordan oferă perspective asupra lumii astronomiei.",
                   "category": "museum",
                   "coords": [
@@ -24931,7 +24931,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "name": "Hong Kong Arts Centre",
                   "text": "Hong Kong Arts Centre din Jordan promovează arta și cultura contemporană.",
                   "category": "cultural",
                   "coords": [
@@ -25048,7 +25048,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "Hong Kong Observation Wheel din Jordan oferă o vedere splendidă asupra orașului.",
                   "category": "landmark",
                   "coords": [
@@ -25291,7 +25291,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北帝廟 Pak Tai Temple",
+                  "name": "Pak Tai Temple",
                   "text": "Un templu din Jordan dedicat zeității Pak Tai.",
                   "category": "religious",
                   "coords": [
@@ -25300,7 +25300,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "櫻桃街公園 Cherry Street Park",
+                  "name": "Cherry Street Park",
                   "text": "Un parc public în Jordan.",
                   "category": "park",
                   "coords": [
@@ -25309,7 +25309,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "港灣道花園 Harbour Road Garden",
+                  "name": "Harbour Road Garden",
                   "text": "O grădină pe Harbour Road în Jordan.",
                   "category": "park",
                   "coords": [
@@ -25318,7 +25318,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地配水庫休憩花園 Yau Ma Tei Service Reservoir Rest Garden",
+                  "name": "Yau Ma Tei Service Reservoir Rest Garden",
                   "text": "O grădină liniștită lângă rezervorul de apă Yau Ma Tei.",
                   "category": "park",
                   "coords": [
@@ -26061,7 +26061,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 ist eine bekannte Attraktion in Prince Edward.",
                   "category": "landmark",
                   "coords": [
@@ -26549,7 +26549,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "A 油麻地警署 egy látványosság Prince Edward területén.",
                   "category": "landmark",
                   "coords": [
@@ -27037,7 +27037,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 este o atracție notabilă din Prince Edward.",
                   "category": "landmark",
                   "coords": [
@@ -27525,7 +27525,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 is a notable attraction situated in Prince Edward.",
                   "category": "landmark",
                   "coords": [
@@ -28338,7 +28338,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青山道六至六咪半村",
+                  "name": "Castle Peak Road 6 to 6.5 Mile Village",
                   "text": "青山道六至六咪半村 ist eine Ruine in Mei Foo.",
                   "category": "historical",
                   "coords": [
@@ -28365,7 +28365,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青沙公路觀景點",
+                  "name": "Ching Sha Highway Viewpoint",
                   "text": "青沙公路觀景點 ist eine Sehenswürdigkeit in Mei Foo.",
                   "category": "landmark",
                   "coords": [
@@ -28646,7 +28646,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "中葵涌公園 Central Kwai Chung Park",
+                  "name": "Central Kwai Chung Park",
                   "text": "A(z) Central Kwai Chung Park egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28655,7 +28655,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石排街公園 Shek Pai Street Park",
+                  "name": "Shek Pai Street Park",
                   "text": "A(z) Shek Pai Street Park egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28664,7 +28664,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "葵盛圍遊樂場 Kwai Shing Circuit Playground",
+                  "name": "Kwai Shing Circuit Playground",
                   "text": "A(z) Kwai Shing Circuit Playground egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28673,7 +28673,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "興華街遊樂場 Hing Wah Street Playground",
+                  "name": "Hing Wah Street Playground",
                   "text": "A(z) Hing Wah Street Playground egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28682,7 +28682,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "嶺南之風 Lingnan Garden",
+                  "name": "Lingnan Garden",
                   "text": "A(z) Lingnan Garden egy kert Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28691,7 +28691,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "葵涌公園 Kwai Chung Park",
+                  "name": "Kwai Chung Park",
                   "text": "A(z) Kwai Chung Park egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28700,7 +28700,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "賽馬會創意藝術中心 Jockey Club Creative Arts Centre",
+                  "name": "Jockey Club Creative Arts Centre",
                   "text": "A(z) Jockey Club Creative Arts Centre egy művészeti központ Mei Foo területén.",
                   "category": "cultural",
                   "coords": [
@@ -28709,7 +28709,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "順寧道遊樂場 Shun Ning Road Recreation Ground",
+                  "name": "Shun Ning Road Recreation Ground",
                   "text": "A(z) Shun Ning Road Recreation Ground egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28718,7 +28718,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "葵順街遊樂場 Kwai Shun Street Playground",
+                  "name": "Kwai Shun Street Playground",
                   "text": "A(z) Kwai Shun Street Playground egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28727,7 +28727,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "業成街遊樂場 Yip Shing Street Playground",
+                  "name": "Yip Shing Street Playground",
                   "text": "A(z) Yip Shing Street Playground egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28736,7 +28736,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "興芳路遊樂場 Hing Fong Road Playground",
+                  "name": "Hing Fong Road Playground",
                   "text": "A(z) Hing Fong Road Playground egy park Mei Foo területén.",
                   "category": "park",
                   "coords": [
@@ -28799,7 +28799,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青山道六至六咪半村",
+                  "name": "Castle Peak Road 6 to 6.5 Mile Village",
                   "text": "A(z) 青山道六至六咪半村 egy rom Mei Foo területén.",
                   "category": "historical",
                   "coords": [
@@ -28826,7 +28826,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青沙公路觀景點",
+                  "name": "Ching Sha Highway Viewpoint",
                   "text": "A(z) 青沙公路觀景點 egy látványosság Mei Foo területén.",
                   "category": "landmark",
                   "coords": [
@@ -29260,7 +29260,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青山道六至六咪半村",
+                  "name": "Castle Peak Road 6 to 6.5 Mile Village",
                   "text": "青山道六至六咪半村 este o ruină din Mei Foo.",
                   "category": "historical",
                   "coords": [
@@ -29287,7 +29287,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青沙公路觀景點",
+                  "name": "Ching Sha Highway Viewpoint",
                   "text": "青沙公路觀景點 este o atracție turistică din Mei Foo.",
                   "category": "landmark",
                   "coords": [
@@ -29721,7 +29721,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青山道六至六咪半村",
+                  "name": "Castle Peak Road 6 to 6.5 Mile Village",
                   "text": "青山道六至六咪半村 is a ruined site located in Mei Foo.",
                   "category": "historical",
                   "coords": [
@@ -29748,7 +29748,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "青沙公路觀景點",
+                  "name": "Ching Sha Highway Viewpoint",
                   "text": "青沙公路觀景點 is a tourist attraction located in Mei Foo.",
                   "category": "landmark",
                   "coords": [
@@ -29931,7 +29931,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "耶穌基督後期聖徒教會中國香港聖殿",
+                  "name": "Hong Kong China Temple",
                   "text": "Ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage.",
                   "category": "religious",
                   "coords": [
@@ -29976,7 +29976,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "沈雲山 Shum Wan Shan",
+                  "name": "Shum Wan Shan",
                   "text": "Ein kleiner Berg in der Nähe von San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -29994,7 +29994,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "Ein markanter Hügel, bekannt für seine charakteristische Form.",
                   "category": "natural",
                   "coords": [
@@ -30012,7 +30012,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "Ein kleiner Berg in der Region San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -30021,7 +30021,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "加多利山 Kadoorie Hill",
+                  "name": "Kadoorie Hill",
                   "text": "Ein Hügel, der zur lokalen Geografie von San Po Kong gehört.",
                   "category": "natural",
                   "coords": [
@@ -30030,7 +30030,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "Ein öffentlicher Park im Stadtgebiet von San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30039,7 +30039,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "Ein weitläufiger Park in San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30048,7 +30048,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "坪石遊樂場 Ping Shek Playground",
+                  "name": "Ping Shek Playground",
                   "text": "Ein Spielplatz für Kinder und Erholungssuchende in San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30057,7 +30057,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "Ein Park entlang der Ko Shan Road.",
                   "category": "park",
                   "coords": [
@@ -30066,7 +30066,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南蓮園池 Nan Lian Garden",
+                  "name": "Nan Lian Garden",
                   "text": "Ein wunderschöner chinesischer Garten mit klassischer Gestaltung.",
                   "category": "park",
                   "coords": [
@@ -30075,7 +30075,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鳳德公園 Fung Tak Park",
+                  "name": "Fung Tak Park",
                   "text": "Ein Park zur Erholung in San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30084,7 +30084,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "斧山公園 Hammer Hill Park",
+                  "name": "Hammer Hill Park",
                   "text": "Ein Park am Hammer Hill.",
                   "category": "park",
                   "coords": [
@@ -30093,7 +30093,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐敦谷公園 Jordan Valley Park",
+                  "name": "Jordan Valley Park",
                   "text": "Ein großer Park im Jordan Valley.",
                   "category": "park",
                   "coords": [
@@ -30102,7 +30102,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "Ein Park an der Po Kong Village Road.",
                   "category": "park",
                   "coords": [
@@ -30111,7 +30111,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩虹道遊樂場 Choi Hung Road Playground",
+                  "name": "Choi Hung Road Playground",
                   "text": "Ein Spielplatz an der Choi Hung Road.",
                   "category": "park",
                   "coords": [
@@ -30129,7 +30129,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "Ein öffentlicher Park in der Nähe von San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30138,7 +30138,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀塘海濱花園 Kwun Tong Promenade",
+                  "name": "Kwun Tong Promenade",
                   "text": "Eine beliebte Uferpromenade am Kwun Tong.",
                   "category": "park",
                   "coords": [
@@ -30147,7 +30147,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "獅子山公園 Lion Rock Park",
+                  "name": "Lion Rock Park",
                   "text": "Ein Park in der Nähe des Lion Rock.",
                   "category": "park",
                   "coords": [
@@ -30156,7 +30156,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安慰英靈紀念碑 World War II Japanese Army Memorial Pagoda",
+                  "name": "Japanese War Memorial Pagoda",
                   "text": "Ein historisches Denkmal in San Po Kong.",
                   "category": "historical",
                   "coords": [
@@ -30165,7 +30165,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖公會聖十架堂 Sheng Kung Hui Calvary Church",
+                  "name": "Calvary Church",
                   "text": "Eine Kirchengemeinde in San Po Kong.",
                   "category": "religious",
                   "coords": [
@@ -30174,7 +30174,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "零碳天地 Zero Carbon Building",
+                  "name": "Zero Carbon Building",
                   "text": "Ein Gebäude, das für seine Nachhaltigkeit bekannt ist.",
                   "category": "park",
                   "coords": [
@@ -30183,7 +30183,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+                  "name": "Wong Tai Sin Cultural Garden",
                   "text": "Ein kultureller Garten zu Ehren von Wong Tai Sin.",
                   "category": "park",
                   "coords": [
@@ -30201,7 +30201,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "Ein daoistischer Tempel in San Po Kong.",
                   "category": "religious",
                   "coords": [
@@ -30219,7 +30219,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "平山 Flat Hill",
+                  "name": "Flat Hill",
                   "text": "Ein flacher Hügel in der Gegend von San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -30228,7 +30228,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌和老街公園 Cornwall Street Park",
+                  "name": "Cornwall Street Park",
                   "text": "Ein Park an der Cornwall Street.",
                   "category": "park",
                   "coords": [
@@ -30237,7 +30237,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士三號公園 Morse Park No. 3",
+                  "name": "Morse Park No. 3",
                   "text": "Ein Teil der Morse Park Anlage in San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30246,7 +30246,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂富公園 Lok Fu Park",
+                  "name": "Lok Fu Park",
                   "text": "Ein lokaler Park in San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -30255,7 +30255,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "海心公園 Hoi Sham Park",
+                  "name": "Hoi Sham Park",
                   "text": "Ein Park in Küstennähe.",
                   "category": "park",
                   "coords": [
@@ -30264,7 +30264,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "東何文田配水庫遊樂場 Ho Man Tin East Service Reservoir Playground",
+                  "name": "Ho Man Tin East Service Reservoir Playground",
                   "text": "Ein Spielplatz in der Nähe des Ho Man Tin Reservoir.",
                   "category": "park",
                   "coords": [
@@ -30273,7 +30273,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "景雲街遊樂場 King Wan Street Playground",
+                  "name": "King Wan Street Playground",
                   "text": "Ein Spielplatz an der King Wan Street.",
                   "category": "park",
                   "coords": [
@@ -30282,7 +30282,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "土瓜灣遊樂場 To Kwa Wan Recreation Ground",
+                  "name": "To Kwa Wan Recreation Ground",
                   "text": "Ein Erholungsgelände in To Kwa Wan.",
                   "category": "park",
                   "coords": [
@@ -30291,7 +30291,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍灣遊樂場 Kowloon Bay Playground",
+                  "name": "Kowloon Bay Playground",
                   "text": "Ein Spielplatz in der Kowloon Bay.",
                   "category": "park",
                   "coords": [
@@ -30300,7 +30300,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩榮路公園 Choi Wing Road Park",
+                  "name": "Choi Wing Road Park",
                   "text": "Ein Park an der Choi Wing Road.",
                   "category": "park",
                   "coords": [
@@ -30309,7 +30309,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "順利邨公園 Shun Lee Tsuen Park",
+                  "name": "Shun Lee Tsuen Park",
                   "text": "Ein Park in Shun Lee Tsuen.",
                   "category": "park",
                   "coords": [
@@ -30318,7 +30318,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾中央遊樂場 Shek Kip Mei Central Playground",
+                  "name": "Shek Kip Mei Central Playground",
                   "text": "Ein Spielplatz in Shek Kip Mei.",
                   "category": "park",
                   "coords": [
@@ -30327,7 +30327,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "臨華街遊樂場 Lam Wah Street Playground",
+                  "name": "Lam Wah Street Playground",
                   "text": "Ein Spielplatz an der Lam Wah Street.",
                   "category": "park",
                   "coords": [
@@ -30336,7 +30336,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士四號公園 Morse Park No. 4",
+                  "name": "Morse Park No. 4",
                   "text": "Ein weiterer Teil der Morse Park Anlage.",
                   "category": "park",
                   "coords": [
@@ -30437,7 +30437,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "耶穌基督後期聖徒教會中國香港聖殿",
+                  "name": "Hong Kong China Temple",
                   "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza temploma.",
                   "category": "religious",
                   "coords": [
@@ -30482,7 +30482,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "沈雲山 Shum Wan Shan",
+                  "name": "Shum Wan Shan",
                   "text": "Kisebb hegy San Po Kong közelében.",
                   "category": "natural",
                   "coords": [
@@ -30500,7 +30500,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "Figyelemre méltó domb, amely jellegzetes formájáról ismert.",
                   "category": "natural",
                   "coords": [
@@ -30518,7 +30518,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "Kisebb hegy San Po Kong régiójában.",
                   "category": "natural",
                   "coords": [
@@ -30527,7 +30527,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "加多利山 Kadoorie Hill",
+                  "name": "Kadoorie Hill",
                   "text": "Domb, amely San Po Kong helyi földrajzához tartozik.",
                   "category": "natural",
                   "coords": [
@@ -30536,7 +30536,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "Nyilvános park San Po Kong városrészében.",
                   "category": "park",
                   "coords": [
@@ -30545,7 +30545,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "Tágas park San Po Kongban.",
                   "category": "park",
                   "coords": [
@@ -30554,7 +30554,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "坪石遊樂場 Ping Shek Playground",
+                  "name": "Ping Shek Playground",
                   "text": "Játszótér gyerekeknek és kikapcsolódni vágyóknak San Po Kongban.",
                   "category": "park",
                   "coords": [
@@ -30563,7 +30563,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "Park a Ko Shan Road mentén.",
                   "category": "park",
                   "coords": [
@@ -30572,7 +30572,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南蓮園池 Nan Lian Garden",
+                  "name": "Nan Lian Garden",
                   "text": "Gyönyörű kínai kert klasszikus kialakítással.",
                   "category": "park",
                   "coords": [
@@ -30581,7 +30581,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鳳德公園 Fung Tak Park",
+                  "name": "Fung Tak Park",
                   "text": "Pihenőpark San Po Kongban.",
                   "category": "park",
                   "coords": [
@@ -30590,7 +30590,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "斧山公園 Hammer Hill Park",
+                  "name": "Hammer Hill Park",
                   "text": "Park a Hammer Hillnél.",
                   "category": "park",
                   "coords": [
@@ -30599,7 +30599,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐敦谷公園 Jordan Valley Park",
+                  "name": "Jordan Valley Park",
                   "text": "Nagy park a Jordan-völgyben.",
                   "category": "park",
                   "coords": [
@@ -30608,7 +30608,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "Park a Po Kong Village Roadnál.",
                   "category": "park",
                   "coords": [
@@ -30617,7 +30617,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩虹道遊樂場 Choi Hung Road Playground",
+                  "name": "Choi Hung Road Playground",
                   "text": "Játszótér a Choi Hung Roadnál.",
                   "category": "park",
                   "coords": [
@@ -30635,7 +30635,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "Nyilvános park San Po Kong közelében.",
                   "category": "park",
                   "coords": [
@@ -30644,7 +30644,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀塘海濱花園 Kwun Tong Promenade",
+                  "name": "Kwun Tong Promenade",
                   "text": "Népszerű vízparti sétány Kwun Tongban.",
                   "category": "park",
                   "coords": [
@@ -30653,7 +30653,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "獅子山公園 Lion Rock Park",
+                  "name": "Lion Rock Park",
                   "text": "Park a Lion Rock közelében.",
                   "category": "park",
                   "coords": [
@@ -30662,7 +30662,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安慰英靈紀念碑 World War II Japanese Army Memorial Pagoda",
+                  "name": "Japanese War Memorial Pagoda",
                   "text": "Történelmi emlékmű San Po Kongban.",
                   "category": "historical",
                   "coords": [
@@ -30671,7 +30671,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖公會聖十架堂 Sheng Kung Hui Calvary Church",
+                  "name": "Calvary Church",
                   "text": "Egyházközség San Po Kongban.",
                   "category": "religious",
                   "coords": [
@@ -30680,7 +30680,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "零碳天地 Zero Carbon Building",
+                  "name": "Zero Carbon Building",
                   "text": "Fenntarthatóságáról ismert épület.",
                   "category": "park",
                   "coords": [
@@ -30689,7 +30689,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+                  "name": "Wong Tai Sin Cultural Garden",
                   "text": "Kulturális kert Wong Tai Sin tiszteletére.",
                   "category": "park",
                   "coords": [
@@ -30707,7 +30707,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "Taoista templom San Po Kongban.",
                   "category": "religious",
                   "coords": [
@@ -30725,7 +30725,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "平山 Flat Hill",
+                  "name": "Flat Hill",
                   "text": "Lapos domb San Po Kong környékén.",
                   "category": "natural",
                   "coords": [
@@ -30734,7 +30734,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌和老街公園 Cornwall Street Park",
+                  "name": "Cornwall Street Park",
                   "text": "Park a Cornwall Streetnél.",
                   "category": "park",
                   "coords": [
@@ -30743,7 +30743,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士三號公園 Morse Park No. 3",
+                  "name": "Morse Park No. 3",
                   "text": "A Morse Park komplexum része San Po Kongban.",
                   "category": "park",
                   "coords": [
@@ -30752,7 +30752,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂富公園 Lok Fu Park",
+                  "name": "Lok Fu Park",
                   "text": "Helyi park San Po Kongban.",
                   "category": "park",
                   "coords": [
@@ -30761,7 +30761,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "海心公園 Hoi Sham Park",
+                  "name": "Hoi Sham Park",
                   "text": "Park a tengerpart közelében.",
                   "category": "park",
                   "coords": [
@@ -30770,7 +30770,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "東何文田配水庫遊樂場 Ho Man Tin East Service Reservoir Playground",
+                  "name": "Ho Man Tin East Service Reservoir Playground",
                   "text": "Játszótér a Ho Man Tin víztározó közelében.",
                   "category": "park",
                   "coords": [
@@ -30779,7 +30779,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "景雲街遊樂場 King Wan Street Playground",
+                  "name": "King Wan Street Playground",
                   "text": "Játszótér a King Wan Streetnél.",
                   "category": "park",
                   "coords": [
@@ -30788,7 +30788,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "土瓜灣遊樂場 To Kwa Wan Recreation Ground",
+                  "name": "To Kwa Wan Recreation Ground",
                   "text": "Kikapcsolódási terület To Kwa Wanban.",
                   "category": "park",
                   "coords": [
@@ -30797,7 +30797,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍灣遊樂場 Kowloon Bay Playground",
+                  "name": "Kowloon Bay Playground",
                   "text": "Játszótér a Kowloon-öbölben.",
                   "category": "park",
                   "coords": [
@@ -30806,7 +30806,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩榮路公園 Choi Wing Road Park",
+                  "name": "Choi Wing Road Park",
                   "text": "Park a Choi Wing Roadnál.",
                   "category": "park",
                   "coords": [
@@ -30815,7 +30815,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "順利邨公園 Shun Lee Tsuen Park",
+                  "name": "Shun Lee Tsuen Park",
                   "text": "Park Shun Lee Tsuenben.",
                   "category": "park",
                   "coords": [
@@ -30824,7 +30824,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾中央遊樂場 Shek Kip Mei Central Playground",
+                  "name": "Shek Kip Mei Central Playground",
                   "text": "Játszótér Shek Kip Meiben.",
                   "category": "park",
                   "coords": [
@@ -30833,7 +30833,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "臨華街遊樂場 Lam Wah Street Playground",
+                  "name": "Lam Wah Street Playground",
                   "text": "Játszótér a Lam Wah Streetnél.",
                   "category": "park",
                   "coords": [
@@ -30943,7 +30943,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "耶穌基督後期聖徒教會中國香港聖殿",
+                  "name": "Hong Kong China Temple",
                   "text": "Un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
                   "category": "religious",
                   "coords": [
@@ -30988,7 +30988,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "沈雲山 Shum Wan Shan",
+                  "name": "Shum Wan Shan",
                   "text": "Un munte mic lângă San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -31006,7 +31006,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "Un deal proeminent, cunoscut pentru forma sa caracteristică.",
                   "category": "natural",
                   "coords": [
@@ -31024,7 +31024,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "Un munte mic în regiunea San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -31033,7 +31033,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "加多利山 Kadoorie Hill",
+                  "name": "Kadoorie Hill",
                   "text": "Un deal care aparține geografiei locale a San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -31042,7 +31042,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "Un parc public în zona urbană San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31051,7 +31051,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "Un parc vast în San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31060,7 +31060,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "坪石遊樂場 Ping Shek Playground",
+                  "name": "Ping Shek Playground",
                   "text": "Un loc de joacă pentru copii și pentru cei care caută recreere în San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31069,7 +31069,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "Un parc de-a lungul Ko Shan Road.",
                   "category": "park",
                   "coords": [
@@ -31078,7 +31078,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南蓮園池 Nan Lian Garden",
+                  "name": "Nan Lian Garden",
                   "text": "O grădină chinezească frumoasă, cu design clasic.",
                   "category": "park",
                   "coords": [
@@ -31087,7 +31087,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鳳德公園 Fung Tak Park",
+                  "name": "Fung Tak Park",
                   "text": "Un parc pentru recreere în San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31096,7 +31096,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "斧山公園 Hammer Hill Park",
+                  "name": "Hammer Hill Park",
                   "text": "Un parc la Hammer Hill.",
                   "category": "park",
                   "coords": [
@@ -31105,7 +31105,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐敦谷公園 Jordan Valley Park",
+                  "name": "Jordan Valley Park",
                   "text": "Un parc mare în Jordan Valley.",
                   "category": "park",
                   "coords": [
@@ -31114,7 +31114,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "Un parc pe Po Kong Village Road.",
                   "category": "park",
                   "coords": [
@@ -31123,7 +31123,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩虹道遊樂場 Choi Hung Road Playground",
+                  "name": "Choi Hung Road Playground",
                   "text": "Un loc de joacă pe Choi Hung Road.",
                   "category": "park",
                   "coords": [
@@ -31141,7 +31141,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "Un parc public lângă San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31150,7 +31150,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀塘海濱花園 Kwun Tong Promenade",
+                  "name": "Kwun Tong Promenade",
                   "text": "O promenadă populară la malul mării în Kwun Tong.",
                   "category": "park",
                   "coords": [
@@ -31159,7 +31159,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "獅子山公園 Lion Rock Park",
+                  "name": "Lion Rock Park",
                   "text": "Un parc lângă Lion Rock.",
                   "category": "park",
                   "coords": [
@@ -31168,7 +31168,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安慰英靈紀念碑 World War II Japanese Army Memorial Pagoda",
+                  "name": "Japanese War Memorial Pagoda",
                   "text": "Un monument istoric în San Po Kong.",
                   "category": "historical",
                   "coords": [
@@ -31177,7 +31177,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖公會聖十架堂 Sheng Kung Hui Calvary Church",
+                  "name": "Calvary Church",
                   "text": "O parohie în San Po Kong.",
                   "category": "religious",
                   "coords": [
@@ -31186,7 +31186,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "零碳天地 Zero Carbon Building",
+                  "name": "Zero Carbon Building",
                   "text": "O clădire cunoscută pentru sustenabilitatea sa.",
                   "category": "park",
                   "coords": [
@@ -31195,7 +31195,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+                  "name": "Wong Tai Sin Cultural Garden",
                   "text": "O grădină culturală în onoarea lui Wong Tai Sin.",
                   "category": "park",
                   "coords": [
@@ -31213,7 +31213,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "Un templu taoist în San Po Kong.",
                   "category": "religious",
                   "coords": [
@@ -31231,7 +31231,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "平山 Flat Hill",
+                  "name": "Flat Hill",
                   "text": "Un deal plat în zona San Po Kong.",
                   "category": "natural",
                   "coords": [
@@ -31240,7 +31240,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌和老街公園 Cornwall Street Park",
+                  "name": "Cornwall Street Park",
                   "text": "Un parc pe Cornwall Street.",
                   "category": "park",
                   "coords": [
@@ -31249,7 +31249,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士三號公園 Morse Park No. 3",
+                  "name": "Morse Park No. 3",
                   "text": "O parte a complexului Morse Park din San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31258,7 +31258,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂富公園 Lok Fu Park",
+                  "name": "Lok Fu Park",
                   "text": "Un parc local în San Po Kong.",
                   "category": "park",
                   "coords": [
@@ -31267,7 +31267,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "海心公園 Hoi Sham Park",
+                  "name": "Hoi Sham Park",
                   "text": "Un parc lângă coastă.",
                   "category": "park",
                   "coords": [
@@ -31276,7 +31276,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "東何文田配水庫遊樂場 Ho Man Tin East Service Reservoir Playground",
+                  "name": "Ho Man Tin East Service Reservoir Playground",
                   "text": "Un loc de joacă lângă rezervorul Ho Man Tin.",
                   "category": "park",
                   "coords": [
@@ -31285,7 +31285,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "景雲街遊樂場 King Wan Street Playground",
+                  "name": "King Wan Street Playground",
                   "text": "Un loc de joacă pe King Wan Street.",
                   "category": "park",
                   "coords": [
@@ -31294,7 +31294,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "土瓜灣遊樂場 To Kwa Wan Recreation Ground",
+                  "name": "To Kwa Wan Recreation Ground",
                   "text": "O zonă de recreere în To Kwa Wan.",
                   "category": "park",
                   "coords": [
@@ -31303,7 +31303,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍灣遊樂場 Kowloon Bay Playground",
+                  "name": "Kowloon Bay Playground",
                   "text": "Un loc de joacă în Kowloon Bay.",
                   "category": "park",
                   "coords": [
@@ -31312,7 +31312,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩榮路公園 Choi Wing Road Park",
+                  "name": "Choi Wing Road Park",
                   "text": "Un parc pe Choi Wing Road.",
                   "category": "park",
                   "coords": [
@@ -31321,7 +31321,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "順利邨公園 Shun Lee Tsuen Park",
+                  "name": "Shun Lee Tsuen Park",
                   "text": "Un parc în Shun Lee Tsuen.",
                   "category": "park",
                   "coords": [
@@ -31330,7 +31330,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾中央遊樂場 Shek Kip Mei Central Playground",
+                  "name": "Shek Kip Mei Central Playground",
                   "text": "Un loc de joacă în Shek Kip Mei.",
                   "category": "park",
                   "coords": [
@@ -31339,7 +31339,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "臨華街遊樂場 Lam Wah Street Playground",
+                  "name": "Lam Wah Street Playground",
                   "text": "Un loc de joacă pe Lam Wah Street.",
                   "category": "park",
                   "coords": [
@@ -31348,7 +31348,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士四號公園 Morse Park No. 4",
+                  "name": "Morse Park No. 4",
                   "text": "O altă parte a complexului Morse Park.",
                   "category": "park",
                   "coords": [
@@ -32028,7 +32028,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "達德公所 ist eine bekannte lokale Sehenswürdigkeit in Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32082,7 +32082,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "大石墜谷 ist eine lokale Sehenswürdigkeit in der Stadt Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32091,7 +32091,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "靈虛谷 ist eine bemerkenswerte Sehenswürdigkeit in Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32219,7 +32219,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "A 達德公所 egy nevezetes helyi látványosság Hung Shui Kiu városában.",
                   "category": "landmark",
                   "coords": [
@@ -32273,7 +32273,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "A 大石墜谷 egy helyi látványosság Hung Shui Kiu városában.",
                   "category": "landmark",
                   "coords": [
@@ -32282,7 +32282,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "A 靈虛谷 egy nevezetes látványosság Hung Shui Kiu területén.",
                   "category": "landmark",
                   "coords": [
@@ -32410,7 +32410,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "達德公所 este o atracție locală notabilă situată în Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32464,7 +32464,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "大石墜谷 este o atracție locală situată în orașul Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32473,7 +32473,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "靈虛谷 este o atracție notabilă din Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32601,7 +32601,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "達德公所 is a notable local attraction situated in Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32655,7 +32655,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "大石墜谷 is a local attraction situated in the city of Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -32664,7 +32664,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "靈虛谷 is a notable attraction located in Hung Shui Kiu.",
                   "category": "landmark",
                   "coords": [
@@ -33747,7 +33747,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "達德公所 ist eine Sehenswürdigkeit in Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -33792,7 +33792,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "大石墜谷 ist eine Sehenswürdigkeit in Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -33801,7 +33801,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "靈虛谷 ist eine Sehenswürdigkeit in Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -33830,7 +33830,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "靈渡寺 Ling To Monastery",
+                  "name": "Ling To Monastery",
                   "text": "A(z) Ling To Monastery egy kolostor Ha Tsuen területén.",
                   "category": "religious",
                   "coords": [
@@ -33920,7 +33920,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "A(z) 達德公所 egy látványosság Ha Tsuen területén.",
                   "category": "landmark",
                   "coords": [
@@ -33929,7 +33929,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "錫降村遊樂場 Sik Kong Tsuen Playground",
+                  "name": "Sik Kong Tsuen Playground",
                   "text": "A(z) Sik Kong Tsuen Playground egy park Ha Tsuen területén.",
                   "category": "park",
                   "coords": [
@@ -33938,7 +33938,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "屏夏路花園 Ping Ha Road Garden",
+                  "name": "Ping Ha Road Garden",
                   "text": "A(z) Ping Ha Road Garden egy kert Ha Tsuen területén.",
                   "category": "park",
                   "coords": [
@@ -33965,7 +33965,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "A(z) 大石墜谷 egy látványosság Ha Tsuen területén.",
                   "category": "landmark",
                   "coords": [
@@ -33974,7 +33974,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "A(z) 靈虛谷 egy látványosság Ha Tsuen területén.",
                   "category": "landmark",
                   "coords": [
@@ -33992,7 +33992,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廈村鄧氏宗祠 Tang Ancestral Hall, Ha Tsuen",
+                  "name": "Tang Ancestral Hall, Ha Tsuen",
                   "text": "A(z) Tang Ancestral Hall, Ha Tsuen egy műemlék Ha Tsuen területén.",
                   "category": "historical",
                   "coords": [
@@ -34093,7 +34093,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "達德公所 este o atracție turistică din Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -34138,7 +34138,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "大石墜谷 este o atracție turistică din Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -34147,7 +34147,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "靈虛谷 este o atracție turistică din Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -34266,7 +34266,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "達德公所",
+                  "name": "Tat Tak Hall",
                   "text": "達德公所 is a tourist attraction located in Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -34311,7 +34311,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大石墜谷",
+                  "name": "Da Shi Zhui Gu",
                   "text": "大石墜谷 is a tourist attraction located in Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -34320,7 +34320,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "靈虛谷",
+                  "name": "Ling Xu Gu",
                   "text": "靈虛谷 is a tourist attraction located in Ha Tsuen.",
                   "category": "landmark",
                   "coords": [
@@ -34437,7 +34437,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-sha-tau-kok-cities-v2.webp",
   },
   {
-    id: "hongkong-mui-wo-cities-v2", "sights": {"de": [{"name": "銀礦灣泳灘 Silvermine Bay Beach", "text": "Mui Wo beherbergt den Silvermine Bay Beach, einen weiten und bekannten Sandstrand in Hongkong. Die Küstenatmosphäre zeichnet sich hier durch eine angenehme Ruhe aus, die vor allem Familien sehr schätzen. Ausgiebige Strandspaziergänge und entspannte Stunden am Meer stehen hier im Vordergrund. Ein Hut und ausreichend Wasser runden die perfekte Strandausrüstung ab.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "Das Mui Wo Culture & Heritage Exhibition Centre ist ein Museum in Mui Wo.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "Tai Ho Stream SSSI ist ein Naturschutzgebiet zur Erhaltung der lokalen Ökologie in Mui Wo.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "Lin Fa Shan ist ein markanter Berggipfel in Mui Wo.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "Sam Shan Toi ist ein bekannter Berggipfel in Mui Wo.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "Tai Ngau Wu Teng ist ein bekannter Gipfel in der Gegend von Mui Wo.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "餘得利園", "text": "餘得利園 ist ein bekanntes historisches Herrenhaus in Mui Wo.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "Standing Rock ist ein malerischer Aussichtspunkt in Mui Wo.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "Der Silver Waterfall lookout ist ein beliebter Aussichtspunkt in Mui Wo.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "Nam Shan Viewing Point", "text": "Der Nam Shan Viewing Point ist ein Ort in Mui Wo, der Panoramablicke bietet.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "白銀鄉", "text": "白銀鄉 ist ein historisches Denkmal in der Stadt Mui Wo.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "Das Silver Mine Bay Viewing Deck ist ein ausgewiesener Aussichtspunkt in Mui Wo.", "category": "natural", "coords": [113.998279, 22.266981]}], "hu": [{"name": "銀礦灣泳灘 Silvermine Bay Beach", "text": "Mui Wo ad otthont a Silvermine Bay Beach-nek, amely egy széles és ismert homokos strand Hongkongban. A tengerparti légkört itt egy kellemes nyugalom jellemzi, amelyet a családok különösen értékelnek. A hosszú tengerparti séták és a tengernél töltött pihentető órák állnak itt a középpontban. Egy kalap és elegendő víz teszi teljessé a tökéletes strandfelszerelést.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "A Mui Wo Culture & Heritage Exhibition Centre egy múzeum Mui Wo városában.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "A Tai Ho Stream SSSI egy természetvédelmi terület Mui Wo környékén.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "A Lin Fa Shan egy kiemelkedő hegycsúcs Mui Wo területén.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "A Sam Shan Toi egy ismert hegycsúcs Mui Wo városában.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "A Tai Ngau Wu Teng egy nevezetes hegycsúcs Mui Wo környékén.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "餘得利園", "text": "A 餘得利園 egy nevezetes történelmi udvarház Mui Wo városában.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "A Standing Rock egy festői kilátó Mui Wo területén.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "A Silver Waterfall lookout egy népszerű kilátó Mui Wo városában.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "南山觀景台 Nam Shan Viewing Point", "text": "A Nam Shan Viewing Point panorámás kilátást nyújtó pont Mui Wo területén.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "白銀鄉", "text": "A 白銀鄉 egy történelmi műemlék Mui Wo városában.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "A Silver Mine Bay Viewing Deck egy kijelölt kilátó Mui Wo területén.", "category": "natural", "coords": [113.998279, 22.266981]}], "ro": [{"name": "銀礦灣泳灘 Silvermine Bay Beach", "text": "Mui Wo găzduiește Silvermine Bay Beach, o plajă largă și faimoasă cu nisip din Hong Kong. Atmosfera de coastă se caracterizează aici printr-o liniște plăcută, care este apreciată în special de familii. Plimbările lungi pe plajă și orele relaxante la mare sunt în centrul atenției aici. O pălărie și suficientă apă completează echipamentul perfect pentru plajă.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "Mui Wo Culture & Heritage Exhibition Centre este un muzeu situat în Mui Wo.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "Tai Ho Stream SSSI este o rezervație naturală care protejează ecologia locală din Mui Wo.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "Lin Fa Shan este un vârf montan important situat în Mui Wo.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "Sam Shan Toi este un vârf montan recunoscut din Mui Wo.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "Tai Ngau Wu Teng este un vârf notabil din zona Mui Wo.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "餘得利園", "text": "餘得利園 este un conac istoric notabil situat în Mui Wo.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "Standing Rock este un punct de belvedere pitoresc din Mui Wo.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "Silver Waterfall lookout este un punct de belvedere popular din Mui Wo.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "Nam Shan Viewing Point", "text": "Nam Shan Viewing Point este un loc ce oferă vederi panoramice în Mui Wo.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "白銀鄉", "text": "白銀鄉 este un monument istoric situat în orașul Mui Wo.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "Silver Mine Bay Viewing Deck este un punct de belvedere amenajat în Mui Wo.", "category": "natural", "coords": [113.998279, 22.266981]}], "en": [{"name": "Silvermine Bay Beach", "text": "Mui Wo is home to Silvermine Bay Beach, a wide and well-known sandy beach in Hong Kong. The coastal atmosphere here is characterized by a pleasant tranquility, which families particularly appreciate. Extensive beach walks and relaxed hours by the sea take center stage here. A hat and sufficient water complete the perfect beach gear.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "The Mui Wo Culture & Heritage Exhibition Centre is a museum located in Mui Wo.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "Tai Ho Stream SSSI is a nature reserve protecting local ecology in Mui Wo.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "Lin Fa Shan is a prominent mountain peak located in Mui Wo.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "Sam Shan Toi is a recognized mountain peak situated in Mui Wo.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "Tai Ngau Wu Teng is a notable peak found in the area of Mui Wo.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "餘得利園", "text": "餘得利園 is a notable historic manor located in Mui Wo.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "Standing Rock is a scenic viewpoint situated in Mui Wo.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "The Silver Waterfall lookout is a popular viewpoint in Mui Wo.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "Nam Shan Viewing Point", "text": "Nam Shan Viewing Point is a location offering panoramic views in Mui Wo.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "白銀鄉", "text": "白銀鄉 is a historic monument located in the city of Mui Wo.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "The Silver Mine Bay Viewing Deck is a designated viewpoint in Mui Wo.", "category": "natural", "coords": [113.998279, 22.266981]}]},
+    id: "hongkong-mui-wo-cities-v2", "sights": {"de": [{"name": "銀礦灣泳灘 Silvermine Bay Beach", "text": "Mui Wo beherbergt den Silvermine Bay Beach, einen weiten und bekannten Sandstrand in Hongkong. Die Küstenatmosphäre zeichnet sich hier durch eine angenehme Ruhe aus, die vor allem Familien sehr schätzen. Ausgiebige Strandspaziergänge und entspannte Stunden am Meer stehen hier im Vordergrund. Ein Hut und ausreichend Wasser runden die perfekte Strandausrüstung ab.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "Das Mui Wo Culture & Heritage Exhibition Centre ist ein Museum in Mui Wo.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "Tai Ho Stream SSSI ist ein Naturschutzgebiet zur Erhaltung der lokalen Ökologie in Mui Wo.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "Lin Fa Shan ist ein markanter Berggipfel in Mui Wo.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "Sam Shan Toi ist ein bekannter Berggipfel in Mui Wo.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "Tai Ngau Wu Teng ist ein bekannter Gipfel in der Gegend von Mui Wo.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "Yu De Li Garden", "text": "餘得利園 ist ein bekanntes historisches Herrenhaus in Mui Wo.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "Standing Rock ist ein malerischer Aussichtspunkt in Mui Wo.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "Der Silver Waterfall lookout ist ein beliebter Aussichtspunkt in Mui Wo.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "Nam Shan Viewing Point", "text": "Der Nam Shan Viewing Point ist ein Ort in Mui Wo, der Panoramablicke bietet.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "Pak Ngan Heung", "text": "白銀鄉 ist ein historisches Denkmal in der Stadt Mui Wo.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "Das Silver Mine Bay Viewing Deck ist ein ausgewiesener Aussichtspunkt in Mui Wo.", "category": "natural", "coords": [113.998279, 22.266981]}], "hu": [{"name": "銀礦灣泳灘 Silvermine Bay Beach", "text": "Mui Wo ad otthont a Silvermine Bay Beach-nek, amely egy széles és ismert homokos strand Hongkongban. A tengerparti légkört itt egy kellemes nyugalom jellemzi, amelyet a családok különösen értékelnek. A hosszú tengerparti séták és a tengernél töltött pihentető órák állnak itt a középpontban. Egy kalap és elegendő víz teszi teljessé a tökéletes strandfelszerelést.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "A Mui Wo Culture & Heritage Exhibition Centre egy múzeum Mui Wo városában.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "A Tai Ho Stream SSSI egy természetvédelmi terület Mui Wo környékén.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "A Lin Fa Shan egy kiemelkedő hegycsúcs Mui Wo területén.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "A Sam Shan Toi egy ismert hegycsúcs Mui Wo városában.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "A Tai Ngau Wu Teng egy nevezetes hegycsúcs Mui Wo környékén.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "Yu De Li Garden", "text": "A 餘得利園 egy nevezetes történelmi udvarház Mui Wo városában.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "A Standing Rock egy festői kilátó Mui Wo területén.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "A Silver Waterfall lookout egy népszerű kilátó Mui Wo városában.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "南山觀景台 Nam Shan Viewing Point", "text": "A Nam Shan Viewing Point panorámás kilátást nyújtó pont Mui Wo területén.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "Pak Ngan Heung", "text": "A 白銀鄉 egy történelmi műemlék Mui Wo városában.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "A Silver Mine Bay Viewing Deck egy kijelölt kilátó Mui Wo területén.", "category": "natural", "coords": [113.998279, 22.266981]}], "ro": [{"name": "銀礦灣泳灘 Silvermine Bay Beach", "text": "Mui Wo găzduiește Silvermine Bay Beach, o plajă largă și faimoasă cu nisip din Hong Kong. Atmosfera de coastă se caracterizează aici printr-o liniște plăcută, care este apreciată în special de familii. Plimbările lungi pe plajă și orele relaxante la mare sunt în centrul atenției aici. O pălărie și suficientă apă completează echipamentul perfect pentru plajă.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "Mui Wo Culture & Heritage Exhibition Centre este un muzeu situat în Mui Wo.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "Tai Ho Stream SSSI este o rezervație naturală care protejează ecologia locală din Mui Wo.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "Lin Fa Shan este un vârf montan important situat în Mui Wo.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "Sam Shan Toi este un vârf montan recunoscut din Mui Wo.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "Tai Ngau Wu Teng este un vârf notabil din zona Mui Wo.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "Yu De Li Garden", "text": "餘得利園 este un conac istoric notabil situat în Mui Wo.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "Standing Rock este un punct de belvedere pitoresc din Mui Wo.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "Silver Waterfall lookout este un punct de belvedere popular din Mui Wo.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "Nam Shan Viewing Point", "text": "Nam Shan Viewing Point este un loc ce oferă vederi panoramice în Mui Wo.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "Pak Ngan Heung", "text": "白銀鄉 este un monument istoric situat în orașul Mui Wo.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "Silver Mine Bay Viewing Deck este un punct de belvedere amenajat în Mui Wo.", "category": "natural", "coords": [113.998279, 22.266981]}], "en": [{"name": "Silvermine Bay Beach", "text": "Mui Wo is home to Silvermine Bay Beach, a wide and well-known sandy beach in Hong Kong. The coastal atmosphere here is characterized by a pleasant tranquility, which families particularly appreciate. Extensive beach walks and relaxed hours by the sea take center stage here. A hat and sufficient water complete the perfect beach gear.", "category": "recreational", "coords": [113.999545, 22.269465]}, {"name": "Mui Wo Culture & Heritage Exhibition Centre", "text": "The Mui Wo Culture & Heritage Exhibition Centre is a museum located in Mui Wo.", "category": "museum", "coords": [113.997312, 22.267989]}, {"name": "Tai Ho Stream SSSI", "text": "Tai Ho Stream SSSI is a nature reserve protecting local ecology in Mui Wo.", "category": "natural", "coords": [113.979135, 22.290817]}, {"name": "Lin Fa Shan", "text": "Lin Fa Shan is a prominent mountain peak located in Mui Wo.", "category": "natural", "coords": [113.970649, 22.266035]}, {"name": "Sam Shan Toi", "text": "Sam Shan Toi is a recognized mountain peak situated in Mui Wo.", "category": "natural", "coords": [113.970047, 22.270643]}, {"name": "Tai Ngau Wu Teng", "text": "Tai Ngau Wu Teng is a notable peak found in the area of Mui Wo.", "category": "natural", "coords": [113.989394, 22.249599]}, {"name": "Yu De Li Garden", "text": "餘得利園 is a notable historic manor located in Mui Wo.", "category": "historical", "coords": [113.994398, 22.265579]}, {"name": "Standing Rock", "text": "Standing Rock is a scenic viewpoint situated in Mui Wo.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Silver Waterfall lookout", "text": "The Silver Waterfall lookout is a popular viewpoint in Mui Wo.", "category": "natural", "coords": [113.991552, 22.273459]}, {"name": "Nam Shan Viewing Point", "text": "Nam Shan Viewing Point is a location offering panoramic views in Mui Wo.", "category": "natural", "coords": [113.987922, 22.254956]}, {"name": "Pak Ngan Heung", "text": "白銀鄉 is a historic monument located in the city of Mui Wo.", "category": "historical", "coords": [113.991624, 22.271638]}, {"name": "Silver Mine Bay Viewing Deck", "text": "The Silver Mine Bay Viewing Deck is a designated viewpoint in Mui Wo.", "category": "natural", "coords": [113.998279, 22.266981]}]},
     parent: "HK",
     type: "town",
     name: { de: "Mui Wo", hu: "Mui Wo", ro: "Mui Wo", en: "Mui Wo" },
@@ -34548,7 +34548,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖域同登",
+                  "name": "Sheng Yu Tong Deng",
                   "text": "聖域同登 ist ein Denkmal in der Stadt Tai O.",
                   "category": "historical",
                   "coords": [
@@ -34667,7 +34667,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖域同登",
+                  "name": "Sheng Yu Tong Deng",
                   "text": "A 聖域同登 egy emlékmű Tai O városában.",
                   "category": "historical",
                   "coords": [
@@ -34786,7 +34786,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖域同登",
+                  "name": "Sheng Yu Tong Deng",
                   "text": "聖域同登 este un monument situat în orașul Tai O.",
                   "category": "historical",
                   "coords": [
@@ -34905,7 +34905,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖域同登",
+                  "name": "Sheng Yu Tong Deng",
                   "text": "聖域同登 is a monument situated in the city of Tai O.",
                   "category": "historical",
                   "coords": [
@@ -35094,7 +35094,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-cheung-chau-cities-v2.webp",
   },
   {
-    id: "hongkong-discovery-bay-cities-v2", "sights": {"de": [{"name": "Hong Kong Disneyland", "text": "Hong Kong Disneyland ist ein großer Freizeitpark in der Nähe von Discovery Bay, der verschiedene Themenbereiche basierend auf Disney-Figuren bietet.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "大白海灘 Tai Pak Beach", "text": "In Discovery Bay erstreckt sich der Tai Pak Beach als großzügiger öffentlicher Sandstrand. Hongkonger Küstenflair verbindet sich hier mit einem gepflegten Umfeld, das viele Besucher anzieht. Ob beim Beachvolleyball oder beim gemütlichen Sitzen im Sand, der Ort bietet vielfältige Erholungsmöglichkeiten. Der Strandbesuch lässt sich hervorragend mit einem Bummel durch die angrenzenden Bereiche kombinieren.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "Das Disney’s Storybook Theater ist ein Unterhaltungsort in Discovery Bay.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "Jungle Junction ist ein Theaterbereich in Discovery Bay.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "malerische Sam Pak Wan Beach", "text": "Der malerische Sam Pak Wan Beach ist ein idyllisches Küstenjuwel in Discovery Bay. Im Gegensatz zu den größeren Hauptstränden Hongkongs herrscht an diesem Strandabschnitt oft eine friedvollere Atmosphäre. Besucher können hier in Ruhe die Meeresluft einatmen und entspannt am Ufer entlangwandern. Um die Stille der Bucht ungestört zu genießen, ist ein Vormittagsbesuch optimal.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "Lo Fu Tau ist ein markanter Gipfel bei Discovery Bay, dessen felsige Spitze an einen Tigerkopf erinnert.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "Tai Shan ist ein Berggipfel in der Umgebung von Discovery Bay.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "Die Peng Lei Road Sitting Out Area ist ein kleiner öffentlicher Park in Discovery Bay.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "Der Peng Chau Waterfront Playground ist ein Erholungspark am Wasser in der Nähe von Discovery Bay.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "Standing Rock ist ein natürlicher Aussichtspunkt in Discovery Bay.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "Lookout Point ist ein ausgewiesener Aussichtspunkt in Discovery Bay.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "Der Siena Park Viewpoint ist ein malerischer Aussichtspunkt in Discovery Bay.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "The Trading Post ist eine lokale Touristenattraktion in Discovery Bay.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "Der Butterfly Garden ist eine naturbezogene Attraktion in Discovery Bay.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "山藏智叟石", "text": "山藏智叟石 ist eine markante Felsformation und Attraktion in Discovery Bay.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "Die Gallery Jeeum ist eine Kunstgalerie, die verschiedene Ausstellungen in Discovery Bay zeigt.", "category": "museum", "coords": [114.017106, 22.308366]}], "hu": [{"name": "Hong Kong Disneyland", "text": "A Hong Kong Disneyland egy jelentős vidámpark Discovery Bay közelében, amely Disney karaktereken alapuló tematikus zónákat kínál.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "Discovery Bay területén húzódik", "text": "A Discovery Bay területén húzódik a Tai Pak Beach, egy tágas nyilvános homokos strand. A hongkongi tengerparti hangulat itt egy gondozott környezettel párosul, amely sok látogatót vonz. Legyen szó strandröplabdáról vagy kényelmes homokban ülésről, a hely változatos kikapcsolódási lehetőségeket kínál. A strandolás kiválóan kombinálható a szomszédos területeken tett sétával.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "A Disney’s Storybook Theater egy színházi és szórakoztató létesítmény Discovery Bay-ben.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "A Jungle Junction egy színházi létesítmény Discovery Bay területén.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "festői Sam Pak Wan Beach", "text": "A festői Sam Pak Wan Beach egy idilli parti ékszer Discovery Bayben. Hongkong nagyobb fő strandjaival ellentétben ezen a partszakaszon gyakran békésebb a hangulat. A látogatók itt nyugodtan beszívhatják a tengeri levegőt, és pihentetően sétálhatnak a parton. Az öböl csendjének zavartalan élvezetéhez egy délelőtti látogatás a legideálisabb.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "A Lo Fu Tau egy kiemelkedő hegycsúcs Discovery Bay közelében, amelynek sziklás teteje tigrisfejre emlékeztet.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "A Tai Shan egy hegycsúcs Discovery Bay közelében.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "A Peng Lei Road Sitting Out Area egy kisebb nyilvános park Discovery Bay-ben.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "A Peng Chau Waterfront Playground egy vízparti rekreációs park Discovery Bay közelében.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "A Standing Rock egy természetes kilátópont Discovery Bay területén.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "A Lookout Point egy kijelölt festői kilátóhely Discovery Bay-ben.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "A Siena Park Viewpoint egy festői megfigyelőhely Discovery Bay-ben.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "A The Trading Post egy helyi turisztikai látványosság Discovery Bay-ben.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "A Butterfly Garden egy természetközeli látványosság Discovery Bay-ben.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "山藏智叟石", "text": "A 山藏智叟石 egy jellegzetes sziklaképződmény és látványosság Discovery Bay-ben.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "A Gallery Jeeum egy művészeti galéria, amely különféle kiállításokat mutat be Discovery Bay-ben.", "category": "museum", "coords": [114.017106, 22.308366]}], "ro": [{"name": "Hong Kong Disneyland", "text": "Hong Kong Disneyland este un parc tematic major lângă Discovery Bay, oferind diverse zone tematice bazate pe personajele Disney.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "大白海灘 Tai Pak Beach", "text": "În Discovery Bay se întinde Tai Pak Beach, o plajă publică spațioasă cu nisip. Aerul de coastă din Hong Kong se combină aici cu un mediu bine întreținut, care atrage mulți vizitatori. Fie că jucați volei pe plajă sau stați confortabil pe nisip, locul oferă o varietate de posibilități de recreere. Vizita la plajă poate fi combinată excelent cu o plimbare prin zonele adiacente.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "Disney’s Storybook Theater este un loc de divertisment și teatru situat în Discovery Bay.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "Jungle Junction este o locație de teatru din Discovery Bay.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "Pitorescul Sam Pak Wan Beach", "text": "Pitorescul Sam Pak Wan Beach este o bijuterie de coastă idilică în Discovery Bay. Spre deosebire de plajele principale mai mari din Hong Kong, pe această porțiune de plajă domnește adesea o atmosferă mai pașnică. Vizitatorii pot respira aerul mării în liniște și pot rătăci relaxați de-a lungul țărmului. Pentru a vă bucura nestingheriți de liniștea golfului, o vizită dimineața este optimă.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "Lo Fu Tau este un vârf proeminent lângă Discovery Bay, renumit pentru creasta sa stâncoasă ce seamănă cu un cap de tigru.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "Tai Shan este un vârf de munte situat în vecinătatea Discovery Bay.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "Peng Lei Road Sitting Out Area este un mic parc public din Discovery Bay.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "Peng Chau Waterfront Playground este un parc de recreere pe malul apei, în apropiere de Discovery Bay.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "Standing Rock este un punct de belvedere natural situat în Discovery Bay.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "Lookout Point este un punct de belvedere panoramic desemnat în Discovery Bay.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "Siena Park Viewpoint este o zonă de observație panoramică situată în Discovery Bay.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "The Trading Post este o atracție turistică locală găsită în Discovery Bay.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "Butterfly Garden este o atracție axată pe natură situată în Discovery Bay.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "山藏智叟石", "text": "山藏智叟石 este o formațiune stâncoasă distinctivă și o atracție în Discovery Bay.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "Gallery Jeeum este o galerie de artă care prezintă diverse expoziții în Discovery Bay.", "category": "museum", "coords": [114.017106, 22.308366]}], "en": [{"name": "Hong Kong Disneyland", "text": "Hong Kong Disneyland is a major theme park near Discovery Bay featuring various themed lands based on Disney characters.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "Tai Pak Beach", "text": "Tai Pak Beach stretches out in Discovery Bay as a spacious public sandy beach. Hong Kong coastal flair combines here with a well-maintained environment that attracts many visitors. Whether playing beach volleyball or sitting comfortably on the sand, the place offers a variety of recreational opportunities. The beach visit can be excellently combined with a stroll through the adjacent areas.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "Disney’s Storybook Theater is an entertainment venue situated in Discovery Bay.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "Jungle Junction is a theatre location in Discovery Bay.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "Sam Pak Wan Beach", "text": "The picturesque Sam Pak Wan Beach is an idyllic coastal gem in Discovery Bay. In contrast to the larger main beaches of Hong Kong, a more peaceful atmosphere often prevails on this stretch of beach. Visitors can breathe in the sea air in peace and wander relaxedly along the shore here. A morning visit is optimal to enjoy the silence of the bay undisturbed.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "Lo Fu Tau is a prominent peak near Discovery Bay, known for a rocky summit that resembles a tiger's head.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "Tai Shan is a mountain peak situated in the vicinity of Discovery Bay.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "Peng Lei Road Sitting Out Area is a small public park in Discovery Bay.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "Peng Chau Waterfront Playground is a recreational park located by the water near Discovery Bay.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "Standing Rock is a natural viewpoint area located in Discovery Bay.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "Lookout Point is a designated scenic viewpoint in Discovery Bay.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "Siena Park Viewpoint is a scenic observation area situated in Discovery Bay.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "The Trading Post is a local tourist attraction found in Discovery Bay.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "The Butterfly Garden is a nature-focused attraction situated in Discovery Bay.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "山藏智叟石", "text": "山藏智叟石 is a distinctive rock formation and attraction in Discovery Bay.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "Gallery Jeeum is an art gallery showcasing various exhibitions in Discovery Bay.", "category": "museum", "coords": [114.017106, 22.308366]}]},
+    id: "hongkong-discovery-bay-cities-v2", "sights": {"de": [{"name": "Hong Kong Disneyland", "text": "Hong Kong Disneyland ist ein großer Freizeitpark in der Nähe von Discovery Bay, der verschiedene Themenbereiche basierend auf Disney-Figuren bietet.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "大白海灘 Tai Pak Beach", "text": "In Discovery Bay erstreckt sich der Tai Pak Beach als großzügiger öffentlicher Sandstrand. Hongkonger Küstenflair verbindet sich hier mit einem gepflegten Umfeld, das viele Besucher anzieht. Ob beim Beachvolleyball oder beim gemütlichen Sitzen im Sand, der Ort bietet vielfältige Erholungsmöglichkeiten. Der Strandbesuch lässt sich hervorragend mit einem Bummel durch die angrenzenden Bereiche kombinieren.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "Das Disney’s Storybook Theater ist ein Unterhaltungsort in Discovery Bay.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "Jungle Junction ist ein Theaterbereich in Discovery Bay.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "malerische Sam Pak Wan Beach", "text": "Der malerische Sam Pak Wan Beach ist ein idyllisches Küstenjuwel in Discovery Bay. Im Gegensatz zu den größeren Hauptstränden Hongkongs herrscht an diesem Strandabschnitt oft eine friedvollere Atmosphäre. Besucher können hier in Ruhe die Meeresluft einatmen und entspannt am Ufer entlangwandern. Um die Stille der Bucht ungestört zu genießen, ist ein Vormittagsbesuch optimal.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "Lo Fu Tau ist ein markanter Gipfel bei Discovery Bay, dessen felsige Spitze an einen Tigerkopf erinnert.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "Tai Shan ist ein Berggipfel in der Umgebung von Discovery Bay.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "Die Peng Lei Road Sitting Out Area ist ein kleiner öffentlicher Park in Discovery Bay.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "Der Peng Chau Waterfront Playground ist ein Erholungspark am Wasser in der Nähe von Discovery Bay.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "Standing Rock ist ein natürlicher Aussichtspunkt in Discovery Bay.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "Lookout Point ist ein ausgewiesener Aussichtspunkt in Discovery Bay.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "Der Siena Park Viewpoint ist ein malerischer Aussichtspunkt in Discovery Bay.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "The Trading Post ist eine lokale Touristenattraktion in Discovery Bay.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "Der Butterfly Garden ist eine naturbezogene Attraktion in Discovery Bay.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "Wise Old Man Rock", "text": "山藏智叟石 ist eine markante Felsformation und Attraktion in Discovery Bay.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "Die Gallery Jeeum ist eine Kunstgalerie, die verschiedene Ausstellungen in Discovery Bay zeigt.", "category": "museum", "coords": [114.017106, 22.308366]}], "hu": [{"name": "Hong Kong Disneyland", "text": "A Hong Kong Disneyland egy jelentős vidámpark Discovery Bay közelében, amely Disney karaktereken alapuló tematikus zónákat kínál.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "Discovery Bay területén húzódik", "text": "A Discovery Bay területén húzódik a Tai Pak Beach, egy tágas nyilvános homokos strand. A hongkongi tengerparti hangulat itt egy gondozott környezettel párosul, amely sok látogatót vonz. Legyen szó strandröplabdáról vagy kényelmes homokban ülésről, a hely változatos kikapcsolódási lehetőségeket kínál. A strandolás kiválóan kombinálható a szomszédos területeken tett sétával.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "A Disney’s Storybook Theater egy színházi és szórakoztató létesítmény Discovery Bay-ben.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "A Jungle Junction egy színházi létesítmény Discovery Bay területén.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "festői Sam Pak Wan Beach", "text": "A festői Sam Pak Wan Beach egy idilli parti ékszer Discovery Bayben. Hongkong nagyobb fő strandjaival ellentétben ezen a partszakaszon gyakran békésebb a hangulat. A látogatók itt nyugodtan beszívhatják a tengeri levegőt, és pihentetően sétálhatnak a parton. Az öböl csendjének zavartalan élvezetéhez egy délelőtti látogatás a legideálisabb.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "A Lo Fu Tau egy kiemelkedő hegycsúcs Discovery Bay közelében, amelynek sziklás teteje tigrisfejre emlékeztet.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "A Tai Shan egy hegycsúcs Discovery Bay közelében.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "A Peng Lei Road Sitting Out Area egy kisebb nyilvános park Discovery Bay-ben.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "A Peng Chau Waterfront Playground egy vízparti rekreációs park Discovery Bay közelében.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "A Standing Rock egy természetes kilátópont Discovery Bay területén.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "A Lookout Point egy kijelölt festői kilátóhely Discovery Bay-ben.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "A Siena Park Viewpoint egy festői megfigyelőhely Discovery Bay-ben.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "A The Trading Post egy helyi turisztikai látványosság Discovery Bay-ben.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "A Butterfly Garden egy természetközeli látványosság Discovery Bay-ben.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "Wise Old Man Rock", "text": "A 山藏智叟石 egy jellegzetes sziklaképződmény és látványosság Discovery Bay-ben.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "A Gallery Jeeum egy művészeti galéria, amely különféle kiállításokat mutat be Discovery Bay-ben.", "category": "museum", "coords": [114.017106, 22.308366]}], "ro": [{"name": "Hong Kong Disneyland", "text": "Hong Kong Disneyland este un parc tematic major lângă Discovery Bay, oferind diverse zone tematice bazate pe personajele Disney.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "大白海灘 Tai Pak Beach", "text": "În Discovery Bay se întinde Tai Pak Beach, o plajă publică spațioasă cu nisip. Aerul de coastă din Hong Kong se combină aici cu un mediu bine întreținut, care atrage mulți vizitatori. Fie că jucați volei pe plajă sau stați confortabil pe nisip, locul oferă o varietate de posibilități de recreere. Vizita la plajă poate fi combinată excelent cu o plimbare prin zonele adiacente.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "Disney’s Storybook Theater este un loc de divertisment și teatru situat în Discovery Bay.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "Jungle Junction este o locație de teatru din Discovery Bay.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "Pitorescul Sam Pak Wan Beach", "text": "Pitorescul Sam Pak Wan Beach este o bijuterie de coastă idilică în Discovery Bay. Spre deosebire de plajele principale mai mari din Hong Kong, pe această porțiune de plajă domnește adesea o atmosferă mai pașnică. Vizitatorii pot respira aerul mării în liniște și pot rătăci relaxați de-a lungul țărmului. Pentru a vă bucura nestingheriți de liniștea golfului, o vizită dimineața este optimă.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "Lo Fu Tau este un vârf proeminent lângă Discovery Bay, renumit pentru creasta sa stâncoasă ce seamănă cu un cap de tigru.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "Tai Shan este un vârf de munte situat în vecinătatea Discovery Bay.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "Peng Lei Road Sitting Out Area este un mic parc public din Discovery Bay.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "Peng Chau Waterfront Playground este un parc de recreere pe malul apei, în apropiere de Discovery Bay.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "Standing Rock este un punct de belvedere natural situat în Discovery Bay.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "Lookout Point este un punct de belvedere panoramic desemnat în Discovery Bay.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "Siena Park Viewpoint este o zonă de observație panoramică situată în Discovery Bay.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "The Trading Post este o atracție turistică locală găsită în Discovery Bay.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "Butterfly Garden este o atracție axată pe natură situată în Discovery Bay.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "Wise Old Man Rock", "text": "山藏智叟石 este o formațiune stâncoasă distinctivă și o atracție în Discovery Bay.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "Gallery Jeeum este o galerie de artă care prezintă diverse expoziții în Discovery Bay.", "category": "museum", "coords": [114.017106, 22.308366]}], "en": [{"name": "Hong Kong Disneyland", "text": "Hong Kong Disneyland is a major theme park near Discovery Bay featuring various themed lands based on Disney characters.", "category": "family", "coords": [114.041369, 22.313081]}, {"name": "Tai Pak Beach", "text": "Tai Pak Beach stretches out in Discovery Bay as a spacious public sandy beach. Hong Kong coastal flair combines here with a well-maintained environment that attracts many visitors. Whether playing beach volleyball or sitting comfortably on the sand, the place offers a variety of recreational opportunities. The beach visit can be excellently combined with a stroll through the adjacent areas.", "category": "recreational", "coords": [114.015424, 22.298566]}, {"name": "Disney’s Storybook Theater", "text": "Disney’s Storybook Theater is an entertainment venue situated in Discovery Bay.", "category": "cultural", "coords": [114.039774, 22.314013]}, {"name": "Jungle Junction", "text": "Jungle Junction is a theatre location in Discovery Bay.", "category": "cultural", "coords": [114.04164, 22.311845]}, {"name": "Sam Pak Wan Beach", "text": "The picturesque Sam Pak Wan Beach is an idyllic coastal gem in Discovery Bay. In contrast to the larger main beaches of Hong Kong, a more peaceful atmosphere often prevails on this stretch of beach. Visitors can breathe in the sea air in peace and wander relaxedly along the shore here. A morning visit is optimal to enjoy the silence of the bay undisturbed.", "category": "recreational", "coords": [114.018265, 22.310571]}, {"name": "Lo Fu Tau", "text": "Lo Fu Tau is a prominent peak near Discovery Bay, known for a rocky summit that resembles a tiger's head.", "category": "natural", "coords": [114.000148, 22.299577]}, {"name": "Tai Shan", "text": "Tai Shan is a mountain peak situated in the vicinity of Discovery Bay.", "category": "natural", "coords": [114.029074, 22.322039]}, {"name": "Peng Lei Road Sitting Out Area", "text": "Peng Lei Road Sitting Out Area is a small public park in Discovery Bay.", "category": "park", "coords": [114.035878, 22.288382]}, {"name": "Peng Chau Waterfront Playground", "text": "Peng Chau Waterfront Playground is a recreational park located by the water near Discovery Bay.", "category": "park", "coords": [114.037037, 22.285248]}, {"name": "Standing Rock", "text": "Standing Rock is a natural viewpoint area located in Discovery Bay.", "category": "natural", "coords": [113.99427, 22.292075]}, {"name": "Lookout Point", "text": "Lookout Point is a designated scenic viewpoint in Discovery Bay.", "category": "natural", "coords": [114.008774, 22.29656]}, {"name": "Siena Park Viewpoint", "text": "Siena Park Viewpoint is a scenic observation area situated in Discovery Bay.", "category": "natural", "coords": [114.012027, 22.304626]}, {"name": "The Trading Post", "text": "The Trading Post is a local tourist attraction found in Discovery Bay.", "category": "landmark", "coords": [114.038616, 22.307815]}, {"name": "Butterfly Garden", "text": "The Butterfly Garden is a nature-focused attraction situated in Discovery Bay.", "category": "landmark", "coords": [114.037399, 22.307521]}, {"name": "Wise Old Man Rock", "text": "山藏智叟石 is a distinctive rock formation and attraction in Discovery Bay.", "category": "landmark", "coords": [114.016217, 22.319901]}, {"name": "Gallery Jeeum", "text": "Gallery Jeeum is an art gallery showcasing various exhibitions in Discovery Bay.", "category": "museum", "coords": [114.017106, 22.308366]}]},
     parent: "HK",
     type: "town",
     name: { de: "Discovery Bay", hu: "Discovery Bay", ro: "Discovery Bay", en: "Discovery Bay" },
@@ -35340,7 +35340,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "傻人塔 (頂層)",
+                  "name": "Fool's Tower (Top Floor)",
                   "text": "傻人塔 (頂層) stellt die Ruinen der oberen Ebene eines historischen Bauwerks im Tai Wai Village dar.",
                   "category": "historical",
                   "coords": [
@@ -35358,7 +35358,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀貓台",
+                  "name": "Cat Watching Point",
                   "text": "觀貓台 ist ein besonderer Aussichtspunkt im Gebiet von Tai Wai Village.",
                   "category": "natural",
                   "coords": [
@@ -35367,7 +35367,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡 Pillbox PB221",
+                  "name": "Pillbox PB221",
                   "text": "Pillbox PB221 zeigt die historischen Überreste einer militärischen Befestigung im Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -35376,7 +35376,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB311",
+                  "name": "Pillbox PB311",
                   "text": "機槍堡PB311 umfasst die Ruinen eines alten Maschinengewehrbunkers in der Nähe von Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -35385,7 +35385,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB312",
+                  "name": "Pillbox PB312",
                   "text": "機槍堡PB312 ist der Standort von zerstörten militärischen Bunkerbefestigungen im Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -35403,7 +35403,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡 Pillbox PB222",
+                  "name": "Pillbox PB222",
                   "text": "Pillbox PB222 besteht aus den verfallenen Überresten eines militärischen Blockhauses im Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -35430,7 +35430,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "舊英軍碉堡",
+                  "name": "Old British Military Bunker",
                   "text": "舊英軍碉堡 sind die historischen Ruinen eines alten britischen Militärbunkers im Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -35448,7 +35448,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "謝戊友神父墓",
+                  "name": "Father Tse Mo-yau Grave",
                   "text": "謝戊友神父墓 ist ein spezielles Denkmal auf dem Gebiet des Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -35493,7 +35493,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "Das 信義宗神學院 Lutheran Theological Seminary ist eine religiöse Stätte in Tai Wai Village. Es dient als theologisches Seminar der lutherischen Kirche.",
                   "category": "religious",
                   "coords": [
@@ -35558,7 +35558,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "香港文化博物館 Hong Kong Heritage Museum",
+                  "name": "Hong Kong Heritage Museum",
                   "text": "A Tai Wai Village-ben található Hong Kong Heritage Museum átfogó kiállításokat kínál a régió történelméről, művészetéről és kultúrájáról.",
                   "category": "museum",
                   "coords": [
@@ -35666,7 +35666,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "傻人塔 (頂層)",
+                  "name": "Fool's Tower (Top Floor)",
                   "text": "A 傻人塔 (頂層) egy történelmi építmény felső szintjének romjait képviseli Tai Wai Village-ben.",
                   "category": "historical",
                   "coords": [
@@ -35684,7 +35684,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀貓台",
+                  "name": "Cat Watching Point",
                   "text": "A 觀貓台 egy különleges festői kilátóhely Tai Wai Village területén.",
                   "category": "natural",
                   "coords": [
@@ -35702,7 +35702,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB311",
+                  "name": "Pillbox PB311",
                   "text": "A 機槍堡PB311 egy régi géppuskafészek romjait foglalja magába Tai Wai Village közelében.",
                   "category": "historical",
                   "coords": [
@@ -35711,7 +35711,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB312",
+                  "name": "Pillbox PB312",
                   "text": "A 機槍堡PB312 romos katonai bunker-erődítmények helyszíne Tai Wai Village-ben.",
                   "category": "historical",
                   "coords": [
@@ -35756,7 +35756,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "舊英軍碉堡",
+                  "name": "Old British Military Bunker",
                   "text": "A 舊英軍碉堡 egy régi brit katonai bunker történelmi romjai Tai Wai Village-ben.",
                   "category": "historical",
                   "coords": [
@@ -35774,7 +35774,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "謝戊友神父墓",
+                  "name": "Father Tse Mo-yau Grave",
                   "text": "A 謝戊友神父墓 egy dedikált emlékmű Tai Wai Village területén belül.",
                   "category": "historical",
                   "coords": [
@@ -35819,7 +35819,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "A 信義宗神學院 Lutheran Theological Seminary egy istentiszteleti hely Tai Wai Village-ben. Az evangélikus egyház teológiai szemináriumaként működik.",
                   "category": "religious",
                   "coords": [
@@ -35884,7 +35884,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "香港文化博物館 Hong Kong Heritage Museum",
+                  "name": "Hong Kong Heritage Museum",
                   "text": "Hong Kong Heritage Museum din Tai Wai Village prezintă expoziții extinse despre istoria, arta și cultura regiunii.",
                   "category": "museum",
                   "coords": [
@@ -35965,7 +35965,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "筆架山觀景台 Beacon Hill Viewing Point",
+                  "name": "Beacon Hill Viewing Point",
                   "text": "Beacon Hill Viewing Point oferă priveliști panoramice asupra peisajului înconjurător din Tai Wai Village.",
                   "category": "natural",
                   "coords": [
@@ -35992,7 +35992,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "傻人塔 (頂層)",
+                  "name": "Fool's Tower (Top Floor)",
                   "text": "傻人塔 (頂層) reprezintă ruinele de la nivelul superior al unei structuri istorice din Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36010,7 +36010,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀貓台",
+                  "name": "Cat Watching Point",
                   "text": "觀貓台 este un punct de belvedere pitoresc specific, situat în zona Tai Wai Village.",
                   "category": "natural",
                   "coords": [
@@ -36019,7 +36019,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡 Pillbox PB221",
+                  "name": "Pillbox PB221",
                   "text": "Pillbox PB221 conține rămășițele istorice ale unei fortificații militare din Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36028,7 +36028,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB311",
+                  "name": "Pillbox PB311",
                   "text": "機槍堡PB311 cuprinde ruinele unei vechi cazemate de mitraliere lângă Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36037,7 +36037,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB312",
+                  "name": "Pillbox PB312",
                   "text": "機槍堡PB312 este locul unor ruine de fortificații militare de tip cazemată, situate în Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36055,7 +36055,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡 Pillbox PB222",
+                  "name": "Pillbox PB222",
                   "text": "Pillbox PB222 constă în rămășițele degradate ale unui buncăr militar din Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36082,7 +36082,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "舊英軍碉堡",
+                  "name": "Old British Military Bunker",
                   "text": "舊英軍碉堡 reprezintă ruinele istorice ale unui vechi buncăr militar britanic situat în Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36100,7 +36100,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "謝戊友神父墓",
+                  "name": "Father Tse Mo-yau Grave",
                   "text": "謝戊友神父墓 este un monument dedicat situat în perimetrul Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36145,7 +36145,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "信義宗神學院 Lutheran Theological Seminary este un lăcaș de cult în Tai Wai Village. Acesta servește ca seminar teologic al bisericii luterane.",
                   "category": "religious",
                   "coords": [
@@ -36318,7 +36318,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "傻人塔 (頂層)",
+                  "name": "Fool's Tower (Top Floor)",
                   "text": "傻人塔 (頂層) represents the upper level ruins of a historic structure in Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36336,7 +36336,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀貓台",
+                  "name": "Cat Watching Point",
                   "text": "觀貓台 is a specific scenic viewpoint situated in the area of Tai Wai Village.",
                   "category": "natural",
                   "coords": [
@@ -36354,7 +36354,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB311",
+                  "name": "Pillbox PB311",
                   "text": "機槍堡PB311 comprises the ruins of an old machine gun pillbox near Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36363,7 +36363,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "機槍堡PB312",
+                  "name": "Pillbox PB312",
                   "text": "機槍堡PB312 is the site of ruined military pillbox fortifications located in Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36408,7 +36408,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "舊英軍碉堡",
+                  "name": "Old British Military Bunker",
                   "text": "舊英軍碉堡 are the historic ruins of an old British military bunker situated in Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36426,7 +36426,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "謝戊友神父墓",
+                  "name": "Father Tse Mo-yau Grave",
                   "text": "謝戊友神父墓 is a dedicated monument located within the boundaries of Tai Wai Village.",
                   "category": "historical",
                   "coords": [
@@ -36471,7 +36471,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "信義宗神學院 Lutheran Theological Seminary",
+                  "name": "Lutheran Theological Seminary",
                   "text": "The 信義宗神學院 Lutheran Theological Seminary is a place of worship in Tai Wai Village. It serves as a theological seminary for the Lutheran church.",
                   "category": "religious",
                   "coords": [
@@ -36579,7 +36579,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-tai-wai-village-cities-v2.webp",
   },
   {
-    id: "hongkong-tsang-tai-uk-cities-v2", "sights": {"de": [{"name": "Tao Heung Museum of Food Culture", "text": "Tao Heung Museum of Food Culture ist ein Museum in Tsang Tai Uk.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "Hong Kong Heritage Museum ist ein bedeutendes Museum in Tsang Tai Uk.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Amiphitheater ist ein Veranstaltungsort in Tsang Tai Uk.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "Snoopy's World ist ein Themenpark in Tsang Tai Uk.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "Temple Hill ist ein bekannter Hügel in Tsang Tai Uk.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Ngau Au Shan ist ein Gipfel in Tsang Tai Uk.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "Sha Tin Heights ist ein Hügel in Tsang Tai Uk.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "Tung Lo Wan Hill ist ein Hügel in Tsang Tai Uk.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "Hin Tin Playground ist ein öffentlicher Park in Tsang Tai Uk.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "Yuen Chau Kok Park ist ein Park in Tsang Tai Uk.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "Penfold Park ist ein bekannter Park in Tsang Tai Uk.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "Kwei Tei Street Garden ist ein Garten in Tsang Tai Uk.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "Tsang Tai Uk ist ein Aussichtspunkt in Tsang Tai Uk.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "傻人塔 (頂層)", "text": "Sha Ren Ta sind Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "Beginning of 10,000 Buddhas ist ein Denkmal in Tsang Tai Uk.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "機槍堡PB205", "text": "Maschinengewehrbunker PB205 sind Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "機槍堡 PB206", "text": "Maschinengewehrbunker PB206 sind Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "觀貓台", "text": "Aussichtspunkt in Tsang Tai Uk.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "微笑老鼠石", "text": "Attraktion in Tsang Tai Uk.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "機槍堡 Pillbox PB220", "text": "Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "博雅山莊 Pok Ngar Villa", "text": "Attraktion in Tsang Tai Uk.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "昂堂山獅子亭 Ngong Tong Shan Lion's Pavilion", "text": "Aussichtspunkt in Tsang Tai Uk.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "謝戊友神父墓", "text": "Denkmal in Tsang Tai Uk.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "香港聖公會沙田堂 Shatin Anglican Church", "text": "Anglikanische Kirche in Tsang Tai Uk.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "聖歐爾發堂 St. Alfred's Church", "text": "Katholische Kirche in Tsang Tai Uk.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "車公廟 Che Kung Temple", "text": "Bekannter Tempel in Tsang Tai Uk, der dem Gott Che Kung gewidmet ist.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "古巖淨苑 Koon Ngam Ching Yuen", "text": "Buddhistisches Kloster in Tsang Tai Uk.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "信義宗神學院 Lutheran Theological Seminary", "text": "Theologische Ausbildungsstätte in Tsang Tai Uk.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "Die Lek Yuen Bridge ist ein markantes Bauwerk in der Umgebung von Tsang Tai Uk. Diese Brücke in Hongkong verbindet nicht nur Stadtteile, sondern dient auch als Orientierungspunkt für Fußgänger.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "翠榕橋 Banyan Bridge", "text": "Über die Wasserwege bei Tsang Tai Uk spannt sich die architektonisch interessante Banyan Bridge. Wer diese Landmarke in Hongkong überquert, genießt einen schönen Blick auf die urbane Landschaft.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "獅子橋 Lion Bridge", "text": "Als bedeutendes Verkehrsbauwerk in Tsang Tai Uk leitet die Lion Bridge den täglichen Fluss der Passanten. Diese Hongkonger Brücke ist ein fester Bestandteil der lokalen städtischen Infrastruktur.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "錦龍橋 Dragon Bridge", "text": "Die Dragon Bridge fügt sich nahtlos in das Stadtbild von Tsang Tai Uk ein. Diese bekannte Hongkonger Brücke wird von Einheimischen häufig auf ihren täglichen Wegen genutzt.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "沙燕橋 Sand Martin Bridge", "text": "Nahe Tsang Tai Uk überspannt die Sand Martin Bridge einen wichtigen Abschnitt der Stadt. Fußgänger profitieren von dieser Brücke in Hongkong, die eine sichere und landschaftlich reizvolle Überquerung ermöglicht.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "萬佛寺 Ten Thousand Buddha's Monastery", "text": "Großes buddhistisches Kloster in Tsang Tai Uk, bekannt für seine Tausenden von Buddha-Statuen.", "category": "religious", "coords": [114.185236, 22.387978]}], "hu": [{"name": "Tao Heung Museum of Food Culture", "text": "A Tao Heung Museum of Food Culture egy múzeum Tsang Tai Ukban.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "A Hong Kong Heritage Museum egy jelentős múzeum Tsang Tai Ukban.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Az Amiphitheater egy rendezvényhelyszín Tsang Tai Ukban.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "A Snoopy's World egy vidámpark Tsang Tai Ukban.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "A Temple Hill egy ismert domb Tsang Tai Ukban.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Az Ngau Au Shan egy hegycsúcs Tsang Tai Ukban.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "A Sha Tin Heights egy domb Tsang Tai Ukban.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "A Tung Lo Wan Hill egy domb Tsang Tai Ukban.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "A Hin Tin Playground egy nyilvános park Tsang Tai Ukban.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "A Yuen Chau Kok Park egy park Tsang Tai Ukban.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "A Penfold Park egy ismert park Tsang Tai Ukban.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "A Kwei Tei Street Garden egy kert Tsang Tai Ukban.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "A Tsang Tai Uk egy kilátó Tsang Tai Ukban.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "傻人塔 (頂層)", "text": "A Sha Ren Ta romok Tsang Tai Ukban.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "A Beginning of 10,000 Buddhas egy műemlék Tsang Tai Ukban.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "機槍堡PB205", "text": "A géppuskás bunker PB205 romok Tsang Tai Ukban.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "機槍堡 PB206", "text": "A géppuskás bunker PB206 romok Tsang Tai Ukban.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "觀貓台", "text": "Kilátópont Tsang Tai Uk városában.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "微笑老鼠石", "text": "Látnivaló Tsang Tai Uk városában.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Romok Tsang Tai Uk városában.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "機槍堡 Pillbox PB220", "text": "Romok Tsang Tai Uk városában.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "博雅山莊 Pok Ngar Villa", "text": "Látnivaló Tsang Tai Uk városában.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "昂堂山獅子亭 Ngong Tong Shan Lion's Pavilion", "text": "Kilátópont Tsang Tai Uk városában.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "謝戊友神父墓", "text": "Emlékmű Tsang Tai Uk városában.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "香港聖公會沙田堂 Shatin Anglican Church", "text": "Anglikán templom Tsang Tai Uk városában.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "聖歐爾發堂 St. Alfred's Church", "text": "Katolikus templom Tsang Tai Uk városában.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "車公廟 Che Kung Temple", "text": "Ismert templom Tsang Tai Uk városában, amelyet Che Kung istennek szenteltek.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "古巖淨苑 Koon Ngam Ching Yuen", "text": "Buddhista kolostor Tsang Tai Uk városában.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "信義宗神學院 Lutheran Theological Seminary", "text": "Teológiai képzési központ Tsang Tai Uk városában.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "A Lek Yuen Bridge egy jellegzetes építmény Tsang Tai Uk környékén. Ez a hongkongi híd nemcsak városrészeket köt össze, hanem tájékozódási pontként is szolgál a gyalogosok számára.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "Tsang Tai Uk melletti vízi utakon ível át", "text": "A Tsang Tai Uk melletti vízi utakon ível át az építészetileg érdekes Banyan Bridge. Aki átkel ezen a hongkongi nevezetességen, szép kilátást élvezhet a városi tájra.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "獅子橋 Lion Bridge", "text": "A Lion Bridge, mint jelentős közlekedési építmény Tsang Tai Uk területén, a gyalogosok mindennapi áramlását irányítja. Ez a hongkongi híd a helyi városi infrastruktúra szerves része.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "錦龍橋 Dragon Bridge", "text": "A Dragon Bridge zökkenőmentesen illeszkedik Tsang Tai Uk városképébe. Ezt az ismert hongkongi hidat a helyiek gyakran használják napi útjaik során.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "沙燕橋 Sand Martin Bridge", "text": "Tsang Tai Uk közelében a Sand Martin Bridge a város egy fontos szakaszán ível át. A gyalogosok profitálnak ebből a hongkongi hídból, amely biztonságos és festői átkelést biztosít.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "萬佛寺 Ten Thousand Buddha's Monastery", "text": "Nagy buddhista kolostor Tsang Tai Uk városában, amely a több ezer Buddha-szobráról ismert.", "category": "religious", "coords": [114.185236, 22.387978]}], "ro": [{"name": "Tao Heung Museum of Food Culture", "text": "Tao Heung Museum of Food Culture este un muzeu în Tsang Tai Uk.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "Hong Kong Heritage Museum este un muzeu important în Tsang Tai Uk.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Amiphitheater este un loc de evenimente în Tsang Tai Uk.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "Snoopy's World este un parc tematic în Tsang Tai Uk.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "Temple Hill este un deal cunoscut în Tsang Tai Uk.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Ngau Au Shan este un vârf muntos în Tsang Tai Uk.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "Sha Tin Heights este un deal în Tsang Tai Uk.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "Tung Lo Wan Hill este un deal în Tsang Tai Uk.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "Hin Tin Playground este un parc public în Tsang Tai Uk.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "Yuen Chau Kok Park este un parc în Tsang Tai Uk.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "Penfold Park este un parc cunoscut în Tsang Tai Uk.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "Kwei Tei Street Garden este o grădină în Tsang Tai Uk.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "Tsang Tai Uk este un punct de belvedere în Tsang Tai Uk.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "傻人塔 (頂層)", "text": "Sha Ren Ta sunt ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "Beginning of 10,000 Buddhas este un monument în Tsang Tai Uk.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "機槍堡PB205", "text": "Buncărul de mitraliere PB205 sunt ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "機槍堡 PB206", "text": "Buncărul de mitraliere PB206 sunt ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "觀貓台", "text": "Punct de observație în Tsang Tai Uk.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "微笑老鼠石", "text": "Atracție în Tsang Tai Uk.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "機槍堡 Pillbox PB220", "text": "Ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "博雅山莊 Pok Ngar Villa", "text": "Atracție în Tsang Tai Uk.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "昂堂山獅子亭 Ngong Tong Shan Lion's Pavilion", "text": "Punct de observație în Tsang Tai Uk.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "謝戊友神父墓", "text": "Monument în Tsang Tai Uk.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "香港聖公會沙田堂 Shatin Anglican Church", "text": "Biserică anglicană în Tsang Tai Uk.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "聖歐爾發堂 St. Alfred's Church", "text": "Biserică catolică în Tsang Tai Uk.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "車公廟 Che Kung Temple", "text": "Templu renumit în Tsang Tai Uk, dedicat zeului Che Kung.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "古巖淨苑 Koon Ngam Ching Yuen", "text": "Mănăstire budistă în Tsang Tai Uk.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "信義宗神學院 Lutheran Theological Seminary", "text": "Centru de formare teologică în Tsang Tai Uk.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "Lek Yuen Bridge este o structură proeminentă în zona Tsang Tai Uk. Această punte din Hong Kong nu doar că leagă cartiere, dar servește și ca punct de reper pentru pietoni.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "翠榕橋 Banyan Bridge", "text": "Peste căile navigabile de lângă Tsang Tai Uk se întinde puntea Banyan Bridge, interesantă din punct de vedere arhitectural. Cei care traversează acest reper din Hong Kong se pot bucura de o priveliște frumoasă asupra peisajului urban.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "獅子橋 Lion Bridge", "text": "Fiind o structură de transport importantă în Tsang Tai Uk, Lion Bridge ghidează fluxul zilnic de trecători. Această punte din Hong Kong este o parte integrantă a infrastructurii urbane locale.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "錦龍橋 Dragon Bridge", "text": "Dragon Bridge se integrează perfect în peisajul urban din Tsang Tai Uk. Această punte cunoscută din Hong Kong este adesea folosită de localnici pe rutele lor zilnice.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "沙燕橋 Sand Martin Bridge", "text": "Lângă Tsang Tai Uk, Sand Martin Bridge traversează o secțiune importantă a orașului. Pietonii beneficiază de această punte din Hong Kong, care permite o traversare sigură și pitorească.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "萬佛寺 Ten Thousand Buddha's Monastery", "text": "Mănăstire budistă mare în Tsang Tai Uk, cunoscută pentru miile sale de statui ale lui Buddha.", "category": "religious", "coords": [114.185236, 22.387978]}], "en": [{"name": "Tao Heung Museum of Food Culture", "text": "Tao Heung Museum of Food Culture is a museum in Tsang Tai Uk.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "Hong Kong Heritage Museum is a major museum in Tsang Tai Uk.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Amiphitheater is a venue in Tsang Tai Uk.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "Snoopy's World is a theme park in Tsang Tai Uk.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "Temple Hill is a well-known peak in Tsang Tai Uk.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Ngau Au Shan is a peak in Tsang Tai Uk.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "Sha Tin Heights is a peak in Tsang Tai Uk.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "Tung Lo Wan Hill is a peak in Tsang Tai Uk.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "Hin Tin Playground is a public park in Tsang Tai Uk.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "Yuen Chau Kok Park is a park in Tsang Tai Uk.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "Penfold Park is a well-known park in Tsang Tai Uk.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "Kwei Tei Street Garden is a garden in Tsang Tai Uk.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "Tsang Tai Uk is a viewpoint in Tsang Tai Uk.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "傻人塔 (頂層)", "text": "Sha Ren Ta are ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "Beginning of 10,000 Buddhas is a monument in Tsang Tai Uk.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "機槍堡PB205", "text": "Machine gun pillbox PB205 are ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "機槍堡 PB206", "text": "Machine gun pillbox PB206 are ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "觀貓台", "text": "Viewpoint in Tsang Tai Uk.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "微笑老鼠石", "text": "Attraction in Tsang Tai Uk.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "Pillbox PB220", "text": "Ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "Pok Ngar Villa", "text": "Attraction in Tsang Tai Uk.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "Ngong Tong Shan Lion's Pavilion", "text": "Viewpoint in Tsang Tai Uk.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "謝戊友神父墓", "text": "Monument in Tsang Tai Uk.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "Shatin Anglican Church", "text": "Anglican church in Tsang Tai Uk.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "St. Alfred's Church", "text": "Catholic church in Tsang Tai Uk.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "Che Kung Temple", "text": "Renowned temple in Tsang Tai Uk dedicated to the deity Che Kung.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "Koon Ngam Ching Yuen", "text": "Buddhist monastery in Tsang Tai Uk.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "信義宗神學院 Lutheran Theological Seminary", "text": "Theological training center in Tsang Tai Uk.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "The Lek Yuen Bridge is a prominent structure in the vicinity of Tsang Tai Uk. This Hong Kong bridge not only connects neighborhoods but also serves as a landmark for pedestrians.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "Banyan Bridge", "text": "Spanning the waterways near Tsang Tai Uk is the architecturally interesting Banyan Bridge. Those who cross this Hong Kong landmark can enjoy a fine view of the urban landscape.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "Lion Bridge", "text": "As an important transport structure in Tsang Tai Uk, the Lion Bridge guides the daily flow of pedestrians. This Hong Kong bridge is an integral part of the local urban infrastructure.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "Dragon Bridge", "text": "The Dragon Bridge blends seamlessly into the cityscape of Tsang Tai Uk. This well-known Hong Kong bridge is frequently used by locals on their daily commutes.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "Sand Martin Bridge", "text": "Near Tsang Tai Uk, the Sand Martin Bridge spans an important section of the city. Pedestrians benefit from this Hong Kong bridge, which allows for a safe and scenic crossing.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "Ten Thousand Buddha's Monastery", "text": "Large Buddhist monastery in Tsang Tai Uk, known for its thousands of Buddha statues.", "category": "religious", "coords": [114.185236, 22.387978]}]},
+    id: "hongkong-tsang-tai-uk-cities-v2", "sights": {"de": [{"name": "Tao Heung Museum of Food Culture", "text": "Tao Heung Museum of Food Culture ist ein Museum in Tsang Tai Uk.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "Hong Kong Heritage Museum ist ein bedeutendes Museum in Tsang Tai Uk.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Amiphitheater ist ein Veranstaltungsort in Tsang Tai Uk.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "Snoopy's World ist ein Themenpark in Tsang Tai Uk.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "Temple Hill ist ein bekannter Hügel in Tsang Tai Uk.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Ngau Au Shan ist ein Gipfel in Tsang Tai Uk.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "Sha Tin Heights ist ein Hügel in Tsang Tai Uk.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "Tung Lo Wan Hill ist ein Hügel in Tsang Tai Uk.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "Hin Tin Playground ist ein öffentlicher Park in Tsang Tai Uk.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "Yuen Chau Kok Park ist ein Park in Tsang Tai Uk.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "Penfold Park ist ein bekannter Park in Tsang Tai Uk.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "Kwei Tei Street Garden ist ein Garten in Tsang Tai Uk.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "Tsang Tai Uk ist ein Aussichtspunkt in Tsang Tai Uk.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "Fool's Tower (Top Floor)", "text": "Sha Ren Ta sind Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "Beginning of 10,000 Buddhas ist ein Denkmal in Tsang Tai Uk.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "Pillbox PB205", "text": "Maschinengewehrbunker PB205 sind Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "Pillbox PB206", "text": "Maschinengewehrbunker PB206 sind Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "Cat Watching Point", "text": "Aussichtspunkt in Tsang Tai Uk.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "Smiling Mouse Rock", "text": "Attraktion in Tsang Tai Uk.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "Pillbox PB220", "text": "Ruinen in Tsang Tai Uk.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "Pok Ngar Villa", "text": "Attraktion in Tsang Tai Uk.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "Ngong Tong Shan Lion's Pavilion", "text": "Aussichtspunkt in Tsang Tai Uk.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "Father Tse Mo-yau Grave", "text": "Denkmal in Tsang Tai Uk.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "Shatin Anglican Church", "text": "Anglikanische Kirche in Tsang Tai Uk.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "St. Alfred's Church", "text": "Katholische Kirche in Tsang Tai Uk.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "Che Kung Temple", "text": "Bekannter Tempel in Tsang Tai Uk, der dem Gott Che Kung gewidmet ist.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "Koon Ngam Ching Yuen", "text": "Buddhistisches Kloster in Tsang Tai Uk.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "Lutheran Theological Seminary", "text": "Theologische Ausbildungsstätte in Tsang Tai Uk.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "Die Lek Yuen Bridge ist ein markantes Bauwerk in der Umgebung von Tsang Tai Uk. Diese Brücke in Hongkong verbindet nicht nur Stadtteile, sondern dient auch als Orientierungspunkt für Fußgänger.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "Banyan Bridge", "text": "Über die Wasserwege bei Tsang Tai Uk spannt sich die architektonisch interessante Banyan Bridge. Wer diese Landmarke in Hongkong überquert, genießt einen schönen Blick auf die urbane Landschaft.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "Lion Bridge", "text": "Als bedeutendes Verkehrsbauwerk in Tsang Tai Uk leitet die Lion Bridge den täglichen Fluss der Passanten. Diese Hongkonger Brücke ist ein fester Bestandteil der lokalen städtischen Infrastruktur.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "Dragon Bridge", "text": "Die Dragon Bridge fügt sich nahtlos in das Stadtbild von Tsang Tai Uk ein. Diese bekannte Hongkonger Brücke wird von Einheimischen häufig auf ihren täglichen Wegen genutzt.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "Sand Martin Bridge", "text": "Nahe Tsang Tai Uk überspannt die Sand Martin Bridge einen wichtigen Abschnitt der Stadt. Fußgänger profitieren von dieser Brücke in Hongkong, die eine sichere und landschaftlich reizvolle Überquerung ermöglicht.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "Ten Thousand Buddha's Monastery", "text": "Großes buddhistisches Kloster in Tsang Tai Uk, bekannt für seine Tausenden von Buddha-Statuen.", "category": "religious", "coords": [114.185236, 22.387978]}], "hu": [{"name": "Tao Heung Museum of Food Culture", "text": "A Tao Heung Museum of Food Culture egy múzeum Tsang Tai Ukban.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "A Hong Kong Heritage Museum egy jelentős múzeum Tsang Tai Ukban.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Az Amiphitheater egy rendezvényhelyszín Tsang Tai Ukban.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "A Snoopy's World egy vidámpark Tsang Tai Ukban.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "A Temple Hill egy ismert domb Tsang Tai Ukban.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Az Ngau Au Shan egy hegycsúcs Tsang Tai Ukban.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "A Sha Tin Heights egy domb Tsang Tai Ukban.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "A Tung Lo Wan Hill egy domb Tsang Tai Ukban.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "A Hin Tin Playground egy nyilvános park Tsang Tai Ukban.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "A Yuen Chau Kok Park egy park Tsang Tai Ukban.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "A Penfold Park egy ismert park Tsang Tai Ukban.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "A Kwei Tei Street Garden egy kert Tsang Tai Ukban.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "A Tsang Tai Uk egy kilátó Tsang Tai Ukban.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "Fool's Tower (Top Floor)", "text": "A Sha Ren Ta romok Tsang Tai Ukban.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "A Beginning of 10,000 Buddhas egy műemlék Tsang Tai Ukban.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "Pillbox PB205", "text": "A géppuskás bunker PB205 romok Tsang Tai Ukban.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "Pillbox PB206", "text": "A géppuskás bunker PB206 romok Tsang Tai Ukban.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "Cat Watching Point", "text": "Kilátópont Tsang Tai Uk városában.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "Smiling Mouse Rock", "text": "Látnivaló Tsang Tai Uk városában.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Romok Tsang Tai Uk városában.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "Pillbox PB220", "text": "Romok Tsang Tai Uk városában.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "Pok Ngar Villa", "text": "Látnivaló Tsang Tai Uk városában.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "Ngong Tong Shan Lion's Pavilion", "text": "Kilátópont Tsang Tai Uk városában.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "Father Tse Mo-yau Grave", "text": "Emlékmű Tsang Tai Uk városában.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "Shatin Anglican Church", "text": "Anglikán templom Tsang Tai Uk városában.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "St. Alfred's Church", "text": "Katolikus templom Tsang Tai Uk városában.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "Che Kung Temple", "text": "Ismert templom Tsang Tai Uk városában, amelyet Che Kung istennek szenteltek.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "Koon Ngam Ching Yuen", "text": "Buddhista kolostor Tsang Tai Uk városában.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "Lutheran Theological Seminary", "text": "Teológiai képzési központ Tsang Tai Uk városában.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "A Lek Yuen Bridge egy jellegzetes építmény Tsang Tai Uk környékén. Ez a hongkongi híd nemcsak városrészeket köt össze, hanem tájékozódási pontként is szolgál a gyalogosok számára.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "Tsang Tai Uk melletti vízi utakon ível át", "text": "A Tsang Tai Uk melletti vízi utakon ível át az építészetileg érdekes Banyan Bridge. Aki átkel ezen a hongkongi nevezetességen, szép kilátást élvezhet a városi tájra.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "Lion Bridge", "text": "A Lion Bridge, mint jelentős közlekedési építmény Tsang Tai Uk területén, a gyalogosok mindennapi áramlását irányítja. Ez a hongkongi híd a helyi városi infrastruktúra szerves része.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "Dragon Bridge", "text": "A Dragon Bridge zökkenőmentesen illeszkedik Tsang Tai Uk városképébe. Ezt az ismert hongkongi hidat a helyiek gyakran használják napi útjaik során.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "Sand Martin Bridge", "text": "Tsang Tai Uk közelében a Sand Martin Bridge a város egy fontos szakaszán ível át. A gyalogosok profitálnak ebből a hongkongi hídból, amely biztonságos és festői átkelést biztosít.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "Ten Thousand Buddha's Monastery", "text": "Nagy buddhista kolostor Tsang Tai Uk városában, amely a több ezer Buddha-szobráról ismert.", "category": "religious", "coords": [114.185236, 22.387978]}], "ro": [{"name": "Tao Heung Museum of Food Culture", "text": "Tao Heung Museum of Food Culture este un muzeu în Tsang Tai Uk.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "Hong Kong Heritage Museum este un muzeu important în Tsang Tai Uk.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Amiphitheater este un loc de evenimente în Tsang Tai Uk.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "Snoopy's World este un parc tematic în Tsang Tai Uk.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "Temple Hill este un deal cunoscut în Tsang Tai Uk.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Ngau Au Shan este un vârf muntos în Tsang Tai Uk.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "Sha Tin Heights este un deal în Tsang Tai Uk.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "Tung Lo Wan Hill este un deal în Tsang Tai Uk.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "Hin Tin Playground este un parc public în Tsang Tai Uk.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "Yuen Chau Kok Park este un parc în Tsang Tai Uk.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "Penfold Park este un parc cunoscut în Tsang Tai Uk.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "Kwei Tei Street Garden este o grădină în Tsang Tai Uk.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "Tsang Tai Uk este un punct de belvedere în Tsang Tai Uk.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "Fool's Tower (Top Floor)", "text": "Sha Ren Ta sunt ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "Beginning of 10,000 Buddhas este un monument în Tsang Tai Uk.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "Pillbox PB205", "text": "Buncărul de mitraliere PB205 sunt ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "Pillbox PB206", "text": "Buncărul de mitraliere PB206 sunt ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "Cat Watching Point", "text": "Punct de observație în Tsang Tai Uk.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "Smiling Mouse Rock", "text": "Atracție în Tsang Tai Uk.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "Pillbox PB220", "text": "Ruine în Tsang Tai Uk.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "Pok Ngar Villa", "text": "Atracție în Tsang Tai Uk.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "Ngong Tong Shan Lion's Pavilion", "text": "Punct de observație în Tsang Tai Uk.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "Father Tse Mo-yau Grave", "text": "Monument în Tsang Tai Uk.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "Shatin Anglican Church", "text": "Biserică anglicană în Tsang Tai Uk.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "St. Alfred's Church", "text": "Biserică catolică în Tsang Tai Uk.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "Che Kung Temple", "text": "Templu renumit în Tsang Tai Uk, dedicat zeului Che Kung.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "Koon Ngam Ching Yuen", "text": "Mănăstire budistă în Tsang Tai Uk.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "Lutheran Theological Seminary", "text": "Centru de formare teologică în Tsang Tai Uk.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "Lek Yuen Bridge este o structură proeminentă în zona Tsang Tai Uk. Această punte din Hong Kong nu doar că leagă cartiere, dar servește și ca punct de reper pentru pietoni.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "Banyan Bridge", "text": "Peste căile navigabile de lângă Tsang Tai Uk se întinde puntea Banyan Bridge, interesantă din punct de vedere arhitectural. Cei care traversează acest reper din Hong Kong se pot bucura de o priveliște frumoasă asupra peisajului urban.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "Lion Bridge", "text": "Fiind o structură de transport importantă în Tsang Tai Uk, Lion Bridge ghidează fluxul zilnic de trecători. Această punte din Hong Kong este o parte integrantă a infrastructurii urbane locale.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "Dragon Bridge", "text": "Dragon Bridge se integrează perfect în peisajul urban din Tsang Tai Uk. Această punte cunoscută din Hong Kong este adesea folosită de localnici pe rutele lor zilnice.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "Sand Martin Bridge", "text": "Lângă Tsang Tai Uk, Sand Martin Bridge traversează o secțiune importantă a orașului. Pietonii beneficiază de această punte din Hong Kong, care permite o traversare sigură și pitorească.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "Ten Thousand Buddha's Monastery", "text": "Mănăstire budistă mare în Tsang Tai Uk, cunoscută pentru miile sale de statui ale lui Buddha.", "category": "religious", "coords": [114.185236, 22.387978]}], "en": [{"name": "Tao Heung Museum of Food Culture", "text": "Tao Heung Museum of Food Culture is a museum in Tsang Tai Uk.", "category": "museum", "coords": [114.196226, 22.395973]}, {"name": "Hong Kong Heritage Museum", "text": "Hong Kong Heritage Museum is a major museum in Tsang Tai Uk.", "category": "museum", "coords": [114.185397, 22.37716]}, {"name": "Amiphitheater", "text": "Amiphitheater is a venue in Tsang Tai Uk.", "category": "cultural", "coords": [114.190157, 22.379601]}, {"name": "Snoopy's World", "text": "Snoopy's World is a theme park in Tsang Tai Uk.", "category": "family", "coords": [114.189279, 22.381996]}, {"name": "Temple Hill", "text": "Temple Hill is a well-known peak in Tsang Tai Uk.", "category": "natural", "coords": [114.206148, 22.355972]}, {"name": "Ngau Au Shan", "text": "Ngau Au Shan is a peak in Tsang Tai Uk.", "category": "natural", "coords": [114.219387, 22.370855]}, {"name": "Sha Tin Heights", "text": "Sha Tin Heights is a peak in Tsang Tai Uk.", "category": "natural", "coords": [114.167026, 22.367305]}, {"name": "Tung Lo Wan Hill", "text": "Tung Lo Wan Hill is a peak in Tsang Tai Uk.", "category": "natural", "coords": [114.179878, 22.380253]}, {"name": "Hin Tin Playground", "text": "Hin Tin Playground is a public park in Tsang Tai Uk.", "category": "park", "coords": [114.172263, 22.365209]}, {"name": "Yuen Chau Kok Park", "text": "Yuen Chau Kok Park is a park in Tsang Tai Uk.", "category": "park", "coords": [114.19933, 22.383135]}, {"name": "Penfold Park", "text": "Penfold Park is a well-known park in Tsang Tai Uk.", "category": "park", "coords": [114.206805, 22.39953]}, {"name": "Kwei Tei Street Garden", "text": "Kwei Tei Street Garden is a garden in Tsang Tai Uk.", "category": "park", "coords": [114.190854, 22.399911]}, {"name": "Tsang Tai Uk", "text": "Tsang Tai Uk is a viewpoint in Tsang Tai Uk.", "category": "natural", "coords": [114.190532, 22.373948]}, {"name": "Fool's Tower (Top Floor)", "text": "Sha Ren Ta are ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.189475, 22.352193]}, {"name": "Beginning of 10,000 Buddhas", "text": "Beginning of 10,000 Buddhas is a monument in Tsang Tai Uk.", "category": "historical", "coords": [114.186539, 22.386434]}, {"name": "Pillbox PB205", "text": "Machine gun pillbox PB205 are ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.209078, 22.377139]}, {"name": "Pillbox PB206", "text": "Machine gun pillbox PB206 are ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.207458, 22.370562]}, {"name": "Cat Watching Point", "text": "Viewpoint in Tsang Tai Uk.", "category": "natural", "coords": [114.195394, 22.362222]}, {"name": "Smiling Mouse Rock", "text": "Attraction in Tsang Tai Uk.", "category": "landmark", "coords": [114.209454, 22.374177]}, {"name": "Pillbox 214", "text": "Ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.194305, 22.36711]}, {"name": "Pillbox PB220", "text": "Ruins in Tsang Tai Uk.", "category": "historical", "coords": [114.181946, 22.352252]}, {"name": "Pok Ngar Villa", "text": "Attraction in Tsang Tai Uk.", "category": "landmark", "coords": [114.177732, 22.37942]}, {"name": "Ngong Tong Shan Lion's Pavilion", "text": "Viewpoint in Tsang Tai Uk.", "category": "natural", "coords": [114.189257, 22.390893]}, {"name": "Father Tse Mo-yau Grave", "text": "Monument in Tsang Tai Uk.", "category": "historical", "coords": [114.20014, 22.365847]}, {"name": "Shatin Anglican Church", "text": "Anglican church in Tsang Tai Uk.", "category": "religious", "coords": [114.204397, 22.384358]}, {"name": "St. Alfred's Church", "text": "Catholic church in Tsang Tai Uk.", "category": "religious", "coords": [114.183821, 22.376269]}, {"name": "Che Kung Temple", "text": "Renowned temple in Tsang Tai Uk dedicated to the deity Che Kung.", "category": "religious", "coords": [114.1829, 22.373408]}, {"name": "Koon Ngam Ching Yuen", "text": "Buddhist monastery in Tsang Tai Uk.", "category": "religious", "coords": [114.184276, 22.373941]}, {"name": "Lutheran Theological Seminary", "text": "Theological training center in Tsang Tai Uk.", "category": "religious", "coords": [114.179808, 22.385076]}, {"name": "Lek Yuen Bridge", "text": "The Lek Yuen Bridge is a prominent structure in the vicinity of Tsang Tai Uk. This Hong Kong bridge not only connects neighborhoods but also serves as a landmark for pedestrians.", "category": "landmark", "coords": [114.191264, 22.379342]}, {"name": "Banyan Bridge", "text": "Spanning the waterways near Tsang Tai Uk is the architecturally interesting Banyan Bridge. Those who cross this Hong Kong landmark can enjoy a fine view of the urban landscape.", "category": "landmark", "coords": [114.199363, 22.387794]}, {"name": "Lion Bridge", "text": "As an important transport structure in Tsang Tai Uk, the Lion Bridge guides the daily flow of pedestrians. This Hong Kong bridge is an integral part of the local urban infrastructure.", "category": "landmark", "coords": [114.186971, 22.3766]}, {"name": "Dragon Bridge", "text": "The Dragon Bridge blends seamlessly into the cityscape of Tsang Tai Uk. This well-known Hong Kong bridge is frequently used by locals on their daily commutes.", "category": "landmark", "coords": [114.200282, 22.388095]}, {"name": "Sand Martin Bridge", "text": "Near Tsang Tai Uk, the Sand Martin Bridge spans an important section of the city. Pedestrians benefit from this Hong Kong bridge, which allows for a safe and scenic crossing.", "category": "landmark", "coords": [114.193396, 22.381573]}, {"name": "Ten Thousand Buddha's Monastery", "text": "Large Buddhist monastery in Tsang Tai Uk, known for its thousands of Buddha statues.", "category": "religious", "coords": [114.185236, 22.387978]}]},
     parent: "HK",
     type: "village",
     name: { de: "Tsang Tai Uk", hu: "Tsang Tai Uk", ro: "Tsang Tai Uk", en: "Tsang Tai Uk" },
@@ -36798,7 +36798,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "城門新村 ist ein Denkmal in Fanling Wai.",
                   "category": "historical",
                   "coords": [
@@ -36807,7 +36807,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "前皇家香港軍團義勇軍軍徽 ist ein Denkmal in Fanling Wai.",
                   "category": "historical",
                   "coords": [
@@ -36989,7 +36989,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "A 城門新村 egy emlékmű Fanling Wai-ban.",
                   "category": "historical",
                   "coords": [
@@ -36998,7 +36998,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "A 前皇家香港軍團義勇軍軍徽 egy emlékmű Fanling Wai-ban.",
                   "category": "historical",
                   "coords": [
@@ -37180,7 +37180,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "城門新村 este un monument în Fanling Wai.",
                   "category": "historical",
                   "coords": [
@@ -37189,7 +37189,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "前皇家香港軍團義勇軍軍徽 este un monument în Fanling Wai.",
                   "category": "historical",
                   "coords": [
@@ -37371,7 +37371,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "城門新村",
+                  "name": "Shing Mun San Tsuen",
                   "text": "城門新村 is a monument located in Fanling Wai.",
                   "category": "historical",
                   "coords": [
@@ -37380,7 +37380,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "前皇家香港軍團義勇軍軍徽",
+                  "name": "Royal Hong Kong Regiment Badge Monument",
                   "text": "前皇家香港軍團義勇軍軍徽 is a monument located in Fanling Wai.",
                   "category": "historical",
                   "coords": [
@@ -37626,7 +37626,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "木星美术馆",
+                  "name": "Jupiter Art Gallery",
                   "text": "木星美术馆 ist eine Kunstgalerie in San Tin.",
                   "category": "museum",
                   "coords": [
@@ -37635,7 +37635,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蝸牛墓",
+                  "name": "Snail Tomb",
                   "text": "蝸牛墓 ist ein historisches Denkmal in der Stadt San Tin.",
                   "category": "historical",
                   "coords": [
@@ -37644,7 +37644,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "庄玉君艺术馆",
+                  "name": "Zhuang Yujun Art Museum",
                   "text": "庄玉君艺术馆 ist eine lokale Kunstgalerie in San Tin.",
                   "category": "museum",
                   "coords": [
@@ -37709,7 +37709,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "深圳河(第一,二期)擴闊工程補償保護區Shenzhen River modification work compensation natural reserve (stage 1 and 2)",
+                  "name": "Shenzhen River Nature Reserve",
                   "text": "Ez a természetvédelmi terület egy védett ökológiai övezet San Tin városában.",
                   "category": "natural",
                   "coords": [
@@ -37781,7 +37781,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "木星美术馆",
+                  "name": "Jupiter Art Gallery",
                   "text": "A 木星美术馆 egy művészeti galéria San Tin városában.",
                   "category": "museum",
                   "coords": [
@@ -37790,7 +37790,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蝸牛墓",
+                  "name": "Snail Tomb",
                   "text": "A 蝸牛墓 egy történelmi műemlék San Tin területén.",
                   "category": "historical",
                   "coords": [
@@ -37799,7 +37799,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "庄玉君艺术馆",
+                  "name": "Zhuang Yujun Art Museum",
                   "text": "A 庄玉君艺术馆 egy helyi művészeti galéria San Tin városában.",
                   "category": "museum",
                   "coords": [
@@ -37936,7 +37936,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "木星美术馆",
+                  "name": "Jupiter Art Gallery",
                   "text": "木星美术馆 este o galerie de artă situată în San Tin.",
                   "category": "museum",
                   "coords": [
@@ -37945,7 +37945,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蝸牛墓",
+                  "name": "Snail Tomb",
                   "text": "蝸牛墓 este un monument istoric situat în orașul San Tin.",
                   "category": "historical",
                   "coords": [
@@ -37954,7 +37954,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "庄玉君艺术馆",
+                  "name": "Zhuang Yujun Art Museum",
                   "text": "庄玉君艺术馆 este o galerie de artă locală din San Tin.",
                   "category": "museum",
                   "coords": [
@@ -38091,7 +38091,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "木星美术馆",
+                  "name": "Jupiter Art Gallery",
                   "text": "木星美术馆 is an art gallery space located in San Tin.",
                   "category": "museum",
                   "coords": [
@@ -38100,7 +38100,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蝸牛墓",
+                  "name": "Snail Tomb",
                   "text": "蝸牛墓 is a historical monument situated in the city of San Tin.",
                   "category": "historical",
                   "coords": [
@@ -38109,7 +38109,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "庄玉君艺术馆",
+                  "name": "Zhuang Yujun Art Museum",
                   "text": "庄玉君艺术馆 is a local art gallery found in San Tin.",
                   "category": "museum",
                   "coords": [
@@ -38190,7 +38190,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-san-tin-cities-v2.webp",
   },
   {
-    id: "hongkong-sham-tseng-cities-v2", "sights": {"de": [{"name": "Tang Lung Chau Lighthouse", "text": "Der Tang Lung Chau Lighthouse ist ein Leuchtturm in Sham Tseng. Er ist ein historischer maritimer Orientierungspunkt.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "Casam Beach in Sham Tseng besticht durch seine schöne Küstenlinie. Er", "text": "Der Casam Beach in Sham Tseng besticht durch seine schöne Küstenlinie. Er bietet Besuchern eine wunderbare Möglichkeit, sich am Wasser zu erholen und die Aussicht zu genießen. Ein Spaziergang entlang des Ufers ist hier besonders entspannend. Am besten plant man seinen Besuch für einen sonnigen Nachmittag ein.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Gelegen in Sham Tseng", "text": "Gelegen in Sham Tseng, ist der Lido Beach ein sehr beliebter öffentlicher Badestrand. Hier herrscht oft eine lebhafte Atmosphäre, die sowohl Einheimische als auch Touristen anzieht. Man kann hier wunderbar schwimmen oder einfach die Sonne auf dem Sand genießen. Es empfiehlt sich, frühzeitig anzureisen, um einen guten Platz zu sichern.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "雙仙灣泳灘 Gemini Beaches", "text": "Die Gemini Beaches sind ein Strandbereich in Sham Tseng. Dieser Küstenabschnitt ist bekannt für seine natürliche Schönheit.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "海美灣泳灘 Hoi Mei Wan Beach", "text": "Wer in Sham Tseng Entspannung sucht, ist am Hoi Mei Wan Beach genau richtig. Dieser ruhigere Strandabschnitt lädt Besucher dazu ein, fernab der Hektik am Wasser die Seele baumeln zu lassen. Man kann hier herrlich spazieren gehen oder dem Rauschen der Wellen lauschen. Ein toller Ort für einen entspannten Tagesausflug an die Küste.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Der Anglers' Beach ist ein äußerst malerischer Küstenort in Sham Tseng. Er bietet eine faszinierende Aussicht und lockt mit seinem maritimen Charme viele Strandbesucher an. Die ruhige Umgebung eignet sich gut für beschauliche Spaziergänge am Ufer. Ein Besuch am späten Nachmittag verspricht oft ein schönes Lichtspiel über dem Wasser.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Auf der Insel Ma Wan gelegen", "text": "Auf der Insel Ma Wan gelegen, ist der Ma Wan Tung Wan Beach ein bekannter öffentlicher Sandstrand in Sham Tseng. Dieser Strand zieht viele an, die einen Tag mit Schwimmen und Sonnenbaden in schöner Umgebung verbringen möchten. Es erwartet Sie eine meist lockere und familienfreundliche Atmosphäre. Planen Sie ausreichend Zeit ein, um auch die Umgebung der Insel zu erkunden.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "近水灣泳灘 Approach Beach", "text": "Der Approach Beach in Sham Tseng zeichnet sich durch seine angenehme Atmosphäre direkt am Wasser aus. Hier können Besucher eine entspannte Auszeit vom Alltag genießen und sich die Meeresbrise um die Nase wehen lassen. Der Küstenabschnitt ist ideal für kurze Pausen oder gemütliche Aufenthalte am Strand. Packen Sie sich Snacks ein und genießen Sie einen unbeschwerten Tag.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "汀九灣泳灘 Ting Kau Beach", "text": "Als lokaler Küstenabschnitt bietet der Ting Kau Beach in Sham Tseng eine authentische Strandatmosphäre. Er ist ein beliebter Treffpunkt für alle, die das Wasser und die frische Luft schätzen. Man kann hier gut verweilen, den Sand unter den Füßen spüren und aufs Meer blicken. Dieser Ort eignet sich perfekt für einen ungezwungenen Nachmittagsausflug.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "Die Fong Yuen Study Hall ist ein Museum in Sham Tseng. Es ist eine ehemalige Schule, die erhalten wurde und nun als Ausstellungsort dient.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "Noah's Ark ist ein Freizeitpark in Sham Tseng.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "Der Lantau Link Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "Der Ma Wan Park ist ein Park in Sham Tseng. Er ist ein Naturpark, der verschiedene Bildungs- und Freizeiteinrichtungen bietet.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "Der Sham Tseng Playground ist ein Park in Sham Tseng.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "Der Tai Lam Nature Trail Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "Der Kap Shui Mun Obelisk (Yi Chuen) ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "Der Yuen Tun Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "Der Shek Lung Kung Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "Ma Wan 1868 ist eine Sehenswürdigkeit in Sham Tseng.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "Die Kap Shui Mun Bridge ist eine Brücke in Sham Tseng. Sie ist eine wichtige Schrägseilbrücke, die den Kap Shui Mun Kanal überquert.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing-Ma-Brücke", "text": "Die Tsing Ma Bridge ist eine Brücke in Sham Tseng. Diese markante Hängebrücke verbindet Tsing Yi und Ma Wan.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "Das Ma Wan Viaduct ist eine Brücke in Sham Tseng. Es bildet einen wesentlichen Teil der Lantau Link-Verbindung.", "category": "landmark", "coords": [114.060662, 22.347091]}], "hu": [{"name": "Tang Lung Chau Lighthouse", "text": "A Tang Lung Chau Lighthouse egy világítótorony Sham Tseng-ben. Történelmi tengeri tájékozódási pont.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "更生灣泳灘 Casam Beach", "text": "A Sham Tseng területén található Casam Beach gyönyörű partvonallal büszkélkedhet. Kiváló lehetőséget kínál a vízpari pihenésre és a tengerparti sétákra. A látogatók békés környezetben élvezhetik a kikapcsolódást. Érdemes a melegebb hónapokban ellátogatni ide egy kellemes délutánra.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Sham Tsengben lévő Lido Beach", "text": "A Sham Tsengben lévő Lido Beach egy igen népszerű nyilvános fürdőhely. Gyakran élénk hangulat várja itt az idelátogatókat, amely vonzza a helyieket és a turistákat egyaránt. Tökéletes választás úszáshoz vagy napozáshoz. Érdemes korán érkezni, hogy biztosítsuk a helyünket a homokban.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "A Gemini Beaches egy strand Sham Tseng-ben. Ez a partszakasz természeti szépségéről ismert.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "海美灣泳灘 Hoi Mei Wan Beach", "text": "Aki Sham Tseng környékén keres feltöltődést, annak a Hoi Mei Wan Beach ideális választás. Ez a csendesebb partszakasz arra hívja a látogatókat, hogy a víz mellett, a nyüzsgéstől távol pihenjenek. Sétálásra és a hullámok hallgatására is kitűnő helyszín. Egy békés tengerparti kiránduláshoz a legmegfelelőbb úti cél.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Az Anglers' Beach egy rendkívül festői tengerparti pont Sham Tsengben. Lenyűgöző kilátást nyújt, és tengeri bájával sok látogatót vonz. A nyugodt környezet kiválóan alkalmas egy elmélkedős sétára a parton. A késő délutáni látogatás gyakran gyönyörű fényeket tartogat a víz felett.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Ma Wan szigeten található Ma Wan Tung Wan Beach", "text": "A Ma Wan szigeten található Ma Wan Tung Wan Beach egy ismert nyilvános homokos part Sham Tseng közelében. Sokakat vonz ide a fürdőzés és a napozás lehetősége egy gyönyörű környezetben. A hangulat általában laza és családbarát. Érdemes elegendő időt szánni a sziget többi részének felfedezésére is.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "Sham Tseng-i Approach Beach közvetlenül", "text": "A Sham Tseng-i Approach Beach közvetlenül a vízparton kínál kellemes és nyugodt légkört. A látogatók itt kikapcsolódhatnak a mindennapi rohanásból, élvezve a lágy tengeri szellőt. A partszakasz ideális rövid pihenőkhöz vagy kényelmes, hosszabb tartózkodáshoz is. Készítsen be néhány falatot, és töltsön el egy gondtalan napot a parton.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "汀九灣泳灘 Ting Kau Beach", "text": "A helyi partszakaszként számon tartott Ting Kau Beach hiteles tengerparti élményt nyújt Sham Tsengben. Népszerű találkozóhely mindazok számára, akik kedvelik a vizet és a friss levegőt. Kellemes időtöltés itt elidőzni, érezni a homokot a talpunk alatt és nézni a tengert. Ez a helyszín tökéletes egy kötetlen délutáni kiruccanáshoz.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "A Fong Yuen Study Hall egy múzeum Sham Tseng-ben. Ez egy egykori iskola, amelyet megőriztek, és most kiállítóhelyként szolgál.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "A Noah's Ark egy vidámpark Sham Tseng-ben.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "A Lantau Link Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "A Ma Wan Park egy park Sham Tseng-ben. Ez egy természeti park, amely különféle oktatási és szabadidős létesítményeket kínál.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "A Sham Tseng Playground egy park Sham Tseng-ben.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "A Tai Lam Nature Trail Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "A Kap Shui Mun Obelisk (Yi Chuen) egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "A Yuen Tun Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "A Shek Lung Kung Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "A Ma Wan 1868 egy látványosság Sham Tseng-ben.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "A Kap Shui Mun Bridge egy híd Sham Tseng-ben. Ez egy fontos ferdekábeles híd, amely a Kap Shui Mun csatornát íveli át.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing Ma Bridge", "text": "A Tsing Ma Bridge egy híd Sham Tseng-ben. Ez a jellegzetes függőhíd Tsing Yi és Ma Wan szigetét köti össze.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "A Ma Wan Viaduct egy híd Sham Tseng-ben. A Lantau Link útvonal fontos részét képezi.", "category": "landmark", "coords": [114.060662, 22.347091]}], "ro": [{"name": "Tang Lung Chau Lighthouse", "text": "Tang Lung Chau Lighthouse este un far în Sham Tseng. Este un punct de reper maritim istoric.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "更生灣泳灘 Casam Beach", "text": "Casam Beach din Sham Tseng oferă o linie de coastă frumoasă, perfectă pentru relaxare. Este un loc ideal pentru a te bucura de liniștea apei și de plimbări pe mal. Vizitatorii găsesc aici o atmosferă potrivită pentru o pauză reconfortantă. Se recomandă o vizită în zilele senine pentru o experiență de neuitat.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Situată în Sham Tseng, Lido Beach", "text": "Situată în Sham Tseng, Lido Beach este o plajă publică foarte populară. Aici se simte o atmosferă plină de viață, atrăgând atât localnici, cât și vizitatori. Este un loc minunat pentru înot sau pur și simplu pentru a sta la soare. Este indicat să ajungeți devreme pentru a prinde un loc bun pe nisip.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "Gemini Beaches este o plajă în Sham Tseng. Această porțiune de coastă este cunoscută pentru frumusețea sa naturală.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "Hoi Mei Wan Beach", "text": "Hoi Mei Wan Beach este destinația ideală pentru cei care caută relaxare în Sham Tseng. Această porțiune de coastă invită vizitatorii să se deconecteze la malul apei, departe de agitație. Puteți face plimbări plăcute sau pur și simplu să ascultați valurile. Este un loc minunat pentru o evadare liniștită la mare.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Anglers' Beach este un loc de coastă extrem de pitoresc în Sham Tseng. Oferă priveliști fascinante și atrage mulți iubitori ai plajei prin farmecul său maritim. Mediul liniștit este perfect pentru plimbări relaxante pe mal. O vizită la sfârșitul după-amiezii promite o lumină frumoasă deasupra apei.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Situată pe insula Ma Wan, Ma Wan Tung Wan Beach", "text": "Situată pe insula Ma Wan, Ma Wan Tung Wan Beach este o plajă publică de nisip cunoscută din Sham Tseng. Această destinație atrage mulți vizitatori care doresc o zi de înot și plajă într-un decor frumos. Atmosfera de aici este relaxată și potrivită pentru familii. Alocați suficient timp pentru a explora și împrejurimile insulei.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "近水灣泳灘 Approach Beach", "text": "Approach Beach din Sham Tseng se remarcă prin atmosfera sa plăcută chiar la malul apei. Aici, vizitatorii se pot bucura de o pauză relaxantă de la cotidian, simțind briza mării. Secțiunea de coastă este ideală pentru scurte repausuri sau șederi confortabile pe plajă. Aduceți cu voi câteva gustări și bucurați-vă de o zi fără griji.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "汀九灣泳灘 Ting Kau Beach", "text": "Fiind o porțiune de coastă locală, Ting Kau Beach din Sham Tseng oferă o atmosferă de plajă autentică. Este un punct de întâlnire apreciat pentru toți cei care iubesc apa și aerul proaspăt. Vă puteți relaxa aici, simțind nisipul și privind valurile. Acest loc este perfect pentru o ieșire informală de după-amiază.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "Fong Yuen Study Hall este un muzeu în Sham Tseng. Este o fostă școală care a fost păstrată și servește acum ca spațiu expozițional.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "Noah's Ark este un parc tematic în Sham Tseng.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "Lantau Link Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "Ma Wan Park este un parc în Sham Tseng. Este un parc natural care oferă diverse facilități educaționale și de agrement.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "Sham Tseng Playground este un parc în Sham Tseng.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "Tai Lam Nature Trail Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "Kap Shui Mun Obelisk (Yi Chuen) este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "Yuen Tun Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "Shek Lung Kung Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "Ma Wan 1868 este o atracție în Sham Tseng.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "Kap Shui Mun Bridge este un pod în Sham Tseng. Este un pod hobanat important care traversează canalul Kap Shui Mun.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing Ma Bridge", "text": "Tsing Ma Bridge este un pod în Sham Tseng. Acest pod suspendat emblematic leagă Tsing Yi de Ma Wan.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "Ma Wan Viaduct este un pod în Sham Tseng. Acesta formează o parte esențială a legăturii Lantau Link.", "category": "landmark", "coords": [114.060662, 22.347091]}], "en": [{"name": "Tang Lung Chau Lighthouse", "text": "The Tang Lung Chau Lighthouse is a lighthouse in Sham Tseng. It is a historic maritime landmark.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "Casam Beach", "text": "Casam Beach in Sham Tseng boasts a beautiful coastline that is perfect for recreation. It offers a peaceful setting where visitors can relax by the water and take leisurely strolls. The atmosphere is generally calm, making it a great spot to unwind. Arriving on a sunny afternoon ensures a delightful seaside experience.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Lido Beach", "text": "Located in Sham Tseng, Lido Beach is a highly popular public bathing spot. It often features a lively atmosphere that attracts both locals and visitors alike. The area is wonderful for a refreshing swim or simply soaking up the sun. It is recommended to arrive early to secure a comfortable spot on the sand.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "The Gemini Beaches are a beach area in Sham Tseng. This coastal stretch is known for its natural beauty.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "Hoi Mei Wan Beach", "text": "Hoi Mei Wan Beach is the ideal destination for those seeking relaxation in Sham Tseng. This coastal stretch invites visitors to unwind by the water, away from the hustle and bustle. It provides a lovely setting for leisurely walks and listening to the gentle waves. A great place for a tranquil coastal day trip.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Anglers' Beach is a highly picturesque coastal spot in Sham Tseng. It offers fascinating views and attracts many beachgoers with its maritime charm. The quiet surroundings are well-suited for contemplative walks along the shore. A late afternoon visit often rewards visitors with beautiful lighting over the water.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Ma Wan Tung Wan Beach", "text": "Located on Ma Wan Island, Ma Wan Tung Wan Beach is a well-known public sandy beach in the Sham Tseng area. This beach draws many who wish to spend a day swimming and sunbathing in a beautiful setting. The atmosphere is generally relaxed and family-friendly. Make sure to allow plenty of time to explore the rest of the island as well.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "Approach Beach", "text": "Approach Beach in Sham Tseng is characterized by its pleasant atmosphere right by the water. Here, visitors can enjoy a relaxing break from everyday life and feel the gentle sea breeze. The coastal stretch is ideal for short stops or comfortable, lingering stays on the beach. Pack some snacks and enjoy a carefree day out.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "Ting Kau Beach", "text": "Serving as a local coastal stretch, Ting Kau Beach in Sham Tseng offers an authentic beachside atmosphere. It is a favored gathering spot for anyone who appreciates the water and fresh air. You can comfortably linger here, feel the sand beneath your feet, and gaze out at the sea. This location is perfect for a casual afternoon getaway.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "The Fong Yuen Study Hall is a museum in Sham Tseng. It is a former school that has been preserved and now serves as an exhibition space.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "Noah's Ark is a theme park located in Sham Tseng.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "The Lantau Link Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "The Ma Wan Park is a park in Sham Tseng. It is a nature park featuring various educational and recreational facilities.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "The Sham Tseng Playground is a public park located in Sham Tseng.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "The Tai Lam Nature Trail Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "The Kap Shui Mun Obelisk (Yi Chuen) is a viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "The Yuen Tun Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "The Shek Lung Kung Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "Ma Wan 1868 is an attraction located in Sham Tseng.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "The Kap Shui Mun Bridge is a bridge in Sham Tseng. It is a major cable-stayed bridge spanning the Kap Shui Mun channel.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing Ma Bridge", "text": "The Tsing Ma Bridge is a bridge in Sham Tseng. This landmark suspension bridge connects Tsing Yi and Ma Wan.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "The Ma Wan Viaduct is a bridge in Sham Tseng. It forms a crucial part of the Lantau Link connection.", "category": "landmark", "coords": [114.060662, 22.347091]}]},
+    id: "hongkong-sham-tseng-cities-v2", "sights": {"de": [{"name": "Tang Lung Chau Lighthouse", "text": "Der Tang Lung Chau Lighthouse ist ein Leuchtturm in Sham Tseng. Er ist ein historischer maritimer Orientierungspunkt.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "Casam Beach in Sham Tseng besticht durch seine schöne Küstenlinie. Er", "text": "Der Casam Beach in Sham Tseng besticht durch seine schöne Küstenlinie. Er bietet Besuchern eine wunderbare Möglichkeit, sich am Wasser zu erholen und die Aussicht zu genießen. Ein Spaziergang entlang des Ufers ist hier besonders entspannend. Am besten plant man seinen Besuch für einen sonnigen Nachmittag ein.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Gelegen in Sham Tseng", "text": "Gelegen in Sham Tseng, ist der Lido Beach ein sehr beliebter öffentlicher Badestrand. Hier herrscht oft eine lebhafte Atmosphäre, die sowohl Einheimische als auch Touristen anzieht. Man kann hier wunderbar schwimmen oder einfach die Sonne auf dem Sand genießen. Es empfiehlt sich, frühzeitig anzureisen, um einen guten Platz zu sichern.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "Die Gemini Beaches sind ein Strandbereich in Sham Tseng. Dieser Küstenabschnitt ist bekannt für seine natürliche Schönheit.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "Hoi Mei Wan Beach", "text": "Wer in Sham Tseng Entspannung sucht, ist am Hoi Mei Wan Beach genau richtig. Dieser ruhigere Strandabschnitt lädt Besucher dazu ein, fernab der Hektik am Wasser die Seele baumeln zu lassen. Man kann hier herrlich spazieren gehen oder dem Rauschen der Wellen lauschen. Ein toller Ort für einen entspannten Tagesausflug an die Küste.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Der Anglers' Beach ist ein äußerst malerischer Küstenort in Sham Tseng. Er bietet eine faszinierende Aussicht und lockt mit seinem maritimen Charme viele Strandbesucher an. Die ruhige Umgebung eignet sich gut für beschauliche Spaziergänge am Ufer. Ein Besuch am späten Nachmittag verspricht oft ein schönes Lichtspiel über dem Wasser.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Auf der Insel Ma Wan gelegen", "text": "Auf der Insel Ma Wan gelegen, ist der Ma Wan Tung Wan Beach ein bekannter öffentlicher Sandstrand in Sham Tseng. Dieser Strand zieht viele an, die einen Tag mit Schwimmen und Sonnenbaden in schöner Umgebung verbringen möchten. Es erwartet Sie eine meist lockere und familienfreundliche Atmosphäre. Planen Sie ausreichend Zeit ein, um auch die Umgebung der Insel zu erkunden.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "Approach Beach", "text": "Der Approach Beach in Sham Tseng zeichnet sich durch seine angenehme Atmosphäre direkt am Wasser aus. Hier können Besucher eine entspannte Auszeit vom Alltag genießen und sich die Meeresbrise um die Nase wehen lassen. Der Küstenabschnitt ist ideal für kurze Pausen oder gemütliche Aufenthalte am Strand. Packen Sie sich Snacks ein und genießen Sie einen unbeschwerten Tag.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "Ting Kau Beach", "text": "Als lokaler Küstenabschnitt bietet der Ting Kau Beach in Sham Tseng eine authentische Strandatmosphäre. Er ist ein beliebter Treffpunkt für alle, die das Wasser und die frische Luft schätzen. Man kann hier gut verweilen, den Sand unter den Füßen spüren und aufs Meer blicken. Dieser Ort eignet sich perfekt für einen ungezwungenen Nachmittagsausflug.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "Die Fong Yuen Study Hall ist ein Museum in Sham Tseng. Es ist eine ehemalige Schule, die erhalten wurde und nun als Ausstellungsort dient.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "Noah's Ark ist ein Freizeitpark in Sham Tseng.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "Der Lantau Link Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "Der Ma Wan Park ist ein Park in Sham Tseng. Er ist ein Naturpark, der verschiedene Bildungs- und Freizeiteinrichtungen bietet.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "Der Sham Tseng Playground ist ein Park in Sham Tseng.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "Der Tai Lam Nature Trail Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "Der Kap Shui Mun Obelisk (Yi Chuen) ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "Der Yuen Tun Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "Der Shek Lung Kung Viewing Point ist ein Aussichtspunkt in Sham Tseng.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "Ma Wan 1868 ist eine Sehenswürdigkeit in Sham Tseng.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "Die Kap Shui Mun Bridge ist eine Brücke in Sham Tseng. Sie ist eine wichtige Schrägseilbrücke, die den Kap Shui Mun Kanal überquert.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing-Ma-Brücke", "text": "Die Tsing Ma Bridge ist eine Brücke in Sham Tseng. Diese markante Hängebrücke verbindet Tsing Yi und Ma Wan.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "Das Ma Wan Viaduct ist eine Brücke in Sham Tseng. Es bildet einen wesentlichen Teil der Lantau Link-Verbindung.", "category": "landmark", "coords": [114.060662, 22.347091]}], "hu": [{"name": "Tang Lung Chau Lighthouse", "text": "A Tang Lung Chau Lighthouse egy világítótorony Sham Tseng-ben. Történelmi tengeri tájékozódási pont.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "Casam Beach", "text": "A Sham Tseng területén található Casam Beach gyönyörű partvonallal büszkélkedhet. Kiváló lehetőséget kínál a vízpari pihenésre és a tengerparti sétákra. A látogatók békés környezetben élvezhetik a kikapcsolódást. Érdemes a melegebb hónapokban ellátogatni ide egy kellemes délutánra.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Sham Tsengben lévő Lido Beach", "text": "A Sham Tsengben lévő Lido Beach egy igen népszerű nyilvános fürdőhely. Gyakran élénk hangulat várja itt az idelátogatókat, amely vonzza a helyieket és a turistákat egyaránt. Tökéletes választás úszáshoz vagy napozáshoz. Érdemes korán érkezni, hogy biztosítsuk a helyünket a homokban.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "A Gemini Beaches egy strand Sham Tseng-ben. Ez a partszakasz természeti szépségéről ismert.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "Hoi Mei Wan Beach", "text": "Aki Sham Tseng környékén keres feltöltődést, annak a Hoi Mei Wan Beach ideális választás. Ez a csendesebb partszakasz arra hívja a látogatókat, hogy a víz mellett, a nyüzsgéstől távol pihenjenek. Sétálásra és a hullámok hallgatására is kitűnő helyszín. Egy békés tengerparti kiránduláshoz a legmegfelelőbb úti cél.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Az Anglers' Beach egy rendkívül festői tengerparti pont Sham Tsengben. Lenyűgöző kilátást nyújt, és tengeri bájával sok látogatót vonz. A nyugodt környezet kiválóan alkalmas egy elmélkedős sétára a parton. A késő délutáni látogatás gyakran gyönyörű fényeket tartogat a víz felett.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Ma Wan szigeten található Ma Wan Tung Wan Beach", "text": "A Ma Wan szigeten található Ma Wan Tung Wan Beach egy ismert nyilvános homokos part Sham Tseng közelében. Sokakat vonz ide a fürdőzés és a napozás lehetősége egy gyönyörű környezetben. A hangulat általában laza és családbarát. Érdemes elegendő időt szánni a sziget többi részének felfedezésére is.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "Sham Tseng-i Approach Beach közvetlenül", "text": "A Sham Tseng-i Approach Beach közvetlenül a vízparton kínál kellemes és nyugodt légkört. A látogatók itt kikapcsolódhatnak a mindennapi rohanásból, élvezve a lágy tengeri szellőt. A partszakasz ideális rövid pihenőkhöz vagy kényelmes, hosszabb tartózkodáshoz is. Készítsen be néhány falatot, és töltsön el egy gondtalan napot a parton.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "Ting Kau Beach", "text": "A helyi partszakaszként számon tartott Ting Kau Beach hiteles tengerparti élményt nyújt Sham Tsengben. Népszerű találkozóhely mindazok számára, akik kedvelik a vizet és a friss levegőt. Kellemes időtöltés itt elidőzni, érezni a homokot a talpunk alatt és nézni a tengert. Ez a helyszín tökéletes egy kötetlen délutáni kiruccanáshoz.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "A Fong Yuen Study Hall egy múzeum Sham Tseng-ben. Ez egy egykori iskola, amelyet megőriztek, és most kiállítóhelyként szolgál.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "A Noah's Ark egy vidámpark Sham Tseng-ben.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "A Lantau Link Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "A Ma Wan Park egy park Sham Tseng-ben. Ez egy természeti park, amely különféle oktatási és szabadidős létesítményeket kínál.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "A Sham Tseng Playground egy park Sham Tseng-ben.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "A Tai Lam Nature Trail Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "A Kap Shui Mun Obelisk (Yi Chuen) egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "A Yuen Tun Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "A Shek Lung Kung Viewing Point egy kilátó Sham Tseng-ben.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "A Ma Wan 1868 egy látványosság Sham Tseng-ben.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "A Kap Shui Mun Bridge egy híd Sham Tseng-ben. Ez egy fontos ferdekábeles híd, amely a Kap Shui Mun csatornát íveli át.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing Ma Bridge", "text": "A Tsing Ma Bridge egy híd Sham Tseng-ben. Ez a jellegzetes függőhíd Tsing Yi és Ma Wan szigetét köti össze.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "A Ma Wan Viaduct egy híd Sham Tseng-ben. A Lantau Link útvonal fontos részét képezi.", "category": "landmark", "coords": [114.060662, 22.347091]}], "ro": [{"name": "Tang Lung Chau Lighthouse", "text": "Tang Lung Chau Lighthouse este un far în Sham Tseng. Este un punct de reper maritim istoric.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "Casam Beach", "text": "Casam Beach din Sham Tseng oferă o linie de coastă frumoasă, perfectă pentru relaxare. Este un loc ideal pentru a te bucura de liniștea apei și de plimbări pe mal. Vizitatorii găsesc aici o atmosferă potrivită pentru o pauză reconfortantă. Se recomandă o vizită în zilele senine pentru o experiență de neuitat.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Situată în Sham Tseng, Lido Beach", "text": "Situată în Sham Tseng, Lido Beach este o plajă publică foarte populară. Aici se simte o atmosferă plină de viață, atrăgând atât localnici, cât și vizitatori. Este un loc minunat pentru înot sau pur și simplu pentru a sta la soare. Este indicat să ajungeți devreme pentru a prinde un loc bun pe nisip.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "Gemini Beaches este o plajă în Sham Tseng. Această porțiune de coastă este cunoscută pentru frumusețea sa naturală.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "Hoi Mei Wan Beach", "text": "Hoi Mei Wan Beach este destinația ideală pentru cei care caută relaxare în Sham Tseng. Această porțiune de coastă invită vizitatorii să se deconecteze la malul apei, departe de agitație. Puteți face plimbări plăcute sau pur și simplu să ascultați valurile. Este un loc minunat pentru o evadare liniștită la mare.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Anglers' Beach este un loc de coastă extrem de pitoresc în Sham Tseng. Oferă priveliști fascinante și atrage mulți iubitori ai plajei prin farmecul său maritim. Mediul liniștit este perfect pentru plimbări relaxante pe mal. O vizită la sfârșitul după-amiezii promite o lumină frumoasă deasupra apei.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Situată pe insula Ma Wan, Ma Wan Tung Wan Beach", "text": "Situată pe insula Ma Wan, Ma Wan Tung Wan Beach este o plajă publică de nisip cunoscută din Sham Tseng. Această destinație atrage mulți vizitatori care doresc o zi de înot și plajă într-un decor frumos. Atmosfera de aici este relaxată și potrivită pentru familii. Alocați suficient timp pentru a explora și împrejurimile insulei.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "Approach Beach", "text": "Approach Beach din Sham Tseng se remarcă prin atmosfera sa plăcută chiar la malul apei. Aici, vizitatorii se pot bucura de o pauză relaxantă de la cotidian, simțind briza mării. Secțiunea de coastă este ideală pentru scurte repausuri sau șederi confortabile pe plajă. Aduceți cu voi câteva gustări și bucurați-vă de o zi fără griji.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "Ting Kau Beach", "text": "Fiind o porțiune de coastă locală, Ting Kau Beach din Sham Tseng oferă o atmosferă de plajă autentică. Este un punct de întâlnire apreciat pentru toți cei care iubesc apa și aerul proaspăt. Vă puteți relaxa aici, simțind nisipul și privind valurile. Acest loc este perfect pentru o ieșire informală de după-amiază.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "Fong Yuen Study Hall este un muzeu în Sham Tseng. Este o fostă școală care a fost păstrată și servește acum ca spațiu expozițional.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "Noah's Ark este un parc tematic în Sham Tseng.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "Lantau Link Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "Ma Wan Park este un parc în Sham Tseng. Este un parc natural care oferă diverse facilități educaționale și de agrement.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "Sham Tseng Playground este un parc în Sham Tseng.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "Tai Lam Nature Trail Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "Kap Shui Mun Obelisk (Yi Chuen) este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "Yuen Tun Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "Shek Lung Kung Viewing Point este un punct de belvedere în Sham Tseng.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "Ma Wan 1868 este o atracție în Sham Tseng.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "Kap Shui Mun Bridge este un pod în Sham Tseng. Este un pod hobanat important care traversează canalul Kap Shui Mun.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing Ma Bridge", "text": "Tsing Ma Bridge este un pod în Sham Tseng. Acest pod suspendat emblematic leagă Tsing Yi de Ma Wan.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "Ma Wan Viaduct este un pod în Sham Tseng. Acesta formează o parte esențială a legăturii Lantau Link.", "category": "landmark", "coords": [114.060662, 22.347091]}], "en": [{"name": "Tang Lung Chau Lighthouse", "text": "The Tang Lung Chau Lighthouse is a lighthouse in Sham Tseng. It is a historic maritime landmark.", "category": "landmark", "coords": [114.063133, 22.339567]}, {"name": "Casam Beach", "text": "Casam Beach in Sham Tseng boasts a beautiful coastline that is perfect for recreation. It offers a peaceful setting where visitors can relax by the water and take leisurely strolls. The atmosphere is generally calm, making it a great spot to unwind. Arriving on a sunny afternoon ensures a delightful seaside experience.", "category": "recreational", "coords": [114.074631, 22.367454]}, {"name": "Lido Beach", "text": "Located in Sham Tseng, Lido Beach is a highly popular public bathing spot. It often features a lively atmosphere that attracts both locals and visitors alike. The area is wonderful for a refreshing swim or simply soaking up the sun. It is recommended to arrive early to secure a comfortable spot on the sand.", "category": "recreational", "coords": [114.076355, 22.367807]}, {"name": "Gemini Beaches", "text": "The Gemini Beaches are a beach area in Sham Tseng. This coastal stretch is known for its natural beauty.", "category": "recreational", "coords": [114.069274, 22.363921]}, {"name": "Hoi Mei Wan Beach", "text": "Hoi Mei Wan Beach is the ideal destination for those seeking relaxation in Sham Tseng. This coastal stretch invites visitors to unwind by the water, away from the hustle and bustle. It provides a lovely setting for leisurely walks and listening to the gentle waves. A great place for a tranquil coastal day trip.", "category": "recreational", "coords": [114.071006, 22.364847]}, {"name": "Anglers' Beach", "text": "Anglers' Beach is a highly picturesque coastal spot in Sham Tseng. It offers fascinating views and attracts many beachgoers with its maritime charm. The quiet surroundings are well-suited for contemplative walks along the shore. A late afternoon visit often rewards visitors with beautiful lighting over the water.", "category": "recreational", "coords": [114.056854, 22.365183]}, {"name": "Ma Wan Tung Wan Beach", "text": "Located on Ma Wan Island, Ma Wan Tung Wan Beach is a well-known public sandy beach in the Sham Tseng area. This beach draws many who wish to spend a day swimming and sunbathing in a beautiful setting. The atmosphere is generally relaxed and family-friendly. Make sure to allow plenty of time to explore the rest of the island as well.", "category": "recreational", "coords": [114.062455, 22.350607]}, {"name": "Approach Beach", "text": "Approach Beach in Sham Tseng is characterized by its pleasant atmosphere right by the water. Here, visitors can enjoy a relaxing break from everyday life and feel the gentle sea breeze. The coastal stretch is ideal for short stops or comfortable, lingering stays on the beach. Pack some snacks and enjoy a carefree day out.", "category": "recreational", "coords": [114.086045, 22.367393]}, {"name": "Ting Kau Beach", "text": "Serving as a local coastal stretch, Ting Kau Beach in Sham Tseng offers an authentic beachside atmosphere. It is a favored gathering spot for anyone who appreciates the water and fresh air. You can comfortably linger here, feel the sand beneath your feet, and gaze out at the sea. This location is perfect for a casual afternoon getaway.", "category": "recreational", "coords": [114.080131, 22.368942]}, {"name": "Fong Yuen Study Hall", "text": "The Fong Yuen Study Hall is a museum in Sham Tseng. It is a former school that has been preserved and now serves as an exhibition space.", "category": "museum", "coords": [114.057687, 22.350423]}, {"name": "Noah's Ark", "text": "Noah's Ark is a theme park located in Sham Tseng.", "category": "family", "coords": [114.061302, 22.348268]}, {"name": "Lantau Link Viewing Point", "text": "The Lantau Link Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.080959, 22.357963]}, {"name": "Ma Wan Park", "text": "The Ma Wan Park is a park in Sham Tseng. It is a nature park featuring various educational and recreational facilities.", "category": "park", "coords": [114.058573, 22.348856]}, {"name": "Sham Tseng Playground", "text": "The Sham Tseng Playground is a public park located in Sham Tseng.", "category": "park", "coords": [114.058407, 22.367781]}, {"name": "Tai Lam Nature Trail Viewing Point", "text": "The Tai Lam Nature Trail Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.04049, 22.380752]}, {"name": "Kap Shui Mun Obelisk (Yi Chuen)", "text": "The Kap Shui Mun Obelisk (Yi Chuen) is a viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.054495, 22.341664]}, {"name": "Yuen Tun Viewing Point", "text": "The Yuen Tun Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.049967, 22.371032]}, {"name": "Shek Lung Kung Viewing Point", "text": "The Shek Lung Kung Viewing Point is a scenic viewpoint located in Sham Tseng.", "category": "natural", "coords": [114.083311, 22.378559]}, {"name": "Ma Wan 1868", "text": "Ma Wan 1868 is an attraction located in Sham Tseng.", "category": "landmark", "coords": [114.05589, 22.34937]}, {"name": "Kap Shui Mun Bridge", "text": "The Kap Shui Mun Bridge is a bridge in Sham Tseng. It is a major cable-stayed bridge spanning the Kap Shui Mun channel.", "category": "landmark", "coords": [114.055497, 22.344172]}, {"name": "Tsing Ma Bridge", "text": "The Tsing Ma Bridge is a bridge in Sham Tseng. This landmark suspension bridge connects Tsing Yi and Ma Wan.", "category": "landmark", "coords": [114.073006, 22.350822]}, {"name": "Ma Wan Viaduct", "text": "The Ma Wan Viaduct is a bridge in Sham Tseng. It forms a crucial part of the Lantau Link connection.", "category": "landmark", "coords": [114.060662, 22.347091]}]},
     parent: "HK",
     type: "town",
     name: { de: "Sham Tseng", hu: "Sham Tseng", ro: "Sham Tseng", en: "Sham Tseng" },
@@ -38235,7 +38235,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-sham-tseng-cities-v2.webp",
   },
   {
-    id: "hongkong-so-kwun-wat-cities-v2", "sights": {"de": [{"name": "Kadoorie Beach in So Kwun Wat", "text": "Der Kadoorie Beach in So Kwun Wat ist ein charmanter Strandabschnitt, der zum Entspannen einlädt. Besucher finden hier eine schöne Kulisse für Spaziergänge und sonnige Momente am Wasser. Die entspannte Stimmung zieht oft Familien und Paare an. Es ist ratsam, für den Besuch an warmen Tagen Badesachen nicht zu vergessen.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "Castle Peak Beach ist ein sehr beliebter Küstenort in So Kwun Wat. Die weite Sandfläche und das angenehme Wasser machen ihn zu einem idealen Ziel für Badeausflüge. An den Wochenenden kann es hier lebhaft zugehen, was die fröhliche Stimmung des Strandes unterstreicht. Bringen Sie ein Handtuch mit und genießen Sie die lebendige Atmosphäre am Meer.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "In So Kwun Wat überrascht der Golden Beach als ein wunderschön angelegter künstlicher Sandstrand. Er ist weithin bekannt und bietet exzellente Bedingungen für Sonnenanbeter und Wasserratten. Die großzügige Anlage vermittelt sofort ein herrliches Urlaubsgefühl. Ein Besuch lohnt sich besonders, wenn man ausgedehnte Strandtage liebt.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Cafeteria Beach in So Kwun Wat", "text": "Der Cafeteria Beach in So Kwun Wat bietet eine gemütliche und einladende Küstenatmosphäre. Ob für ein erfrischendes Bad oder einen entspannten Spaziergang am Ufer, dieser Strand ist ein wunderbarer Rückzugsort. Viele schätzen die ungezwungene Umgebung, die zum Verweilen einlädt. Für eine kleine Flucht aus dem Alltag ist dieser Ort genau richtig.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Zoo in So Kwun Wat.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "青山灣 Castle Peak Bay", "text": "Bucht in So Kwun Wat.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "湖山遊樂場 Wu Shan Recreation Playground", "text": "Freizeitpark in So Kwun Wat.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "華發遊樂場 Wah Fat Playground", "text": "Spielplatz in So Kwun Wat.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "海豚廣場 Dolphin Square", "text": "Aussichtspunkt in So Kwun Wat.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "屯門大會堂 Tuen Mun Town Hall", "text": "Kulturelles Zentrum in So Kwun Wat.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "天后之牀", "text": "In der Gegend von So Kwun Wat befindet sich die faszinierende Landmarke 天后之牀. Diese lokale Attraktion in Hongkong zieht Menschen an, die sich für besondere kulturelle oder landschaftliche Entdeckungen interessieren.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man 石", "text": "Der ungewöhnlich geformte Iron Man 石 ist eine bekannte Landmarke in So Kwun Wat. Wanderer in diesem Teil Hongkongs machen oft an dieser Felsformation halt, um Fotos von der kuriosen Attraktion zu schießen.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "Als markanter Wegpunkt in So Kwun Wat gilt die Formation 左右門神. Diese natürliche oder kulturelle Landmarke in Hongkong ist ein beliebtes Ziel für Entdecker in der Region.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "毛主席石", "text": "Der sogenannte 毛主席石 weckt durch seinen Namen das Interesse vieler Besucher in So Kwun Wat. Die auffällige Attraktion in Hongkong regt die Fantasie der Betrachter an.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Ein weiteres kurioses Naturdenkmal in So Kwun Wat", "text": "Ein weiteres kurioses Naturdenkmal in So Kwun Wat ist der 鬧鐘石. Diese Hongkonger Landmarke ist wegen ihrer außergewöhnlichen Erscheinung ein begehrtes Fotomotiv.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "Aussichtspunkt in So Kwun Wat.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "沖溝", "text": "Die geografische Besonderheit 沖溝 prägt die Landschaft in der Nähe von So Kwun Wat. Naturfreunde schätzen diese raue Attraktion in Hongkong auf ihren Erkundungstouren.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "香港道德會善慶洞 Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Tempelanlage in So Kwun Wat.", "category": "religious", "coords": [113.977735, 22.393777]}], "hu": [{"name": "So Kwun Wat-i Kadoorie Beach", "text": "A So Kwun Wat-i Kadoorie Beach egy bájos partszakasz, amely pihenésre csábít. A látogatók szép környezetet találnak itt a tengerparti sétákhoz és a napsütéses pillanatokhoz. A laza hangulat gyakran vonzza a családokat és a párokat. Meleg napokon érdemes fürdőruhát is csomagolni a látogatáshoz.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "A Castle Peak Beach egy igen kedvelt tengerparti úti cél So Kwun Wat területén. A tágas homokos part és a kellemes víz ideális fürdőzőhellyé teszi. Hétvégénként meglehetősen nyüzsgő lehet, ami kiemeli a strand vidám hangulatát. Hozzon magával egy törölközőt, és élvezze a tengerparti életképeket.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "So Kwun Wat büszkesége a Golden Beach, amely egy csodálatosan kialakított mesterséges homokos strand. Széles körben ismert, és kiváló feltételeket biztosít a napozás és a fürdőzés szerelmeseinek. A tágas terület azonnal igazi nyaralási élményt nyújt. Különösen azoknak érdemes ellátogatniuk ide, akik szeretik a hosszú tengerparti napokat.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "咖啡灣 Cafeteria Beach", "text": "A So Kwun Wat-i Cafeteria Beach hangulatos és hívogató tengerparti légkört biztosít. Legyen szó egy frissítő fürdőzésről vagy egy pihentető sétáról a parton, ez a strand csodálatos menedék. Sokan értékelik a fesztelen környezetet, amely hosszabb maradásra ösztönöz. A mindennapokból való rövid kiszakadáshoz tökéletes választás.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Állatkert So Kwun Wat városában.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "青山灣 Castle Peak Bay", "text": "Öböl So Kwun Wat városában.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "湖山遊樂場 Wu Shan Recreation Playground", "text": "Szabadidőpark So Kwun Wat városában.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "華發遊樂場 Wah Fat Playground", "text": "Játszótér So Kwun Wat városában.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "海豚廣場 Dolphin Square", "text": "Kilátópont So Kwun Wat városában.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "屯門大會堂 Tuen Mun Town Hall", "text": "Kulturális központ So Kwun Wat városában.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "天后之牀", "text": "So Kwun Wat környékén található a lenyűgöző 天后之牀 nevezetesség. Ez a hongkongi helyi látványosság vonzza a különleges kulturális vagy természeti értékek iránt érdeklődő embereket.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man 石", "text": "A szokatlan formájú Iron Man 石 egy ismert nevezetesség So Kwun Wat területén. Hongkong ezen részén a túrázók gyakran megállnak ennél a sziklaképződménynél, hogy fotókat készítsenek a különös látványosságról.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "A 左右門神 formáció So Kwun Wat egyik feltűnő tájékozódási pontjának számít. Ez a hongkongi természeti vagy kulturális nevezetesség népszerű célpont a régió felfedezői körében.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "毛主席石", "text": "Az úgynevezett 毛主席石 neve miatt sok látogató érdeklődését felkelti So Kwun Wat területén. A feltűnő hongkongi látványosság megmozgatja a szemlélődők fantáziáját.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "鬧鐘石", "text": "So Kwun Wat egy másik különös emléke a 鬧鐘石. Ez a hongkongi nevezetesség rendkívüli megjelenése miatt népszerű fotótéma.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "Kilátópont So Kwun Wat városában.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "沖溝", "text": "A 沖溝 földrajzi sajátosság meghatározza a So Kwun Wat környéki tájat. A természetbarátok felfedezőútjaik során nagyra értékelik ezt a zord hongkongi látványosságot.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "香港道德會善慶洞 Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Templomegyüttes So Kwun Wat városában.", "category": "religious", "coords": [113.977735, 22.393777]}], "ro": [{"name": "Kadoorie Beach din So Kwun Wat", "text": "Kadoorie Beach din So Kwun Wat este o plajă fermecătoare care te invită la relaxare. Vizitatorii vor găsi aici un decor frumos pentru plimbări și momente însorite la malul apei. Atmosfera relaxată atrage adesea familii și cupluri. Este recomandat să nu uitați costumul de baie pentru o vizită în zilele călduroase.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "Castle Peak Beach este o locație de coastă foarte populară în So Kwun Wat. Plaja spațioasă și apa plăcută o transformă într-o destinație ideală pentru ieșirile la scăldat. La sfârșit de săptămână poate fi destul de animat, ceea ce subliniază spiritul vesel al plajei. Luați cu voi un prosop și bucurați-vă de atmosfera plină de viață.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "În So Kwun Wat, Golden Beach surprinde ca o plajă de nisip artificială frumos amenajată. Este foarte cunoscută și oferă condiții excelente pentru iubitorii de soare și de apă. Spațiul generos îți dă imediat senzația unei vacanțe perfecte. O vizită este cu adevărat valoroasă dacă vă plac zilele lungi petrecute la plajă.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "咖啡灣 Cafeteria Beach", "text": "Cafeteria Beach din So Kwun Wat oferă o atmosferă de coastă primitoare și confortabilă. Fie pentru o baie răcoroasă sau pentru o plimbare liniștită, această plajă este un refugiu minunat. Mulți apreciază mediul informal, care te invită să zăbovești. Pentru o scurtă evadare din rutina zilnică, acest loc este exact ce trebuie.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Grădină zoologică în So Kwun Wat.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "青山灣 Castle Peak Bay", "text": "Golf în So Kwun Wat.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "湖山遊樂場 Wu Shan Recreation Playground", "text": "Parc de recreere în So Kwun Wat.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "華發遊樂場 Wah Fat Playground", "text": "Loc de joacă în So Kwun Wat.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "海豚廣場 Dolphin Square", "text": "Punct de observație în So Kwun Wat.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "屯門大會堂 Tuen Mun Town Hall", "text": "Centru cultural în So Kwun Wat.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "În zona So Kwun Wat", "text": "În zona So Kwun Wat se află fascinantul reper 天后之牀. Această atracție locală din Hong Kong atrage persoanele interesate de descoperiri culturale sau peisagistice deosebite.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man 石", "text": "Cu o formă neobișnuită, Iron Man 石 este un reper cunoscut în So Kwun Wat. Drumeții din această parte a Hong Kong-ului se opresc adesea la această formațiune stâncoasă pentru a fotografia curioasa atracție.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "Formațiunea 左右門神 este considerată un punct de reper izbitor în So Kwun Wat. Această atracție din Hong Kong este o destinație populară pentru exploratorii din regiune.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "毛主席石", "text": "Așa-numitul 毛主席石 stârnește interesul multor vizitatori din So Kwun Wat datorită numelui său. Atracția vizibilă din Hong Kong stimulează imaginația privitorilor.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Un alt monument curios din So Kwun Wat", "text": "Un alt monument curios din So Kwun Wat este 鬧鐘石. Acest reper din Hong Kong este un subiect fotografic popular datorită aspectului său extraordinar.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "Punct de observație în So Kwun Wat.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "沖溝", "text": "Particularitatea geografică 沖溝 marchează peisajul din apropiere de So Kwun Wat. Iubitorii de natură apreciază această atracție aspră din Hong Kong în timpul excursiilor lor de explorare.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "香港道德會善慶洞 Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Complex de temple în So Kwun Wat.", "category": "religious", "coords": [113.977735, 22.393777]}], "en": [{"name": "Kadoorie Beach", "text": "Kadoorie Beach in So Kwun Wat is a charming beach area that invites you to relax. Visitors will find a lovely backdrop for coastal walks and sunny moments by the water. The laid-back mood often attracts families and couples alike. It is advisable not to forget your swimwear when visiting on warm days.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "Castle Peak Beach is a highly popular coastal spot in So Kwun Wat. The spacious stretch of sand and pleasant waters make it an ideal destination for swimming outings. Weekends can get quite lively here, highlighting the cheerful spirit of the beach. Bring a towel and enjoy the vibrant seaside atmosphere.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "Golden Beach", "text": "In So Kwun Wat, Golden Beach surprises visitors as a beautifully landscaped artificial sandy beach. It is widely known and offers excellent conditions for sun worshipers and water enthusiasts. The spacious layout immediately imparts a wonderful holiday feeling. A visit is highly rewarding if you enjoy extended days out on the sand.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Cafeteria Beach", "text": "Cafeteria Beach in So Kwun Wat offers a cozy and inviting coastal atmosphere. Whether for a refreshing swim or a relaxing stroll along the shore, this beach is a wonderful retreat. Many appreciate the informal surroundings that encourage you to stay a while. It is just the right spot for a quick escape from daily routines.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "Reptile House", "text": "Zoo in So Kwun Wat.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak Bay", "text": "Bay in So Kwun Wat.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Wu Shan Recreation Playground", "text": "Recreation park in So Kwun Wat.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Playground in So Kwun Wat.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Dolphin Square", "text": "Viewpoint in So Kwun Wat.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Cultural center in So Kwun Wat.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "The Bed of Heavenly Queen", "text": "In the area of So Kwun Wat lies the fascinating landmark 天后之牀. This local attraction in Hong Kong draws people interested in unique cultural or scenic discoveries.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man 石", "text": "The unusually shaped Iron Man 石 is a well-known landmark in So Kwun Wat. Hikers in this part of Hong Kong often stop at this rock formation to take pictures of the curious attraction.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "左右門神", "text": "The 左右門神 formation is considered a striking waypoint in So Kwun Wat. This landmark in Hong Kong is a popular destination for explorers in the region.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "The so-called 毛主席石 arouses the interest of many visitors in So Kwun Wat due to its name. The conspicuous attraction in Hong Kong stimulates the imagination of the observers.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Another curious monument in So Kwun Wat is the 鬧鐘石. This Hong Kong landmark is a sought-after photo subject due to its extraordinary appearance.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "九管石塔", "text": "Viewpoint in So Kwun Wat.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "The geographical feature 沖溝 characterizes the landscape near So Kwun Wat. Nature lovers appreciate this rugged attraction in Hong Kong during their exploratory tours.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Temple complex in So Kwun Wat.", "category": "religious", "coords": [113.977735, 22.393777]}]},
+    id: "hongkong-so-kwun-wat-cities-v2", "sights": {"de": [{"name": "Kadoorie Beach in So Kwun Wat", "text": "Der Kadoorie Beach in So Kwun Wat ist ein charmanter Strandabschnitt, der zum Entspannen einlädt. Besucher finden hier eine schöne Kulisse für Spaziergänge und sonnige Momente am Wasser. Die entspannte Stimmung zieht oft Familien und Paare an. Es ist ratsam, für den Besuch an warmen Tagen Badesachen nicht zu vergessen.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "Castle Peak Beach ist ein sehr beliebter Küstenort in So Kwun Wat. Die weite Sandfläche und das angenehme Wasser machen ihn zu einem idealen Ziel für Badeausflüge. An den Wochenenden kann es hier lebhaft zugehen, was die fröhliche Stimmung des Strandes unterstreicht. Bringen Sie ein Handtuch mit und genießen Sie die lebendige Atmosphäre am Meer.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "In So Kwun Wat überrascht der Golden Beach als ein wunderschön angelegter künstlicher Sandstrand. Er ist weithin bekannt und bietet exzellente Bedingungen für Sonnenanbeter und Wasserratten. Die großzügige Anlage vermittelt sofort ein herrliches Urlaubsgefühl. Ein Besuch lohnt sich besonders, wenn man ausgedehnte Strandtage liebt.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Cafeteria Beach in So Kwun Wat", "text": "Der Cafeteria Beach in So Kwun Wat bietet eine gemütliche und einladende Küstenatmosphäre. Ob für ein erfrischendes Bad oder einen entspannten Spaziergang am Ufer, dieser Strand ist ein wunderbarer Rückzugsort. Viele schätzen die ungezwungene Umgebung, die zum Verweilen einlädt. Für eine kleine Flucht aus dem Alltag ist dieser Ort genau richtig.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Zoo in So Kwun Wat.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak Bay", "text": "Bucht in So Kwun Wat.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Wu Shan Recreation Playground", "text": "Freizeitpark in So Kwun Wat.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Spielplatz in So Kwun Wat.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "海豚廣場 Dolphin Square", "text": "Aussichtspunkt in So Kwun Wat.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Kulturelles Zentrum in So Kwun Wat.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Tin Hau Bed", "text": "In der Gegend von So Kwun Wat befindet sich die faszinierende Landmarke 天后之牀. Diese lokale Attraktion in Hongkong zieht Menschen an, die sich für besondere kulturelle oder landschaftliche Entdeckungen interessieren.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Der ungewöhnlich geformte Iron Man 石 ist eine bekannte Landmarke in So Kwun Wat. Wanderer in diesem Teil Hongkongs machen oft an dieser Felsformation halt, um Fotos von der kuriosen Attraktion zu schießen.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "Als markanter Wegpunkt in So Kwun Wat gilt die Formation 左右門神. Diese natürliche oder kulturelle Landmarke in Hongkong ist ein beliebtes Ziel für Entdecker in der Region.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Der sogenannte 毛主席石 weckt durch seinen Namen das Interesse vieler Besucher in So Kwun Wat. Die auffällige Attraktion in Hongkong regt die Fantasie der Betrachter an.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Ein weiteres kurioses Naturdenkmal in So Kwun Wat", "text": "Ein weiteres kurioses Naturdenkmal in So Kwun Wat ist der 鬧鐘石. Diese Hongkonger Landmarke ist wegen ihrer außergewöhnlichen Erscheinung ein begehrtes Fotomotiv.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "Aussichtspunkt in So Kwun Wat.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Die geografische Besonderheit 沖溝 prägt die Landschaft in der Nähe von So Kwun Wat. Naturfreunde schätzen diese raue Attraktion in Hongkong auf ihren Erkundungstouren.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung Temple", "text": "Tempelanlage in So Kwun Wat.", "category": "religious", "coords": [113.977735, 22.393777]}], "hu": [{"name": "So Kwun Wat-i Kadoorie Beach", "text": "A So Kwun Wat-i Kadoorie Beach egy bájos partszakasz, amely pihenésre csábít. A látogatók szép környezetet találnak itt a tengerparti sétákhoz és a napsütéses pillanatokhoz. A laza hangulat gyakran vonzza a családokat és a párokat. Meleg napokon érdemes fürdőruhát is csomagolni a látogatáshoz.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "A Castle Peak Beach egy igen kedvelt tengerparti úti cél So Kwun Wat területén. A tágas homokos part és a kellemes víz ideális fürdőzőhellyé teszi. Hétvégénként meglehetősen nyüzsgő lehet, ami kiemeli a strand vidám hangulatát. Hozzon magával egy törölközőt, és élvezze a tengerparti életképeket.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "So Kwun Wat büszkesége a Golden Beach, amely egy csodálatosan kialakított mesterséges homokos strand. Széles körben ismert, és kiváló feltételeket biztosít a napozás és a fürdőzés szerelmeseinek. A tágas terület azonnal igazi nyaralási élményt nyújt. Különösen azoknak érdemes ellátogatniuk ide, akik szeretik a hosszú tengerparti napokat.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "咖啡灣 Cafeteria Beach", "text": "A So Kwun Wat-i Cafeteria Beach hangulatos és hívogató tengerparti légkört biztosít. Legyen szó egy frissítő fürdőzésről vagy egy pihentető sétáról a parton, ez a strand csodálatos menedék. Sokan értékelik a fesztelen környezetet, amely hosszabb maradásra ösztönöz. A mindennapokból való rövid kiszakadáshoz tökéletes választás.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Állatkert So Kwun Wat városában.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak Bay", "text": "Öböl So Kwun Wat városában.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Wu Shan Recreation Playground", "text": "Szabadidőpark So Kwun Wat városában.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Játszótér So Kwun Wat városában.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "海豚廣場 Dolphin Square", "text": "Kilátópont So Kwun Wat városában.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Kulturális központ So Kwun Wat városában.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "Tin Hau Bed", "text": "So Kwun Wat környékén található a lenyűgöző 天后之牀 nevezetesség. Ez a hongkongi helyi látványosság vonzza a különleges kulturális vagy természeti értékek iránt érdeklődő embereket.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "A szokatlan formájú Iron Man 石 egy ismert nevezetesség So Kwun Wat területén. Hongkong ezen részén a túrázók gyakran megállnak ennél a sziklaképződménynél, hogy fotókat készítsenek a különös látványosságról.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "A 左右門神 formáció So Kwun Wat egyik feltűnő tájékozódási pontjának számít. Ez a hongkongi természeti vagy kulturális nevezetesség népszerű célpont a régió felfedezői körében.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Az úgynevezett 毛主席石 neve miatt sok látogató érdeklődését felkelti So Kwun Wat területén. A feltűnő hongkongi látványosság megmozgatja a szemlélődők fantáziáját.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "So Kwun Wat egy másik különös emléke a 鬧鐘石. Ez a hongkongi nevezetesség rendkívüli megjelenése miatt népszerű fotótéma.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "Kilátópont So Kwun Wat városában.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "A 沖溝 földrajzi sajátosság meghatározza a So Kwun Wat környéki tájat. A természetbarátok felfedezőútjaik során nagyra értékelik ezt a zord hongkongi látványosságot.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung Temple", "text": "Templomegyüttes So Kwun Wat városában.", "category": "religious", "coords": [113.977735, 22.393777]}], "ro": [{"name": "Kadoorie Beach din So Kwun Wat", "text": "Kadoorie Beach din So Kwun Wat este o plajă fermecătoare care te invită la relaxare. Vizitatorii vor găsi aici un decor frumos pentru plimbări și momente însorite la malul apei. Atmosfera relaxată atrage adesea familii și cupluri. Este recomandat să nu uitați costumul de baie pentru o vizită în zilele călduroase.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "Castle Peak Beach este o locație de coastă foarte populară în So Kwun Wat. Plaja spațioasă și apa plăcută o transformă într-o destinație ideală pentru ieșirile la scăldat. La sfârșit de săptămână poate fi destul de animat, ceea ce subliniază spiritul vesel al plajei. Luați cu voi un prosop și bucurați-vă de atmosfera plină de viață.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "黃金泳灘 Golden Beach", "text": "În So Kwun Wat, Golden Beach surprinde ca o plajă de nisip artificială frumos amenajată. Este foarte cunoscută și oferă condiții excelente pentru iubitorii de soare și de apă. Spațiul generos îți dă imediat senzația unei vacanțe perfecte. O vizită este cu adevărat valoroasă dacă vă plac zilele lungi petrecute la plajă.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "咖啡灣 Cafeteria Beach", "text": "Cafeteria Beach din So Kwun Wat oferă o atmosferă de coastă primitoare și confortabilă. Fie pentru o baie răcoroasă sau pentru o plimbare liniștită, această plajă este un refugiu minunat. Mulți apreciază mediul informal, care te invită să zăbovești. Pentru o scurtă evadare din rutina zilnică, acest loc este exact ce trebuie.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "爬蟲館 Reptile House", "text": "Grădină zoologică în So Kwun Wat.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak Bay", "text": "Golf în So Kwun Wat.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Wu Shan Recreation Playground", "text": "Parc de recreere în So Kwun Wat.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Loc de joacă în So Kwun Wat.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "海豚廣場 Dolphin Square", "text": "Punct de observație în So Kwun Wat.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Centru cultural în So Kwun Wat.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "În zona So Kwun Wat", "text": "În zona So Kwun Wat se află fascinantul reper 天后之牀. Această atracție locală din Hong Kong atrage persoanele interesate de descoperiri culturale sau peisagistice deosebite.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "Cu o formă neobișnuită, Iron Man 石 este un reper cunoscut în So Kwun Wat. Drumeții din această parte a Hong Kong-ului se opresc adesea la această formațiune stâncoasă pentru a fotografia curioasa atracție.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "Formațiunea 左右門神 este considerată un punct de reper izbitor în So Kwun Wat. Această atracție din Hong Kong este o destinație populară pentru exploratorii din regiune.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "Așa-numitul 毛主席石 stârnește interesul multor vizitatori din So Kwun Wat datorită numelui său. Atracția vizibilă din Hong Kong stimulează imaginația privitorilor.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Un alt monument curios din So Kwun Wat", "text": "Un alt monument curios din So Kwun Wat este 鬧鐘石. Acest reper din Hong Kong este un subiect fotografic popular datorită aspectului său extraordinar.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "Punct de observație în So Kwun Wat.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "Particularitatea geografică 沖溝 marchează peisajul din apropiere de So Kwun Wat. Iubitorii de natură apreciază această atracție aspră din Hong Kong în timpul excursiilor lor de explorare.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Sin Hing Tung Temple", "text": "Complex de temple în So Kwun Wat.", "category": "religious", "coords": [113.977735, 22.393777]}], "en": [{"name": "Kadoorie Beach", "text": "Kadoorie Beach in So Kwun Wat is a charming beach area that invites you to relax. Visitors will find a lovely backdrop for coastal walks and sunny moments by the water. The laid-back mood often attracts families and couples alike. It is advisable not to forget your swimwear when visiting on warm days.", "category": "recreational", "coords": [113.981441, 22.376532]}, {"name": "Castle Peak Beach", "text": "Castle Peak Beach is a highly popular coastal spot in So Kwun Wat. The spacious stretch of sand and pleasant waters make it an ideal destination for swimming outings. Weekends can get quite lively here, highlighting the cheerful spirit of the beach. Bring a towel and enjoy the vibrant seaside atmosphere.", "category": "recreational", "coords": [113.980038, 22.378982]}, {"name": "Golden Beach", "text": "In So Kwun Wat, Golden Beach surprises visitors as a beautifully landscaped artificial sandy beach. It is widely known and offers excellent conditions for sun worshipers and water enthusiasts. The spacious layout immediately imparts a wonderful holiday feeling. A visit is highly rewarding if you enjoy extended days out on the sand.", "category": "recreational", "coords": [113.988388, 22.37122]}, {"name": "Cafeteria Beach", "text": "Cafeteria Beach in So Kwun Wat offers a cozy and inviting coastal atmosphere. Whether for a refreshing swim or a relaxing stroll along the shore, this beach is a wonderful retreat. Many appreciate the informal surroundings that encourage you to stay a while. It is just the right spot for a quick escape from daily routines.", "category": "recreational", "coords": [113.985046, 22.374446]}, {"name": "Reptile House", "text": "Zoo in So Kwun Wat.", "category": "family", "coords": [113.973653, 22.390546]}, {"name": "Castle Peak Bay", "text": "Bay in So Kwun Wat.", "category": "landmark", "coords": [113.976185, 22.368936]}, {"name": "Wu Shan Recreation Playground", "text": "Recreation park in So Kwun Wat.", "category": "park", "coords": [113.965858, 22.379533]}, {"name": "Wah Fat Playground", "text": "Playground in So Kwun Wat.", "category": "park", "coords": [113.982172, 22.383767]}, {"name": "Dolphin Square", "text": "Viewpoint in So Kwun Wat.", "category": "natural", "coords": [113.989092, 22.367285]}, {"name": "Tuen Mun Town Hall", "text": "Cultural center in So Kwun Wat.", "category": "cultural", "coords": [113.976772, 22.39171]}, {"name": "The Bed of Heavenly Queen", "text": "In the area of So Kwun Wat lies the fascinating landmark 天后之牀. This local attraction in Hong Kong draws people interested in unique cultural or scenic discoveries.", "category": "landmark", "coords": [113.991683, 22.387526]}, {"name": "Iron Man Rock", "text": "The unusually shaped Iron Man 石 is a well-known landmark in So Kwun Wat. Hikers in this part of Hong Kong often stop at this rock formation to take pictures of the curious attraction.", "category": "landmark", "coords": [113.989713, 22.388922]}, {"name": "Zuo You Men Shen", "text": "The 左右門神 formation is considered a striking waypoint in So Kwun Wat. This landmark in Hong Kong is a popular destination for explorers in the region.", "category": "landmark", "coords": [113.997436, 22.380671]}, {"name": "Chairman Mao Rock", "text": "The so-called 毛主席石 arouses the interest of many visitors in So Kwun Wat due to its name. The conspicuous attraction in Hong Kong stimulates the imagination of the observers.", "category": "landmark", "coords": [113.997107, 22.386247]}, {"name": "Alarm Clock Rock", "text": "Another curious monument in So Kwun Wat is the 鬧鐘石. This Hong Kong landmark is a sought-after photo subject due to its extraordinary appearance.", "category": "landmark", "coords": [113.987433, 22.390467]}, {"name": "Jiu Guan Stone Pagoda", "text": "Viewpoint in So Kwun Wat.", "category": "natural", "coords": [113.9963, 22.382861]}, {"name": "Gully", "text": "The geographical feature 沖溝 characterizes the landscape near So Kwun Wat. Nature lovers appreciate this rugged attraction in Hong Kong during their exploratory tours.", "category": "landmark", "coords": [113.996085, 22.396529]}, {"name": "Hong Kong Society for the Promotion of Virtue Sin Hing Tung", "text": "Temple complex in So Kwun Wat.", "category": "religious", "coords": [113.977735, 22.393777]}]},
     parent: "HK",
     type: "town",
     name: { de: "So Kwun Wat", hu: "So Kwun Wat", ro: "So Kwun Wat", en: "So Kwun Wat" },
@@ -38325,7 +38325,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-lam-tsuen-cities-v2.webp",
   },
   {
-    id: "hongkong-shek-o-cities-v2", "sights": {"de": [{"name": "Tai Long Pai", "text": "Tai Long Pai ist ein Leuchtturm in Shek O.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Big Wave Bay Rock Carving ist eine bemerkenswerte archäologische Stätte in Shek O.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "大浪灣泳灘 Big Wave Bay Beach", "text": "Der Big Wave Bay Beach in Shek O macht seinem Namen oft alle Ehre und zieht viele Küstenliebhaber an. Dieser bekannte Sandstrand besticht durch seine tolle Kulisse und das weite Meer. Besucher können hier spazieren gehen, die Brandung beobachten oder es sich im Sand gemütlich machen. An sonnigen Tagen ist dies ein fantastischer Ort für Strandaktivitäten.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach ist ein faszinierender Küstenstrand in der malerischen Gegend von Shek O. Wer es etwas rauer und natürlicher mag, wird die Umgebung dieses Strandes lieben. Die Landschaft lädt zu ausgedehnten Entdeckungstouren entlang der Küstenlinie ein. Trittfestes Schuhwerk kann nützlich sein, wenn man die Umgebung genauer erkunden möchte.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Der Shek O Beach ist das Herzstück des gleichnamigen Küstenortes und ein überaus bekannter öffentlicher Strand. Feiner Sand und klares Wasser schaffen eine herrliche Umgebung für Badefreunde und Erholungssuchende. Die lebendige und oft fröhliche Atmosphäre macht jeden Besuch zu einem Erlebnis. Besonders im Sommer ist dies ein unverzichtbarer Anlaufpunkt für Sonnenanbeter.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Cape D'Aguilar Lighthouse", "text": "Das Cape D'Aguilar Lighthouse ist ein historischer maritimer Leuchtturm in Shek O.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Versteckt in Shek O", "text": "Versteckt in Shek O, ist der Turtle Cove Beach ein wahrer Geheimtipp für entspannende Stunden. Dieser Strand bietet eine ruhige Oase, fernab der großen Besuchermengen. Besucher können in der Bucht ungestört dem Rauschen des Wassers lauschen und den Sand genießen. Ein idealer Ort, um mit einem guten Buch richtig abzuschalten.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "Cape D'Aguilar SSSI ist ein ausgewiesenes Naturschutzgebiet in Shek O.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "Shek O Peak ist ein markanter Berggipfel in der Gegend von Shek O.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "Mount Collinson ist ein anerkannter Berggipfel in Shek O.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Big Wave Bay ist eine malerische Küstenbucht in Shek O.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "Pottinger Peak ist ein markanter Berggipfel in der Region Shek O.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "D'Aguilar Peak ist ein bekannter Berggipfel in Shek O.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "Lap Sap Wan ist eine lokale Bucht in Shek O.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "Dragon's Back ist eine sehr beliebte Wanderattraktion in Shek O.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)", "text": "Das Cape Collinson Battery Searchlight (North) umfasst historische Ruinen in Shek O.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "鶴咀村更樓瞭望台", "text": "鶴咀村更樓瞭望台 ist ein lokales Denkmal in Shek O.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "Bokhara Battery ist ein historisches militärisches Denkmal in Shek O.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Pillbox 033a an der Cape D'Aguilar Battery", "text": "Pillbox 033a an der Cape D'Aguilar Battery ist ein erhaltenes militärisches Denkmal in Shek O.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obelisk (North)", "text": "Obelisk (North) ist eine alte bauliche Ruine in Shek O.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Pottinger Peak View Compass ist ein malerischer Aussichtspunkt in Shek O.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 ist ein anerkanntes Verteidigungsdenkmal in Shek O.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room", "text": "Der Cape Collinson Battery Defence Electric Light Engine Room umfasst historische Militärruinen in Shek O.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "Whale Bone ist eine einzigartige lokale Attraktion in Shek O.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "Die Cape D'Aguilar Battery ist ein historisches Militärdenkmal in Shek O.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "無字石碑(南)", "text": "Obelisk (South) besteht aus bemerkenswerten baulichen Ruinen in Shek O.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Der Shek O Road Lookout ist ein Aussichtspunkt, der malerische Ausblicke in Shek O bietet.", "category": "natural", "coords": [114.239252, 22.228457]}], "hu": [{"name": "Tai Long Pai", "text": "A Tai Long Pai egy világítótorony Shek O-ban.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "A Big Wave Bay Rock Carving egy nevezetes régészeti lelőhely Shek O-ban.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Shek O-ban található Big Wave Bay Beach gyakran rászolgál", "text": "A Shek O-ban található Big Wave Bay Beach gyakran rászolgál a nevére, és sok tengerpart-kedvelőt vonz. Ez a híres homokos strand nagyszerű kulisszákkal és a végtelen tenger látványával hódít. A látogatók sétálhatnak, figyelhetik a hullámokat, vagy kényelembe helyezhetik magukat a homokban. Napsütéses napokon fantasztikus helyszín a parti programokhoz.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "A Rocky Bay Beach egy lenyűgöző tengerpart Shek O festői környékén. Aki kedveli a kissé zordabb és természetesebb tájakat, az imádni fogja ezt a strandot. A vidék hosszú felfedezőutakra hív a partvonal mentén. Érdemes kényelmes, stabil cipőt húzni, ha alaposabban bejárnánk a környéket.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "A Shek O Beach az azonos nevű tengerparti városka szíve, és egy rendkívül ismert nyilvános strand. A finom homok és a tiszta víz csodálatos környezetet teremt a fürdőzni és pihenni vágyóknak. Az élénk és gyakran vidám hangulat minden látogatást emlékezetessé tesz. Különösen nyáron kihagyhatatlan célpont a napozás szerelmeseinek.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Cape D'Aguilar világítótorony", "text": "A Cape D'Aguilar világítótorony egy történelmi tengerészeti építmény Shek O-ban.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Shek O-ban megbúvó Turtle Cove Beach", "text": "A Shek O-ban megbúvó Turtle Cove Beach egy igazi titkos tipp a pihentető órákhoz. Ez a strand nyugodt oázist kínál, távol a nagy tömegektől. A látogatók a kis öbölben zavartalanul hallgathatják a víz csobogását és élvezhetik a homokot. Ideális hely arra, hogy egy jó könyvvel a kezünkben teljesen kikapcsoljunk.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "A Cape D'Aguilar SSSI egy kijelölt természetvédelmi terület Shek O-ban.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "A Shek O Peak egy kiemelkedő hegycsúcs Shek O területén.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "A Mount Collinson egy ismert hegycsúcs Shek O-ban.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "A Big Wave Bay egy festői tengerparti öböl Shek O-ban.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "A Pottinger Peak egy nevezetes hegycsúcs a Shek O régióban.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "A D'Aguilar Peak egy jól ismert hegycsúcs Shek O-ban.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "A Lap Sap Wan egy helyi öböl Shek O-ban.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "A Dragon's Back egy rendkívül népszerű túraútvonal és látványosság Shek O-ban.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)", "text": "A Cape Collinson Battery Searchlight (Észak) történelmi romokat rejt Shek O-ban.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "鶴咀村更樓瞭望台", "text": "A 鶴咀村更樓瞭望台 egy helyi emlékmű Shek O területén.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "A Bokhara Battery egy történelmi katonai emlékmű Shek O-ban.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Cape D'Aguilar Battery-nél található Pillbox 033a", "text": "A Cape D'Aguilar Battery-nél található Pillbox 033a egy fennmaradt katonai emlékmű Shek O-ban.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obeliszk (Észak)", "text": "Az Obeliszk (Észak) egy régi szerkezeti rom Shek O-ban.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "A Pottinger Peak View Compass egy festői kilátó Shek O területén.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "A Pillbox 033 egy elismert védelmi emlékmű Shek O-ban.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room", "text": "A Cape Collinson Battery Defence Electric Light Engine Room történelmi katonai romokat foglal magában Shek O-ban.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "A Whale Bone egy egyedi helyi látványosság Shek O-ban.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "A Cape D'Aguilar Battery egy történelmi katonai emlékmű Shek O területén.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "無字石碑(南)", "text": "Az Obeliszk (Dél) nevezetes szerkezeti romokból áll Shek O-ban.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "A Shek O Road Lookout egy kilátópont, amely festői kilátást kínál Shek O-ban.", "category": "natural", "coords": [114.239252, 22.228457]}], "ro": [{"name": "Tai Long Pai", "text": "Tai Long Pai este un far în Shek O.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Big Wave Bay Rock Carving este un sit arheologic notabil situat în Shek O.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "大浪灣泳灘 Big Wave Bay Beach", "text": "Big Wave Bay Beach din Shek O își respectă adesea numele, atrăgând mulți iubitori ai coastei. Această plajă de nisip celebră impresionează prin peisajul său minunat și marea deschisă. Vizitatorii se pot plimba aici, pot privi valurile sau se pot relaxa pe nisip. În zilele însorite, acesta este un loc fantastic pentru activități la plajă.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach este o plajă de coastă fascinantă în zona pitorească Shek O. Cei care preferă o atmosferă mai aspră și naturală vor adora împrejurimile acestei plaje. Peisajul invită la tururi lungi de explorare de-a lungul liniei de coastă. Încălțămintea robustă poate fi utilă dacă doriți să explorați zona în detaliu.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Shek O Beach este inima stațiunii de coastă cu același nume și o plajă publică foarte cunoscută. Nisipul fin și apa curată creează un mediu minunat pentru cei care doresc să înoate și să se relaxeze. Atmosfera vibrantă și adesea veselă transformă fiecare vizită într-o experiență deosebită. Mai ales vara, acesta este un punct de atracție de neratat pentru amatorii de plajă.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Farul Cape D'Aguilar", "text": "Farul Cape D'Aguilar este un far maritim istoric situat în Shek O.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Ascunsă în Shek O, Turtle Cove Beach", "text": "Ascunsă în Shek O, Turtle Cove Beach este un adevărat pont secret pentru ore relaxante. Această plajă oferă o oază de liniște, departe de mulțimile mari. Vizitatorii pot asculta nestingheriți sunetul apei și se pot bucura de nisip în acest golf. Un loc ideal pentru a te deconecta cu adevărat, citind o carte bună.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "Cape D'Aguilar SSSI este o rezervație naturală desemnată în Shek O.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "Shek O Peak este un vârf montan proeminent situat în zona Shek O.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Muntele Collinson", "text": "Muntele Collinson este un vârf montan recunoscut din Shek O.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Big Wave Bay este un golf pitoresc situat în Shek O.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "Pottinger Peak este un vârf montan notabil situat în regiunea Shek O.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "D'Aguilar Peak este un vârf montan binecunoscut aflat în Shek O.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "Lap Sap Wan este un golf local situat în Shek O.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "Dragon's Back este o atracție populară pentru drumeții, situată în Shek O.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)", "text": "Cape Collinson Battery Searchlight (Nord) prezintă ruine istorice situate în Shek O.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "鶴咀村更樓瞭望台", "text": "鶴咀村更樓瞭望台 este un monument local aflat în Shek O.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "Bokhara Battery este un monument militar istoric situat în Shek O.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Pillbox 033a de la Cape D'Aguilar Battery", "text": "Pillbox 033a de la Cape D'Aguilar Battery este un monument militar conservat în Shek O.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obeliscul (Nord)", "text": "Obeliscul (Nord) este o ruină structurală veche situată în Shek O.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Pottinger Peak View Compass este un punct de belvedere pitoresc situat în Shek O.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 este un monument defensiv recunoscut din Shek O.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room", "text": "Cape Collinson Battery Defence Electric Light Engine Room prezintă ruine militare istorice în Shek O.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "Whale Bone este o atracție locală unică situată în Shek O.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "Cape D'Aguilar Battery este un monument militar istoric situat în Shek O.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "Obeliscul (Sud)", "text": "Obeliscul (Sud) este format din ruine structurale notabile aflate în Shek O.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout este un punct de belvedere care oferă vederi pitorești în Shek O.", "category": "natural", "coords": [114.239252, 22.228457]}], "en": [{"name": "Tai Long Pai", "text": "Tai Long Pai is a lighthouse located in Shek O.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Big Wave Bay Rock Carving is a notable archaeological site located in Shek O.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Big Wave Bay Beach in Shek O often lives up to its name, attracting many coastal enthusiasts. This well-known sandy beach captivates with its great scenery and the open sea. Visitors can take walks here, watch the surf, or make themselves comfortable on the sand. On sunny days, this is a fantastic spot for seaside activities.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach is a fascinating coastal stretch in the picturesque area of Shek O. Those who enjoy a slightly more rugged and natural setting will love the surroundings of this beach. The landscape invites long exploratory walks along the coastline. Sturdy footwear can be useful if you plan to explore the area more thoroughly.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Shek O Beach is the heart of the coastal town of the same name and a highly renowned public beach. Fine sand and clear water create a wonderful environment for swimmers and those seeking relaxation. The vibrant and often cheerful atmosphere makes every visit an experience. Especially in summer, this is an unmissable hotspot for sunbathers.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Cape D'Aguilar Lighthouse", "text": "Cape D'Aguilar Lighthouse is a historic maritime lighthouse situated in Shek O.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Turtle Cove Beach", "text": "Hidden away in Shek O, Turtle Cove Beach is a true insider tip for relaxing hours. This beach offers a quiet oasis, far from the large crowds. Visitors can listen to the sound of the water and enjoy the sand undisturbed in this cove. An ideal place to genuinely switch off with a good book.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "Cape D'Aguilar SSSI is a designated nature reserve located in Shek O.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "Shek O Peak is a prominent mountain peak located in the Shek O area.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "Mount Collinson is a recognized mountain peak situated in Shek O.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Big Wave Bay is a scenic coastal bay located in Shek O.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "Pottinger Peak is a notable mountain peak situated in the Shek O region.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "D'Aguilar Peak is a well-known mountain peak located in Shek O.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "Lap Sap Wan is a local bay situated in Shek O.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "Dragon's Back is a highly popular hiking attraction located in Shek O.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "The Cape Collinson Battery Searchlight (North) features historical ruins located in Shek O.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "鶴咀村更樓瞭望台", "text": "鶴咀村更樓瞭望台 is a local monument found in Shek O.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "Bokhara Battery is a historical military monument located in Shek O.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Pillbox 033a (Cape D'Aguilar Battery)", "text": "Pillbox 033a at Cape D'Aguilar Battery is a preserved military monument in Shek O.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obelisk (North)", "text": "Obelisk (North) is an ancient structural ruin located in Shek O.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Pottinger Peak View Compass is a scenic viewpoint situated in Shek O.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 is a recognized defensive monument located in Shek O.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "The Cape Collinson Battery Defence Electric Light Engine Room features historical military ruins in Shek O.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "Whale Bone is a unique local attraction found in Shek O.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "Cape D'Aguilar Battery is a historical military monument situated in Shek O.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "Obelisk (South)", "text": "Obelisk (South) consists of notable structural ruins located in Shek O.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout is a vantage point offering scenic views in Shek O.", "category": "natural", "coords": [114.239252, 22.228457]}]},
+    id: "hongkong-shek-o-cities-v2", "sights": {"de": [{"name": "Tai Long Pai", "text": "Tai Long Pai ist ein Leuchtturm in Shek O.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Big Wave Bay Rock Carving ist eine bemerkenswerte archäologische Stätte in Shek O.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Der Big Wave Bay Beach in Shek O macht seinem Namen oft alle Ehre und zieht viele Küstenliebhaber an. Dieser bekannte Sandstrand besticht durch seine tolle Kulisse und das weite Meer. Besucher können hier spazieren gehen, die Brandung beobachten oder es sich im Sand gemütlich machen. An sonnigen Tagen ist dies ein fantastischer Ort für Strandaktivitäten.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach ist ein faszinierender Küstenstrand in der malerischen Gegend von Shek O. Wer es etwas rauer und natürlicher mag, wird die Umgebung dieses Strandes lieben. Die Landschaft lädt zu ausgedehnten Entdeckungstouren entlang der Küstenlinie ein. Trittfestes Schuhwerk kann nützlich sein, wenn man die Umgebung genauer erkunden möchte.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Der Shek O Beach ist das Herzstück des gleichnamigen Küstenortes und ein überaus bekannter öffentlicher Strand. Feiner Sand und klares Wasser schaffen eine herrliche Umgebung für Badefreunde und Erholungssuchende. Die lebendige und oft fröhliche Atmosphäre macht jeden Besuch zu einem Erlebnis. Besonders im Sommer ist dies ein unverzichtbarer Anlaufpunkt für Sonnenanbeter.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Cape D'Aguilar Lighthouse", "text": "Das Cape D'Aguilar Lighthouse ist ein historischer maritimer Leuchtturm in Shek O.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Versteckt in Shek O", "text": "Versteckt in Shek O, ist der Turtle Cove Beach ein wahrer Geheimtipp für entspannende Stunden. Dieser Strand bietet eine ruhige Oase, fernab der großen Besuchermengen. Besucher können in der Bucht ungestört dem Rauschen des Wassers lauschen und den Sand genießen. Ein idealer Ort, um mit einem guten Buch richtig abzuschalten.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "Cape D'Aguilar SSSI ist ein ausgewiesenes Naturschutzgebiet in Shek O.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "Shek O Peak ist ein markanter Berggipfel in der Gegend von Shek O.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "Mount Collinson ist ein anerkannter Berggipfel in Shek O.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Big Wave Bay ist eine malerische Küstenbucht in Shek O.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "Pottinger Peak ist ein markanter Berggipfel in der Region Shek O.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "D'Aguilar Peak ist ein bekannter Berggipfel in Shek O.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "Lap Sap Wan ist eine lokale Bucht in Shek O.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "Dragon's Back ist eine sehr beliebte Wanderattraktion in Shek O.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "Das Cape Collinson Battery Searchlight (North) umfasst historische Ruinen in Shek O.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Cape D'Aguilar Village Watchtower", "text": "鶴咀村更樓瞭望台 ist ein lokales Denkmal in Shek O.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "Bokhara Battery ist ein historisches militärisches Denkmal in Shek O.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Pillbox 033a an der Cape D'Aguilar Battery", "text": "Pillbox 033a an der Cape D'Aguilar Battery ist ein erhaltenes militärisches Denkmal in Shek O.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obelisk (North)", "text": "Obelisk (North) ist eine alte bauliche Ruine in Shek O.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Pottinger Peak View Compass ist ein malerischer Aussichtspunkt in Shek O.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 ist ein anerkanntes Verteidigungsdenkmal in Shek O.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "Der Cape Collinson Battery Defence Electric Light Engine Room umfasst historische Militärruinen in Shek O.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "Whale Bone ist eine einzigartige lokale Attraktion in Shek O.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "Die Cape D'Aguilar Battery ist ein historisches Militärdenkmal in Shek O.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "Obelisk (South)", "text": "Obelisk (South) besteht aus bemerkenswerten baulichen Ruinen in Shek O.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Der Shek O Road Lookout ist ein Aussichtspunkt, der malerische Ausblicke in Shek O bietet.", "category": "natural", "coords": [114.239252, 22.228457]}], "hu": [{"name": "Tai Long Pai", "text": "A Tai Long Pai egy világítótorony Shek O-ban.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "A Big Wave Bay Rock Carving egy nevezetes régészeti lelőhely Shek O-ban.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Shek O-ban található Big Wave Bay Beach gyakran rászolgál", "text": "A Shek O-ban található Big Wave Bay Beach gyakran rászolgál a nevére, és sok tengerpart-kedvelőt vonz. Ez a híres homokos strand nagyszerű kulisszákkal és a végtelen tenger látványával hódít. A látogatók sétálhatnak, figyelhetik a hullámokat, vagy kényelembe helyezhetik magukat a homokban. Napsütéses napokon fantasztikus helyszín a parti programokhoz.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "A Rocky Bay Beach egy lenyűgöző tengerpart Shek O festői környékén. Aki kedveli a kissé zordabb és természetesebb tájakat, az imádni fogja ezt a strandot. A vidék hosszú felfedezőutakra hív a partvonal mentén. Érdemes kényelmes, stabil cipőt húzni, ha alaposabban bejárnánk a környéket.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "A Shek O Beach az azonos nevű tengerparti városka szíve, és egy rendkívül ismert nyilvános strand. A finom homok és a tiszta víz csodálatos környezetet teremt a fürdőzni és pihenni vágyóknak. Az élénk és gyakran vidám hangulat minden látogatást emlékezetessé tesz. Különösen nyáron kihagyhatatlan célpont a napozás szerelmeseinek.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Cape D'Aguilar világítótorony", "text": "A Cape D'Aguilar világítótorony egy történelmi tengerészeti építmény Shek O-ban.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Shek O-ban megbúvó Turtle Cove Beach", "text": "A Shek O-ban megbúvó Turtle Cove Beach egy igazi titkos tipp a pihentető órákhoz. Ez a strand nyugodt oázist kínál, távol a nagy tömegektől. A látogatók a kis öbölben zavartalanul hallgathatják a víz csobogását és élvezhetik a homokot. Ideális hely arra, hogy egy jó könyvvel a kezünkben teljesen kikapcsoljunk.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "A Cape D'Aguilar SSSI egy kijelölt természetvédelmi terület Shek O-ban.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "A Shek O Peak egy kiemelkedő hegycsúcs Shek O területén.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "A Mount Collinson egy ismert hegycsúcs Shek O-ban.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "A Big Wave Bay egy festői tengerparti öböl Shek O-ban.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "A Pottinger Peak egy nevezetes hegycsúcs a Shek O régióban.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "A D'Aguilar Peak egy jól ismert hegycsúcs Shek O-ban.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "A Lap Sap Wan egy helyi öböl Shek O-ban.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "A Dragon's Back egy rendkívül népszerű túraútvonal és látványosság Shek O-ban.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "A Cape Collinson Battery Searchlight (Észak) történelmi romokat rejt Shek O-ban.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Cape D'Aguilar Village Watchtower", "text": "A 鶴咀村更樓瞭望台 egy helyi emlékmű Shek O területén.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "A Bokhara Battery egy történelmi katonai emlékmű Shek O-ban.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Cape D'Aguilar Battery-nél található Pillbox 033a", "text": "A Cape D'Aguilar Battery-nél található Pillbox 033a egy fennmaradt katonai emlékmű Shek O-ban.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obeliszk (Észak)", "text": "Az Obeliszk (Észak) egy régi szerkezeti rom Shek O-ban.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "A Pottinger Peak View Compass egy festői kilátó Shek O területén.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "A Pillbox 033 egy elismert védelmi emlékmű Shek O-ban.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "A Cape Collinson Battery Defence Electric Light Engine Room történelmi katonai romokat foglal magában Shek O-ban.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "A Whale Bone egy egyedi helyi látványosság Shek O-ban.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "A Cape D'Aguilar Battery egy történelmi katonai emlékmű Shek O területén.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "Obelisk (South)", "text": "Az Obeliszk (Dél) nevezetes szerkezeti romokból áll Shek O-ban.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "A Shek O Road Lookout egy kilátópont, amely festői kilátást kínál Shek O-ban.", "category": "natural", "coords": [114.239252, 22.228457]}], "ro": [{"name": "Tai Long Pai", "text": "Tai Long Pai este un far în Shek O.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Big Wave Bay Rock Carving este un sit arheologic notabil situat în Shek O.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Big Wave Bay Beach din Shek O își respectă adesea numele, atrăgând mulți iubitori ai coastei. Această plajă de nisip celebră impresionează prin peisajul său minunat și marea deschisă. Vizitatorii se pot plimba aici, pot privi valurile sau se pot relaxa pe nisip. În zilele însorite, acesta este un loc fantastic pentru activități la plajă.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach este o plajă de coastă fascinantă în zona pitorească Shek O. Cei care preferă o atmosferă mai aspră și naturală vor adora împrejurimile acestei plaje. Peisajul invită la tururi lungi de explorare de-a lungul liniei de coastă. Încălțămintea robustă poate fi utilă dacă doriți să explorați zona în detaliu.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Shek O Beach este inima stațiunii de coastă cu același nume și o plajă publică foarte cunoscută. Nisipul fin și apa curată creează un mediu minunat pentru cei care doresc să înoate și să se relaxeze. Atmosfera vibrantă și adesea veselă transformă fiecare vizită într-o experiență deosebită. Mai ales vara, acesta este un punct de atracție de neratat pentru amatorii de plajă.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Farul Cape D'Aguilar", "text": "Farul Cape D'Aguilar este un far maritim istoric situat în Shek O.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Ascunsă în Shek O, Turtle Cove Beach", "text": "Ascunsă în Shek O, Turtle Cove Beach este un adevărat pont secret pentru ore relaxante. Această plajă oferă o oază de liniște, departe de mulțimile mari. Vizitatorii pot asculta nestingheriți sunetul apei și se pot bucura de nisip în acest golf. Un loc ideal pentru a te deconecta cu adevărat, citind o carte bună.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "Cape D'Aguilar SSSI este o rezervație naturală desemnată în Shek O.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "Shek O Peak este un vârf montan proeminent situat în zona Shek O.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Muntele Collinson", "text": "Muntele Collinson este un vârf montan recunoscut din Shek O.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Big Wave Bay este un golf pitoresc situat în Shek O.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "Pottinger Peak este un vârf montan notabil situat în regiunea Shek O.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "D'Aguilar Peak este un vârf montan binecunoscut aflat în Shek O.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "Lap Sap Wan este un golf local situat în Shek O.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "Dragon's Back este o atracție populară pentru drumeții, situată în Shek O.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "Cape Collinson Battery Searchlight (Nord) prezintă ruine istorice situate în Shek O.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Cape D'Aguilar Village Watchtower", "text": "鶴咀村更樓瞭望台 este un monument local aflat în Shek O.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "Bokhara Battery este un monument militar istoric situat în Shek O.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Pillbox 033a de la Cape D'Aguilar Battery", "text": "Pillbox 033a de la Cape D'Aguilar Battery este un monument militar conservat în Shek O.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obeliscul (Nord)", "text": "Obeliscul (Nord) este o ruină structurală veche situată în Shek O.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Pottinger Peak View Compass este un punct de belvedere pitoresc situat în Shek O.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 este un monument defensiv recunoscut din Shek O.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "Cape Collinson Battery Defence Electric Light Engine Room prezintă ruine militare istorice în Shek O.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "Whale Bone este o atracție locală unică situată în Shek O.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "Cape D'Aguilar Battery este un monument militar istoric situat în Shek O.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "Obeliscul (Sud)", "text": "Obeliscul (Sud) este format din ruine structurale notabile aflate în Shek O.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout este un punct de belvedere care oferă vederi pitorești în Shek O.", "category": "natural", "coords": [114.239252, 22.228457]}], "en": [{"name": "Tai Long Pai", "text": "Tai Long Pai is a lighthouse located in Shek O.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Big Wave Bay Rock Carving is a notable archaeological site located in Shek O.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Big Wave Bay Beach in Shek O often lives up to its name, attracting many coastal enthusiasts. This well-known sandy beach captivates with its great scenery and the open sea. Visitors can take walks here, watch the surf, or make themselves comfortable on the sand. On sunny days, this is a fantastic spot for seaside activities.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach is a fascinating coastal stretch in the picturesque area of Shek O. Those who enjoy a slightly more rugged and natural setting will love the surroundings of this beach. The landscape invites long exploratory walks along the coastline. Sturdy footwear can be useful if you plan to explore the area more thoroughly.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Shek O Beach is the heart of the coastal town of the same name and a highly renowned public beach. Fine sand and clear water create a wonderful environment for swimmers and those seeking relaxation. The vibrant and often cheerful atmosphere makes every visit an experience. Especially in summer, this is an unmissable hotspot for sunbathers.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Cape D'Aguilar Lighthouse", "text": "Cape D'Aguilar Lighthouse is a historic maritime lighthouse situated in Shek O.", "category": "landmark", "coords": [114.259141, 22.208987]}, {"name": "Turtle Cove Beach", "text": "Hidden away in Shek O, Turtle Cove Beach is a true insider tip for relaxing hours. This beach offers a quiet oasis, far from the large crowds. Visitors can listen to the sound of the water and enjoy the sand undisturbed in this cove. An ideal place to genuinely switch off with a good book.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Cape D'Aguilar SSSI", "text": "Cape D'Aguilar SSSI is a designated nature reserve located in Shek O.", "category": "natural", "coords": [114.257962, 22.207579]}, {"name": "Shek O Peak", "text": "Shek O Peak is a prominent mountain peak located in the Shek O area.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "Mount Collinson is a recognized mountain peak situated in Shek O.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Big Wave Bay is a scenic coastal bay located in Shek O.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Pottinger Peak", "text": "Pottinger Peak is a notable mountain peak situated in the Shek O region.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "D'Aguilar Peak", "text": "D'Aguilar Peak is a well-known mountain peak located in Shek O.", "category": "natural", "coords": [114.24891, 22.216807]}, {"name": "Lap Sap Wan", "text": "Lap Sap Wan is a local bay situated in Shek O.", "category": "landmark", "coords": [114.255805, 22.211693]}, {"name": "Dragon's Back", "text": "Dragon's Back is a highly popular hiking attraction located in Shek O.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "The Cape Collinson Battery Searchlight (North) features historical ruins located in Shek O.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Cape D'Aguilar Village Watchtower", "text": "鶴咀村更樓瞭望台 is a local monument found in Shek O.", "category": "historical", "coords": [114.246409, 22.208994]}, {"name": "Bokhara Battery", "text": "Bokhara Battery is a historical military monument located in Shek O.", "category": "historical", "coords": [114.257963, 22.20958]}, {"name": "Pillbox 033a (Cape D'Aguilar Battery)", "text": "Pillbox 033a at Cape D'Aguilar Battery is a preserved military monument in Shek O.", "category": "historical", "coords": [114.241612, 22.210928]}, {"name": "Obelisk (North)", "text": "Obelisk (North) is an ancient structural ruin located in Shek O.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Pottinger Peak View Compass is a scenic viewpoint situated in Shek O.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 is a recognized defensive monument located in Shek O.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "The Cape Collinson Battery Defence Electric Light Engine Room features historical military ruins in Shek O.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Whale Bone", "text": "Whale Bone is a unique local attraction found in Shek O.", "category": "landmark", "coords": [114.260336, 22.207785]}, {"name": "Cape D'Aguilar Battery", "text": "Cape D'Aguilar Battery is a historical military monument situated in Shek O.", "category": "historical", "coords": [114.250362, 22.21098]}, {"name": "Obelisk (South)", "text": "Obelisk (South) consists of notable structural ruins located in Shek O.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Shek O Road Lookout is a vantage point offering scenic views in Shek O.", "category": "natural", "coords": [114.239252, 22.228457]}]},
     parent: "HK",
     type: "village",
     name: { de: "Shek O", hu: "Shek O", ro: "Shek O", en: "Shek O" },
@@ -38370,7 +38370,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-shek-o-cities-v2.webp",
   },
   {
-    id: "hongkong-big-wave-bay-cities-v2", "sights": {"de": [{"name": "黑角頭燈塔 Cape Collinson Lighthouse", "text": "Leuchtturm in der Nähe der Big Wave Bay.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "大浪排 Tai Long Pai", "text": "Leuchtturm in der Nähe der Big Wave Bay.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "大浪灣石刻 Big Wave Bay Rock Carving", "text": "Historische Felszeichnung in der Big Wave Bay.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "大浪灣泳灘 Big Wave Bay Beach", "text": "In der Big Wave Bay gelegen, lockt dieser beliebte Strandabschnitt mit seiner weiten Sandfläche. Er ist ein fantastischer Ort, um die Meeresbrise zu spüren und den Alltag hinter sich zu lassen. Die oft schwungvollen Wellen geben der Bucht ihren einzigartigen Charakter. Wer das Meer liebt, wird hier definitiv auf seine Kosten kommen.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "石澳後灘 Rocky Bay Beach", "text": "Der Rocky Bay Beach in der Big Wave Bay besticht durch seine naturnahe und etwas wilde Küstenlandschaft. Er ist perfekt für Naturfreunde, die sich an einer weniger erschlossenen Umgebung erfreuen. Spaziergänge entlang der Felsen und des Wassers sind hier ein besonderes Erlebnis. Eine Kamera mitzunehmen lohnt sich für die tollen landschaftlichen Eindrücke auf jeden Fall.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "石澳泳灘 Shek O Beach", "text": "Unweit der Big Wave Bay gelegen, präsentiert sich dieser Strandabschnitt des Shek O Beach als bekanntes Ausflugsziel. Er verbindet herrlichen Sand mit erfrischendem Wasser und ist ein Magnet für Sonnenhungrige. Die weite Fläche bietet genügend Platz für Spiel, Spaß und Entspannung am Meer. Gerade am Wochenende füllt sich der Strand schnell mit fröhlichen Besuchern.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "龜背灣泳灘 Turtle Cove Beach", "text": "In der Nähe der Big Wave Bay verbirgt sich der Turtle Cove Beach, ein friedlicher Rückzugsort am Meer. Wer dem Trubel der größeren Strände entkommen möchte, findet hier eine malerische und ruhige Bucht. Schwimmen und Sonnenbaden sind in dieser entspannten Umgebung ein wahrer Genuss. Ein perfekter Ort für all jene, die Erholung in ruhiger Atmosphäre suchen.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "羅屋民俗館 Law Uk Folk Museum", "text": "Museum in einem traditionellen Haus in der Big Wave Bay.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "大潭港（內灣） 具特殊科學價值地點 Tai Tam Harbour (Inner Bay) SSSI", "text": "Naturschutzgebiet in der Nähe der Big Wave Bay.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "打爛埕頂山 Shek O Peak", "text": "Hoch über der Big Wave Bay erhebt sich die imposante Bergspitze des 打爛埕頂山 Shek O Peak. Wanderer werden von diesem natürlichen Gipfel in Hongkong mit spektakulären Panoramablicken auf die Küste belohnt.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "哥連臣山 Mount Collinson", "text": "In der malerischen Umgebung der Big Wave Bay dominiert der 哥連臣山 Mount Collinson die Skyline. Dieser Berg in Hongkong ist ein fantastisches Ausflugsziel für all jene, die die Herausforderung eines Aufstiegs in freier Natur suchen.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "大浪灣 Big Wave Bay", "text": "Malerische Bucht bei der Big Wave Bay.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "銀灣 Ngan Wan", "text": "Bucht bei der Big Wave Bay.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "砵甸乍山 Pottinger Peak", "text": "Der Aufstieg zum 砵甸乍山 Pottinger Peak führt Wanderer durch die reiche Vegetation nahe der Big Wave Bay. Auf der Spitze dieses Berges in Hongkong eröffnet sich eine weite und unvergessliche Aussicht.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "石碑山 Obelisk Hill", "text": "In der Hügellandschaft bei der Big Wave Bay markiert der 石碑山 Obelisk Hill einen interessanten geografischen Punkt. Naturbegeisterte besteigen diese Erhebung in Hongkong oft während ihrer ausgedehnten Küstenwanderungen.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "野豬徑 Boa Vista", "text": "Der wohlklingende Name 野豬徑 Boa Vista verspricht schon einen wunderbaren Ausblick nahe der Big Wave Bay. Diese Bergspitze in Hongkong ist ein exzellenter Ort, um die wildromatische Seite der Region zu bewundern.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "小西灣道花園 Siu Sai Wan Road Garden", "text": "Park in der Nähe der Big Wave Bay.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "常安街遊樂場 Sheung On Street Playground", "text": "Spielplatz in der Nähe der Big Wave Bay.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Chai Wan Pool Side Garden", "text": "Der Chai Wan Pool Side Garden ist ein öffentlicher Garten in Big Wave Bay.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "San Ha Street Playground", "text": "Der San Ha Street Playground ist ein Park in Big Wave Bay.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "Dragon's Back ist eine bekannte Wanderstrecke mit Panoramablick in Big Wave Bay.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Siu Sai Wan Promenade", "text": "Die Siu Sai Wan Promenade ist eine öffentliche Parkanlage in Big Wave Bay.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)", "text": "Dies sind die Ruinen des ehemaligen Cape Collinson Batteriesuchscheinwerfers in Big Wave Bay.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "nördliche Obelisk", "text": "Der nördliche Obelisk ist eine historische Ruinenstätte in Big Wave Bay.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Der Pottinger Peak View Compass ist ein Aussichtspunkt in Big Wave Bay.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 ist ein historisches Denkmal in Big Wave Bay.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room", "text": "Dies sind die Ruinen des Maschinenraums der elektrischen Verteidigungsbeleuchtung in Big Wave Bay.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "südliche Obelisk", "text": "Der südliche Obelisk ist eine historische Ruinenstätte in Big Wave Bay.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Der Shek O Road Lookout ist ein Aussichtspunkt in Big Wave Bay.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "Die Chai Wan Masjid ist eine bedeutende Moschee in Big Wave Bay.", "category": "religious", "coords": [114.233326, 22.259293]}], "hu": [{"name": "黑角頭燈塔 Cape Collinson Lighthouse", "text": "Világítótorony a Big Wave Bay közelében.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "大浪排 Tai Long Pai", "text": "Világítótorony a Big Wave Bay közelében.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "大浪灣石刻 Big Wave Bay Rock Carving", "text": "Történelmi sziklarajz a Big Wave Bay területén.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "大浪灣泳灘 Big Wave Bay Beach", "text": "A Big Wave Bay területén fekvő népszerű strand tágas homokos partjával csábít. Fantasztikus helyszín arra, hogy érezzük a tengeri szellőt, és magunk mögött hagyjuk a mindennapokat. A gyakran lendületes hullámok adják az öböl egyedi karakterét. Aki szereti a tengert, az itt biztosan megtalálja a számítását.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "石澳後灘 Rocky Bay Beach", "text": "A Big Wave Bay-ben lévő Rocky Bay Beach természeti közelségével és kissé vadabb tengerparti tájával hódít. Tökéletes a természetbarátok számára, akik örömüket lelik egy kevésbé beépített környezetben. A sziklák és a víz mentén tett séták itt különleges élményt nyújtanak. Érdemes fényképezőgépet vinni, hogy megörökítsük a nagyszerű táji benyomásokat.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Big Wave Bay közelében található ez", "text": "A Big Wave Bay közelében található ez a Shek O Beach partszakasz, amely jól ismert kirándulóhely. Csodás homokot és frissítő vizet kínál, igazi mágnesként vonzva a napsütésre vágyókat. A tágas terület elegendő helyet biztosít a tengerparti játékokhoz, mókához és pihenéshez. Különösen hétvégén telik meg gyorsan vidám látogatókkal.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Big Wave Bay közelében bújik meg", "text": "A Big Wave Bay közelében bújik meg a Turtle Cove Beach, egy békés tengerparti menedék. Aki szeretne elmenekülni a nagyobb strandok zajától, itt egy festői és nyugodt öblöt talál. A fürdőzés és a napozás igazi élvezet ebben a lazító környezetben. Tökéletes hely mindazoknak, akik csendes atmoszférában vágynak feltöltődésre.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "羅屋民俗館 Law Uk Folk Museum", "text": "Múzeum egy hagyományos házban a Big Wave Bay területén.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "大潭港（內灣） 具特殊科學價值地點 Tai Tam Harbour (Inner Bay) SSSI", "text": "Természetvédelmi terület a Big Wave Bay közelében.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Big Wave Bay felett magasodik", "text": "A Big Wave Bay felett magasodik a 打爛埕頂山 Shek O Peak impozáns hegycsúcsa. A túrázókat ez a természetes hongkongi csúcs látványos panorámával jutalmazza a tengerpartra.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Big Wave Bay festői környezetében", "text": "A Big Wave Bay festői környezetében a 哥連臣山 Mount Collinson uralja a látképet. Ez a hongkongi hegy fantasztikus kirándulóhely mindazok számára, akik a szabadban való hegymászás kihívását keresik.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "大浪灣 Big Wave Bay", "text": "Festői öböl a Big Wave Bay területén.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "銀灣 Ngan Wan", "text": "Öböl a Big Wave Bay közelében.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "砵甸乍山 Pottinger Peak", "text": "A 砵甸乍山 Pottinger Peak csúcsára vezető út a Big Wave Bay melletti gazdag növényzeten keresztül viszi a túrázókat. Ennek a hongkongi hegynek a tetejéről széles és felejthetetlen kilátás nyílik.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "Big Wave Bay melletti dombvidéken", "text": "A Big Wave Bay melletti dombvidéken a 石碑山 Obelisk Hill érdekes földrajzi pontot jelöl. A természetkedvelők parti túráik során gyakran megmásszák ezt a hongkongi magaslatot.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "野豬徑 Boa Vista", "text": "A 野豬徑 Boa Vista csengő neve már önmagában is csodálatos kilátást ígér a Big Wave Bay közelében. Ez a hongkongi hegycsúcs kiváló hely a régió vadregényes oldalának megcsodálására.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "小西灣道花園 Siu Sai Wan Road Garden", "text": "Park a Big Wave Bay közelében.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "常安街遊樂場 Sheung On Street Playground", "text": "Játszótér a Big Wave Bay közelében.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Chai Wan Pool Side Garden", "text": "A Chai Wan Pool Side Garden egy nyilvános kert Big Wave Bayben.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "San Ha Street Playground", "text": "A San Ha Street Playground egy park Big Wave Bayben.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "A Dragon's Back egy híres túraútvonal panorámás kilátással Big Wave Bayben.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Siu Sai Wan Promenade", "text": "A Siu Sai Wan Promenade egy nyilvános park Big Wave Bayben.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)", "text": "Ezek a volt Cape Collinson akkumulátoros keresőfény romjai Big Wave Bayben.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "északi obeliszk", "text": "Az északi obeliszk egy történelmi romhely Big Wave Bayben.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "A Pottinger Peak View Compass egy kilátópont Big Wave Bayben.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "A Pillbox 033 egy történelmi műemlék Big Wave Bayben.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room", "text": "Ezek a védelmi elektromos világítás gépházának romjai Big Wave Bayben.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "déli obeliszk", "text": "A déli obeliszk egy történelmi romhely Big Wave Bayben.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "A Shek O Road Lookout egy kilátópont Big Wave Bayben.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "A Chai Wan Masjid egy jelentős mecset Big Wave Bayben.", "category": "religious", "coords": [114.233326, 22.259293]}], "ro": [{"name": "黑角頭燈塔 Cape Collinson Lighthouse", "text": "Far în apropierea golfului Big Wave Bay.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "大浪排 Tai Long Pai", "text": "Far în apropierea golfului Big Wave Bay.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "大浪灣石刻 Big Wave Bay Rock Carving", "text": "Sculptură istorică în stâncă în Big Wave Bay.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "大浪灣泳灘 Big Wave Bay Beach", "text": "Situată în Big Wave Bay, această plajă populară atrage prin întinderea sa largă de nisip. Este un loc fantastic pentru a simți briza mării și a lăsa în urmă stresul zilnic. Valurile adesea dinamice conferă golfului un caracter unic. Cei care iubesc marea vor fi cu siguranță încântați de acest loc.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "石澳後灘 Rocky Bay Beach", "text": "Rocky Bay Beach din Big Wave Bay impresionează prin peisajul său de coastă natural și ușor sălbatic. Este perfect pentru iubitorii de natură care se bucură de un mediu mai puțin amenajat. Plimbările pe lângă stânci și apă sunt o experiență deosebită aici. Merită cu siguranță să aduceți o cameră foto pentru peisajele minunate.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "石澳泳灘 Shek O Beach", "text": "Situată nu departe de Big Wave Bay, această secțiune a plajei Shek O se prezintă ca o destinație de excursie renumită. Combină nisipul superb cu apa răcoritoare, fiind un magnet pentru cei însetați de soare. Suprafața vastă oferă suficient spațiu pentru joacă, distracție și relaxare la mare. Mai ales în weekend, plaja se umple rapid de vizitatori veseli.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "龜背灣泳灘 Turtle Cove Beach", "text": "În apropiere de Big Wave Bay se ascunde Turtle Cove Beach, un refugiu pașnic la malul mării. Cei care doresc să scape de agitația plajelor mai mari vor găsi aici un golf pitoresc și liniștit. Înotul și plaja sunt o adevărată plăcere în acest mediu relaxat. Un loc perfect pentru toți cei care caută recreere într-o atmosferă liniștită.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "羅屋民俗館 Law Uk Folk Museum", "text": "Muzeu într-o casă tradițională în Big Wave Bay.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "大潭港（內灣） 具特殊科學價值地點 Tai Tam Harbour (Inner Bay) SSSI", "text": "Rezervație naturală în apropierea golfului Big Wave Bay.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "打爛埕頂山 Shek O Peak", "text": "Deasupra Big Wave Bay se înalță impunătorul vârf montan 打爛埕頂山 Shek O Peak. Drumeții sunt răsplătiți din acest vârf natural din Hong Kong cu vederi panoramice spectaculoase asupra coastei.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "哥連臣山 Mount Collinson", "text": "În mediul pitoresc din Big Wave Bay, 哥連臣山 Mount Collinson domină orizontul. Acest munte din Hong Kong este o destinație de excursie fantastică pentru toți cei care caută provocarea unei ascensiuni în natură.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "大浪灣 Big Wave Bay", "text": "Golf pitoresc în Big Wave Bay.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "銀灣 Ngan Wan", "text": "Golf lângă Big Wave Bay.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "砵甸乍山 Pottinger Peak", "text": "Urcușul spre 砵甸乍山 Pottinger Peak conduce drumeții prin vegetația bogată din apropiere de Big Wave Bay. Din vârful acestui munte din Hong Kong se deschide o priveliște vastă și de neuitat.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "石碑山 Obelisk Hill", "text": "În zona deluroasă de lângă Big Wave Bay, 石碑山 Obelisk Hill marchează un punct geografic interesant. Pasionații de natură escaladează adesea această altitudine din Hong Kong în timpul drumețiilor lor lungi de coastă.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "野豬徑 Boa Vista", "text": "Numele melodios 野豬徑 Boa Vista promite deja o priveliște minunată în apropiere de Big Wave Bay. Acest vârf montan din Hong Kong este un loc excelent pentru a admira latura sălbatică a regiunii.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "小西灣道花園 Siu Sai Wan Road Garden", "text": "Parc în apropierea golfului Big Wave Bay.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "常安街遊樂場 Sheung On Street Playground", "text": "Loc de joacă în apropierea golfului Big Wave Bay.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Grădina Chai Wan Pool Side", "text": "Grădina Chai Wan Pool Side este o grădină publică în Big Wave Bay.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "Locul de joacă San Ha Street", "text": "Locul de joacă San Ha Street este un parc în Big Wave Bay.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "Dragon's Back este un traseu de drumeție renumit, cu vederi panoramice în Big Wave Bay.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Promenada Siu Sai Wan", "text": "Promenada Siu Sai Wan este un parc public în Big Wave Bay.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)", "text": "Acestea sunt ruinele fostului proiector al bateriei Cape Collinson în Big Wave Bay.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Obeliscul de nord", "text": "Obeliscul de nord este un sit de ruine istorice în Big Wave Bay.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Busola de vizualizare Pottinger Peak", "text": "Busola de vizualizare Pottinger Peak este un punct de observare în Big Wave Bay.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 este un monument istoric în Big Wave Bay.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room", "text": "Acestea sunt ruinele sălii mașinilor pentru iluminatul electric de apărare în Big Wave Bay.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Obeliscul de sud", "text": "Obeliscul de sud este un sit de ruine istorice în Big Wave Bay.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Punctul de belvedere Shek O Road", "text": "Punctul de belvedere Shek O Road este un punct de observare în Big Wave Bay.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "Chai Wan Masjid este o moschee importantă în Big Wave Bay.", "category": "religious", "coords": [114.233326, 22.259293]}], "en": [{"name": "Cape Collinson Lighthouse", "text": "Lighthouse near Big Wave Bay.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "Tai Long Pai", "text": "Lighthouse near Big Wave Bay.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Historical rock carving in Big Wave Bay.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Located in Big Wave Bay, this popular stretch of beach entices with its wide expanse of sand. It is a fantastic spot to feel the sea breeze and leave the daily grind behind. The often energetic waves give the bay its unique character. Anyone who loves the sea will definitely find their bliss here.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach in Big Wave Bay captivates with its close-to-nature and slightly wild coastal landscape. It is perfect for nature lovers who delight in a less developed environment. Walks along the rocks and the water are a special experience here. Bringing a camera is definitely worthwhile to capture the great scenic impressions.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Situated not far from Big Wave Bay, this section of Shek O Beach presents itself as a well-known excursion destination. It combines gorgeous sand with refreshing water, acting as a magnet for sun-seekers. The wide expanse offers enough space for games, fun, and relaxation by the sea. Especially on weekends, the beach fills up quickly with cheerful visitors.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Turtle Cove Beach", "text": "Near Big Wave Bay lies Turtle Cove Beach, a peaceful seaside retreat. Those looking to escape the hustle and bustle of the larger beaches will find a picturesque and quiet bay here. Swimming and sunbathing are a true pleasure in this relaxing environment. A perfect spot for anyone seeking recreation in a calm atmosphere.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Law Uk Folk Museum", "text": "Museum in a traditional house in Big Wave Bay.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Nature reserve near Big Wave Bay.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Shek O Peak", "text": "High above Big Wave Bay rises the imposing mountain peak of 打爛埕頂山 Shek O Peak. Hikers are rewarded from this natural Hong Kong summit with spectacular panoramic views of the coast.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "In the picturesque surroundings of Big Wave Bay, 哥連臣山 Mount Collinson dominates the skyline. This Hong Kong mountain is a fantastic excursion destination for anyone seeking the challenge of a natural ascent.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Scenic bay in Big Wave Bay.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Ngan Wan", "text": "Bay near Big Wave Bay.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "Pottinger Peak", "text": "The ascent to 砵甸乍山 Pottinger Peak leads hikers through the rich vegetation near Big Wave Bay. At the top of this Hong Kong mountain, a wide and unforgettable view opens up.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "Obelisk Hill", "text": "In the hilly landscape near Big Wave Bay, the 石碑山 Obelisk Hill marks an interesting geographical point. Nature enthusiasts often climb this elevation in Hong Kong during their extensive coastal hikes.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "Boa Vista", "text": "The melodious name 野豬徑 Boa Vista already promises a wonderful view near Big Wave Bay. This Hong Kong mountain peak is an excellent place to admire the wildly romantic side of the region.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "Siu Sai Wan Road Garden", "text": "Park near Big Wave Bay.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "Sheung On Street Playground", "text": "Playground near Big Wave Bay.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Chai Wan Pool Side Garden", "text": "The Chai Wan Pool Side Garden is a public garden in Big Wave Bay.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "San Ha Street Playground", "text": "The San Ha Street Playground is a park in Big Wave Bay.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "Dragon's Back is a famous hiking trail with panoramic views in Big Wave Bay.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Siu Sai Wan Promenade", "text": "The Siu Sai Wan Promenade is a public park in Big Wave Bay.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "These are the ruins of the former Cape Collinson battery searchlight in Big Wave Bay.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Obelisk (North)", "text": "The northern obelisk is a historical ruin site in Big Wave Bay.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "The Pottinger Peak View Compass is a viewpoint in Big Wave Bay.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 is a historical monument in Big Wave Bay.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "These are the ruins of the electric defence light engine room in Big Wave Bay.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Obelisk (South)", "text": "The southern obelisk is a historical ruin site in Big Wave Bay.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "The Shek O Road Lookout is a viewpoint in Big Wave Bay.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "Chai Wan Masjid is a significant mosque in Big Wave Bay.", "category": "religious", "coords": [114.233326, 22.259293]}]},
+    id: "hongkong-big-wave-bay-cities-v2", "sights": {"de": [{"name": "Cape Collinson Lighthouse", "text": "Leuchtturm in der Nähe der Big Wave Bay.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "Tai Long Pai", "text": "Leuchtturm in der Nähe der Big Wave Bay.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Historische Felszeichnung in der Big Wave Bay.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "In der Big Wave Bay gelegen, lockt dieser beliebte Strandabschnitt mit seiner weiten Sandfläche. Er ist ein fantastischer Ort, um die Meeresbrise zu spüren und den Alltag hinter sich zu lassen. Die oft schwungvollen Wellen geben der Bucht ihren einzigartigen Charakter. Wer das Meer liebt, wird hier definitiv auf seine Kosten kommen.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Der Rocky Bay Beach in der Big Wave Bay besticht durch seine naturnahe und etwas wilde Küstenlandschaft. Er ist perfekt für Naturfreunde, die sich an einer weniger erschlossenen Umgebung erfreuen. Spaziergänge entlang der Felsen und des Wassers sind hier ein besonderes Erlebnis. Eine Kamera mitzunehmen lohnt sich für die tollen landschaftlichen Eindrücke auf jeden Fall.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Unweit der Big Wave Bay gelegen, präsentiert sich dieser Strandabschnitt des Shek O Beach als bekanntes Ausflugsziel. Er verbindet herrlichen Sand mit erfrischendem Wasser und ist ein Magnet für Sonnenhungrige. Die weite Fläche bietet genügend Platz für Spiel, Spaß und Entspannung am Meer. Gerade am Wochenende füllt sich der Strand schnell mit fröhlichen Besuchern.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Turtle Cove Beach", "text": "In der Nähe der Big Wave Bay verbirgt sich der Turtle Cove Beach, ein friedlicher Rückzugsort am Meer. Wer dem Trubel der größeren Strände entkommen möchte, findet hier eine malerische und ruhige Bucht. Schwimmen und Sonnenbaden sind in dieser entspannten Umgebung ein wahrer Genuss. Ein perfekter Ort für all jene, die Erholung in ruhiger Atmosphäre suchen.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Law Uk Folk Museum", "text": "Museum in einem traditionellen Haus in der Big Wave Bay.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Naturschutzgebiet in der Nähe der Big Wave Bay.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Shek O Peak", "text": "Hoch über der Big Wave Bay erhebt sich die imposante Bergspitze des 打爛埕頂山 Shek O Peak. Wanderer werden von diesem natürlichen Gipfel in Hongkong mit spektakulären Panoramablicken auf die Küste belohnt.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "In der malerischen Umgebung der Big Wave Bay dominiert der 哥連臣山 Mount Collinson die Skyline. Dieser Berg in Hongkong ist ein fantastisches Ausflugsziel für all jene, die die Herausforderung eines Aufstiegs in freier Natur suchen.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Malerische Bucht bei der Big Wave Bay.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Ngan Wan", "text": "Bucht bei der Big Wave Bay.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "Pottinger Peak", "text": "Der Aufstieg zum 砵甸乍山 Pottinger Peak führt Wanderer durch die reiche Vegetation nahe der Big Wave Bay. Auf der Spitze dieses Berges in Hongkong eröffnet sich eine weite und unvergessliche Aussicht.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "Obelisk Hill", "text": "In der Hügellandschaft bei der Big Wave Bay markiert der 石碑山 Obelisk Hill einen interessanten geografischen Punkt. Naturbegeisterte besteigen diese Erhebung in Hongkong oft während ihrer ausgedehnten Küstenwanderungen.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "Boa Vista", "text": "Der wohlklingende Name 野豬徑 Boa Vista verspricht schon einen wunderbaren Ausblick nahe der Big Wave Bay. Diese Bergspitze in Hongkong ist ein exzellenter Ort, um die wildromatische Seite der Region zu bewundern.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "Siu Sai Wan Road Garden", "text": "Park in der Nähe der Big Wave Bay.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "Sheung On Street Playground", "text": "Spielplatz in der Nähe der Big Wave Bay.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Chai Wan Pool Side Garden", "text": "Der Chai Wan Pool Side Garden ist ein öffentlicher Garten in Big Wave Bay.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "San Ha Street Playground", "text": "Der San Ha Street Playground ist ein Park in Big Wave Bay.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "Dragon's Back ist eine bekannte Wanderstrecke mit Panoramablick in Big Wave Bay.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Siu Sai Wan Promenade", "text": "Die Siu Sai Wan Promenade ist eine öffentliche Parkanlage in Big Wave Bay.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "Dies sind die Ruinen des ehemaligen Cape Collinson Batteriesuchscheinwerfers in Big Wave Bay.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "nördliche Obelisk", "text": "Der nördliche Obelisk ist eine historische Ruinenstätte in Big Wave Bay.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "Der Pottinger Peak View Compass ist ein Aussichtspunkt in Big Wave Bay.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 ist ein historisches Denkmal in Big Wave Bay.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "Dies sind die Ruinen des Maschinenraums der elektrischen Verteidigungsbeleuchtung in Big Wave Bay.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "südliche Obelisk", "text": "Der südliche Obelisk ist eine historische Ruinenstätte in Big Wave Bay.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "Der Shek O Road Lookout ist ein Aussichtspunkt in Big Wave Bay.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "Die Chai Wan Masjid ist eine bedeutende Moschee in Big Wave Bay.", "category": "religious", "coords": [114.233326, 22.259293]}], "hu": [{"name": "Cape Collinson Lighthouse", "text": "Világítótorony a Big Wave Bay közelében.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "Tai Long Pai", "text": "Világítótorony a Big Wave Bay közelében.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Történelmi sziklarajz a Big Wave Bay területén.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "A Big Wave Bay területén fekvő népszerű strand tágas homokos partjával csábít. Fantasztikus helyszín arra, hogy érezzük a tengeri szellőt, és magunk mögött hagyjuk a mindennapokat. A gyakran lendületes hullámok adják az öböl egyedi karakterét. Aki szereti a tengert, az itt biztosan megtalálja a számítását.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "A Big Wave Bay-ben lévő Rocky Bay Beach természeti közelségével és kissé vadabb tengerparti tájával hódít. Tökéletes a természetbarátok számára, akik örömüket lelik egy kevésbé beépített környezetben. A sziklák és a víz mentén tett séták itt különleges élményt nyújtanak. Érdemes fényképezőgépet vinni, hogy megörökítsük a nagyszerű táji benyomásokat.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Big Wave Bay közelében található ez", "text": "A Big Wave Bay közelében található ez a Shek O Beach partszakasz, amely jól ismert kirándulóhely. Csodás homokot és frissítő vizet kínál, igazi mágnesként vonzva a napsütésre vágyókat. A tágas terület elegendő helyet biztosít a tengerparti játékokhoz, mókához és pihenéshez. Különösen hétvégén telik meg gyorsan vidám látogatókkal.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Big Wave Bay közelében bújik meg", "text": "A Big Wave Bay közelében bújik meg a Turtle Cove Beach, egy békés tengerparti menedék. Aki szeretne elmenekülni a nagyobb strandok zajától, itt egy festői és nyugodt öblöt talál. A fürdőzés és a napozás igazi élvezet ebben a lazító környezetben. Tökéletes hely mindazoknak, akik csendes atmoszférában vágynak feltöltődésre.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Law Uk Folk Museum", "text": "Múzeum egy hagyományos házban a Big Wave Bay területén.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Természetvédelmi terület a Big Wave Bay közelében.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Big Wave Bay felett magasodik", "text": "A Big Wave Bay felett magasodik a 打爛埕頂山 Shek O Peak impozáns hegycsúcsa. A túrázókat ez a természetes hongkongi csúcs látványos panorámával jutalmazza a tengerpartra.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Big Wave Bay festői környezetében", "text": "A Big Wave Bay festői környezetében a 哥連臣山 Mount Collinson uralja a látképet. Ez a hongkongi hegy fantasztikus kirándulóhely mindazok számára, akik a szabadban való hegymászás kihívását keresik.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Festői öböl a Big Wave Bay területén.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Ngan Wan", "text": "Öböl a Big Wave Bay közelében.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "Pottinger Peak", "text": "A 砵甸乍山 Pottinger Peak csúcsára vezető út a Big Wave Bay melletti gazdag növényzeten keresztül viszi a túrázókat. Ennek a hongkongi hegynek a tetejéről széles és felejthetetlen kilátás nyílik.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "Big Wave Bay melletti dombvidéken", "text": "A Big Wave Bay melletti dombvidéken a 石碑山 Obelisk Hill érdekes földrajzi pontot jelöl. A természetkedvelők parti túráik során gyakran megmásszák ezt a hongkongi magaslatot.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "Boa Vista", "text": "A 野豬徑 Boa Vista csengő neve már önmagában is csodálatos kilátást ígér a Big Wave Bay közelében. Ez a hongkongi hegycsúcs kiváló hely a régió vadregényes oldalának megcsodálására.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "Siu Sai Wan Road Garden", "text": "Park a Big Wave Bay közelében.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "Sheung On Street Playground", "text": "Játszótér a Big Wave Bay közelében.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Chai Wan Pool Side Garden", "text": "A Chai Wan Pool Side Garden egy nyilvános kert Big Wave Bayben.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "San Ha Street Playground", "text": "A San Ha Street Playground egy park Big Wave Bayben.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "A Dragon's Back egy híres túraútvonal panorámás kilátással Big Wave Bayben.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Siu Sai Wan Promenade", "text": "A Siu Sai Wan Promenade egy nyilvános park Big Wave Bayben.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "Ezek a volt Cape Collinson akkumulátoros keresőfény romjai Big Wave Bayben.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "északi obeliszk", "text": "Az északi obeliszk egy történelmi romhely Big Wave Bayben.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "A Pottinger Peak View Compass egy kilátópont Big Wave Bayben.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "A Pillbox 033 egy történelmi műemlék Big Wave Bayben.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "Ezek a védelmi elektromos világítás gépházának romjai Big Wave Bayben.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "déli obeliszk", "text": "A déli obeliszk egy történelmi romhely Big Wave Bayben.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "A Shek O Road Lookout egy kilátópont Big Wave Bayben.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "A Chai Wan Masjid egy jelentős mecset Big Wave Bayben.", "category": "religious", "coords": [114.233326, 22.259293]}], "ro": [{"name": "Cape Collinson Lighthouse", "text": "Far în apropierea golfului Big Wave Bay.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "Tai Long Pai", "text": "Far în apropierea golfului Big Wave Bay.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Sculptură istorică în stâncă în Big Wave Bay.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Situată în Big Wave Bay, această plajă populară atrage prin întinderea sa largă de nisip. Este un loc fantastic pentru a simți briza mării și a lăsa în urmă stresul zilnic. Valurile adesea dinamice conferă golfului un caracter unic. Cei care iubesc marea vor fi cu siguranță încântați de acest loc.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach din Big Wave Bay impresionează prin peisajul său de coastă natural și ușor sălbatic. Este perfect pentru iubitorii de natură care se bucură de un mediu mai puțin amenajat. Plimbările pe lângă stânci și apă sunt o experiență deosebită aici. Merită cu siguranță să aduceți o cameră foto pentru peisajele minunate.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Situată nu departe de Big Wave Bay, această secțiune a plajei Shek O se prezintă ca o destinație de excursie renumită. Combină nisipul superb cu apa răcoritoare, fiind un magnet pentru cei însetați de soare. Suprafața vastă oferă suficient spațiu pentru joacă, distracție și relaxare la mare. Mai ales în weekend, plaja se umple rapid de vizitatori veseli.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Turtle Cove Beach", "text": "În apropiere de Big Wave Bay se ascunde Turtle Cove Beach, un refugiu pașnic la malul mării. Cei care doresc să scape de agitația plajelor mai mari vor găsi aici un golf pitoresc și liniștit. Înotul și plaja sunt o adevărată plăcere în acest mediu relaxat. Un loc perfect pentru toți cei care caută recreere într-o atmosferă liniștită.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Law Uk Folk Museum", "text": "Muzeu într-o casă tradițională în Big Wave Bay.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Rezervație naturală în apropierea golfului Big Wave Bay.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Shek O Peak", "text": "Deasupra Big Wave Bay se înalță impunătorul vârf montan 打爛埕頂山 Shek O Peak. Drumeții sunt răsplătiți din acest vârf natural din Hong Kong cu vederi panoramice spectaculoase asupra coastei.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "În mediul pitoresc din Big Wave Bay, 哥連臣山 Mount Collinson domină orizontul. Acest munte din Hong Kong este o destinație de excursie fantastică pentru toți cei care caută provocarea unei ascensiuni în natură.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Golf pitoresc în Big Wave Bay.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Ngan Wan", "text": "Golf lângă Big Wave Bay.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "Pottinger Peak", "text": "Urcușul spre 砵甸乍山 Pottinger Peak conduce drumeții prin vegetația bogată din apropiere de Big Wave Bay. Din vârful acestui munte din Hong Kong se deschide o priveliște vastă și de neuitat.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "Obelisk Hill", "text": "În zona deluroasă de lângă Big Wave Bay, 石碑山 Obelisk Hill marchează un punct geografic interesant. Pasionații de natură escaladează adesea această altitudine din Hong Kong în timpul drumețiilor lor lungi de coastă.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "Boa Vista", "text": "Numele melodios 野豬徑 Boa Vista promite deja o priveliște minunată în apropiere de Big Wave Bay. Acest vârf montan din Hong Kong este un loc excelent pentru a admira latura sălbatică a regiunii.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "Siu Sai Wan Road Garden", "text": "Parc în apropierea golfului Big Wave Bay.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "Sheung On Street Playground", "text": "Loc de joacă în apropierea golfului Big Wave Bay.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Grădina Chai Wan Pool Side", "text": "Grădina Chai Wan Pool Side este o grădină publică în Big Wave Bay.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "Locul de joacă San Ha Street", "text": "Locul de joacă San Ha Street este un parc în Big Wave Bay.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "Dragon's Back este un traseu de drumeție renumit, cu vederi panoramice în Big Wave Bay.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Promenada Siu Sai Wan", "text": "Promenada Siu Sai Wan este un parc public în Big Wave Bay.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "Acestea sunt ruinele fostului proiector al bateriei Cape Collinson în Big Wave Bay.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Obeliscul de nord", "text": "Obeliscul de nord este un sit de ruine istorice în Big Wave Bay.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Busola de vizualizare Pottinger Peak", "text": "Busola de vizualizare Pottinger Peak este un punct de observare în Big Wave Bay.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 este un monument istoric în Big Wave Bay.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "Acestea sunt ruinele sălii mașinilor pentru iluminatul electric de apărare în Big Wave Bay.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Obeliscul de sud", "text": "Obeliscul de sud este un sit de ruine istorice în Big Wave Bay.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Punctul de belvedere Shek O Road", "text": "Punctul de belvedere Shek O Road este un punct de observare în Big Wave Bay.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "Chai Wan Masjid este o moschee importantă în Big Wave Bay.", "category": "religious", "coords": [114.233326, 22.259293]}], "en": [{"name": "Cape Collinson Lighthouse", "text": "Lighthouse near Big Wave Bay.", "category": "landmark", "coords": [114.25695, 22.261583]}, {"name": "Tai Long Pai", "text": "Lighthouse near Big Wave Bay.", "category": "landmark", "coords": [114.2663, 22.234033]}, {"name": "Big Wave Bay Rock Carving", "text": "Historical rock carving in Big Wave Bay.", "category": "historical", "coords": [114.248786, 22.246194]}, {"name": "Big Wave Bay Beach", "text": "Located in Big Wave Bay, this popular stretch of beach entices with its wide expanse of sand. It is a fantastic spot to feel the sea breeze and leave the daily grind behind. The often energetic waves give the bay its unique character. Anyone who loves the sea will definitely find their bliss here.", "category": "recreational", "coords": [114.247256, 22.246433]}, {"name": "Rocky Bay Beach", "text": "Rocky Bay Beach in Big Wave Bay captivates with its close-to-nature and slightly wild coastal landscape. It is perfect for nature lovers who delight in a less developed environment. Walks along the rocks and the water are a special experience here. Bringing a camera is definitely worthwhile to capture the great scenic impressions.", "category": "recreational", "coords": [114.251939, 22.231618]}, {"name": "Shek O Beach", "text": "Situated not far from Big Wave Bay, this section of Shek O Beach presents itself as a well-known excursion destination. It combines gorgeous sand with refreshing water, acting as a magnet for sun-seekers. The wide expanse offers enough space for games, fun, and relaxation by the sea. Especially on weekends, the beach fills up quickly with cheerful visitors.", "category": "recreational", "coords": [114.251031, 22.228609]}, {"name": "Turtle Cove Beach", "text": "Near Big Wave Bay lies Turtle Cove Beach, a peaceful seaside retreat. Those looking to escape the hustle and bustle of the larger beaches will find a picturesque and quiet bay here. Swimming and sunbathing are a true pleasure in this relaxing environment. A perfect spot for anyone seeking recreation in a calm atmosphere.", "category": "recreational", "coords": [114.22338, 22.233052]}, {"name": "Law Uk Folk Museum", "text": "Museum in a traditional house in Big Wave Bay.", "category": "museum", "coords": [114.235547, 22.264155]}, {"name": "Tai Tam Harbour (Inner Bay) SSSI", "text": "Nature reserve near Big Wave Bay.", "category": "natural", "coords": [114.223756, 22.244797]}, {"name": "Shek O Peak", "text": "High above Big Wave Bay rises the imposing mountain peak of 打爛埕頂山 Shek O Peak. Hikers are rewarded from this natural Hong Kong summit with spectacular panoramic views of the coast.", "category": "natural", "coords": [114.24378, 22.235754]}, {"name": "Mount Collinson", "text": "In the picturesque surroundings of Big Wave Bay, 哥連臣山 Mount Collinson dominates the skyline. This Hong Kong mountain is a fantastic excursion destination for anyone seeking the challenge of a natural ascent.", "category": "natural", "coords": [114.234919, 22.251431]}, {"name": "Big Wave Bay", "text": "Scenic bay in Big Wave Bay.", "category": "landmark", "coords": [114.249531, 22.244284]}, {"name": "Ngan Wan", "text": "Bay near Big Wave Bay.", "category": "landmark", "coords": [114.256268, 22.259784]}, {"name": "Pottinger Peak", "text": "The ascent to 砵甸乍山 Pottinger Peak leads hikers through the rich vegetation near Big Wave Bay. At the top of this Hong Kong mountain, a wide and unforgettable view opens up.", "category": "natural", "coords": [114.246593, 22.255471]}, {"name": "Obelisk Hill", "text": "In the hilly landscape near Big Wave Bay, the 石碑山 Obelisk Hill marks an interesting geographical point. Nature enthusiasts often climb this elevation in Hong Kong during their extensive coastal hikes.", "category": "natural", "coords": [114.228618, 22.247805]}, {"name": "Boa Vista", "text": "The melodious name 野豬徑 Boa Vista already promises a wonderful view near Big Wave Bay. This Hong Kong mountain peak is an excellent place to admire the wildly romantic side of the region.", "category": "natural", "coords": [114.222384, 22.253312]}, {"name": "Siu Sai Wan Road Garden", "text": "Park near Big Wave Bay.", "category": "park", "coords": [114.248004, 22.265819]}, {"name": "Sheung On Street Playground", "text": "Playground near Big Wave Bay.", "category": "park", "coords": [114.243645, 22.26652]}, {"name": "Chai Wan Pool Side Garden", "text": "The Chai Wan Pool Side Garden is a public garden in Big Wave Bay.", "category": "park", "coords": [114.246729, 22.263977]}, {"name": "San Ha Street Playground", "text": "The San Ha Street Playground is a park in Big Wave Bay.", "category": "park", "coords": [114.244788, 22.264351]}, {"name": "Dragon's Back", "text": "Dragon's Back is a famous hiking trail with panoramic views in Big Wave Bay.", "category": "landmark", "coords": [114.242345, 22.239351]}, {"name": "Siu Sai Wan Promenade", "text": "The Siu Sai Wan Promenade is a public park in Big Wave Bay.", "category": "park", "coords": [114.250887, 22.266468]}, {"name": "Cape Collinson Battery Searchlight (North)", "text": "These are the ruins of the former Cape Collinson battery searchlight in Big Wave Bay.", "category": "historical", "coords": [114.255539, 22.25354]}, {"name": "Obelisk (North)", "text": "The northern obelisk is a historical ruin site in Big Wave Bay.", "category": "historical", "coords": [114.229243, 22.24539]}, {"name": "Pottinger Peak View Compass", "text": "The Pottinger Peak View Compass is a viewpoint in Big Wave Bay.", "category": "natural", "coords": [114.251283, 22.254323]}, {"name": "Pillbox 033", "text": "Pillbox 033 is a historical monument in Big Wave Bay.", "category": "historical", "coords": [114.236751, 22.226586]}, {"name": "Cape Collinson Battery Defence Electric Light Engine Room", "text": "These are the ruins of the electric defence light engine room in Big Wave Bay.", "category": "historical", "coords": [114.25356, 22.253692]}, {"name": "Obelisk (South)", "text": "The southern obelisk is a historical ruin site in Big Wave Bay.", "category": "historical", "coords": [114.22993, 22.231813]}, {"name": "Shek O Road Lookout", "text": "The Shek O Road Lookout is a viewpoint in Big Wave Bay.", "category": "natural", "coords": [114.239252, 22.228457]}, {"name": "Chai Wan Masjid", "text": "Chai Wan Masjid is a significant mosque in Big Wave Bay.", "category": "religious", "coords": [114.233326, 22.259293]}]},
     parent: "HK",
     type: "village",
     name: { de: "Big Wave Bay", hu: "Big Wave Bay", ro: "Big Wave Bay", en: "Big Wave Bay" },
@@ -39718,7 +39718,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "Parcul Shek Kip Mei oferă spațiu verde și facilități de recreere în cartierul Shanghai Street.",
                   "category": "park",
                   "coords": [
@@ -39754,7 +39754,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂群街公園 Lok Kwan Street Park",
+                  "name": "Lok Kwan Street Park",
                   "text": "Parcul Lok Kwan Street oferă un mediu de parc liniștit în cartierul Shanghai Street.",
                   "category": "park",
                   "coords": [
@@ -39772,7 +39772,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "深水埗公園 Sham Shui Po Park",
+                  "name": "Sham Shui Po Park",
                   "text": "Parcul Sham Shui Po oferă spațiu verde de recreere în cartierul Shanghai Street.",
                   "category": "park",
                   "coords": [
@@ -40443,7 +40443,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港抗戰及海防博物館 Hong Kong Museum of the War of Resistance and Coastal Defence",
+                  "name": "Hong Kong Museum of the War of Resistance and Coastal Defence",
                   "text": "Dieses Museum in Lei Yue Mun zeigt die Geschichte der Küstenverteidigung.",
                   "category": "museum",
                   "coords": [
@@ -40470,7 +40470,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "羅屋民俗館 Law Uk Folk Museum",
+                  "name": "Law Uk Folk Museum",
                   "text": "Das Law Uk Folk Museum in Lei Yue Mun bewahrt lokale Traditionen.",
                   "category": "museum",
                   "coords": [
@@ -40497,7 +40497,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白石柱",
+                  "name": "Pak Shek Chu",
                   "text": "白石柱 ist ein Strandgebiet in Lei Yue Mun.",
                   "category": "recreational",
                   "coords": [
@@ -40614,7 +40614,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "茅湖山觀測台 Mau Wu Shan Observation Post",
+                  "name": "Mau Wu Shan Observation Post",
                   "text": "Mau Wu Shan Observation Post sind historische Ruinen in Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -40785,7 +40785,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "橋邊躉",
+                  "name": "Qiaobian Dun",
                   "text": "橋邊躉 sind historische Ruinen in Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -40794,7 +40794,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "四柱躉",
+                  "name": "Sizhu Dun",
                   "text": "四柱躉 sind historische Ruinen in Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -40803,7 +40803,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦炮台 Gough Battery",
+                  "name": "Gough Battery",
                   "text": "Die Ruinen der Gough Battery sind ein historischer Ort in Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -40866,7 +40866,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "玉皇寶殿",
+                  "name": "Jade Emperor Temple",
                   "text": "Der 玉皇寶殿 ist ein bedeutender Kultort in Lei Yue Mun.",
                   "category": "religious",
                   "coords": [
@@ -40904,7 +40904,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港抗戰及海防博物館 Hong Kong Museum of the War of Resistance and Coastal Defence",
+                  "name": "Hong Kong Museum of the War of Resistance and Coastal Defence",
                   "text": "Ez a Lei Yue Mun-i múzeum a partvédelem történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -40958,7 +40958,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白石柱",
+                  "name": "Pak Shek Chu",
                   "text": "A 白石柱 egy tengerparti terület Lei Yue Munban.",
                   "category": "recreational",
                   "coords": [
@@ -41075,7 +41075,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "茅湖山觀測台 Mau Wu Shan Observation Post",
+                  "name": "Mau Wu Shan Observation Post",
                   "text": "A Mau Wu Shan Observation Post történelmi romok Lei Yue Munban.",
                   "category": "historical",
                   "coords": [
@@ -41246,7 +41246,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "橋邊躉",
+                  "name": "Qiaobian Dun",
                   "text": "A 橋邊躉 történelmi romok Lei Yue Munban.",
                   "category": "historical",
                   "coords": [
@@ -41255,7 +41255,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "四柱躉",
+                  "name": "Sizhu Dun",
                   "text": "A 四柱躉 történelmi romok Lei Yue Munban.",
                   "category": "historical",
                   "coords": [
@@ -41327,7 +41327,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "玉皇寶殿",
+                  "name": "Jade Emperor Temple",
                   "text": "A 玉皇寶殿 egy jelentős imádkozóhely Lei Yue Munban.",
                   "category": "religious",
                   "coords": [
@@ -41365,7 +41365,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港抗戰及海防博物館 Hong Kong Museum of the War of Resistance and Coastal Defence",
+                  "name": "Hong Kong Museum of the War of Resistance and Coastal Defence",
                   "text": "Acest muzeu din Lei Yue Mun prezintă istoria apărării de coastă.",
                   "category": "museum",
                   "coords": [
@@ -41392,7 +41392,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "羅屋民俗館 Law Uk Folk Museum",
+                  "name": "Law Uk Folk Museum",
                   "text": "Muzeul Etnografic Law Uk din Lei Yue Mun păstrează tradițiile locale.",
                   "category": "museum",
                   "coords": [
@@ -41419,7 +41419,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白石柱",
+                  "name": "Pak Shek Chu",
                   "text": "白石柱 este o zonă de plajă în Lei Yue Mun.",
                   "category": "recreational",
                   "coords": [
@@ -41536,7 +41536,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "茅湖山觀測台 Mau Wu Shan Observation Post",
+                  "name": "Mau Wu Shan Observation Post",
                   "text": "Postul de observare Mau Wu Shan sunt ruine istorice în Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -41707,7 +41707,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "橋邊躉",
+                  "name": "Qiaobian Dun",
                   "text": "橋邊躉 sunt ruine istorice în Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -41716,7 +41716,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "四柱躉",
+                  "name": "Sizhu Dun",
                   "text": "四柱躉 sunt ruine istorice în Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -41725,7 +41725,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌賦炮台 Gough Battery",
+                  "name": "Gough Battery",
                   "text": "Ruinele Gough Battery sunt un sit istoric în Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -41788,7 +41788,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "玉皇寶殿",
+                  "name": "Jade Emperor Temple",
                   "text": "玉皇寶殿 este un loc de cult important în Lei Yue Mun.",
                   "category": "religious",
                   "coords": [
@@ -41880,7 +41880,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白石柱",
+                  "name": "Pak Shek Chu",
                   "text": "白石柱 is a beach area in Lei Yue Mun.",
                   "category": "recreational",
                   "coords": [
@@ -42168,7 +42168,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "橋邊躉",
+                  "name": "Qiaobian Dun",
                   "text": "橋邊躉 are historical ruins in Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -42177,7 +42177,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "四柱躉",
+                  "name": "Sizhu Dun",
                   "text": "四柱躉 are historical ruins in Lei Yue Mun.",
                   "category": "historical",
                   "coords": [
@@ -42249,7 +42249,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "玉皇寶殿",
+                  "name": "Jade Emperor Temple",
                   "text": "玉皇寶殿 is a significant place of worship in Lei Yue Mun.",
                   "category": "religious",
                   "coords": [
@@ -42312,7 +42312,7 @@ export const hongkongCitiesV2: POI[] = [
     image: "/poi-images/hongkong-lei-yue-mun-cities-v2.webp",
   },
   {
-    id: "hongkong-lamma-island-cities-v2", "sights": {"de": [{"name": "盧鬚城泳灘 Lo So Shing Beach", "text": "Auf der idyllischen Lamma Island erwartet Sie der Lo So Shing Beach mit seinem traumhaften feinen Sand. Dieser malerische Strand ist in eine wunderschöne Küstenlandschaft eingebettet und strahlt viel Ruhe aus. Ob für ein erfrischendes Bad oder einfach zum Sonnen – die Kulisse ist fantastisch. Nehmen Sie sich Zeit für einen gemütlichen Spaziergang entlang der Uferlinie.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "Hung Shing Yeh Beach", "text": "Der Hung Shing Yeh Beach ist eines der beliebtesten Strandziele auf Lamma Island. Mit seinem feinen Sand und dem klaren Wasser zieht er Badegäste und Tagesausflügler gleichermaßen an. Die fröhliche und einladende Stimmung macht den Aufenthalt hier besonders angenehm. Es ist das ideale Ausflugsziel für sonnige Tage voller Strandvergnügen.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "Der Leuchtturm Nr. 132 ist ein maritimes Wahrzeichen auf Lamma Island.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "East Tai Peng Beach", "text": "Der East Tai Peng Beach ist ein Küstenabschnitt auf Lamma Island.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "Der Lamma Power Station Beach ist ein interessanter lokaler Strandbereich auf Lamma Island. Er bietet eine etwas andere Perspektive auf die Küste und ist ein Treffpunkt für Einheimische und neugierige Entdecker. Die entspannte Stimmung lädt dazu ein, am Wasser spazieren zu gehen und die Seele baumeln zu lassen. Wer eine ruhigere Ecke auf der Insel sucht, wird hier fündig.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Mount Stenhouse", "text": "Der Mount Stenhouse ist ein markanter Gipfel, der einen Panoramablick auf Lamma Island bietet.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "Ngai Tau ist ein Berggipfel auf Lamma Island.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "Ling Kok Shan ist ein bekannter Hügel und Wanderort auf Lamma Island.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "Yung Shue Wan ist eine natürliche Bucht an der Küste von Lamma Island.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "Luk Chau Wan ist eine Küstenbucht auf Lamma Island.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "Ha Mei Wan ist eine malerische Bucht auf Lamma Island.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Sok Kwu Wan Playground", "text": "Der Sok Kwu Wan Playground ist ein öffentlicher Freizeitpark auf Lamma Island.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "Die Old School zeigt die historischen Ruinen eines ehemaligen Schulgebäudes auf Lamma Island.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Tin Hau Tempel in Sok Kwu Wan", "text": "Der Tin Hau Tempel in Sok Kwu Wan ist eine traditionelle Kultstätte auf Lamma Island, die der Meeresgöttin gewidmet ist.", "category": "religious", "coords": [114.130917, 22.203768]}], "hu": [{"name": "idilli Lamma Island szigetén várja Önt", "text": "Az idilli Lamma Island szigetén várja Önt a Lo So Shing Beach, mesébe illő finom homokkal. Ez a festői strand csodálatos tengerparti tájba simul, és nagy nyugalmat áraszt. Legyen szó frissítő csobbanásról vagy napozásról, a látvány fantasztikus. Szánjon időt egy ráérős sétára a vízpart mentén.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "洪聖爺灣泳灘 Hung Shing Yeh Beach", "text": "A Hung Shing Yeh Beach Lamma Island egyik legkedveltebb tengerparti úti célja. Finom homokjával és tiszta vizével a fürdőzőket és a kirándulókat egyaránt vonzza. A vidám és hívogató hangulat különösen kellemessé teszi az itt tartózkodást. Ideális célpont egy napsütéses, tengerparti örömökkel teli naphoz.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "A 132-es világítótorony egy tengeri navigációs tájékozódási pont Lamma szigetén.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "East Tai Peng Beach", "text": "Az East Tai Peng Beach egy tengerparti szakasz Lamma szigetén.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "A Lamma Power Station Beach egy érdekes helyi partszakasz Lamma Islanden. Kicsit más perspektívát nyújt a partvidékre, és a helyiek, valamint a kíváncsi felfedezők találkozóhelye. A pihentető hangulat sétára csábít a víz mellett, ahol kikapcsolhatjuk az elménket. Aki egy csendesebb sarkot keres a szigeten, az itt megtalálja.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Mount Stenhouse", "text": "A Mount Stenhouse egy kiemelkedő hegycsúcs, amely panorámás kilátást nyújt Lamma szigetére.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "A Ngai Tau egy hegycsúcs Lamma szigetén.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "A Ling Kok Shan egy ismert domb és túrahely Lamma szigetén.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "A Yung Shue Wan egy természetes öböl Lamma szigetének partján.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "A Luk Chau Wan egy tengerparti öböl Lamma szigetén.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "A Ha Mei Wan egy festői öböl Lamma szigetén.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Sok Kwu Wan játszótér", "text": "A Sok Kwu Wan játszótér egy nyilvános rekreációs park Lamma szigetén.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "Az Old School egy egykori oktatási épület történelmi romjait mutatja be Lamma szigetén.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Tin Hau templom", "text": "A Tin Hau templom egy hagyományos istentiszteleti hely Lamma szigetén, amelyet a tenger istennőjének szenteltek.", "category": "religious", "coords": [114.130917, 22.203768]}], "ro": [{"name": "盧鬚城泳灘 Lo So Shing Beach", "text": "Pe idilica Lamma Island vă așteaptă Lo So Shing Beach, cu nisipul său fin de vis. Această plajă pitorească este încorporată într-un peisaj de coastă superb și emană multă liniște. Fie pentru o baie răcoritoare sau pur și simplu pentru stat la soare, decorul este fantastic. Fă-ți timp pentru o plimbare plăcută de-a lungul țărmului.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "Hung Shing Yeh Beach", "text": "Hung Shing Yeh Beach este una dintre cele mai populare destinații de plajă de pe Lamma Island. Cu nisipul său fin și apa curată, atrage atât scăldători, cât și turiști de o zi. Atmosfera veselă și primitoare face șederea aici deosebit de plăcută. Este destinația ideală pentru zilele însorite pline de distracție pe plajă.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "Farul Nr. 132 este un punct de reper maritim pe insula Lamma.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "Plaja East Tai Peng", "text": "Plaja East Tai Peng este o porțiune de coastă aflată pe insula Lamma.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "Lamma Power Station Beach este o zonă de plajă locală interesantă de pe Lamma Island. Oferă o perspectivă ușor diferită asupra coastei și este un loc de întâlnire pentru localnici și exploratori curioși. Atmosfera relaxată vă invită să vă plimbați pe malul apei și să vă odihniți mintea. Cei care caută un colț mai liniștit pe insulă îl vor găsi aici.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Muntele Stenhouse", "text": "Muntele Stenhouse este un vârf proeminent care oferă vederi panoramice ale insulei Lamma.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "Ngai Tau este un vârf de munte situat pe insula Lamma.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "Ling Kok Shan este un deal bine cunoscut și un loc de drumeții pe insula Lamma.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "Yung Shue Wan este un golf natural situat de-a lungul coastei insulei Lamma.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "Luk Chau Wan este un golf de coastă situat pe insula Lamma.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "Ha Mei Wan este o zonă de golf pitorească aflată pe insula Lamma.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Locul de joacă Sok Kwu Wan", "text": "Locul de joacă Sok Kwu Wan este un parc de recreere public pe insula Lamma.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "Școala Veche prezintă ruinele istorice ale unei foste clădiri educaționale de pe insula Lamma.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Templul Tin Hau din Sok Kwu Wan", "text": "Templul Tin Hau din Sok Kwu Wan este un lăcaș de cult tradițional dedicat zeiței mării, situat pe insula Lamma.", "category": "religious", "coords": [114.130917, 22.203768]}], "en": [{"name": "Lo So Shing Beach", "text": "On the idyllic Lamma Island, Lo So Shing Beach awaits you with its dreamlike fine sand. This picturesque beach is nestled in a beautiful coastal landscape and radiates immense tranquility. Whether for a refreshing swim or simply sunbathing, the setting is fantastic. Take your time for a leisurely stroll along the shoreline.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "Hung Shing Yeh Beach", "text": "Hung Shing Yeh Beach is one of the most popular beach destinations on Lamma Island. With its fine sand and clear water, it attracts bathers and day-trippers alike. The cheerful and inviting atmosphere makes spending time here particularly enjoyable. It is the ideal destination for sunny days full of beach fun.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "Lighthouse No. 132 is a maritime navigational landmark on Lamma Island.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "East Tai Peng Beach", "text": "East Tai Peng Beach is a coastal stretch found on Lamma Island.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "Lamma Power Station Beach is an interesting local beach area on Lamma Island. It offers a slightly different perspective on the coast and serves as a gathering spot for locals and curious explorers. The relaxed mood invites you to stroll by the water and unwind. Anyone looking for a quieter corner on the island will find it here.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Mount Stenhouse", "text": "Mount Stenhouse is a prominent peak offering panoramic views of Lamma Island.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "Ngai Tau is a mountain peak located on Lamma Island.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "Ling Kok Shan is a well-known hill and hiking spot on Lamma Island.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "Yung Shue Wan is a natural bay located along the coast of Lamma Island.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "Luk Chau Wan is a coastal bay situated on Lamma Island.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "Ha Mei Wan is a scenic bay area found on Lamma Island.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Sok Kwu Wan Playground", "text": "Sok Kwu Wan Playground is a public recreational park on Lamma Island.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "The Old School features the historical ruins of a former educational building on Lamma Island.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Tin Hau Temple", "text": "Tin Hau Temple in Sok Kwu Wan is a traditional place of worship dedicated to the goddess of the sea on Lamma Island.", "category": "religious", "coords": [114.130917, 22.203768]}]},
+    id: "hongkong-lamma-island-cities-v2", "sights": {"de": [{"name": "Lo So Shing Beach", "text": "Auf der idyllischen Lamma Island erwartet Sie der Lo So Shing Beach mit seinem traumhaften feinen Sand. Dieser malerische Strand ist in eine wunderschöne Küstenlandschaft eingebettet und strahlt viel Ruhe aus. Ob für ein erfrischendes Bad oder einfach zum Sonnen – die Kulisse ist fantastisch. Nehmen Sie sich Zeit für einen gemütlichen Spaziergang entlang der Uferlinie.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "Hung Shing Yeh Beach", "text": "Der Hung Shing Yeh Beach ist eines der beliebtesten Strandziele auf Lamma Island. Mit seinem feinen Sand und dem klaren Wasser zieht er Badegäste und Tagesausflügler gleichermaßen an. Die fröhliche und einladende Stimmung macht den Aufenthalt hier besonders angenehm. Es ist das ideale Ausflugsziel für sonnige Tage voller Strandvergnügen.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "Der Leuchtturm Nr. 132 ist ein maritimes Wahrzeichen auf Lamma Island.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "East Tai Peng Beach", "text": "Der East Tai Peng Beach ist ein Küstenabschnitt auf Lamma Island.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "Der Lamma Power Station Beach ist ein interessanter lokaler Strandbereich auf Lamma Island. Er bietet eine etwas andere Perspektive auf die Küste und ist ein Treffpunkt für Einheimische und neugierige Entdecker. Die entspannte Stimmung lädt dazu ein, am Wasser spazieren zu gehen und die Seele baumeln zu lassen. Wer eine ruhigere Ecke auf der Insel sucht, wird hier fündig.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Mount Stenhouse", "text": "Der Mount Stenhouse ist ein markanter Gipfel, der einen Panoramablick auf Lamma Island bietet.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "Ngai Tau ist ein Berggipfel auf Lamma Island.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "Ling Kok Shan ist ein bekannter Hügel und Wanderort auf Lamma Island.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "Yung Shue Wan ist eine natürliche Bucht an der Küste von Lamma Island.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "Luk Chau Wan ist eine Küstenbucht auf Lamma Island.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "Ha Mei Wan ist eine malerische Bucht auf Lamma Island.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Sok Kwu Wan Playground", "text": "Der Sok Kwu Wan Playground ist ein öffentlicher Freizeitpark auf Lamma Island.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "Die Old School zeigt die historischen Ruinen eines ehemaligen Schulgebäudes auf Lamma Island.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Tin Hau Tempel in Sok Kwu Wan", "text": "Der Tin Hau Tempel in Sok Kwu Wan ist eine traditionelle Kultstätte auf Lamma Island, die der Meeresgöttin gewidmet ist.", "category": "religious", "coords": [114.130917, 22.203768]}], "hu": [{"name": "idilli Lamma Island szigetén várja Önt", "text": "Az idilli Lamma Island szigetén várja Önt a Lo So Shing Beach, mesébe illő finom homokkal. Ez a festői strand csodálatos tengerparti tájba simul, és nagy nyugalmat áraszt. Legyen szó frissítő csobbanásról vagy napozásról, a látvány fantasztikus. Szánjon időt egy ráérős sétára a vízpart mentén.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "洪聖爺灣泳灘 Hung Shing Yeh Beach", "text": "A Hung Shing Yeh Beach Lamma Island egyik legkedveltebb tengerparti úti célja. Finom homokjával és tiszta vizével a fürdőzőket és a kirándulókat egyaránt vonzza. A vidám és hívogató hangulat különösen kellemessé teszi az itt tartózkodást. Ideális célpont egy napsütéses, tengerparti örömökkel teli naphoz.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "A 132-es világítótorony egy tengeri navigációs tájékozódási pont Lamma szigetén.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "East Tai Peng Beach", "text": "Az East Tai Peng Beach egy tengerparti szakasz Lamma szigetén.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "A Lamma Power Station Beach egy érdekes helyi partszakasz Lamma Islanden. Kicsit más perspektívát nyújt a partvidékre, és a helyiek, valamint a kíváncsi felfedezők találkozóhelye. A pihentető hangulat sétára csábít a víz mellett, ahol kikapcsolhatjuk az elménket. Aki egy csendesebb sarkot keres a szigeten, az itt megtalálja.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Mount Stenhouse", "text": "A Mount Stenhouse egy kiemelkedő hegycsúcs, amely panorámás kilátást nyújt Lamma szigetére.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "A Ngai Tau egy hegycsúcs Lamma szigetén.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "A Ling Kok Shan egy ismert domb és túrahely Lamma szigetén.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "A Yung Shue Wan egy természetes öböl Lamma szigetének partján.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "A Luk Chau Wan egy tengerparti öböl Lamma szigetén.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "A Ha Mei Wan egy festői öböl Lamma szigetén.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Sok Kwu Wan játszótér", "text": "A Sok Kwu Wan játszótér egy nyilvános rekreációs park Lamma szigetén.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "Az Old School egy egykori oktatási épület történelmi romjait mutatja be Lamma szigetén.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Tin Hau templom", "text": "A Tin Hau templom egy hagyományos istentiszteleti hely Lamma szigetén, amelyet a tenger istennőjének szenteltek.", "category": "religious", "coords": [114.130917, 22.203768]}], "ro": [{"name": "Lo So Shing Beach", "text": "Pe idilica Lamma Island vă așteaptă Lo So Shing Beach, cu nisipul său fin de vis. Această plajă pitorească este încorporată într-un peisaj de coastă superb și emană multă liniște. Fie pentru o baie răcoritoare sau pur și simplu pentru stat la soare, decorul este fantastic. Fă-ți timp pentru o plimbare plăcută de-a lungul țărmului.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "Hung Shing Yeh Beach", "text": "Hung Shing Yeh Beach este una dintre cele mai populare destinații de plajă de pe Lamma Island. Cu nisipul său fin și apa curată, atrage atât scăldători, cât și turiști de o zi. Atmosfera veselă și primitoare face șederea aici deosebit de plăcută. Este destinația ideală pentru zilele însorite pline de distracție pe plajă.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "Farul Nr. 132 este un punct de reper maritim pe insula Lamma.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "Plaja East Tai Peng", "text": "Plaja East Tai Peng este o porțiune de coastă aflată pe insula Lamma.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "Lamma Power Station Beach este o zonă de plajă locală interesantă de pe Lamma Island. Oferă o perspectivă ușor diferită asupra coastei și este un loc de întâlnire pentru localnici și exploratori curioși. Atmosfera relaxată vă invită să vă plimbați pe malul apei și să vă odihniți mintea. Cei care caută un colț mai liniștit pe insulă îl vor găsi aici.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Muntele Stenhouse", "text": "Muntele Stenhouse este un vârf proeminent care oferă vederi panoramice ale insulei Lamma.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "Ngai Tau este un vârf de munte situat pe insula Lamma.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "Ling Kok Shan este un deal bine cunoscut și un loc de drumeții pe insula Lamma.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "Yung Shue Wan este un golf natural situat de-a lungul coastei insulei Lamma.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "Luk Chau Wan este un golf de coastă situat pe insula Lamma.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "Ha Mei Wan este o zonă de golf pitorească aflată pe insula Lamma.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Locul de joacă Sok Kwu Wan", "text": "Locul de joacă Sok Kwu Wan este un parc de recreere public pe insula Lamma.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "Școala Veche prezintă ruinele istorice ale unei foste clădiri educaționale de pe insula Lamma.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Templul Tin Hau din Sok Kwu Wan", "text": "Templul Tin Hau din Sok Kwu Wan este un lăcaș de cult tradițional dedicat zeiței mării, situat pe insula Lamma.", "category": "religious", "coords": [114.130917, 22.203768]}], "en": [{"name": "Lo So Shing Beach", "text": "On the idyllic Lamma Island, Lo So Shing Beach awaits you with its dreamlike fine sand. This picturesque beach is nestled in a beautiful coastal landscape and radiates immense tranquility. Whether for a refreshing swim or simply sunbathing, the setting is fantastic. Take your time for a leisurely stroll along the shoreline.", "category": "recreational", "coords": [114.122473, 22.204426]}, {"name": "Hung Shing Yeh Beach", "text": "Hung Shing Yeh Beach is one of the most popular beach destinations on Lamma Island. With its fine sand and clear water, it attracts bathers and day-trippers alike. The cheerful and inviting atmosphere makes spending time here particularly enjoyable. It is the ideal destination for sunny days full of beach fun.", "category": "recreational", "coords": [114.119547, 22.218719]}, {"name": "Lighthouse No. 132", "text": "Lighthouse No. 132 is a maritime navigational landmark on Lamma Island.", "category": "landmark", "coords": [114.12155, 22.238933]}, {"name": "East Tai Peng Beach", "text": "East Tai Peng Beach is a coastal stretch found on Lamma Island.", "category": "recreational", "coords": [114.120559, 22.230456]}, {"name": "Lamma Power Station Beach", "text": "Lamma Power Station Beach is an interesting local beach area on Lamma Island. It offers a slightly different perspective on the coast and serves as a gathering spot for locals and curious explorers. The relaxed mood invites you to stroll by the water and unwind. Anyone looking for a quieter corner on the island will find it here.", "category": "recreational", "coords": [114.115343, 22.220184]}, {"name": "Mount Stenhouse", "text": "Mount Stenhouse is a prominent peak offering panoramic views of Lamma Island.", "category": "natural", "coords": [114.127689, 22.191754]}, {"name": "Ngai Tau", "text": "Ngai Tau is a mountain peak located on Lamma Island.", "category": "natural", "coords": [114.155865, 22.207491]}, {"name": "Ling Kok Shan", "text": "Ling Kok Shan is a well-known hill and hiking spot on Lamma Island.", "category": "natural", "coords": [114.136794, 22.203984]}, {"name": "Yung Shue Wan", "text": "Yung Shue Wan is a natural bay located along the coast of Lamma Island.", "category": "landmark", "coords": [114.109163, 22.225686]}, {"name": "Luk Chau Wan", "text": "Luk Chau Wan is a coastal bay situated on Lamma Island.", "category": "landmark", "coords": [114.127905, 22.230274]}, {"name": "Ha Mei Wan", "text": "Ha Mei Wan is a scenic bay area found on Lamma Island.", "category": "landmark", "coords": [114.116494, 22.204646]}, {"name": "Sok Kwu Wan Playground", "text": "Sok Kwu Wan Playground is a public recreational park on Lamma Island.", "category": "park", "coords": [114.132203, 22.206207]}, {"name": "Old School", "text": "The Old School features the historical ruins of a former educational building on Lamma Island.", "category": "historical", "coords": [114.145369, 22.20517]}, {"name": "Tin Hau Temple", "text": "Tin Hau Temple in Sok Kwu Wan is a traditional place of worship dedicated to the goddess of the sea on Lamma Island.", "category": "religious", "coords": [114.130917, 22.203768]}]},
     parent: "HK",
     type: "town",
     name: { de: "Lamma Island", hu: "Lamma-sziget", ro: "Insula Lamma", en: "Lamma Island" },
@@ -42522,7 +42522,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石窗塔",
+                  "name": "Stone Window Tower",
                   "text": "Dieser Ort dient als malerischer Aussichtspunkt in der Gegend von Ngong Ping.",
                   "category": "natural",
                   "coords": [
@@ -42614,7 +42614,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鳳峰 Lantau Peak",
+                  "name": "Lantau Peak",
                   "text": "A Lantau-csúcs Hongkong második legmagasabb csúcsa, Ngong Ping közelében.",
                   "category": "natural",
                   "coords": [
@@ -42659,7 +42659,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石窗塔",
+                  "name": "Stone Window Tower",
                   "text": "Ez a helyszín festői kilátóként szolgál Ngong Ping térségében.",
                   "category": "natural",
                   "coords": [
@@ -42668,7 +42668,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖域同登",
+                  "name": "Sheng Yu Tong Deng",
                   "text": "Ez az emlékmű egy kulturális nevezetesség Ngong Pingben.",
                   "category": "historical",
                   "coords": [
@@ -42677,7 +42677,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "劍虹石",
+                  "name": "Jianhong Rock",
                   "text": "Ez a helyszín egy figyelemre méltó természeti látványosság Ngong Pingben.",
                   "category": "landmark",
                   "coords": [
@@ -42695,7 +42695,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十方道場",
+                  "name": "Shi Fang Monastery",
                   "text": "Ez az emlékmű egy történelmi látványosság Ngong Pingben.",
                   "category": "historical",
                   "coords": [
@@ -42796,7 +42796,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石窗塔",
+                  "name": "Stone Window Tower",
                   "text": "Această locație servește drept punct de belvedere pitoresc în zona Ngong Ping.",
                   "category": "natural",
                   "coords": [
@@ -42933,7 +42933,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石窗塔",
+                  "name": "Stone Window Tower",
                   "text": "This location serves as a scenic viewpoint in the Ngong Ping area.",
                   "category": "natural",
                   "coords": [
@@ -43242,7 +43242,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "嘉頓山 Garden Hill",
+                  "name": "Garden Hill",
                   "text": "Garden Hill bietet eine großartige Aussicht auf Shek Kip Mei.",
                   "category": "natural",
                   "coords": [
@@ -43730,7 +43730,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "窩仔山 Woh Chai Shan",
+                  "name": "Woh Chai Shan",
                   "text": "Woh Chai Shan egy ismert domb Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43739,7 +43739,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "嘉頓山 Garden Hill",
+                  "name": "Garden Hill",
                   "text": "Garden Hill nagyszerű kilátást nyújt Shek Kip Meire.",
                   "category": "natural",
                   "coords": [
@@ -43748,7 +43748,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鴉巢山 Crow's Nest",
+                  "name": "Crow's Nest",
                   "text": "Crow's Nest egy festői csúcs Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43757,7 +43757,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "琵琶山 Piper's Hill",
+                  "name": "Piper's Hill",
                   "text": "Piper's Hill egy jellegzetes magaslat Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43775,7 +43775,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "Checkerboard Hill egy jellegzetes tereptárgy Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43784,7 +43784,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "尖山 Eagle's Nest",
+                  "name": "Eagle's Nest",
                   "text": "Eagle's Nest egy ismert csúcs Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43793,7 +43793,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十二號山 No. 12 Hill",
+                  "name": "No. 12 Hill",
                   "text": "No. 12 Hill egy csendes magaslat Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43802,7 +43802,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "筆架山 Beacon Hill",
+                  "name": "Beacon Hill",
                   "text": "Beacon Hill egy ismert kilátópont Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43811,7 +43811,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "Pak Hok Shan egy természetes csúcs Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43820,7 +43820,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "加多利山 Kadoorie Hill",
+                  "name": "Kadoorie Hill",
                   "text": "Kadoorie Hill egy zöld lakóövezet Shek Kip Meiben.",
                   "category": "natural",
                   "coords": [
@@ -43901,7 +43901,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "A Fa Hui Park zöldterületeket kínál Shek Kip Meiben.",
                   "category": "park",
                   "coords": [
@@ -43955,7 +43955,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "Shang Sin Chun Tong egy vallási hely Shek Kip Meiben.",
                   "category": "religious",
                   "coords": [
@@ -43964,7 +43964,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "荔枝角公園 Lai Chi Kok Park",
+                  "name": "Lai Chi Kok Park",
                   "text": "A Lai Chi Kok Park hatalmas zöldterületeket kínál Shek Kip Meiben.",
                   "category": "park",
                   "coords": [
@@ -44236,7 +44236,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "嘉頓山 Garden Hill",
+                  "name": "Garden Hill",
                   "text": "Garden Hill oferă o vedere excelentă asupra Shek Kip Mei.",
                   "category": "natural",
                   "coords": [
@@ -44335,7 +44335,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "Parcul Shek Kip Mei oferă spații verzi în oraș.",
                   "category": "park",
                   "coords": [
@@ -44398,7 +44398,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "Parcul Fa Hui oferă spații verzi în Shek Kip Mei.",
                   "category": "park",
                   "coords": [
@@ -44461,7 +44461,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "荔枝角公園 Lai Chi Kok Park",
+                  "name": "Lai Chi Kok Park",
                   "text": "Parcul Lai Chi Kok oferă spații verzi întinse în Shek Kip Mei.",
                   "category": "park",
                   "coords": [
@@ -45483,7 +45483,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 ist eine Sehenswürdigkeit in Ho Man Tin. Es ist ein bekannter Ort.",
                   "category": "landmark",
                   "coords": [
@@ -45953,7 +45953,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "A(z) 油麻地警署 egy látványosság Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "landmark",
                   "coords": [
@@ -45962,7 +45962,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地果欄 Yau Ma Tei Wholesale Fruit Market",
+                  "name": "Yau Ma Tei Wholesale Fruit Market",
                   "text": "A(z) Yau Ma Tei Wholesale Fruit Market egy látványosság Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "landmark",
                   "coords": [
@@ -45971,7 +45971,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "天際100 Sky100",
+                  "name": "Sky100",
                   "text": "A(z) Sky100 egy kilátóhely Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -45980,7 +45980,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "窩仔山 Woh Chai Shan",
+                  "name": "Woh Chai Shan",
                   "text": "A(z) Woh Chai Shan egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -45989,7 +45989,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "訊號山 Signal Hill",
+                  "name": "Signal Hill",
                   "text": "A(z) Signal Hill egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -45998,7 +45998,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "嘉頓山 Garden Hill",
+                  "name": "Garden Hill",
                   "text": "A(z) Garden Hill egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -46016,7 +46016,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "A(z) Checkerboard Hill egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -46025,7 +46025,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "十二號山 No. 12 Hill",
+                  "name": "No. 12 Hill",
                   "text": "A(z) No. 12 Hill egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -46034,7 +46034,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大環山 Tai Wan Shan",
+                  "name": "Tai Wan Shan",
                   "text": "A(z) Tai Wan Shan egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -46043,7 +46043,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "A(z) Pak Hok Shan egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -46052,7 +46052,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "加多利山 Kadoorie Hill",
+                  "name": "Kadoorie Hill",
                   "text": "A(z) Kadoorie Hill egy hegycsúcs Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -46061,7 +46061,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍公園 Kowloon Park",
+                  "name": "Kowloon Park",
                   "text": "A(z) Kowloon Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46070,7 +46070,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "通州街公園 Tung Chau Street Park",
+                  "name": "Tung Chau Street Park",
                   "text": "A(z) Tung Chau Street Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46079,7 +46079,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "石硤尾公園 Shek Kip Mei Park",
+                  "name": "Shek Kip Mei Park",
                   "text": "A(z) Shek Kip Mei Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46088,7 +46088,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "A(z) Kowloon Tsai Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46106,7 +46106,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "A(z) Ko Shan Road Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46115,7 +46115,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂群街公園 Lok Kwan Street Park",
+                  "name": "Lok Kwan Street Park",
                   "text": "A(z) Lok Kwan Street Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46124,7 +46124,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍佐治五世紀念公園 King George V Memorial Park, Kowloon",
+                  "name": "King George V Memorial Park, Kowloon",
                   "text": "A(z) King George V Memorial Park, Kowloon egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46133,7 +46133,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "深水埗公園 Sham Shui Po Park",
+                  "name": "Sham Shui Po Park",
                   "text": "A(z) Sham Shui Po Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46142,7 +46142,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩虹道遊樂場 Choi Hung Road Playground",
+                  "name": "Choi Hung Road Playground",
                   "text": "A(z) Choi Hung Road Playground egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46151,7 +46151,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "花墟公園 Fa Hui Park",
+                  "name": "Fa Hui Park",
                   "text": "A(z) Fa Hui Park egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46160,7 +46160,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安慰英靈紀念碑 World War II Japanese Army Memorial Pagoda",
+                  "name": "Japanese War Memorial Pagoda",
                   "text": "A(z) World War II Japanese Army Memorial Pagoda egy műemlék Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "historical",
                   "coords": [
@@ -46169,7 +46169,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀音廟 Kwun Yam Temple",
+                  "name": "Kwun Yam Temple",
                   "text": "A(z) Kwun Yam Temple egy istentiszteleti hely Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "religious",
                   "coords": [
@@ -46178,7 +46178,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "零碳天地 Zero Carbon Building",
+                  "name": "Zero Carbon Building",
                   "text": "A(z) Zero Carbon Building egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46187,7 +46187,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+                  "name": "Wong Tai Sin Cultural Garden",
                   "text": "A(z) Wong Tai Sin Cultural Garden egy park Ho Man Tin városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -46196,7 +46196,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "A(z) Shang Sin Chun Tong egy istentiszteleti hely Ho Man Tin városában.",
                   "category": "religious",
                   "coords": [
@@ -46205,7 +46205,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "櫻桃街公園 Cherry Street Park",
+                  "name": "Cherry Street Park",
                   "text": "A(z) Cherry Street Park egy park Ho Man Tin városában.",
                   "category": "park",
                   "coords": [
@@ -46214,7 +46214,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "歌和老街公園 Cornwall Street Park",
+                  "name": "Cornwall Street Park",
                   "text": "A(z) Cornwall Street Park egy park Ho Man Tin városában.",
                   "category": "park",
                   "coords": [
@@ -46223,7 +46223,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士三號公園 Morse Park No. 3",
+                  "name": "Morse Park No. 3",
                   "text": "A(z) Morse Park No. 3 egy park Ho Man Tin városában.",
                   "category": "park",
                   "coords": [
@@ -46232,7 +46232,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂富公園 Lok Fu Park",
+                  "name": "Lok Fu Park",
                   "text": "A(z) Lok Fu Park egy park Ho Man Tin városában.",
                   "category": "park",
                   "coords": [
@@ -46423,7 +46423,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 este o atracție în Ho Man Tin. Este un loc bine-cunoscut.",
                   "category": "landmark",
                   "coords": [
@@ -46893,7 +46893,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "油麻地警署",
+                  "name": "Yau Ma Tei Police Station",
                   "text": "油麻地警署 is an attraction in Ho Man Tin. It is a well-known location.",
                   "category": "landmark",
                   "coords": [
@@ -47238,7 +47238,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Das Hong Kong Museum of History in Ma Tau Wai bewahrt die Geschichte der Region.",
                   "category": "museum",
                   "coords": [
@@ -47463,7 +47463,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "通州街公園 Tung Chau Street Park",
+                  "name": "Tung Chau Street Park",
                   "text": "Tung Chau Street Park in Ma Tau Wai bietet Erholungsmöglichkeiten.",
                   "category": "park",
                   "coords": [
@@ -47481,7 +47481,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "Kowloon Tsai Park in Ma Tau Wai bietet Sport- und Erholungsanlagen.",
                   "category": "park",
                   "coords": [
@@ -47508,7 +47508,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "Ko Shan Road Park in Ma Tau Wai ist für seine Sporteinrichtungen bekannt.",
                   "category": "park",
                   "coords": [
@@ -47562,7 +47562,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "Po Kong Village Road Park in Ma Tau Wai bietet zahlreiche Freizeitmöglichkeiten.",
                   "category": "park",
                   "coords": [
@@ -47598,7 +47598,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀塘海濱花園 Kwun Tong Promenade",
+                  "name": "Kwun Tong Promenade",
                   "text": "Kwun Tong Promenade in Ma Tau Wai bietet einen schönen Blick auf die Bucht.",
                   "category": "park",
                   "coords": [
@@ -47607,7 +47607,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "獅子山公園 Lion Rock Park",
+                  "name": "Lion Rock Park",
                   "text": "Lion Rock Park in Ma Tau Wai ist nach dem berühmten Löwenfelsen benannt.",
                   "category": "park",
                   "coords": [
@@ -47726,7 +47726,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hong Kong Science Museum",
                   "text": "A Ma Tau Wai-i Hong Kong Science Museum interaktív tudományos kiállításokat kínál.",
                   "category": "museum",
                   "coords": [
@@ -47843,7 +47843,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "廟街 Temple Street",
+                  "name": "Temple Street",
                   "text": "A Ma Tau Wai-i nyüzsgő Temple Street éjszakai piacáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -47960,7 +47960,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "通州街公園 Tung Chau Street Park",
+                  "name": "Tung Chau Street Park",
                   "text": "A Ma Tau Wai-i Tung Chau Street Park kikapcsolódási lehetőségeket kínál.",
                   "category": "park",
                   "coords": [
@@ -47978,7 +47978,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "A Ma Tau Wai-i Kowloon Tsai Park sport- és rekreációs létesítményeket kínál.",
                   "category": "park",
                   "coords": [
@@ -48059,7 +48059,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "A Ma Tau Wai-i Po Kong Village Road Park számos szabadidős lehetőséget kínál.",
                   "category": "park",
                   "coords": [
@@ -48223,7 +48223,7 @@ export const hongkongCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "香港科學館 Hong Kong Science Museum",
+                  "name": "Hong Kong Science Museum",
                   "text": "Hong Kong Science Museum din Ma Tau Wai oferă expoziții interactive despre știință.",
                   "category": "museum",
                   "coords": [
@@ -48232,7 +48232,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Hong Kong Museum of History din Ma Tau Wai păstrează istoria regiunii.",
                   "category": "museum",
                   "coords": [
@@ -48457,7 +48457,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "通州街公園 Tung Chau Street Park",
+                  "name": "Tung Chau Street Park",
                   "text": "Tung Chau Street Park din Ma Tau Wai oferă oportunități de relaxare.",
                   "category": "park",
                   "coords": [
@@ -48475,7 +48475,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "Kowloon Tsai Park din Ma Tau Wai oferă facilități sportive și de recreere.",
                   "category": "park",
                   "coords": [
@@ -48556,7 +48556,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "Po Kong Village Road Park din Ma Tau Wai oferă numeroase opțiuni de recreere.",
                   "category": "park",
                   "coords": [
@@ -48592,7 +48592,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀塘海濱花園 Kwun Tong Promenade",
+                  "name": "Kwun Tong Promenade",
                   "text": "Kwun Tong Promenade din Ma Tau Wai oferă o priveliște frumoasă asupra golfului.",
                   "category": "park",
                   "coords": [
@@ -49877,7 +49877,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "耶穌基督後期聖徒教會中國香港聖殿",
+                  "name": "Hong Kong China Temple",
                   "text": "A(z) Hong Kong China Temple egy istentiszteleti hely Choi Hung városában. Ez egy ismert hely.",
                   "category": "religious",
                   "coords": [
@@ -49904,7 +49904,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "大老山 Tate's Cairn",
+                  "name": "Tate's Cairn",
                   "text": "A(z) Tate's Cairn egy hegycsúcs Choi Hung városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -49922,7 +49922,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鱷魚山 Crocodile Hill",
+                  "name": "Crocodile Hill",
                   "text": "A(z) Crocodile Hill egy hegycsúcs Choi Hung városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -49931,7 +49931,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "沈雲山 Shum Wan Shan",
+                  "name": "Shum Wan Shan",
                   "text": "A(z) Shum Wan Shan egy hegycsúcs Choi Hung városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -49940,7 +49940,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "格仔山 Checkerboard Hill",
+                  "name": "Checkerboard Hill",
                   "text": "A(z) Checkerboard Hill egy hegycsúcs Choi Hung városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -49958,7 +49958,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "枕田山 Cham Tin Shan",
+                  "name": "Cham Tin Shan",
                   "text": "A(z) Cham Tin Shan egy hegycsúcs Choi Hung városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -49967,7 +49967,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "白鶴山 Pak Hok Shan",
+                  "name": "Pak Hok Shan",
                   "text": "A(z) Pak Hok Shan egy hegycsúcs Choi Hung városában. Ez egy ismert hely.",
                   "category": "natural",
                   "coords": [
@@ -49976,7 +49976,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍仔公園 Kowloon Tsai Park",
+                  "name": "Kowloon Tsai Park",
                   "text": "A(z) Kowloon Tsai Park egy park Choi Hung városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -49985,7 +49985,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "坪石遊樂場 Ping Shek Playground",
+                  "name": "Ping Shek Playground",
                   "text": "A(z) Ping Shek Playground egy park Choi Hung városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -49994,7 +49994,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "高山道公園 Ko Shan Road Park",
+                  "name": "Ko Shan Road Park",
                   "text": "A(z) Ko Shan Road Park egy park Choi Hung városában. Ez egy ismert hely.",
                   "category": "park",
                   "coords": [
@@ -50003,7 +50003,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "南蓮園池 Nan Lian Garden",
+                  "name": "Nan Lian Garden",
                   "text": "A(z) Nam Lian Garden egy jelentős kert Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50012,7 +50012,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "鳳德公園 Fung Tak Park",
+                  "name": "Fung Tak Park",
                   "text": "A(z) Fung Tak Park egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50021,7 +50021,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "斧山公園 Hammer Hill Park",
+                  "name": "Hammer Hill Park",
                   "text": "A(z) Hammer Hill Park egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50030,7 +50030,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "康寧道公園（第二期） Hong Ning Road Park (Phase 2)",
+                  "name": "Hong Ning Road Park (Phase 2)",
                   "text": "A(z) Hong Ning Road Park (Phase 2) egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50039,7 +50039,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "佐敦谷公園 Jordan Valley Park",
+                  "name": "Jordan Valley Park",
                   "text": "A(z) Jordan Valley Park egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50048,7 +50048,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "蒲崗村道公園 Po Kong Village Road Park",
+                  "name": "Po Kong Village Road Park",
                   "text": "A(z) Po Kong Village Road Park egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50057,7 +50057,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩虹道遊樂場 Choi Hung Road Playground",
+                  "name": "Choi Hung Road Playground",
                   "text": "A(z) Choi Hung Road Playground egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50075,7 +50075,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "秀明道公園 Sau Ming Road Park",
+                  "name": "Sau Ming Road Park",
                   "text": "A(z) Sau Ming Road Park egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50084,7 +50084,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "觀塘海濱花園 Kwun Tong Promenade",
+                  "name": "Kwun Tong Promenade",
                   "text": "A(z) Kwun Tong Promenade egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50093,7 +50093,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "獅子山公園 Lion Rock Park",
+                  "name": "Lion Rock Park",
                   "text": "A(z) Lion Rock Park egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50102,7 +50102,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "康寧道公園（第一期） Hong Ning Road Park (Phase 1)",
+                  "name": "Hong Ning Road Park (Phase 1)",
                   "text": "A(z) Hong Ning Road Park (Phase 1) egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50111,7 +50111,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安慰英靈紀念碑 World War II Japanese Army Memorial Pagoda",
+                  "name": "Japanese War Memorial Pagoda",
                   "text": "A(z) World War II Japanese Army Memorial Pagoda egy jelentős emlékmű Choi Hung városában.",
                   "category": "historical",
                   "coords": [
@@ -50120,7 +50120,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖公會聖十架堂 Sheng Kung Hui Calvary Church",
+                  "name": "Calvary Church",
                   "text": "A(z) Sheng Kung Hui Calvary Church egy jelentős istentiszteleti hely Choi Hung városában.",
                   "category": "religious",
                   "coords": [
@@ -50129,7 +50129,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "零碳天地 Zero Carbon Building",
+                  "name": "Zero Carbon Building",
                   "text": "A(z) Zero Carbon Building egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50138,7 +50138,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "黃大仙文化公園 Wong Tai Sin Cultural Garden",
+                  "name": "Wong Tai Sin Cultural Garden",
                   "text": "A(z) Wong Tai Sin Cultural Garden egy jelentős park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50156,7 +50156,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "省善真堂 Shang Sin Chun Tong",
+                  "name": "Shang Sin Chun Tong",
                   "text": "A(z) Shang Sin Chun Tong egy istentiszteleti hely Choi Hung városában.",
                   "category": "religious",
                   "coords": [
@@ -50174,7 +50174,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "平山 Flat Hill",
+                  "name": "Flat Hill",
                   "text": "A(z) Flat Hill egy hegycsúcs Choi Hung városában.",
                   "category": "natural",
                   "coords": [
@@ -50183,7 +50183,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士三號公園 Morse Park No. 3",
+                  "name": "Morse Park No. 3",
                   "text": "A(z) Morse Park No. 3 egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50192,7 +50192,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "樂富公園 Lok Fu Park",
+                  "name": "Lok Fu Park",
                   "text": "A(z) Lok Fu Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50201,7 +50201,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "海心公園 Hoi Sham Park",
+                  "name": "Hoi Sham Park",
                   "text": "A(z) Hoi Sham Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50210,7 +50210,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "景雲街遊樂場 King Wan Street Playground",
+                  "name": "King Wan Street Playground",
                   "text": "A(z) King Wan Street Playground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50219,7 +50219,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "土瓜灣遊樂場 To Kwa Wan Recreation Ground",
+                  "name": "To Kwa Wan Recreation Ground",
                   "text": "A(z) To Kwa Wan Recreation Ground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50228,7 +50228,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "九龍灣遊樂場 Kowloon Bay Playground",
+                  "name": "Kowloon Bay Playground",
                   "text": "A(z) Kowloon Bay Playground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50237,7 +50237,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "彩榮路公園 Choi Wing Road Park",
+                  "name": "Choi Wing Road Park",
                   "text": "A(z) Choi Wing Road Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50246,7 +50246,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "順利邨公園 Shun Lee Tsuen Park",
+                  "name": "Shun Lee Tsuen Park",
                   "text": "A(z) Shun Lee Tsuen Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50255,7 +50255,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "臨華街遊樂場 Lam Wah Street Playground",
+                  "name": "Lam Wah Street Playground",
                   "text": "A(z) Lam Wah Street Playground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50264,7 +50264,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "摩士四號公園 Morse Park No. 4",
+                  "name": "Morse Park No. 4",
                   "text": "A(z) Morse Park No. 4 egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50282,7 +50282,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "聯合道公園 Junction Road Park",
+                  "name": "Junction Road Park",
                   "text": "A(z) Junction Road Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50291,7 +50291,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安德道遊樂場 On Tak Road Playground",
+                  "name": "On Tak Road Playground",
                   "text": "A(z) On Tak Road Playground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50300,7 +50300,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "牛頭角公園 Ngau Tau Kok Park",
+                  "name": "Ngau Tau Kok Park",
                   "text": "A(z) Ngau Tau Kok Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50309,7 +50309,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "安秀道公園 On Sau Road Park",
+                  "name": "On Sau Road Park",
                   "text": "A(z) On Sau Road Park egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50318,7 +50318,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "義德道遊樂場 Ede Road Playground",
+                  "name": "Ede Road Playground",
                   "text": "A(z) Ede Road Playground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [
@@ -50327,7 +50327,7 @@ export const hongkongCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "金城道遊樂場 Kam Shing Road Recreation Ground",
+                  "name": "Kam Shing Road Recreation Ground",
                   "text": "A(z) Kam Shing Road Recreation Ground egy park Choi Hung városában.",
                   "category": "park",
                   "coords": [

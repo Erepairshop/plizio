@@ -270,7 +270,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "Ein städtisches Schwimmbad in Larissa, das der Öffentlichkeit für Sport und Freizeit offen steht.",
                   "category": "family",
                   "coords": [
@@ -452,7 +452,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "Városi úszómedence Larisszában, amely sportolásra és kikapcsolódásra áll nyitva a közönség számára.",
                   "category": "family",
                   "coords": [
@@ -634,7 +634,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "O piscină municipală în Larissa, deschisă publicului pentru sport și recreere.",
                   "category": "family",
                   "coords": [
@@ -816,7 +816,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "A municipal swimming pool in Larissa open to the public for sport and leisure.",
                   "category": "family",
                   "coords": [
@@ -1104,7 +1104,7 @@ imageHint: "Alexandroupoli lighthouse at sunset",
     id: "greece-xanthi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "name": "Xanthi Municipal Swimming Pool",
                   "text": "Δημοτικό Κολυμβητήριο Ξάνθης in Xanthi bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -1115,7 +1115,7 @@ imageHint: "Alexandroupoli lighthouse at sunset",
       ],
       "hu": [
             {
-                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "name": "Xanthi Municipal Swimming Pool",
                   "text": "A(z) Δημοτικό Κολυμβητήριο Ξάνθης Xanthi településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -1126,7 +1126,7 @@ imageHint: "Alexandroupoli lighthouse at sunset",
       ],
       "ro": [
             {
-                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "name": "Xanthi Municipal Swimming Pool",
                   "text": "Δημοτικό Κολυμβητήριο Ξάνθης din Xanthi oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -1137,7 +1137,7 @@ imageHint: "Alexandroupoli lighthouse at sunset",
       ],
       "en": [
             {
-                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "name": "Xanthi Municipal Swimming Pool",
                   "text": "Δημοτικό Κολυμβητήριο Ξάνθης in Xanthi offers a place for swimming and water activities.",
                   "category": "family",
                   "coords": [
@@ -1600,7 +1600,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
     id: "greece-rethymno-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "name": "Rethymno Swimming Pool",
                   "text": "Ein Schwimmbad in Rethymno, das Einrichtungen für Wassersport und Training bietet.",
                   "category": "family",
                   "coords": [
@@ -1620,7 +1620,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "hu": [
             {
-                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "name": "Rethymno Swimming Pool",
                   "text": "Úszómedence Rethymno-ban, amely vízi sportokhoz és edzésekhez kínál létesítményeket.",
                   "category": "family",
                   "coords": [
@@ -1640,7 +1640,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "ro": [
             {
-                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "name": "Rethymno Swimming Pool",
                   "text": "O piscină în Rethymno care oferă facilități pentru sporturi nautice și antrenament.",
                   "category": "family",
                   "coords": [
@@ -1660,7 +1660,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "en": [
             {
-                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "name": "Rethymno Swimming Pool",
                   "text": "A swimming pool in Rethymno providing facilities for water sports and training.",
                   "category": "family",
                   "coords": [
@@ -1737,7 +1737,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Κλειστό Κολυμβητήριο",
+                  "name": "Indoor Swimming Pool",
                   "text": "Κλειστό Κολυμβητήριο in Kozani bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -1746,7 +1746,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Λιάπειο Κολυμβητήριο",
+                  "name": "Liapio Swimming Pool",
                   "text": "Λιάπειο Κολυμβητήριο in Kozani bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -1766,7 +1766,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Κλειστό Κολυμβητήριο",
+                  "name": "Indoor Swimming Pool",
                   "text": "A(z) Κλειστό Κολυμβητήριο Kozani településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -1775,7 +1775,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Λιάπειο Κολυμβητήριο",
+                  "name": "Liapio Swimming Pool",
                   "text": "A(z) Λιάπειο Κολυμβητήριο Kozani településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -1795,7 +1795,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Κλειστό Κολυμβητήριο",
+                  "name": "Indoor Swimming Pool",
                   "text": "Κλειστό Κολυμβητήριο din Kozani oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -1804,7 +1804,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Λιάπειο Κολυμβητήριο",
+                  "name": "Liapio Swimming Pool",
                   "text": "Λιάπειο Κολυμβητήριο din Kozani oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -1824,7 +1824,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Κλειστό Κολυμβητήριο",
+                  "name": "Indoor Swimming Pool",
                   "text": "Κλειστό Κολυμβητήριο in Kozani offers a place for swimming and water activities.",
                   "category": "family",
                   "coords": [
@@ -1833,7 +1833,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Λιάπειο Κολυμβητήριο",
+                  "name": "Liapio Swimming Pool",
                   "text": "Λιάπειο Κολυμβητήριο in Kozani offers a place for swimming and water activities.",
                   "category": "family",
                   "coords": [
@@ -1987,7 +1987,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
     id: "greece-sparta-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ματτάλειο Κολυμβητήριο Σπάρτης",
+                  "name": "Mattaleio Swimming Center",
                   "text": "Ein Schwimmzentrum in Sparta, das für Schwimmtraining und sportliche Aktivitäten ausgestattet ist.",
                   "category": "family",
                   "coords": [
@@ -1998,7 +1998,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "hu": [
             {
-                  "name": "Ματτάλειο Κολυμβητήριο Σπάρτης",
+                  "name": "Mattaleio Swimming Center",
                   "text": "Úszóközpont Spártában, amely úszóedzésekhez és sporttevékenységekhez van felszerelve.",
                   "category": "family",
                   "coords": [
@@ -2009,7 +2009,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "ro": [
             {
-                  "name": "Ματτάλειο Κολυμβητήριο Σπάρτης",
+                  "name": "Mattaleio Swimming Center",
                   "text": "Un centru de înot în Sparta, echipat pentru antrenamente de înot și activități sportive.",
                   "category": "family",
                   "coords": [
@@ -2488,7 +2488,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ενυδρείο Καστοριάς",
+                  "name": "Kastoria Aquarium",
                   "text": "Ein Aquarium in Kastoria, das eine Vielfalt an Wasserlebewesen der Region präsentiert.",
                   "category": "family",
                   "coords": [
@@ -2769,7 +2769,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ενυδρείο Καστοριάς",
+                  "name": "Kastoria Aquarium",
                   "text": "Akvárium Kasztoriában, amely bemutatja a régió változatos vízi élővilágát.",
                   "category": "family",
                   "coords": [
@@ -3050,7 +3050,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ενυδρείο Καστοριάς",
+                  "name": "Kastoria Aquarium",
                   "text": "Un acvariu în Kastoria care prezintă o varietate de specii acvatice din regiune.",
                   "category": "family",
                   "coords": [
@@ -3626,7 +3626,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
     id: "greece-karpenisi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Κολυμβητήριο",
+                  "name": "Karpenisi Swimming Pool",
                   "text": "Κολυμβητήριο in Karpenisi bietet Besuchern ein erfrischendes Badeerlebnis.",
                   "category": "family",
                   "coords": [
@@ -3637,7 +3637,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "hu": [
             {
-                  "name": "Κολυμβητήριο",
+                  "name": "Karpenisi Swimming Pool",
                   "text": "A Karpenisi településen található Κολυμβητήριο frissítő úszási élményt kínál a látogatóknak.",
                   "category": "family",
                   "coords": [
@@ -3648,7 +3648,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "ro": [
             {
-                  "name": "Κολυμβητήριο",
+                  "name": "Karpenisi Swimming Pool",
                   "text": "Κολυμβητήριο din Karpenisi oferă vizitatorilor o experiență revigorantă de înot.",
                   "category": "family",
                   "coords": [
@@ -3659,7 +3659,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "en": [
             {
-                  "name": "Κολυμβητήριο",
+                  "name": "Karpenisi Swimming Pool",
                   "text": "Κολυμβητήριο in Karpenisi offers a refreshing swimming experience for visitors.",
                   "category": "family",
                   "coords": [
@@ -3745,7 +3745,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Βότσαλο",
+                  "name": "Votsalo Beach",
                   "text": "Ein Badebereich in Agios Nikolaos, der für sein klares Wasser und seine natürliche Umgebung bekannt ist.",
                   "category": "family",
                   "coords": [
@@ -3754,7 +3754,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Αλμυρός",
+                  "name": "Almyros Coast",
                   "text": "Ein Küstenbereich in Agios Nikolaos, der zum Schwimmen und Entspannen am Wasser einlädt.",
                   "category": "family",
                   "coords": [
@@ -3763,7 +3763,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Παραλία Αλμυρού",
+                  "name": "Almyros Beach",
                   "text": "Ein Strandabschnitt in Agios Nikolaos, der gute Bedingungen zum Baden im Meer bietet.",
                   "category": "family",
                   "coords": [
@@ -3772,7 +3772,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Πολύδωρος",
+                  "name": "Polydoros Natural Pool",
                   "text": "Ein Naturbadeplatz in Agios Nikolaos, ideal für einen ruhigen Tag am Wasser.",
                   "category": "family",
                   "coords": [
@@ -3781,7 +3781,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ερμής",
+                  "name": "Hermes Swimming Area",
                   "text": "Ein ausgewiesener Schwimmbereich in Agios Nikolaos für Einheimische und Besucher.",
                   "category": "family",
                   "coords": [
@@ -3819,7 +3819,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Βότσαλο",
+                  "name": "Votsalo Beach",
                   "text": "Fürdőhely Ágiosz Nikólaoszban, amely tiszta vizéről és természetes környezetéről ismert.",
                   "category": "family",
                   "coords": [
@@ -3828,7 +3828,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Αλμυρός",
+                  "name": "Almyros Coast",
                   "text": "Tengerparti terület Ágiosz Nikólaoszban, amely úszásra és vízparti pihenésre hívogat.",
                   "category": "family",
                   "coords": [
@@ -3837,7 +3837,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Παραλία Αλμυρού",
+                  "name": "Almyros Beach",
                   "text": "Tengerparti szakasz Ágiosz Nikólaoszban, amely jó feltételeket kínál a tengeri fürdőzéshez.",
                   "category": "family",
                   "coords": [
@@ -3846,7 +3846,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Πολύδωρος",
+                  "name": "Polydoros Natural Pool",
                   "text": "Természetes fürdőhely Ágiosz Nikólaoszban, ideális egy csendes naphoz a víznél.",
                   "category": "family",
                   "coords": [
@@ -3855,7 +3855,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ερμής",
+                  "name": "Hermes Swimming Area",
                   "text": "Kijelölt úszóhely Ágiosz Nikólaoszban a helyiek és a látogatók számára.",
                   "category": "family",
                   "coords": [
@@ -3893,7 +3893,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Βότσαλο",
+                  "name": "Votsalo Beach",
                   "text": "O zonă de înot în Agios Nikolaos, cunoscută pentru apa sa limpede și cadrul natural.",
                   "category": "family",
                   "coords": [
@@ -3902,7 +3902,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Αλμυρός",
+                  "name": "Almyros Coast",
                   "text": "O zonă de coastă în Agios Nikolaos, care invită la înot și relaxare la malul apei.",
                   "category": "family",
                   "coords": [
@@ -3911,7 +3911,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Παραλία Αλμυρού",
+                  "name": "Almyros Beach",
                   "text": "O porțiune de plajă în Agios Nikolaos care oferă condiții bune pentru scăldat în mare.",
                   "category": "family",
                   "coords": [
@@ -3920,7 +3920,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Πολύδωρος",
+                  "name": "Polydoros Natural Pool",
                   "text": "Un loc natural pentru scăldat în Agios Nikolaos, ideal pentru o zi liniștită la apă.",
                   "category": "family",
                   "coords": [
@@ -3929,7 +3929,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ερμής",
+                  "name": "Hermes Swimming Area",
                   "text": "O zonă de înot desemnată în Agios Nikolaos pentru localnici și vizitatori.",
                   "category": "family",
                   "coords": [
@@ -3967,7 +3967,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Βότσαλο",
+                  "name": "Votsalo Beach",
                   "text": "A swimming area in Agios Nikolaos known for its clear water and natural setting.",
                   "category": "family",
                   "coords": [
@@ -3976,7 +3976,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Αλμυρός",
+                  "name": "Almyros Coast",
                   "text": "A coastal area in Agios Nikolaos inviting for swimming and relaxation by the water.",
                   "category": "family",
                   "coords": [
@@ -3985,7 +3985,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Παραλία Αλμυρού",
+                  "name": "Almyros Beach",
                   "text": "A beach section in Agios Nikolaos offering good conditions for sea bathing.",
                   "category": "family",
                   "coords": [
@@ -4003,7 +4003,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ερμής",
+                  "name": "Hermes Swimming Area",
                   "text": "A designated swimming area in Agios Nikolaos for locals and visitors.",
                   "category": "family",
                   "coords": [
@@ -4505,7 +4505,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "ΑΒΥΣΣΟΣ",
+                  "name": "Abyssos Aquarium",
                   "text": "Ein Aquarium in Peristeri, das Einblicke in faszinierende Unterwasserwelten bietet.",
                   "category": "family",
                   "coords": [
@@ -4514,7 +4514,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "name": "Chaidari Municipal Swimming Pool",
                   "text": "Ein städtisches Schwimmbad in Peristeri mit Einrichtungen für Sportler und Familien.",
                   "category": "family",
                   "coords": [
@@ -4523,7 +4523,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "Ein öffentliches Schwimmbad in Peristeri, das für Schwimmtraining und Erholung genutzt wird.",
                   "category": "family",
                   "coords": [
@@ -4759,7 +4759,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "ΑΒΥΣΣΟΣ",
+                  "name": "Abyssos Aquarium",
                   "text": "Akvárium Periszteriben, amely betekintést nyújt a lenyűgöző víz alatti világba.",
                   "category": "family",
                   "coords": [
@@ -4768,7 +4768,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "name": "Chaidari Municipal Swimming Pool",
                   "text": "Városi úszómedence Periszteriben, sportolók és családok számára alkalmas létesítményekkel.",
                   "category": "family",
                   "coords": [
@@ -4777,7 +4777,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "Nyilvános úszómedence Periszteriben, amelyet úszóedzésekre és kikapcsolódásra használnak.",
                   "category": "family",
                   "coords": [
@@ -5013,7 +5013,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "ΑΒΥΣΣΟΣ",
+                  "name": "Abyssos Aquarium",
                   "text": "Un acvariu în Peristeri care oferă o privire asupra lumilor subacvatice fascinante.",
                   "category": "family",
                   "coords": [
@@ -5022,7 +5022,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "name": "Chaidari Municipal Swimming Pool",
                   "text": "O piscină municipală în Peristeri, cu facilități pentru sportivi și familii.",
                   "category": "family",
                   "coords": [
@@ -5031,7 +5031,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "O piscină publică în Peristeri, utilizată pentru antrenamente de înot și recreere.",
                   "category": "family",
                   "coords": [
@@ -5267,7 +5267,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "ΑΒΥΣΣΟΣ",
+                  "name": "Abyssos Aquarium",
                   "text": "An aquarium in Peristeri offering a glimpse into fascinating underwater worlds.",
                   "category": "family",
                   "coords": [
@@ -5276,7 +5276,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "name": "Chaidari Municipal Swimming Pool",
                   "text": "A municipal swimming pool in Peristeri with facilities for athletes and families.",
                   "category": "family",
                   "coords": [
@@ -5285,7 +5285,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο",
+                  "name": "Municipal Swimming Pool",
                   "text": "A public swimming pool in Peristeri used for swimming training and recreation.",
                   "category": "family",
                   "coords": [
@@ -5351,7 +5351,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
     id: "greece-kalambaka-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Πισίνα Edelweiss",
+                  "name": "Edelweiss Pool",
                   "text": "Πισίνα Edelweiss in Kalambaka bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -5362,7 +5362,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "hu": [
             {
-                  "name": "Πισίνα Edelweiss",
+                  "name": "Edelweiss Pool",
                   "text": "A(z) Πισίνα Edelweiss Kalambaka településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -5373,7 +5373,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "ro": [
             {
-                  "name": "Πισίνα Edelweiss",
+                  "name": "Edelweiss Pool",
                   "text": "Πισίνα Edelweiss din Kalambaka oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -5384,7 +5384,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "en": [
             {
-                  "name": "Πισίνα Edelweiss",
+                  "name": "Edelweiss Pool",
                   "text": "Πισίνα Edelweiss in Kalambaka offers a place for swimming and water activities.",
                   "category": "family",
                   "coords": [
@@ -5892,7 +5892,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
     id: "greece-nafpaktos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Πλαζ Ναυπάκτου",
+                  "name": "Nafpaktos Beach",
                   "text": "Πλαζ Ναυπάκτου in Nafpaktos bietet Besuchern ein erfrischendes Badeerlebnis.",
                   "category": "family",
                   "coords": [
@@ -5912,7 +5912,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "hu": [
             {
-                  "name": "Πλαζ Ναυπάκτου",
+                  "name": "Nafpaktos Beach",
                   "text": "A Nafpaktos településen található Πλαζ Ναυπάκτου frissítő úszási élményt kínál a látogatóknak.",
                   "category": "family",
                   "coords": [
@@ -5932,7 +5932,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "ro": [
             {
-                  "name": "Πλαζ Ναυπάκτου",
+                  "name": "Nafpaktos Beach",
                   "text": "Πλαζ Ναυπάκτου din Nafpaktos oferă vizitatorilor o experiență revigorantă de înot.",
                   "category": "family",
                   "coords": [
@@ -5952,7 +5952,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
       ],
       "en": [
             {
-                  "name": "Πλαζ Ναυπάκτου",
+                  "name": "Nafpaktos Beach",
                   "text": "Πλαζ Ναυπάκτου in Nafpaktos offers a refreshing swimming experience for visitors.",
                   "category": "family",
                   "coords": [
@@ -7188,7 +7188,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Μαγαζάκι",
+                  "name": "Magazaki Beach",
                   "text": "Μαγαζάκι in Astypalaia Town bietet Besuchern ein erfrischendes Badeerlebnis.",
                   "category": "family",
                   "coords": [
@@ -7208,7 +7208,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Μαγαζάκι",
+                  "name": "Magazaki Beach",
                   "text": "A Astypalaia Town településen található Μαγαζάκι frissítő úszási élményt kínál a látogatóknak.",
                   "category": "family",
                   "coords": [
@@ -7228,7 +7228,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Μαγαζάκι",
+                  "name": "Magazaki Beach",
                   "text": "Μαγαζάκι din Astypalaia Town oferă vizitatorilor o experiență revigorantă de înot.",
                   "category": "family",
                   "coords": [
@@ -7248,7 +7248,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Μαγαζάκι",
+                  "name": "Magazaki Beach",
                   "text": "Μαγαζάκι in Astypalaia Town offers a refreshing swimming experience for visitors.",
                   "category": "family",
                   "coords": [

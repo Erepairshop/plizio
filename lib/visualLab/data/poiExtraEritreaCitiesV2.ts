@@ -73,7 +73,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد القديم",
+                  "name": "Old Mosque",
                   "text": "Die Ruinen der المسجد القديم (Alte Moschee) sind eine historische Stätte in Massaua.",
                   "category": "historical",
                   "coords": [
@@ -129,7 +129,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد القديم",
+                  "name": "Old Mosque",
                   "text": "A المسجد القديم (Öreg mecset) romjai egy történelmi helyszínt képviselnek Massaua városában.",
                   "category": "historical",
                   "coords": [
@@ -185,7 +185,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد القديم",
+                  "name": "Old Mosque",
                   "text": "Ruinele المسجد القديم (Vechea Moschee) reprezintă un sit istoric în Massaua.",
                   "category": "historical",
                   "coords": [
@@ -241,7 +241,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المسجد القديم",
+                  "name": "Old Mosque",
                   "text": "The ruins of المسجد القديم (the Old Mosque) represent a historical site in Massaua.",
                   "category": "historical",
                   "coords": [

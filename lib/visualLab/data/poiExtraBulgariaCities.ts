@@ -2984,7 +2984,7 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "България 1300",
+                  "name": "Bulgaria 1300 Monument",
                   "text": "Das Denkmal 'Bulgarien 1300' in Stara Zagora erinnert an die lange Geschichte und das Erbe des bulgarischen Staates. Es ist ein imposantes Monument, das oft von Geschichtsinteressierten besucht wird.",
                   "category": "landmark",
                   "coords": [
@@ -3510,7 +3510,7 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "България 1300",
+                  "name": "Bulgaria 1300 Monument",
                   "text": "Monumentul „Bulgaria 1300” din Stara Zagora comemorează istoria lungă și moștenirea statului bulgar. Este un monument impunător, vizitat adesea de cei interesați de istorie.",
                   "category": "landmark",
                   "coords": [
@@ -3773,7 +3773,7 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "България 1300",
+                  "name": "Bulgaria 1300 Monument",
                   "text": "The 'Bulgaria 1300' monument in Stara Zagora commemorates the long history and heritage of the Bulgarian state. It is an impressive structure often visited by those interested in history.",
                   "category": "landmark",
                   "coords": [

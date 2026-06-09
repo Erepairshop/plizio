@@ -132,7 +132,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
       en: ["World Record: The Chiba Monorail holds the Guinness record for longest suspended monorail.", "Makuhari Messe: It offers 72,000 square meters of exhibition space.", "Population: Chiba is home to approximately 975,000 residents.", "History: The Chiba family crest (the moon and star) is still seen in the city.", "Inage Beach: The beach was created using sand from the seabed of Tokyo Bay.", "Port Traffic: It ranks top in Japan for the import of crude oil and iron ore.", "Baseball: The Lotte Marines won the Japan Series in 2005 and 2010.", "Monorail Height: Trains run at heights up to 15 meters above the ground."],
     }, image: "/poi-images/chiba-cities-v2.webp"},
   {
-    id: "kitakyushu-cities-v2", "sights": {"de": [{"name": "北九州市漫画ミュージアム", "text": "Ein Museum, das der Kunst der japanischen Comics gewidmet ist.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "小倉城", "text": "Eine rekonstruierte japanische Burg mit einem Museum und Park.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTOミュージアム", "text": "Das TOTOミュージアム befindet sich in der japanischen Stadt Kitakyushu. In diesem Museum wird die faszinierende Entwicklung von Sanitätstechnik und Design im Laufe der Zeit präsentiert. Gäste können eine informative Ausstellung erwarten, die ungewöhnliche Einblicke in diesen industriellen Bereich gewährt.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "ゼンリンミュージアム", "text": "Ein Museum, das sich mit der Geschichte der Kartografie befasst.", "category": "museum", "coords": [130.875985, 33.885895]}], "hu": [{"name": "北九州市漫画ミュージアム", "text": "A japán képregények művészetének szentelt múzeum.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "小倉城", "text": "Rekonstruált japán várkastély múzeummal és parkkal.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTOミュージアム", "text": "A TOTOミュージアム a japán Kitakjúsú városában található. Ebben a múzeumban a szanitertechnika és a dizájn időbeli, lenyűgöző fejlődését mutatják be. A vendégek egy informatív kiállításra számíthatnak, amely szokatlan bepillantást enged ebbe az ipari ágazatba.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "ゼンリンミュージアム", "text": "A térképészet történetével foglalkozó múzeum.", "category": "museum", "coords": [130.875985, 33.885895]}], "ro": [{"name": "北九州市漫画ミュージアム", "text": "Un muzeu dedicat artei benzilor desenate japoneze.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "小倉城", "text": "Un castel japonez reconstituit, care găzduiește un muzeu și un parc.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTOミュージアム", "text": "TOTOミュージアム se află în orașul japonez Kitakyushu. Acest muzeu prezintă evoluția fascinantă a tehnicii sanitare și a designului de-a lungul timpului. Oaspeții pot aștepta o expoziție informativă care oferă o perspectivă neobișnuită asupra acestui sector industrial.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "ゼンリンミュージアム", "text": "Un muzeu axat pe istoria cartografiei.", "category": "museum", "coords": [130.875985, 33.885895]}], "en": [{"name": "Kita-Kyushu Manga Museum", "text": "A museum dedicated to the art of Japanese comics.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "Kokura Castle", "text": "A reconstructed Japanese castle featuring a museum and park.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTO Museum", "text": "The TOTOミュージアム is located in the Japanese city of Kitakyushu. This museum presents the fascinating evolution of sanitary engineering and design over time. Guests can expect an informative exhibition that provides unusual insights into this industrial sector.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "ZENRIN Museum", "text": "A museum focusing on the history of cartography.", "category": "museum", "coords": [130.875985, 33.885895]}]},
+    id: "kitakyushu-cities-v2", "sights": {"de": [{"name": "Kitakyushu Manga Museum", "text": "Ein Museum, das der Kunst der japanischen Comics gewidmet ist.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "Kokura Castle", "text": "Eine rekonstruierte japanische Burg mit einem Museum und Park.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTO Museum", "text": "Das TOTOミュージアム befindet sich in der japanischen Stadt Kitakyushu. In diesem Museum wird die faszinierende Entwicklung von Sanitätstechnik und Design im Laufe der Zeit präsentiert. Gäste können eine informative Ausstellung erwarten, die ungewöhnliche Einblicke in diesen industriellen Bereich gewährt.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "Zenrin Museum", "text": "Ein Museum, das sich mit der Geschichte der Kartografie befasst.", "category": "museum", "coords": [130.875985, 33.885895]}], "hu": [{"name": "Kitakyushu Manga Museum", "text": "A japán képregények művészetének szentelt múzeum.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "Kokura Castle", "text": "Rekonstruált japán várkastély múzeummal és parkkal.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTO Museum", "text": "A TOTOミュージアム a japán Kitakjúsú városában található. Ebben a múzeumban a szanitertechnika és a dizájn időbeli, lenyűgöző fejlődését mutatják be. A vendégek egy informatív kiállításra számíthatnak, amely szokatlan bepillantást enged ebbe az ipari ágazatba.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "Zenrin Museum", "text": "A térképészet történetével foglalkozó múzeum.", "category": "museum", "coords": [130.875985, 33.885895]}], "ro": [{"name": "Kitakyushu Manga Museum", "text": "Un muzeu dedicat artei benzilor desenate japoneze.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "Kokura Castle", "text": "Un castel japonez reconstituit, care găzduiește un muzeu și un parc.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTO Museum", "text": "TOTOミュージアム se află în orașul japonez Kitakyushu. Acest muzeu prezintă evoluția fascinantă a tehnicii sanitare și a designului de-a lungul timpului. Oaspeții pot aștepta o expoziție informativă care oferă o perspectivă neobișnuită asupra acestui sector industrial.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "Zenrin Museum", "text": "Un muzeu axat pe istoria cartografiei.", "category": "museum", "coords": [130.875985, 33.885895]}], "en": [{"name": "Kita-Kyushu Manga Museum", "text": "A museum dedicated to the art of Japanese comics.", "category": "museum", "coords": [130.884731, 33.887543]}, {"name": "Kokura Castle", "text": "A reconstructed Japanese castle featuring a museum and park.", "category": "castle", "coords": [130.874167, 33.884495]}, {"name": "TOTO Museum", "text": "The TOTOミュージアム is located in the Japanese city of Kitakyushu. This museum presents the fascinating evolution of sanitary engineering and design over time. Guests can expect an informative exhibition that provides unusual insights into this industrial sector.", "category": "museum", "coords": [130.872087, 33.872426]}, {"name": "ZENRIN Museum", "text": "A museum focusing on the history of cartography.", "category": "museum", "coords": [130.875985, 33.885895]}]},
     type: "city",
     parent: "JP-40",
     coords: [130.875, 33.883],
@@ -340,7 +340,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
     id: "himeji-cities-v2", "sights": {
       "de": [
             {
-                  "name": "兵庫県立歴史博物館",
+                  "name": "Hyogo Prefectural Museum of History",
                   "text": "Ein Museum in Himeji, das der Geschichte und Kultur der Präfektur Hyogo gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -349,7 +349,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市立美術館",
+                  "name": "Himeji City Museum of Art",
                   "text": "Ein Kunstmuseum in einem ehemaligen roten Backsteingebäude des Militärs in Himeji.",
                   "category": "museum",
                   "coords": [
@@ -358,7 +358,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路文学館",
+                  "name": "Himeji City Museum of Literature",
                   "text": "Ein von Tadao Ando entworfenes Literaturmuseum in Himeji.",
                   "category": "museum",
                   "coords": [
@@ -376,7 +376,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市平和資料館",
+                  "name": "Himeji Peace Museum",
                   "text": "Ein Museum zum Gedenken an die Luftangriffe auf Himeji im Zweiten Weltkrieg.",
                   "category": "museum",
                   "coords": [
@@ -385,7 +385,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竪濠",
+                  "name": "Tategori Moat",
                   "text": "Überreste einer historischen Befestigungsanlage in Himeji.",
                   "category": "historical",
                   "coords": [
@@ -394,7 +394,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "合坂",
+                  "name": "Himeji Castle",
                   "text": "Die japanische Bezeichnung für die berühmte Burg Himeji.",
                   "category": "castle",
                   "coords": [
@@ -421,7 +421,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "好古園歴史展示室",
+                  "name": "Koko-en Garden History Exhibition Room",
                   "text": "Eine historische Ausstellung im Koko-en-Garten in Himeji.",
                   "category": "museum",
                   "coords": [
@@ -430,7 +430,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市埋蔵文化財センター",
+                  "name": "Himeji City Archaeological Research Center",
                   "text": "Ein Museum für Archäologie und Kulturerbe in Himeji.",
                   "category": "museum",
                   "coords": [
@@ -439,7 +439,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "手柄山",
+                  "name": "Mount Tegarayama",
                   "text": "Ein markanter Berg in Himeji mit Parkanlagen und Aussichtspunkten.",
                   "category": "natural",
                   "coords": [
@@ -448,7 +448,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "手柄山温室植物園",
+                  "name": "Tegarayama Botanical Garden",
                   "text": "Botanischer Garten in Himeji, bekannt für seine Gewächshäuser und Pflanzensammlungen.",
                   "category": "landmark",
                   "coords": [
@@ -457,7 +457,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "キャッスルビュー",
+                  "name": "Castle View",
                   "text": "Ein Aussichtspunkt in Himeji, der einen Panoramablick auf die berühmte Burg bietet.",
                   "category": "natural",
                   "coords": [
@@ -466,7 +466,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北勢隠門跡",
+                  "name": "Hoseikaku Gate Ruins",
                   "text": "Historische Ruinen einer Toranlage in der Stadt Himeji.",
                   "category": "historical",
                   "coords": [
@@ -475,7 +475,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "兵庫縣姫路護國神社",
+                  "name": "Hyogo Himeji Gokoku Shrine",
                   "text": "Ein Shinto-Schrein in Himeji, der den Gefallenen der Präfektur Hyogo gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -484,7 +484,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "長壁神社",
+                  "name": "Osakabe Shrine",
                   "text": "Ein historischer Schrein, der sich innerhalb des Geländes der Burg Himeji befindet.",
                   "category": "religious",
                   "coords": [
@@ -495,7 +495,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "兵庫県立歴史博物館",
+                  "name": "Hyogo Prefectural Museum of History",
                   "text": "Himeji múzeuma, amely Hjógo prefektúra történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -504,7 +504,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市立美術館",
+                  "name": "Himeji City Museum of Art",
                   "text": "Művészeti múzeum Himejiben egy egykori katonai téglaépületben.",
                   "category": "museum",
                   "coords": [
@@ -513,7 +513,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路文学館",
+                  "name": "Himeji City Museum of Literature",
                   "text": "Tadao Ando által tervezett irodalmi múzeum Himejiben.",
                   "category": "museum",
                   "coords": [
@@ -522,7 +522,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路城",
+                  "name": "Himeji Castle",
                   "text": "UNESCO világörökségi helyszín, „Fehér Kócsag vára” néven ismert.",
                   "category": "castle",
                   "coords": [
@@ -531,7 +531,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市平和資料館",
+                  "name": "Himeji Peace Museum",
                   "text": "A második világháborús himeji légitámadásoknak emléket állító múzeum.",
                   "category": "museum",
                   "coords": [
@@ -540,7 +540,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竪濠",
+                  "name": "Tategori Moat",
                   "text": "Történelmi erődítményrendszer maradványai Himejiben.",
                   "category": "historical",
                   "coords": [
@@ -549,7 +549,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "合坂",
+                  "name": "Himeji Castle",
                   "text": "A híres himeji vár japán elnevezése.",
                   "category": "castle",
                   "coords": [
@@ -576,7 +576,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "好古園歴史展示室",
+                  "name": "Koko-en Garden History Exhibition Room",
                   "text": "Történelmi kiállítás a himeji Koko-en kertben.",
                   "category": "museum",
                   "coords": [
@@ -585,7 +585,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市埋蔵文化財センター",
+                  "name": "Himeji City Archaeological Research Center",
                   "text": "Régészeti és kulturális örökségi múzeum Himejiben.",
                   "category": "museum",
                   "coords": [
@@ -594,7 +594,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "手柄山",
+                  "name": "Mount Tegarayama",
                   "text": "Himeji egyik kiemelkedő hegye parkokkal és kilátókkal.",
                   "category": "natural",
                   "coords": [
@@ -603,7 +603,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "手柄山温室植物園",
+                  "name": "Tegarayama Botanical Garden",
                   "text": "Himeji botanikus kertje, amely üvegházairól és növénygyűjteményéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -612,7 +612,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "キャッスルビュー",
+                  "name": "Castle View",
                   "text": "Himeji egyik kilátópontja, amely panorámás kilátást nyújt a híres várra.",
                   "category": "natural",
                   "coords": [
@@ -621,7 +621,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北勢隠門跡",
+                  "name": "Hoseikaku Gate Ruins",
                   "text": "Egy történelmi kapu romjai Himeji városában.",
                   "category": "historical",
                   "coords": [
@@ -630,7 +630,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "兵庫縣姫路護國神社",
+                  "name": "Hyogo Himeji Gokoku Shrine",
                   "text": "Himeji sintó szentélye, amelyet Hyogo prefektúra elesettjeinek emlékére emeltek.",
                   "category": "religious",
                   "coords": [
@@ -639,7 +639,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "長壁神社",
+                  "name": "Osakabe Shrine",
                   "text": "Történelmi szentély, amely a Himeji vár területén belül található.",
                   "category": "religious",
                   "coords": [
@@ -650,7 +650,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "兵庫県立歴史博物館",
+                  "name": "Hyogo Prefectural Museum of History",
                   "text": "Un muzeu în Himeji dedicat istoriei și culturii prefecturii Hyogo.",
                   "category": "museum",
                   "coords": [
@@ -659,7 +659,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市立美術館",
+                  "name": "Himeji City Museum of Art",
                   "text": "Un muzeu de artă din Himeji, situat într-o fostă clădire militară din cărămidă roșie.",
                   "category": "museum",
                   "coords": [
@@ -668,7 +668,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路文学館",
+                  "name": "Himeji City Museum of Literature",
                   "text": "Un muzeu al literaturii din Himeji, proiectat de Tadao Ando.",
                   "category": "museum",
                   "coords": [
@@ -677,7 +677,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路城",
+                  "name": "Himeji Castle",
                   "text": "Sit din patrimoniul mondial UNESCO, cunoscut sub numele de „Castelul Egretei Albe”.",
                   "category": "castle",
                   "coords": [
@@ -686,7 +686,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市平和資料館",
+                  "name": "Himeji Peace Museum",
                   "text": "Un muzeu care comemorează raidurile aeriene asupra orașului Himeji din cel de-al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
@@ -695,7 +695,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "竪濠",
+                  "name": "Tategori Moat",
                   "text": "Rămășițele unui sistem de fortificații istoric în Himeji.",
                   "category": "historical",
                   "coords": [
@@ -704,7 +704,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "合坂",
+                  "name": "Himeji Castle",
                   "text": "Denumirea japoneză a celebrului castel Himeji.",
                   "category": "castle",
                   "coords": [
@@ -731,7 +731,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "好古園歴史展示室",
+                  "name": "Koko-en Garden History Exhibition Room",
                   "text": "O expoziție istorică în grădina Koko-en din Himeji.",
                   "category": "museum",
                   "coords": [
@@ -740,7 +740,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "姫路市埋蔵文化財センター",
+                  "name": "Himeji City Archaeological Research Center",
                   "text": "Un muzeu de arheologie și patrimoniu cultural în Himeji.",
                   "category": "museum",
                   "coords": [
@@ -749,7 +749,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "手柄山",
+                  "name": "Mount Tegarayama",
                   "text": "Un vârf muntos proeminent în Himeji, cu parcuri și puncte de belvedere.",
                   "category": "natural",
                   "coords": [
@@ -758,7 +758,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "手柄山温室植物園",
+                  "name": "Tegarayama Botanical Garden",
                   "text": "Grădină botanică în Himeji, cunoscută pentru serele și colecțiile sale de plante.",
                   "category": "landmark",
                   "coords": [
@@ -767,7 +767,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "キャッスルビュー",
+                  "name": "Castle View",
                   "text": "Un punct de observație în Himeji ce oferă o vedere panoramică asupra faimosului castel.",
                   "category": "natural",
                   "coords": [
@@ -776,7 +776,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "北勢隠門跡",
+                  "name": "Hoseikaku Gate Ruins",
                   "text": "Ruinele istorice ale unei porți în orașul Himeji.",
                   "category": "historical",
                   "coords": [
@@ -785,7 +785,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "兵庫縣姫路護國神社",
+                  "name": "Hyogo Himeji Gokoku Shrine",
                   "text": "Un altar shintoist în Himeji, dedicat eroilor căzuți din prefectura Hyogo.",
                   "category": "religious",
                   "coords": [
@@ -794,7 +794,7 @@ export const poiExtraJapanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "長壁神社",
+                  "name": "Osakabe Shrine",
                   "text": "Un altar istoric situat în incinta complexului Castelului Himeji.",
                   "category": "religious",
                   "coords": [

@@ -91,7 +91,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "sarh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "متحف ساره الإقليمي",
+                  "name": "Sarh Regional Museum",
                   "text": "متحف ساره الإقليمي ist ein Museum in der Stadt Sarh.",
                   "category": "museum",
                   "coords": [
@@ -109,7 +109,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الحرفيين",
+                  "name": "Crafts Center",
                   "text": "مركز الحرفيين ist eine Touristenattraktion in der Stadt Sarh.",
                   "category": "landmark",
                   "coords": [
@@ -136,7 +136,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ثقافي ساره",
+                  "name": "Sarh Cultural Center",
                   "text": "مركز ثقافي ساره ist ein Kunstzentrum in der Stadt Sarh.",
                   "category": "cultural",
                   "coords": [
@@ -145,7 +145,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية",
+                  "name": "Cathedral of Our Lady",
                   "text": "كاتدرائية ist eine bedeutende Kultstätte in Sarh. Sie dient als Kathedrale Unserer Lieben Frau von der Unbefleckten Empfängnis in der Stadt.",
                   "category": "religious",
                   "coords": [
@@ -156,7 +156,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "متحف ساره الإقليمي",
+                  "name": "Sarh Regional Museum",
                   "text": "A متحف ساره الإقليمي egy múzeum Sarh városában.",
                   "category": "museum",
                   "coords": [
@@ -174,7 +174,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الحرفيين",
+                  "name": "Crafts Center",
                   "text": "A مركز الحرفيين egy turisztikai látványosság Sarh városában.",
                   "category": "landmark",
                   "coords": [
@@ -201,7 +201,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ثقافي ساره",
+                  "name": "Sarh Cultural Center",
                   "text": "A مركز ثقافي ساره egy művészeti központ Sarh városában.",
                   "category": "cultural",
                   "coords": [
@@ -210,7 +210,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية",
+                  "name": "Cathedral of Our Lady",
                   "text": "A كاتدرائية egy jelentős istentiszteleti hely Sarh városában. A város Szeplőtelen Fogantatás katedrálisaként működik.",
                   "category": "religious",
                   "coords": [
@@ -221,7 +221,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "متحف ساره الإقليمي",
+                  "name": "Sarh Regional Museum",
                   "text": "متحف ساره الإقليمي este un muzeu situat în orașul Sarh.",
                   "category": "museum",
                   "coords": [
@@ -239,7 +239,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الحرفيين",
+                  "name": "Crafts Center",
                   "text": "مركز الحرفيين este o atracție turistică situată în orașul Sarh.",
                   "category": "landmark",
                   "coords": [
@@ -266,7 +266,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ثقافي ساره",
+                  "name": "Sarh Cultural Center",
                   "text": "مركز ثقافي ساره este un centru de arte situat în orașul Sarh.",
                   "category": "cultural",
                   "coords": [
@@ -275,7 +275,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية",
+                  "name": "Cathedral of Our Lady",
                   "text": "كاتدرائية este un lăcaș de cult notabil situat în Sarh. Servește drept Catedrala Fecioarei Maria a Imaculatei Concepții din oraș.",
                   "category": "religious",
                   "coords": [
@@ -286,7 +286,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "متحف ساره الإقليمي",
+                  "name": "Sarh Regional Museum",
                   "text": "متحف ساره الإقليمي is a museum located in the city of Sarh.",
                   "category": "museum",
                   "coords": [
@@ -304,7 +304,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز الحرفيين",
+                  "name": "Crafts Center",
                   "text": "مركز الحرفيين is a tourist attraction located in the city of Sarh.",
                   "category": "landmark",
                   "coords": [
@@ -331,7 +331,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ثقافي ساره",
+                  "name": "Sarh Cultural Center",
                   "text": "مركز ثقافي ساره is an arts centre located in the city of Sarh.",
                   "category": "cultural",
                   "coords": [
@@ -340,7 +340,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "كاتدرائية",
+                  "name": "Cathedral of Our Lady",
                   "text": "كاتدرائية is a notable place of worship located in Sarh. It serves as the Cathedral of Our Lady of the Immaculate Conception in the city.",
                   "category": "religious",
                   "coords": [
@@ -803,7 +803,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حسن موسى",
+                  "name": "Hassan Moussa Water Park",
                   "text": "حسن موسى ist ein lebhafter Wasserpark in Mongo.",
                   "category": "family",
                   "coords": [
@@ -823,7 +823,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حسن موسى",
+                  "name": "Hassan Moussa Water Park",
                   "text": "A حسن موسى egy élénk vízi park Mongóban.",
                   "category": "family",
                   "coords": [
@@ -843,7 +843,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حسن موسى",
+                  "name": "Hassan Moussa Water Park",
                   "text": "حسن موسى este un parc acvatic plin de viață situat în Mongo.",
                   "category": "family",
                   "coords": [
@@ -863,7 +863,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حسن موسى",
+                  "name": "Hassan Moussa Water Park",
                   "text": "حسن موسى is a lively water park located in Mongo.",
                   "category": "family",
                   "coords": [
@@ -1010,7 +1010,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "mao-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "name": "Palace of the Sultan of Kanem",
                   "text": "Der Palais du Sultant du Kanem قصر سلطان كانم ist eine historische Burganlage in Mao.",
                   "category": "castle",
                   "coords": [
@@ -1019,7 +1019,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ancien gouvernorat المحافظ السابق",
+                  "name": "Former Governorate Ruins",
                   "text": "Das ancien gouvernorat المحافظ السابق sind historische Ruinen in Mao.",
                   "category": "historical",
                   "coords": [
@@ -1030,7 +1030,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "name": "Palace of the Sultan of Kanem",
                   "text": "A Palais du Sultant du Kanem قصر سلطان كانم egy történelmi kastélyépület Maóban.",
                   "category": "castle",
                   "coords": [
@@ -1039,7 +1039,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ancien gouvernorat المحافظ السابق",
+                  "name": "Former Governorate Ruins",
                   "text": "Az ancien gouvernorat المحافظ السابق történelmi romokat kínál Maóban.",
                   "category": "historical",
                   "coords": [
@@ -1050,7 +1050,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "name": "Palace of the Sultan of Kanem",
                   "text": "Palais du Sultant du Kanem قصر سلطان كانم este o structură de castel istoric din Mao.",
                   "category": "castle",
                   "coords": [
@@ -1059,7 +1059,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ancien gouvernorat المحافظ السابق",
+                  "name": "Former Governorate Ruins",
                   "text": "Ancien gouvernorat المحافظ السابق prezintă ruine istorice în Mao.",
                   "category": "historical",
                   "coords": [
@@ -1070,7 +1070,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "name": "Palace of the Sultan of Kanem",
                   "text": "Palais du Sultant du Kanem قصر سلطان كانم is a historical castle structure in Mao.",
                   "category": "castle",
                   "coords": [
@@ -1079,7 +1079,7 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ancien gouvernorat المحافظ السابق",
+                  "name": "Former Governorate Ruins",
                   "text": "The ancien gouvernorat المحافظ السابق features historical ruins in Mao.",
                   "category": "historical",
                   "coords": [
@@ -1561,7 +1561,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "bol-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "name": "Bol Cultural Center",
                   "text": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol ist ein Kunstzentrum in der Stadt Bol.",
                   "category": "cultural",
                   "coords": [
@@ -1572,7 +1572,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "name": "Bol Cultural Center",
                   "text": "A Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol egy művészeti központ Bol városában.",
                   "category": "cultural",
                   "coords": [
@@ -1583,7 +1583,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "name": "Bol Cultural Center",
                   "text": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol este un centru de arte situat în orașul Bol.",
                   "category": "cultural",
                   "coords": [
@@ -1594,7 +1594,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "name": "Bol Cultural Center",
                   "text": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol is an arts centre located in the city of Bol.",
                   "category": "cultural",
                   "coords": [
@@ -1696,7 +1696,7 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "oum-hadjer-cities-v2", "sights": {
       "de": [
             {
-                  "name": "بيت بشير يوسف",
+                  "name": "House of Bashir Yusuf",
                   "text": "Ruinen des Hauses von Bashir Yusuf in Oum Hadjer.",
                   "category": "historical",
                   "coords": [
@@ -1707,7 +1707,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "بيت بشير يوسف",
+                  "name": "House of Bashir Yusuf",
                   "text": "Bashir Yusuf házának romjai Oum Hadjerben.",
                   "category": "historical",
                   "coords": [
@@ -1718,7 +1718,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "بيت بشير يوسف",
+                  "name": "House of Bashir Yusuf",
                   "text": "Ruinele casei lui Bashir Yusuf în Oum Hadjer.",
                   "category": "historical",
                   "coords": [
@@ -1729,7 +1729,7 @@ export const poiExtraChadCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "بيت بشير يوسف",
+                  "name": "House of Bashir Yusuf",
                   "text": "Ruins of Bashir Yusuf's house in Oum Hadjer.",
                   "category": "historical",
                   "coords": [

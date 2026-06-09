@@ -47,7 +47,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "chiang-mai-cities-v2", "sights": {
       "de": [
             {
-                  "name": "มัสยิดอัตตักวา",
+                  "name": "Attaqwa Mosque",
                   "text": "Ein Gebetshaus für die lokale muslimische Gemeinschaft in Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -56,7 +56,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "มัสยิดบ้านฮ่อ",
+                  "name": "Baan Haw Mosque",
                   "text": "Eine der größten Moscheen in Chiang Mai, erbaut von den Chin Haw.",
                   "category": "religious",
                   "coords": [
@@ -65,7 +65,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจดีย์หลวงวรวิหาร",
+                  "name": "Wat Chedi Luang",
                   "text": "Ein historischer buddhistischer Tempel, der für seine massive, ruinierte Pagode bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -74,7 +74,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโลกโมฬี",
+                  "name": "Wat Lok Moli",
                   "text": "Einer der ältesten buddhistischen Tempel in Chiang Mai mit kunstvollen Holzschnitzereien.",
                   "category": "religious",
                   "coords": [
@@ -83,7 +83,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์แห่งชาติ จังหวัดเชียงใหม่",
+                  "name": "Chiang Mai National Museum",
                   "text": "Ein Nationalmuseum, das die Geschichte und Kultur Nordthailands präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -92,7 +92,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์สามกษัตริย์",
+                  "name": "Three Kings Monument",
                   "text": "Ein Denkmal im alten Stadtzentrum, das an die Gründer von Chiang Mai erinnert.",
                   "category": "historical",
                   "coords": [
@@ -101,7 +101,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเชียงยืน",
+                  "name": "Wat Chiang Yuen",
                   "text": "Ein buddhistischer Tempel in Chiang Mai, der für seine große weiße Chedi bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -128,7 +128,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อาสนวิหารพระหฤทัย",
+                  "name": "Sacred Heart Cathedral",
                   "text": "Eine katholische Kirche und ein Gebetshaus in Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -137,7 +137,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชมพู",
+                  "name": "Wat Chomphu",
                   "text": "Ein buddhistischer Tempel mit einer goldenen Pagode, die dem Wat Phra That Doi Suthep ähnelt.",
                   "category": "religious",
                   "coords": [
@@ -146,7 +146,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดผาบ่อง",
+                  "name": "Wat Pha Bong",
                   "text": "Ein friedlicher buddhistischer Tempel in der Altstadt von Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -164,7 +164,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยพระเกียรติ",
+                  "name": "Wat Chai Phra Kiat",
                   "text": "Ein buddhistischer Tempel in Chiang Mai, der für seine kunstvolle Versammlungshalle bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -173,7 +173,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทรายมูล (พม่า)",
+                  "name": "Wat Sai Mun (Burmese)",
                   "text": "Ein buddhistischer Tempel im birmanischen Stil für die Gemeinde in Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -182,7 +182,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทรายมูลเมือง",
+                  "name": "Wat Sai Mun Mueang",
                   "text": "Ein lokaler buddhistischer Tempel, der Raum für Gebet und Besinnung bietet.",
                   "category": "religious",
                   "coords": [
@@ -191,7 +191,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เทพมณเฑียร",
+                  "name": "Thep Monthien",
                   "text": "Ein hinduistischer Tempel und Gebetshaus für die lokale Gemeinschaft.",
                   "category": "religious",
                   "coords": [
@@ -200,7 +200,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหม้อคำตวง",
+                  "name": "Wat Mo Kham Tuang",
                   "text": "Ein traditioneller buddhistischer Tempel im nördlichen Teil von Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -209,7 +209,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดแสนเมืองมาหลวง",
+                  "name": "Wat Saen Mueang Ma Luang",
                   "text": "Ein beeindruckender Tempelkomplex mit kunstvoller Architektur im Lanna-Stil.",
                   "category": "religious",
                   "coords": [
@@ -218,7 +218,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบุพพาราม",
+                  "name": "Wat Buppharam",
                   "text": "Ein historischer Tempel, der für seine kleine Teakholzkapelle und die weiße Chedi bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -227,7 +227,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดดวงดี",
+                  "name": "Wat Duang Di",
                   "text": "Ein ruhiger buddhistischer Tempel in der Altstadt, dessen Name „viel Glück“ bedeutet.",
                   "category": "religious",
                   "coords": [
@@ -236,7 +236,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดล่ามช้าง",
+                  "name": "Wat Lam Chang",
                   "text": "Ein Tempel in Chiang Mai, in dem früher Elefanten gehalten wurden.",
                   "category": "religious",
                   "coords": [
@@ -245,7 +245,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจ็ดลิน",
+                  "name": "Wat Chet Lin",
                   "text": "Ein buddhistischer Tempel mit einem großen Teich und traditionellen Lanna-Gebäuden.",
                   "category": "religious",
                   "coords": [
@@ -254,7 +254,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดแสนฝาง",
+                  "name": "Wat Saen Fang",
                   "text": "Ein schöner Tempel, bekannt für seine birmanisch beeinflusste Architektur und rote Mauern.",
                   "category": "religious",
                   "coords": [
@@ -263,7 +263,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีสุพรรณ",
+                  "name": "Wat Sri Suphan",
                   "text": "Aufgrund seiner einzigartigen silberfarbenen Dekoration als „Silberner Tempel“ bekannt.",
                   "category": "religious",
                   "coords": [
@@ -281,7 +281,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหมื่นล้าน",
+                  "name": "Wat Muen Lan",
                   "text": "Ein lokaler Tempel in Chiang Mai, bekannt für seine traditionellen buddhistischen Bauwerke.",
                   "category": "religious",
                   "coords": [
@@ -290,7 +290,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหมื่นตุม",
+                  "name": "Wat Muen Tum",
                   "text": "Ein kleiner und friedlicher buddhistischer Tempel innerhalb der Stadtmauern.",
                   "category": "religious",
                   "coords": [
@@ -299,7 +299,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยศรีภูมิ",
+                  "name": "Wat Chai Si Phum",
                   "text": "Ein traditionelles Gebetshaus für die lokale buddhistische Gemeinschaft.",
                   "category": "religious",
                   "coords": [
@@ -308,7 +308,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดปราสาท",
+                  "name": "Wat Prasat",
                   "text": "Ein historischer Tempel mit einem klassischen hölzernen Viharn im Lanna-Stil.",
                   "category": "religious",
                   "coords": [
@@ -317,7 +317,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป้านปิง",
+                  "name": "Wat Pan Ping",
                   "text": "Ein charmanter buddhistischer Tempel im Herzen der Altstadt.",
                   "category": "religious",
                   "coords": [
@@ -326,7 +326,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหัวฝาย",
+                  "name": "Wat Hua Fai",
                   "text": "Ein ruhiger Nachbarschaftstempel, der Raum für lokales Gebet bietet.",
                   "category": "religious",
                   "coords": [
@@ -335,7 +335,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "มูลนิธิเชียงใหม่สามัคคีการกุศล",
+                  "name": "Chiang Mai Samakkhi Charity Foundation",
                   "text": "Eine Wohltätigkeitsstiftung und ein Gebetshaus in Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -344,7 +344,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Ein beliebter Tempel am Ufer des Ping-Flusses.",
                   "category": "religious",
                   "coords": [
@@ -353,7 +353,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าพร้าวใน",
+                  "name": "Wat Pa Phrao Nai",
                   "text": "Ein traditioneller buddhistischer Tempel in einer ruhigen Gegend der Stadt.",
                   "category": "religious",
                   "coords": [
@@ -362,7 +362,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพวกแต้ม",
+                  "name": "Wat Phuak Taem",
                   "text": "Ein Tempel, der für seine historische Verbindung zur Metallverarbeitung und zum Handwerk bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -371,7 +371,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเกตการาม",
+                  "name": "Wat Ket Karam",
                   "text": "Ein historischer Tempel am Flussufer mit einem Gemeinschaftsmuseum.",
                   "category": "religious",
                   "coords": [
@@ -380,7 +380,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดควรค่าม้า",
+                  "name": "Wat Khuan Kha Ma",
                   "text": "Ein buddhistischer Tempel in Chiang Mai, bekannt für seine einzigartigen Pferdestatuen.",
                   "category": "religious",
                   "coords": [
@@ -389,7 +389,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกู่เต้า",
+                  "name": "Wat Ku Tao",
                   "text": "Bekannt für seine einzigartige Pagode in Form von gestapelten Wassermelonen.",
                   "category": "religious",
                   "coords": [
@@ -398,7 +398,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดยางกวง",
+                  "name": "Wat Yang Kuang",
                   "text": "Ein historischer buddhistischer Tempel, der vor kurzem restauriert wurde.",
                   "category": "religious",
                   "coords": [
@@ -407,7 +407,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสำเภา",
+                  "name": "Wat Samphao",
                   "text": "Ein charmanter buddhistischer Tempel in der Altstadt von Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -425,7 +425,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจ็ดยอด",
+                  "name": "Wat Chet Yot",
                   "text": "Ein Tempel aus dem 15. Jahrhundert, der vom Mahabodhi-Tempel in Indien inspiriert wurde.",
                   "category": "landmark",
                   "coords": [
@@ -434,7 +434,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนบวกหาด",
+                  "name": "Suan Buak Haad Park",
                   "text": "Ein gepflegter öffentlicher Park in der südwestlichen Ecke der Altstadt.",
                   "category": "park",
                   "coords": [
@@ -443,7 +443,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+                  "name": "Chiang Mai Philatelic Museum",
                   "text": "Postmuseum in Chiang Mai, das thailändische Briefmarken und Postgeschichte zeigt.",
                   "category": "museum",
                   "coords": [
@@ -452,7 +452,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "คุ้มเจ้าบุรีรัตน์",
+                  "name": "Khum Chao Burirat",
                   "text": "Ein historisches Haus und Museum, das die Lanna-Architektur in Chiang Mai präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -461,7 +461,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอนิทรรศการศิลปวัฒนธรรม มหาวิทยาลัยเชียงใหม่",
+                  "name": "Chiang Mai University Art Center",
                   "text": "Ein Kunstzentrum der Universität Chiang Mai, das zeitgenössische Werke ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -470,7 +470,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+                  "name": "World Insect and Natural Wonder Museum",
                   "text": "Ein privates Museum in Chiang Mai mit einer großen Sammlung von Insekten und Fossilien.",
                   "category": "museum",
                   "coords": [
@@ -479,7 +479,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+                  "name": "Lanna Traditional House Museum",
                   "text": "Ein Freilichtmuseum in Chiang Mai, das traditionelle Lanna-Häuser bewahrt.",
                   "category": "museum",
                   "coords": [
@@ -499,7 +499,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "มัสยิดอัตตักวา",
+                  "name": "Attaqwa Mosque",
                   "text": "A helyi muszlim közösség temploma Csiangmajban.",
                   "category": "religious",
                   "coords": [
@@ -508,7 +508,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "มัสยิดบ้านฮ่อ",
+                  "name": "Baan Haw Mosque",
                   "text": "Csiangmaj egyik legnagyobb mecsetje, amelyet a csin-hók építettek.",
                   "category": "religious",
                   "coords": [
@@ -517,7 +517,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจดีย์หลวงวรวิหาร",
+                  "name": "Wat Chedi Luang",
                   "text": "Történelmi buddhista templom, amely hatalmas, romos pagodájáról ismert.",
                   "category": "religious",
                   "coords": [
@@ -526,7 +526,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโลกโมฬี",
+                  "name": "Wat Lok Moli",
                   "text": "Csiangmaj egyik legrégebbi buddhista temploma díszes fafaragásokkal.",
                   "category": "religious",
                   "coords": [
@@ -535,7 +535,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์แห่งชาติ จังหวัดเชียงใหม่",
+                  "name": "Chiang Mai National Museum",
                   "text": "Nemzeti múzeum, amely Észak-Thaiföld történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -544,7 +544,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์สามกษัตริย์",
+                  "name": "Three Kings Monument",
                   "text": "Az óváros központjában található emlékmű, amely Csiangmaj alapítóinak állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -553,7 +553,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเชียงยืน",
+                  "name": "Wat Chiang Yuen",
                   "text": "Buddhista templom Csiangmajban, amely nagy, fehér csedijéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -571,7 +571,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระสิงห์",
+                  "name": "Wat Phra Singh",
                   "text": "Jelentős templomkomplexum, amely a tisztelt Phra Buddha Sihing szobrot őrzi.",
                   "category": "religious",
                   "coords": [
@@ -580,7 +580,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อาสนวิหารพระหฤทัย",
+                  "name": "Sacred Heart Cathedral",
                   "text": "Katolikus templom és imaház Csiangmajban.",
                   "category": "religious",
                   "coords": [
@@ -589,7 +589,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชมพู",
+                  "name": "Wat Chomphu",
                   "text": "Buddhista templom arany pagodával, amely hasonlít a Wat Phra That Doi Suthep-hez.",
                   "category": "religious",
                   "coords": [
@@ -598,7 +598,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดผาบ่อง",
+                  "name": "Wat Pha Bong",
                   "text": "Békés buddhista templom Csiangmaj óvárosában.",
                   "category": "religious",
                   "coords": [
@@ -607,7 +607,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีเกิด",
+                  "name": "Wat Sri Koet",
                   "text": "Hagyományos buddhista templomhelyszín Csiangmajban.",
                   "category": "religious",
                   "coords": [
@@ -616,7 +616,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยพระเกียรติ",
+                  "name": "Wat Chai Phra Kiat",
                   "text": "Buddhista templom Csiangmajban, amely díszes gyülekezeti csarnokáról ismert.",
                   "category": "religious",
                   "coords": [
@@ -625,7 +625,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทรายมูล (พม่า)",
+                  "name": "Wat Sai Mun (Burmese)",
                   "text": "Burmai stílusú buddhista templom Csiangmajban.",
                   "category": "religious",
                   "coords": [
@@ -634,7 +634,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทรายมูลเมือง",
+                  "name": "Wat Sai Mun Mueang",
                   "text": "Helyi buddhista templom, amely helyet biztosít az imádságnak és az elmélkedésnek.",
                   "category": "religious",
                   "coords": [
@@ -643,7 +643,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เทพมณเฑียร",
+                  "name": "Thep Monthien",
                   "text": "Hindu templom és imaház a helyi közösség számára.",
                   "category": "religious",
                   "coords": [
@@ -652,7 +652,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหม้อคำตวง",
+                  "name": "Wat Mo Kham Tuang",
                   "text": "Hagyományos buddhista templom Csiangmaj északi részén.",
                   "category": "religious",
                   "coords": [
@@ -661,7 +661,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดแสนเมืองมาหลวง",
+                  "name": "Wat Saen Mueang Ma Luang",
                   "text": "Lenyűgöző templomkomplexum bonyolult Lanna-stílusú építészettel.",
                   "category": "religious",
                   "coords": [
@@ -670,7 +670,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบุพพาราม",
+                  "name": "Wat Buppharam",
                   "text": "Történelmi templom, amely kis teakfa kápolnájáról és fehér csedijéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -679,7 +679,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดดวงดี",
+                  "name": "Wat Duang Di",
                   "text": "Csendes buddhista templom az óvárosban, amelynek neve „jó szerencsét” jelent.",
                   "category": "religious",
                   "coords": [
@@ -688,7 +688,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดล่ามช้าง",
+                  "name": "Wat Lam Chang",
                   "text": "Egy templom Csiangmajban, ahol egykor elefántokat tartottak.",
                   "category": "religious",
                   "coords": [
@@ -697,7 +697,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจ็ดลิน",
+                  "name": "Wat Chet Lin",
                   "text": "Buddhista templom nagy tóval és hagyományos Lanna épületekkel.",
                   "category": "religious",
                   "coords": [
@@ -706,7 +706,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดแสนฝาง",
+                  "name": "Wat Saen Fang",
                   "text": "Gyönyörű templom, amely burmai hatású építészetéről és vörös falairól ismert.",
                   "category": "religious",
                   "coords": [
@@ -715,7 +715,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีสุพรรณ",
+                  "name": "Wat Sri Suphan",
                   "text": "Egyedülálló ezüstszínű díszítése miatt „Ezüsttemplomként” ismert.",
                   "category": "religious",
                   "coords": [
@@ -724,7 +724,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสวนดอก",
+                  "name": "Wat Suan Dok",
                   "text": "Templom, amely „szerzetesi csevegést” kínál a látogatókkal való kulturális eszmecsere céljából.",
                   "category": "religious",
                   "coords": [
@@ -733,7 +733,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหมื่นล้าน",
+                  "name": "Wat Muen Lan",
                   "text": "Helyi templom Csiangmajban, amely hagyományos buddhista építményeiről ismert.",
                   "category": "religious",
                   "coords": [
@@ -742,7 +742,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหมื่นตุม",
+                  "name": "Wat Muen Tum",
                   "text": "Kicsi és békés buddhista templom a városfalakon belül.",
                   "category": "religious",
                   "coords": [
@@ -751,7 +751,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยศรีภูมิ",
+                  "name": "Wat Chai Si Phum",
                   "text": "Hagyományos imaház a helyi buddhista közösség számára.",
                   "category": "religious",
                   "coords": [
@@ -760,7 +760,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดปราสาท",
+                  "name": "Wat Prasat",
                   "text": "Történelmi templom klasszikus Lanna-stílusú fa viharnnal.",
                   "category": "religious",
                   "coords": [
@@ -769,7 +769,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป้านปิง",
+                  "name": "Wat Pan Ping",
                   "text": "Bájos buddhista templom az óváros szívében.",
                   "category": "religious",
                   "coords": [
@@ -778,7 +778,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหัวฝาย",
+                  "name": "Wat Hua Fai",
                   "text": "Csendes környékbeli templom, amely helyet biztosít a helyi hitéletnek.",
                   "category": "religious",
                   "coords": [
@@ -787,7 +787,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "มูลนิธิเชียงใหม่สามัคคีการกุศล",
+                  "name": "Chiang Mai Samakkhi Charity Foundation",
                   "text": "Jótékonysági alapítvány és imaház Csiangmajban.",
                   "category": "religious",
                   "coords": [
@@ -796,7 +796,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Népszerű templom a Ping-folyó partján.",
                   "category": "religious",
                   "coords": [
@@ -805,7 +805,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าพร้าวใน",
+                  "name": "Wat Pa Phrao Nai",
                   "text": "Hagyományos buddhista templom a város egyik csendes részén.",
                   "category": "religious",
                   "coords": [
@@ -823,7 +823,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเกตการาม",
+                  "name": "Wat Ket Karam",
                   "text": "Történelmi templom a folyóparton, közösségi múzeummal.",
                   "category": "religious",
                   "coords": [
@@ -832,7 +832,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดควรค่าม้า",
+                  "name": "Wat Khuan Kha Ma",
                   "text": "Buddhista templom Csiangmajban, amely egyedülálló lószobrairól ismert.",
                   "category": "religious",
                   "coords": [
@@ -841,7 +841,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกู่เต้า",
+                  "name": "Wat Ku Tao",
                   "text": "Egyedülálló, egymásra rakott görögdinnyékre emlékeztető pagodájáról ismert.",
                   "category": "religious",
                   "coords": [
@@ -850,7 +850,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดยางกวง",
+                  "name": "Wat Yang Kuang",
                   "text": "Történelmi buddhista templom, amely a közelmúltban restauráláson esett át.",
                   "category": "religious",
                   "coords": [
@@ -859,7 +859,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสำเภา",
+                  "name": "Wat Samphao",
                   "text": "Bájos buddhistatemplom Csiangmaj óvárosában.",
                   "category": "religious",
                   "coords": [
@@ -877,7 +877,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจ็ดยอด",
+                  "name": "Wat Chet Yot",
                   "text": "15. századi templom, amelyet az indiai Mahabodhi-templom ihletett.",
                   "category": "landmark",
                   "coords": [
@@ -886,7 +886,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนบวกหาด",
+                  "name": "Suan Buak Haad Park",
                   "text": "Gondozott közpark az óváros délnyugati sarkában.",
                   "category": "park",
                   "coords": [
@@ -895,7 +895,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+                  "name": "Chiang Mai Philatelic Museum",
                   "text": "Postamúzeum Chiang Maiban, amely a thai bélyegeket és postatörténetet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -904,7 +904,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "คุ้มเจ้าบุรีรัตน์",
+                  "name": "Khum Chao Burirat",
                   "text": "Történelmi ház és múzeum, amely a lanna építészetet mutatja be Chiang Maiban.",
                   "category": "museum",
                   "coords": [
@@ -913,7 +913,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอนิทรรศการศิลปวัฒนธรรม มหาวิทยาลัยเชียงใหม่",
+                  "name": "Chiang Mai University Art Center",
                   "text": "A Chiang Mai Egyetem művészeti központja, amely kortárs műveket állít ki.",
                   "category": "museum",
                   "coords": [
@@ -922,7 +922,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+                  "name": "World Insect and Natural Wonder Museum",
                   "text": "Magánmúzeum Chiang Maiban, rovarok és fosszíliák nagy gyűjteményével.",
                   "category": "museum",
                   "coords": [
@@ -931,7 +931,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+                  "name": "Lanna Traditional House Museum",
                   "text": "Szabadtéri múzeum Chiang Maiban, amely hagyományos lanna házakat őriz.",
                   "category": "museum",
                   "coords": [
@@ -951,7 +951,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "มัสยิดอัตตักวา",
+                  "name": "Attaqwa Mosque",
                   "text": "Un lăcaș de cult pentru comunitatea musulmană locală din Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -960,7 +960,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "มัสยิดบ้านฮ่อ",
+                  "name": "Baan Haw Mosque",
                   "text": "Una dintre cele mai mari moschei din Chiang Mai, construită de poporul Chin Haw.",
                   "category": "religious",
                   "coords": [
@@ -969,7 +969,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจดีย์หลวงวรวิหาร",
+                  "name": "Wat Chedi Luang",
                   "text": "Un templu budist istoric cunoscut pentru pagoda sa masivă în ruină.",
                   "category": "religious",
                   "coords": [
@@ -978,7 +978,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโลกโมฬี",
+                  "name": "Wat Lok Moli",
                   "text": "Unul dintre cele mai vechi temple budiste din Chiang Mai, cu sculpturi ornamentate în lemn.",
                   "category": "religious",
                   "coords": [
@@ -987,7 +987,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์แห่งชาติ จังหวัดเชียงใหม่",
+                  "name": "Chiang Mai National Museum",
                   "text": "Un muzeu național care prezintă istoria și cultura Thailandei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -996,7 +996,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์สามกษัตริย์",
+                  "name": "Three Kings Monument",
                   "text": "Un monument din centrul vechi al orașului care îi comemorează pe fondatorii orașului Chiang Mai.",
                   "category": "historical",
                   "coords": [
@@ -1005,7 +1005,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเชียงยืน",
+                  "name": "Wat Chiang Yuen",
                   "text": "Un templu budist din Chiang Mai cunoscut pentru marea sa chedi albă.",
                   "category": "religious",
                   "coords": [
@@ -1023,7 +1023,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระสิงห์",
+                  "name": "Wat Phra Singh",
                   "text": "Un complex de temple semnificativ care adăpostește venerata imagine Phra Buddha Sihing.",
                   "category": "religious",
                   "coords": [
@@ -1032,7 +1032,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อาสนวิหารพระหฤทัย",
+                  "name": "Sacred Heart Cathedral",
                   "text": "O biserică catolică și lăcaș de cult situat în Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1041,7 +1041,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชมพู",
+                  "name": "Wat Chomphu",
                   "text": "Un templu budist cu o pagodă aurie similară cu Wat Phra That Doi Suthep.",
                   "category": "religious",
                   "coords": [
@@ -1050,7 +1050,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดผาบ่อง",
+                  "name": "Wat Pha Bong",
                   "text": "Un templu budist liniștit situat în orașul vechi din Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1059,7 +1059,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีเกิด",
+                  "name": "Wat Sri Koet",
                   "text": "Un sit de templu tradițional pentru practica budistă în Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1068,7 +1068,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยพระเกียรติ",
+                  "name": "Wat Chai Phra Kiat",
                   "text": "Un templu budist din Chiang Mai cunoscut pentru sala sa de adunare ornamentată.",
                   "category": "religious",
                   "coords": [
@@ -1077,7 +1077,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทรายมูล (พม่า)",
+                  "name": "Wat Sai Mun (Burmese)",
                   "text": "Un templu budist în stil birmanez care deservește comunitatea din Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1086,7 +1086,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทรายมูลเมือง",
+                  "name": "Wat Sai Mun Mueang",
                   "text": "Un templu budist local care oferă un loc de închinare și reflecție.",
                   "category": "religious",
                   "coords": [
@@ -1095,7 +1095,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เทพมณเฑียร",
+                  "name": "Thep Monthien",
                   "text": "Un templu hindu și lăcaș de cult pentru comunitatea locală.",
                   "category": "religious",
                   "coords": [
@@ -1104,7 +1104,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหม้อคำตวง",
+                  "name": "Wat Mo Kham Tuang",
                   "text": "Un templu budist tradițional situat în partea de nord a orașului Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1113,7 +1113,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดแสนเมืองมาหลวง",
+                  "name": "Wat Saen Mueang Ma Luang",
                   "text": "Un complex de temple uimitor cu arhitectură complicată în stil Lanna.",
                   "category": "religious",
                   "coords": [
@@ -1122,7 +1122,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบุพพาราม",
+                  "name": "Wat Buppharam",
                   "text": "Un templu istoric cunoscut pentru mica sa capelă din lemn de tec și chedi albă.",
                   "category": "religious",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดดวงดี",
+                  "name": "Wat Duang Di",
                   "text": "Un templu budist liniștit din orașul vechi, al cărui nume înseamnă „noroc”.",
                   "category": "religious",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดล่ามช้าง",
+                  "name": "Wat Lam Chang",
                   "text": "Un templu din Chiang Mai unde în trecut erau ținuți elefanți.",
                   "category": "religious",
                   "coords": [
@@ -1149,7 +1149,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจ็ดลิน",
+                  "name": "Wat Chet Lin",
                   "text": "Un templu budist cu un iaz mare și clădiri tradiționale Lanna.",
                   "category": "religious",
                   "coords": [
@@ -1158,7 +1158,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดแสนฝาง",
+                  "name": "Wat Saen Fang",
                   "text": "Un templu frumos cunoscut pentru arhitectura sa cu influențe birmaneze și pereții roșii.",
                   "category": "religious",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีสุพรรณ",
+                  "name": "Wat Sri Suphan",
                   "text": "Cunoscut sub numele de „Templul de Argint” pentru decorul său unic de culoare argintie.",
                   "category": "religious",
                   "coords": [
@@ -1176,7 +1176,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสวนดอก",
+                  "name": "Wat Suan Dok",
                   "text": "Un templu care oferă sesiuni de „dialog cu călugării” pentru schimb cultural cu vizitatorii.",
                   "category": "religious",
                   "coords": [
@@ -1185,7 +1185,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหมื่นล้าน",
+                  "name": "Wat Muen Lan",
                   "text": "Un templu local din Chiang Mai cunoscut pentru structurile sale budiste tradiționale.",
                   "category": "religious",
                   "coords": [
@@ -1194,7 +1194,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหมื่นตุม",
+                  "name": "Wat Muen Tum",
                   "text": "Un templu budist mic și liniștit situat în interiorul zidurilor orașului.",
                   "category": "religious",
                   "coords": [
@@ -1203,7 +1203,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยศรีภูมิ",
+                  "name": "Wat Chai Si Phum",
                   "text": "Un lăcaș de cult tradițional pentru comunitatea budistă locală.",
                   "category": "religious",
                   "coords": [
@@ -1212,7 +1212,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดปราสาท",
+                  "name": "Wat Prasat",
                   "text": "Un templu istoric cu un viharn clasic din lemn în stil Lanna.",
                   "category": "religious",
                   "coords": [
@@ -1221,7 +1221,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป้านปิง",
+                  "name": "Wat Pan Ping",
                   "text": "Un templu budist fermecător situat în inima orașului vechi.",
                   "category": "religious",
                   "coords": [
@@ -1230,7 +1230,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหัวฝาย",
+                  "name": "Wat Hua Fai",
                   "text": "Un templu de cartier liniștit care oferă un spațiu pentru închinarea locală.",
                   "category": "religious",
                   "coords": [
@@ -1239,7 +1239,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "มูลนิธิเชียงใหม่สามัคคีการกุศล",
+                  "name": "Chiang Mai Samakkhi Charity Foundation",
                   "text": "O fundație caritabilă și lăcaș de cult în Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1248,7 +1248,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Un templu popular situat pe malul râului Ping.",
                   "category": "religious",
                   "coords": [
@@ -1257,7 +1257,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าพร้าวใน",
+                  "name": "Wat Pa Phrao Nai",
                   "text": "Un templu budist tradițional situat într-o zonă liniștită a orașului.",
                   "category": "religious",
                   "coords": [
@@ -1266,7 +1266,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพวกแต้ม",
+                  "name": "Wat Phuak Taem",
                   "text": "Un templu cunoscut pentru asocierea sa istorică cu prelucrarea metalelor și meșteșugurile.",
                   "category": "religious",
                   "coords": [
@@ -1275,7 +1275,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเกตการาม",
+                  "name": "Wat Ket Karam",
                   "text": "Un templu istoric de pe malul râului, care găzduiește un muzeu comunitar.",
                   "category": "religious",
                   "coords": [
@@ -1284,7 +1284,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดควรค่าม้า",
+                  "name": "Wat Khuan Kha Ma",
                   "text": "Un templu budist din Chiang Mai cunoscut pentru statuile sale unice de cai.",
                   "category": "religious",
                   "coords": [
@@ -1293,7 +1293,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกู่เต้า",
+                  "name": "Wat Ku Tao",
                   "text": "Cunoscut pentru pagoda sa unică în formă de pepeni verzi stivuiți.",
                   "category": "religious",
                   "coords": [
@@ -1302,7 +1302,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดยางกวง",
+                  "name": "Wat Yang Kuang",
                   "text": "Un templu budist istoric care a fost restaurat recent.",
                   "category": "religious",
                   "coords": [
@@ -1311,7 +1311,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสำเภา",
+                  "name": "Wat Samphao",
                   "text": "Un templu budist fermecător situat în orașul vechi din Chiang Mai.",
                   "category": "religious",
                   "coords": [
@@ -1329,7 +1329,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเจ็ดยอด",
+                  "name": "Wat Chet Yot",
                   "text": "Un templu din secolul al XV-lea inspirat de templul Mahabodhi din India.",
                   "category": "landmark",
                   "coords": [
@@ -1338,7 +1338,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนบวกหาด",
+                  "name": "Suan Buak Haad Park",
                   "text": "Un parc public bine întreținut în colțul de sud-vest al orașului vechi.",
                   "category": "park",
                   "coords": [
@@ -1347,7 +1347,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+                  "name": "Chiang Mai Philatelic Museum",
                   "text": "Muzeul filatelic din Chiang Mai, care expune timbre și istoria poștală a Thailandei.",
                   "category": "museum",
                   "coords": [
@@ -1356,7 +1356,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "คุ้มเจ้าบุรีรัตน์",
+                  "name": "Khum Chao Burirat",
                   "text": "O casă istorică și un muzeu care prezintă arhitectura Lanna în Chiang Mai.",
                   "category": "museum",
                   "coords": [
@@ -1365,7 +1365,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอนิทรรศการศิลปวัฒนธรรม มหาวิทยาลัยเชียงใหม่",
+                  "name": "Chiang Mai University Art Center",
                   "text": "Un centru de artă al Universității Chiang Mai care expune lucrări contemporane.",
                   "category": "museum",
                   "coords": [
@@ -1374,7 +1374,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+                  "name": "World Insect and Natural Wonder Museum",
                   "text": "Un muzeu privat din Chiang Mai cu o colecție bogată de insecte și fosile.",
                   "category": "museum",
                   "coords": [
@@ -1383,7 +1383,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+                  "name": "Lanna Traditional House Museum",
                   "text": "Un muzeu în aer liber din Chiang Mai care conservă case tradiționale Lanna.",
                   "category": "museum",
                   "coords": [
@@ -2013,7 +2013,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดพัทยา",
+                  "name": "Pattaya Beach",
                   "text": "Ein bekannter Strandabschnitt in Pattaya mit zahlreichen Freizeitmöglichkeiten.",
                   "category": "recreational",
                   "coords": [
@@ -2031,7 +2031,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดเอเชีย",
+                  "name": "Asia Beach",
                   "text": "Ein ruhigerer Sandstrand im Süden von Pattaya.",
                   "category": "recreational",
                   "coords": [
@@ -2076,7 +2076,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดนาเกลือ",
+                  "name": "Naklua Beach",
                   "text": "Ein ruhigerer Sandstrand im Norden von Pattaya.",
                   "category": "recreational",
                   "coords": [
@@ -2085,7 +2085,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สนุกปาร์ค",
+                  "name": "Sanuk Park",
                   "text": "Ein Freizeitpark in Pattaya mit verschiedenen Attraktionen für Besucher.",
                   "category": "family",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนพัทยาสายหนึ่ง",
+                  "name": "Pattaya Beach Road",
                   "text": "Eine belebte Straße in Pattaya, die für ihre Geschäfte und Unterhaltungsmöglichkeiten bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2103,7 +2103,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พัทยาปาร์คทาวเวอร์",
+                  "name": "Pattaya Park Tower",
                   "text": "Ein markanter Turm in Pattaya mit Aussichtsplattform und Drehrestaurant.",
                   "category": "landmark",
                   "coords": [
@@ -2112,7 +2112,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเมืองพัทยา",
+                  "name": "Pattaya City Viewpoint",
                   "text": "Ein beliebter Aussichtspunkt, der einen Panoramablick über die Bucht von Pattaya bietet.",
                   "category": "natural",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ป้าย Pattaya City",
+                  "name": "Pattaya City Sign",
                   "text": "Das ikonische Stadtschild von Pattaya auf einem Hügel über der Bucht.",
                   "category": "landmark",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนน้ำพัทยาปาร์ค",
+                  "name": "Pattaya Park Water Park",
                   "text": "Ein Wasserpark in Pattaya mit verschiedenen Rutschen und Pools.",
                   "category": "landmark",
                   "coords": [
@@ -2157,7 +2157,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Ein bedeutender buddhistischer Tempel im Zentrum von Pattaya.",
                   "category": "religious",
                   "coords": [
@@ -2231,7 +2231,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดพัทยา",
+                  "name": "Pattaya Beach",
                   "text": "Ismert tengerparti szakasz Pattayában, számos szabadidős lehetőséggel.",
                   "category": "recreational",
                   "coords": [
@@ -2249,7 +2249,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดเอเชีย",
+                  "name": "Asia Beach",
                   "text": "Csendesebb homokos tengerpart Pattaya déli részén.",
                   "category": "recreational",
                   "coords": [
@@ -2294,7 +2294,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดนาเกลือ",
+                  "name": "Naklua Beach",
                   "text": "Egy nyugodtabb homokos tengerpart Pattaya északi részén.",
                   "category": "recreational",
                   "coords": [
@@ -2303,7 +2303,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สนุกปาร์ค",
+                  "name": "Sanuk Park",
                   "text": "Vidámpark Pattayán, amely különféle attrakciókat kínál a látogatóknak.",
                   "category": "family",
                   "coords": [
@@ -2312,7 +2312,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนพัทยาสายหนึ่ง",
+                  "name": "Pattaya Beach Road",
                   "text": "Pattaya egyik forgalmas útja, amely üzleteiről és szórakozási lehetőségeiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2321,7 +2321,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พัทยาปาร์คทาวเวอร์",
+                  "name": "Pattaya Park Tower",
                   "text": "Pattaya jellegzetes tornya kilátóval és forgó étteremmel.",
                   "category": "landmark",
                   "coords": [
@@ -2330,7 +2330,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเมืองพัทยา",
+                  "name": "Pattaya City Viewpoint",
                   "text": "Népszerű kilátóhely, ahonnan panorámás kilátás nyílik a Pattaya-öbölre.",
                   "category": "natural",
                   "coords": [
@@ -2339,7 +2339,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ป้าย Pattaya City",
+                  "name": "Pattaya City Sign",
                   "text": "Pattaya ikonikus városfelirata egy dombon, az öböl felett.",
                   "category": "landmark",
                   "coords": [
@@ -2348,7 +2348,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนน้ำพัทยาปาร์ค",
+                  "name": "Pattaya Park Water Park",
                   "text": "Vízipark Pattayán különféle csúszdákkal és medencékkel.",
                   "category": "landmark",
                   "coords": [
@@ -2375,7 +2375,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Fontos buddhista templom Pattaya központjában.",
                   "category": "religious",
                   "coords": [
@@ -2449,7 +2449,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดพัทยา",
+                  "name": "Pattaya Beach",
                   "text": "O porțiune de plajă cunoscută în Pattaya, cu numeroase facilități de agrement.",
                   "category": "recreational",
                   "coords": [
@@ -2467,7 +2467,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดเอเชีย",
+                  "name": "Asia Beach",
                   "text": "O plajă de nisip mai liniștită în partea de sud a orașului Pattaya.",
                   "category": "recreational",
                   "coords": [
@@ -2512,7 +2512,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หาดนาเกลือ",
+                  "name": "Naklua Beach",
                   "text": "O plajă de nisip mai liniștită situată în nordul orașului Pattaya.",
                   "category": "recreational",
                   "coords": [
@@ -2521,7 +2521,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สนุกปาร์ค",
+                  "name": "Sanuk Park",
                   "text": "Un parc de distracții din Pattaya, oferind diverse atracții pentru vizitatori.",
                   "category": "family",
                   "coords": [
@@ -2530,7 +2530,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนพัทยาสายหนึ่ง",
+                  "name": "Pattaya Beach Road",
                   "text": "O stradă aglomerată din Pattaya, cunoscută pentru magazinele și opțiunile de divertisment.",
                   "category": "landmark",
                   "coords": [
@@ -2539,7 +2539,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พัทยาปาร์คทาวเวอร์",
+                  "name": "Pattaya Park Tower",
                   "text": "Un turn proeminent din Pattaya, dotat cu o platformă de observație și un restaurant rotitor.",
                   "category": "landmark",
                   "coords": [
@@ -2548,7 +2548,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเมืองพัทยา",
+                  "name": "Pattaya City Viewpoint",
                   "text": "Un punct de belvedere popular care oferă o vedere panoramică asupra golfului Pattaya.",
                   "category": "natural",
                   "coords": [
@@ -2557,7 +2557,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ป้าย Pattaya City",
+                  "name": "Pattaya City Sign",
                   "text": "Semnul iconic al orașului Pattaya, situat pe un deal deasupra golfului.",
                   "category": "landmark",
                   "coords": [
@@ -2566,7 +2566,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนน้ำพัทยาปาร์ค",
+                  "name": "Pattaya Park Water Park",
                   "text": "Un parc acvatic din Pattaya, dotat cu diverse tobogane și piscine.",
                   "category": "landmark",
                   "coords": [
@@ -2593,7 +2593,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Un templu budist important situat în centrul orașului Pattaya.",
                   "category": "religious",
                   "coords": [
@@ -2917,7 +2917,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "udon-thani-cities-v2", "sights": {
       "de": [
             {
-                  "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+                  "name": "Udon Thani City Museum",
                   "text": "Ein Museum, das die Geschichte, Archäologie und Kultur der Provinz Udon Thani präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -2935,7 +2935,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เป็ดเหลืองยักษ์",
+                  "name": "Giant Yellow Duck",
                   "text": "Eine große aufblasbare gelbe Ente im Nong Prajak Park, ein bekanntes Wahrzeichen von Udon Thani.",
                   "category": "landmark",
                   "coords": [
@@ -2944,7 +2944,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "กรมหลวง ประจักษ์ ศิลปาคม",
+                  "name": "Prince Prajak Srilapakorn Monument",
                   "text": "Ein Denkmal zu Ehren des Gründers von Udon Thani, Prinz Prajak Srilapakorn.",
                   "category": "historical",
                   "coords": [
@@ -2953,7 +2953,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโพธิสมภรณ์",
+                  "name": "Wat Pho Somphon",
                   "text": "Ein bedeutender buddhistischer Tempel königlichen Ranges im Zentrum von Udon Thani.",
                   "category": "religious",
                   "coords": [
@@ -2962,7 +2962,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมัชฌิมาวาส",
+                  "name": "Wat Matchimawat",
                   "text": "Ein alter buddhistischer Tempel in Udon Thani, der für seine Buddha-Statue Phra Phuttha Phokhasattaya bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -2973,7 +2973,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+                  "name": "Udon Thani City Museum",
                   "text": "Múzeum, amely bemutatja Udon Thani tartomány történelmét, régészetét és kultúráját.",
                   "category": "museum",
                   "coords": [
@@ -2991,7 +2991,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เป็ดเหลืองยักษ์",
+                  "name": "Giant Yellow Duck",
                   "text": "Hatalmas felfújható sárga kacsa a Nong Prajak parkban, Udon Thani egyik legismertebb jelképe.",
                   "category": "landmark",
                   "coords": [
@@ -3000,7 +3000,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "กรมหลวง ประจักษ์ ศิลปาคม",
+                  "name": "Prince Prajak Srilapakorn Monument",
                   "text": "Emlékmű Udon Thani alapítója, Prajak Srilapakorn herceg tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -3009,7 +3009,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโพธิสมภรณ์",
+                  "name": "Wat Pho Somphon",
                   "text": "Jelentős, királyi rangú buddhista templom Udon Thani központjában.",
                   "category": "religious",
                   "coords": [
@@ -3018,7 +3018,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมัชฌิมาวาส",
+                  "name": "Wat Matchimawat",
                   "text": "Régi buddhista templom Udon Thaniban, amely Phra Phuttha Phokhasattaya szobráról ismert.",
                   "category": "religious",
                   "coords": [
@@ -3029,7 +3029,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+                  "name": "Udon Thani City Museum",
                   "text": "Un muzeu care prezintă istoria, arheologia și cultura provinciei Udon Thani.",
                   "category": "museum",
                   "coords": [
@@ -3047,7 +3047,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เป็ดเหลืองยักษ์",
+                  "name": "Giant Yellow Duck",
                   "text": "O rață galbenă gonflabilă uriașă în parcul Nong Prajak, un simbol cunoscut al orașului Udon Thani.",
                   "category": "landmark",
                   "coords": [
@@ -3056,7 +3056,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "กรมหลวง ประจักษ์ ศิลปาคม",
+                  "name": "Prince Prajak Srilapakorn Monument",
                   "text": "Un monument în onoarea fondatorului orașului Udon Thani, prințul Prajak Srilapakorn.",
                   "category": "historical",
                   "coords": [
@@ -3065,7 +3065,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโพธิสมภรณ์",
+                  "name": "Wat Pho Somphon",
                   "text": "Un templu budist important de rang regal în centrul orașului Udon Thani.",
                   "category": "religious",
                   "coords": [
@@ -3074,7 +3074,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมัชฌิมาวาส",
+                  "name": "Wat Matchimawat",
                   "text": "Un vechi templu budist în Udon Thani, cunoscut pentru statuia sa Buddha Phra Phuttha Phokhasattaya.",
                   "category": "religious",
                   "coords": [
@@ -3245,7 +3245,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ลานพระบิดา",
+                  "name": "Prince Mahidol Monument",
                   "text": "Ein Denkmal zu Ehren von Prinz Mahidol Adulyadej in Hat Yai.",
                   "category": "historical",
                   "coords": [
@@ -3265,7 +3265,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ลานพระบิดา",
+                  "name": "Prince Mahidol Monument",
                   "text": "Mahidol Adulyadej herceg tiszteletére emelt emlékmű Hat Yaiban.",
                   "category": "historical",
                   "coords": [
@@ -3285,7 +3285,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ลานพระบิดา",
+                  "name": "Prince Mahidol Monument",
                   "text": "Un monument ridicat în onoarea prințului Mahidol Adulyadej în Hat Yai.",
                   "category": "historical",
                   "coords": [
@@ -3364,7 +3364,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "ayutthaya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "วัดราชพลี",
+                  "name": "Wat Ratchaphli",
                   "text": "Eine archäologische Stätte in Ayutthaya, die Überreste eines historischen buddhistischen Tempels umfasst.",
                   "category": "historical",
                   "coords": [
@@ -3373,7 +3373,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระศรีสรรเพชญ์",
+                  "name": "Wat Phra Si Sanphet",
                   "text": "Der wichtigste Tempel des ehemaligen königlichen Palastes in Ayutthaya, bekannt für seine drei großen Chedis.",
                   "category": "historical",
                   "coords": [
@@ -3382,7 +3382,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดราชบูรณะ",
+                  "name": "Wat Ratchaburana",
                   "text": "Ein Tempel aus dem 15. Jahrhundert in Ayutthaya, berühmt für die in seiner Krypta entdeckten Goldschätze.",
                   "category": "historical",
                   "coords": [
@@ -3391,7 +3391,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาธาตุ",
+                  "name": "Wat Mahathat",
                   "text": "Ein historischer Tempel in Ayutthaya, bekannt für den im Wurzelwerk eines Baumes eingewachsenen Buddha-Kopf.",
                   "category": "historical",
                   "coords": [
@@ -3400,7 +3400,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วิหารแกลบ",
+                  "name": "Wihan Klaep",
                   "text": "Eine archäologische Ausgrabungsstätte in Ayutthaya mit Ruinen eines antiken religiösen Gebäudes.",
                   "category": "historical",
                   "coords": [
@@ -3409,7 +3409,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดใหญ่ชัยมงคลวรวิหาร",
+                  "name": "Wat Yai Chai Mongkhon",
                   "text": "Ein beeindruckender Tempel in Ayutthaya mit einem großen liegenden Buddha und einem markanten Chedi.",
                   "category": "landmark",
                   "coords": [
@@ -3418,7 +3418,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+                  "name": "Chao Sam Phraya National Museum",
                   "text": "Dieses Nationalmuseum in Ayutthaya beherbergt bedeutende Goldfunde und Artefakte aus der Geschichte des Königreichs.",
                   "category": "museum",
                   "coords": [
@@ -3427,7 +3427,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบรมพุทธาราม",
+                  "name": "Wat Borom Phuttharam",
                   "text": "Diese historische Stätte in Ayutthaya bewahrt die architektonischen Überreste eines ehemaligen buddhistischen Tempels.",
                   "category": "historical",
                   "coords": [
@@ -3436,7 +3436,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยภูมิ",
+                  "name": "Wat Chaiyaphum",
                   "text": "Eine antike Ruinenstätte in Ayutthaya, die Teil des reichen archäologischen Erbes der ehemaligen Hauptstadt ist.",
                   "category": "historical",
                   "coords": [
@@ -3445,7 +3445,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดวังชัย",
+                  "name": "Wat Wang Chai",
                   "text": "Überreste einer historischen Tempelanlage in der alten Königsstadt Ayutthaya.",
                   "category": "historical",
                   "coords": [
@@ -3454,7 +3454,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพลับพลาไชย",
+                  "name": "Wat Phlapphla Chai",
                   "text": "Eine archäologische Stätte in Ayutthaya, die Einblicke in die sakrale Architektur der Vergangenheit bietet.",
                   "category": "historical",
                   "coords": [
@@ -3463,7 +3463,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดลายสอ",
+                  "name": "Wat Lai So",
                   "text": "Historische Ruinen eines ehemaligen Tempels in der archäologischen Zone von Ayutthaya.",
                   "category": "historical",
                   "coords": [
@@ -3472,7 +3472,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเตว็ด",
+                  "name": "Wat Tewet",
                   "text": "Eine weitere bedeutende archäologische Stätte, die zum historischen Stadtbild von Ayutthaya gehört.",
                   "category": "historical",
                   "coords": [
@@ -3481,7 +3481,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ป้อมเพชร",
+                  "name": "Pom Phet Fortress",
                   "text": "Diese historische Festung in Ayutthaya diente einst dem Schutz der alten thailändischen Hauptstadt.",
                   "category": "fortress",
                   "coords": [
@@ -3490,7 +3490,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดนักบุญยอแซฟ",
+                  "name": "St. Joseph's Church",
                   "text": "Eine historische katholische Kirche am Flussufer, die von der frühen europäischen Präsenz in Ayutthaya zeugt.",
                   "category": "religious",
                   "coords": [
@@ -3499,7 +3499,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วิหารพระมงคลบพิตร",
+                  "name": "Wihan Phra Mongkhon Bophit",
                   "text": "Diese prächtige Gebetshalle beherbergt eine der größten bronzenen Buddha-Statuen Thailands.",
                   "category": "religious",
                   "coords": [
@@ -3508,7 +3508,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดอินทาราม",
+                  "name": "Wat Intharam",
                   "text": "Ein buddhistischer Tempel in Ayutthaya, der als Ort der Ruhe und des Gebets dient.",
                   "category": "religious",
                   "coords": [
@@ -3526,7 +3526,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดธรรมนิยม",
+                  "name": "Wat Thammaniyom",
                   "text": "Ein traditioneller thailändischer Tempel, der die religiöse Vielfalt der Stadt Ayutthaya widerspiegelt.",
                   "category": "religious",
                   "coords": [
@@ -3535,7 +3535,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าโค",
+                  "name": "Wat Pa Kho",
                   "text": "Diese religiöse Anlage in Ayutthaya bietet Besuchern einen Einblick in die lokale buddhistische Praxis.",
                   "category": "religious",
                   "coords": [
@@ -3544,7 +3544,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ตลาดน้ำอโยธยา",
+                  "name": "Ayothaya Floating Market",
                   "text": "Ein lebhafter schwimmender Markt in Ayutthaya, der traditionelles Kunsthandwerk, Speisen und kulturelle Vorführungen bietet.",
                   "category": "landmark",
                   "coords": [
@@ -3553,7 +3553,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดธรรมิกราช",
+                  "name": "Wat Thammikarat",
                   "text": "Ein bedeutender historischer Tempel in Ayutthaya, der für seine liegende Buddha-Statue bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3562,7 +3562,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดญาณเสน",
+                  "name": "Wat Yanasen",
                   "text": "Eine sehenswerte Anlage in Ayutthaya mit einer charakteristischen Architektur und religiösen Bedeutung.",
                   "category": "landmark",
                   "coords": [
@@ -3571,7 +3571,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสุวรรณดารารามราชวรวิหาร",
+                  "name": "Wat Suwandararam",
                   "text": "Dieser königliche Tempel in Ayutthaya ist berühmt für seine feinen Wandmalereien und die klassische Architektur.",
                   "category": "landmark",
                   "coords": [
@@ -3580,7 +3580,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกษัตราธิราชวรวิหาร",
+                  "name": "Wat Kasattrathirat",
                   "text": "Ein beeindruckender Tempel am Westufer des Chao Phraya Flusses mit einer markanten weißen Prang.",
                   "category": "landmark",
                   "coords": [
@@ -3589,7 +3589,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเสนาสนารามราชวรวิหาร",
+                  "name": "Wat Senasanaram",
                   "text": "Ein bedeutender Tempel in Ayutthaya, der für seine eleganten Gebäude und religiösen Schätze bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3616,7 +3616,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหน้าพระเมรุราชิการาม",
+                  "name": "Wat Na Phra Men",
                   "text": "Dieser Tempel ist berühmt dafür, dass er die Zerstörung Ayutthayas fast unbeschadet überstanden hat.",
                   "category": "landmark",
                   "coords": [
@@ -3625,7 +3625,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพรหมนิวาสวรวิหาร",
+                  "name": "Wat Phrom Niwat",
                   "text": "Ein ruhiger Tempelkomplex in Ayutthaya, der zum Verweilen und zur Besinnung einlädt.",
                   "category": "landmark",
                   "coords": [
@@ -3634,7 +3634,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพนมยงค์",
+                  "name": "Wat Phanom Yong",
                   "text": "Diese religiöse Stätte in Ayutthaya zeichnet sich durch ihre traditionelle Architektur und lokale Bedeutung aus.",
                   "category": "landmark",
                   "coords": [
@@ -3643,7 +3643,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสามวิหาร",
+                  "name": "Wat Sam Vihan",
                   "text": "Ein Tempel in Ayutthaya, der für seine historischen Gebäude und die spirituelle Atmosphäre bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3652,7 +3652,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดราชประดิษฐาน",
+                  "name": "Wat Ratchapradit",
                   "text": "Ein weiterer sehenswerter Tempelkomplex, der das kulturelle Erbe von Ayutthaya bereichert.",
                   "category": "landmark",
                   "coords": [
@@ -3670,7 +3670,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดขุนพรหม",
+                  "name": "Wat Khun Phrom",
                   "text": "Eine religiöse Anlage in Ayutthaya, die sowohl für Gläubige als auch für Touristen von Interesse ist.",
                   "category": "landmark",
                   "coords": [
@@ -3679,7 +3679,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดประดู่ทรงธรรม",
+                  "name": "Wat Pradu Songtham",
                   "text": "Dieser Tempel in Ayutthaya ist bekannt für seine historischen Wandmalereien und religiösen Zeremonien.",
                   "category": "landmark",
                   "coords": [
@@ -3688,7 +3688,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางกะจะ",
+                  "name": "Wat Bang Kacha",
                   "text": "Ein atmosphärischer Tempel an der Mündung zweier Flüsse in Ayutthaya.",
                   "category": "landmark",
                   "coords": [
@@ -3706,7 +3706,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพุทไธศวรรย์",
+                  "name": "Wat Phutthaisawan",
                   "text": "Ein historisch bedeutender Tempel mit einer markanten weißen Pagode am Ufer des Chao Phraya.",
                   "category": "landmark",
                   "coords": [
@@ -3715,7 +3715,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดอโยธยา",
+                  "name": "Wat Ayothaya",
                   "text": "Eine sehenswerte religiöse Stätte, die Teil der reichen Geschichte von Ayutthaya ist.",
                   "category": "landmark",
                   "coords": [
@@ -3724,7 +3724,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสมณโกฏฐาราม",
+                  "name": "Wat Samanakottharam",
                   "text": "Dieser Tempelkomplex in Ayutthaya besticht durch seine historische Architektur und spirituelle Bedeutung.",
                   "category": "landmark",
                   "coords": [
@@ -3733,7 +3733,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมณฑป",
+                  "name": "Wat Mondop",
                   "text": "Eine weitere kulturelle Attraktion in Ayutthaya, die Einblicke in die thailändische Tempelkultur bietet.",
                   "category": "landmark",
                   "coords": [
@@ -3751,7 +3751,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ จันทรเกษม",
+                  "name": "Chankasem National Museum",
                   "text": "Ein ehemaliger Palast in Ayutthaya, der heute ein Nationalmuseum mit wertvollen Exponaten beherbergt.",
                   "category": "castle",
                   "coords": [
@@ -3760,7 +3760,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านฮอลันดา",
+                  "name": "Baan Hollanda",
                   "text": "Dieses Museum in Ayutthaya dokumentiert die Geschichte der niederländischen Handelsbeziehungen in Thailand.",
                   "category": "museum",
                   "coords": [
@@ -3769,7 +3769,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หมู่บ้านญี่ปุ่น",
+                  "name": "Japanese Village",
                   "text": "Ein Museum an der Stelle der ehemaligen japanischen Siedlung in Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -3778,7 +3778,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
+                  "name": "Ayutthaya Historical City Conservation Center",
                   "text": "Dieses Zentrum informiert über den Erhalt und die Geschichte der historischen Stadt Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -3787,7 +3787,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ท่องเที่ยวอยุธยา",
+                  "name": "Ayutthaya Tourist Center",
                   "text": "Ein Touristenzentrum in Ayutthaya, das kulturelle Informationen und Museumsexponate für Besucher bereithält.",
                   "category": "museum",
                   "coords": [
@@ -3796,7 +3796,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ศึกษาประวัติศาสตร์อยุธยา",
+                  "name": "Ayutthaya Historical Study Centre",
                   "text": "Dieses Zentrum widmet sich der wissenschaftlichen Erforschung und Dokumentation der Geschichte von Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -3805,7 +3805,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์สมเด็จพระสุริโยทัย",
+                  "name": "Queen Suriyothai Museum",
                   "text": "Ein Museum in Ayutthaya, das der berühmten thailändischen Königin Suriyothai gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -3814,7 +3814,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ตำหนักเพนียด",
+                  "name": "Paniad Pavilion",
                   "text": "Ein historisches Gebäude in Ayutthaya, das früher als königlicher Elefantenkraal genutzt wurde.",
                   "category": "castle",
                   "coords": [
@@ -3823,7 +3823,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสรณ์สถาน ปรีดี พนมยงค์",
+                  "name": "Pridi Banomyong Memorial",
                   "text": "Ein Gedenkmuseum für Pridi Banomyong, eine bedeutende Persönlichkeit der thailändischen Geschichte, in Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -3832,7 +3832,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์เรือไทย",
+                  "name": "Thai Boat Museum",
                   "text": "Ein spezialisiertes Museum in Ayutthaya, das die Geschichte des thailändischen Bootsbaus dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -3841,7 +3841,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดขุนเมืองใจ",
+                  "name": "Wat Khun Mueang Chai",
                   "text": "Eine archäologische Fundstätte in Ayutthaya mit den Überresten historischer Baukunst.",
                   "category": "historical",
                   "coords": [
@@ -3850,7 +3850,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชุมแสง",
+                  "name": "Wat Chum Saeng",
                   "text": "Historische Ruinen in Ayutthaya, die von der einstigen Größe der Stadt zeugen.",
                   "category": "historical",
                   "coords": [
@@ -3861,7 +3861,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "วัดราชพลี",
+                  "name": "Wat Ratchaphli",
                   "text": "Régészeti lelőhely Ayutthayában, amely egy történelmi buddhista templom maradványait foglalja magában.",
                   "category": "historical",
                   "coords": [
@@ -3870,7 +3870,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระศรีสรรเพชญ์",
+                  "name": "Wat Phra Si Sanphet",
                   "text": "Az egykori királyi palota legfontosabb temploma Ayutthayában, három hatalmas csedijéről ismert.",
                   "category": "historical",
                   "coords": [
@@ -3879,7 +3879,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดราชบูรณะ",
+                  "name": "Wat Ratchaburana",
                   "text": "15. századi templom Ayutthayában, amely a kriptájában talált aranykincsekről híres.",
                   "category": "historical",
                   "coords": [
@@ -3888,7 +3888,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาธาตุ",
+                  "name": "Wat Mahathat",
                   "text": "Történelmi templom Ayutthayában, amely a fagyökerek közé szorult Buddha-fejről híres.",
                   "category": "historical",
                   "coords": [
@@ -3897,7 +3897,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วิหารแกลบ",
+                  "name": "Wihan Klaep",
                   "text": "Régészeti lelőhely Ayutthayában egy ókori vallási épület romjaival.",
                   "category": "historical",
                   "coords": [
@@ -3906,7 +3906,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดใหญ่ชัยมงคลวรวิหาร",
+                  "name": "Wat Yai Chai Mongkhon",
                   "text": "Impozáns templom Ayutthayában egy hatalmas fekvő Buddhával és egy jellegzetes csedivel.",
                   "category": "landmark",
                   "coords": [
@@ -3915,7 +3915,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+                  "name": "Chao Sam Phraya National Museum",
                   "text": "Ez az ajutthajai nemzeti múzeum jelentős aranykincseket és a királyság történetéből származó műtárgyakat őriz.",
                   "category": "museum",
                   "coords": [
@@ -3924,7 +3924,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบรมพุทธาราม",
+                  "name": "Wat Borom Phuttharam",
                   "text": "Ez a történelmi helyszín Ajutthajában egy egykori buddhista templom építészeti maradványait őrzi.",
                   "category": "historical",
                   "coords": [
@@ -3933,7 +3933,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยภูมิ",
+                  "name": "Wat Chaiyaphum",
                   "text": "Egy ősi romterület Ajutthajában, amely az egykori főváros gazdag régészeti örökségének része.",
                   "category": "historical",
                   "coords": [
@@ -3942,7 +3942,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดวังชัย",
+                  "name": "Wat Wang Chai",
                   "text": "Egy történelmi templomkomplexum maradványai az ősi királyi városban, Ajutthajában.",
                   "category": "historical",
                   "coords": [
@@ -3951,7 +3951,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพลับพลาไชย",
+                  "name": "Wat Phlapphla Chai",
                   "text": "Régészeti lelőhely Ajutthajában, amely betekintést nyújt a múlt szakrális építészetébe.",
                   "category": "historical",
                   "coords": [
@@ -3960,7 +3960,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดลายสอ",
+                  "name": "Wat Lai So",
                   "text": "Egy egykori templom történelmi romjai Ajutthaja régészeti övezetében.",
                   "category": "historical",
                   "coords": [
@@ -3969,7 +3969,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเตว็ด",
+                  "name": "Wat Tewet",
                   "text": "Egy másik jelentős régészeti lelőhely, amely Ajutthaja történelmi városképéhez tartozik.",
                   "category": "historical",
                   "coords": [
@@ -3978,7 +3978,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ป้อมเพชร",
+                  "name": "Pom Phet Fortress",
                   "text": "Ez a történelmi erőd Ajutthajában egykor az ősi thai főváros védelmét szolgálta.",
                   "category": "fortress",
                   "coords": [
@@ -3987,7 +3987,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดนักบุญยอแซฟ",
+                  "name": "St. Joseph's Church",
                   "text": "Egy történelmi katolikus templom a folyóparton, amely a korai európai jelenlétről tanúskodik Ajutthajában.",
                   "category": "religious",
                   "coords": [
@@ -3996,7 +3996,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วิหารพระมงคลบพิตร",
+                  "name": "Wihan Phra Mongkhon Bophit",
                   "text": "Ez a pompás imacsarnok Thaiföld egyik legnagyobb bronz Buddha-szobrának ad otthont.",
                   "category": "religious",
                   "coords": [
@@ -4005,7 +4005,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดอินทาราม",
+                  "name": "Wat Intharam",
                   "text": "Egy buddhista templom Ajutthajában, amely a nyugalom és az ima helyszíneként szolgál.",
                   "category": "religious",
                   "coords": [
@@ -4014,7 +4014,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพิชัยสงคราม",
+                  "name": "Wat Phichai Songkhram",
                   "text": "Ez az aktív vallási helyszín Ajutthajában a helyi hívő buddhisták egyik központja.",
                   "category": "religious",
                   "coords": [
@@ -4023,7 +4023,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดธรรมนิยม",
+                  "name": "Wat Thammaniyom",
                   "text": "Egy hagyományos thai templom, amely Ajutthaja városának vallási sokszínűségét tükrözi.",
                   "category": "religious",
                   "coords": [
@@ -4032,7 +4032,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าโค",
+                  "name": "Wat Pa Kho",
                   "text": "Ez a vallási építmény Ajutthajában betekintést nyújt a látogatóknak a helyi buddhista gyakorlatokba.",
                   "category": "religious",
                   "coords": [
@@ -4041,7 +4041,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ตลาดน้ำอโยธยา",
+                  "name": "Ayothaya Floating Market",
                   "text": "Egy élénk úszó piac Ajutthajában, amely hagyományos kézműves termékeket, ételeket és kulturális bemutatókat kínál.",
                   "category": "landmark",
                   "coords": [
@@ -4050,7 +4050,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดธรรมิกราช",
+                  "name": "Wat Thammikarat",
                   "text": "Fontos történelmi templom Ajutthajában, amely a fekvő Buddha-szobráról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -4059,7 +4059,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดญาณเสน",
+                  "name": "Wat Yanasen",
                   "text": "Egy látványos ajutthajai helyszín, amely jellegzetes építészettel és vallási jelentőséggel bír.",
                   "category": "landmark",
                   "coords": [
@@ -4068,7 +4068,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสุวรรณดารารามราชวรวิหาร",
+                  "name": "Wat Suwandararam",
                   "text": "Ez a királyi templom Ajutthajában finom falfestményeiről és klasszikus építészetéről híres.",
                   "category": "landmark",
                   "coords": [
@@ -4077,7 +4077,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกษัตราธิราชวรวิหาร",
+                  "name": "Wat Kasattrathirat",
                   "text": "Egy lenyűgöző templom a Chao Phraya folyó nyugati partján, jellegzetes fehér pranggal.",
                   "category": "landmark",
                   "coords": [
@@ -4086,7 +4086,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเสนาสนารามราชวรวิหาร",
+                  "name": "Wat Senasanaram",
                   "text": "Fontos templom Ajutthajában, amely elegáns épületeiről és vallási kincseiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -4095,7 +4095,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศาลาปูนวรวิหาร",
+                  "name": "Wat Sala Pun",
                   "text": "Ez a templom fontos vallási helyszín Ajutthajában, amely klasszikus thai művészetet mutat be.",
                   "category": "landmark",
                   "coords": [
@@ -4104,7 +4104,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเชิงท่า",
+                  "name": "Wat Choeng Tha",
                   "text": "Egy történelmi templom Ajutthajában, amely közvetlenül a folyóparton fekszik és békés hangulatot áraszt.",
                   "category": "landmark",
                   "coords": [
@@ -4113,7 +4113,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดหน้าพระเมรุราชิการาม",
+                  "name": "Wat Na Phra Men",
                   "text": "Ez a templom arról híres, hogy szinte sértetlenül vészelte át Ajutthaja pusztulását.",
                   "category": "landmark",
                   "coords": [
@@ -4122,7 +4122,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพรหมนิวาสวรวิหาร",
+                  "name": "Wat Phrom Niwat",
                   "text": "Egy csendes templomkomplexum Ajutthajában, amely pihenésre és elmélkedésre hív.",
                   "category": "landmark",
                   "coords": [
@@ -4131,7 +4131,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพนมยงค์",
+                  "name": "Wat Phanom Yong",
                   "text": "Ez a vallási helyszín Ajutthajában hagyományos építészetével és helyi jelentőségével tűnik ki.",
                   "category": "landmark",
                   "coords": [
@@ -4140,7 +4140,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสามวิหาร",
+                  "name": "Wat Sam Vihan",
                   "text": "Templom Ajutthajában, amely történelmi épületeiről és spirituális hangulatáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -4149,7 +4149,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดราชประดิษฐาน",
+                  "name": "Wat Ratchapradit",
                   "text": "Egy másik érdemes templomkomplexum, amely Ajutthaja kulturális örökségét gazdagítja.",
                   "category": "landmark",
                   "coords": [
@@ -4158,7 +4158,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดดุสิดาราม",
+                  "name": "Wat Dusidaram",
                   "text": "Ez az ajutthajai templom a régió szakrális építészetének szép példája.",
                   "category": "landmark",
                   "coords": [
@@ -4167,7 +4167,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดขุนพรหม",
+                  "name": "Wat Khun Phrom",
                   "text": "Vallási építmény Ajutthajában, amely mind a hívők, mind a turisták számára érdekes.",
                   "category": "landmark",
                   "coords": [
@@ -4176,7 +4176,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดประดู่ทรงธรรม",
+                  "name": "Wat Pradu Songtham",
                   "text": "Ez a templom Ajutthajában történelmi falfestményeiről és vallási szertartásairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -4185,7 +4185,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางกะจะ",
+                  "name": "Wat Bang Kacha",
                   "text": "Egy hangulatos templom két folyó találkozásánál Ajutthajában.",
                   "category": "landmark",
                   "coords": [
@@ -4194,7 +4194,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดท่าการ้อง",
+                  "name": "Wat Tha Karong",
                   "text": "Ez az ajutthajai templom népszerű célpont a helyi thai kultúrát megismerni vágyó látogatók körében.",
                   "category": "landmark",
                   "coords": [
@@ -4203,7 +4203,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพุทไธศวรรย์",
+                  "name": "Wat Phutthaisawan",
                   "text": "Történelmileg jelentős templom jellegzetes fehér pagodával a Chao Phraya partján.",
                   "category": "landmark",
                   "coords": [
@@ -4212,7 +4212,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดอโยธยา",
+                  "name": "Wat Ayothaya",
                   "text": "Látványos vallási helyszín, amely Ajutthaja gazdag történelmének része.",
                   "category": "landmark",
                   "coords": [
@@ -4221,7 +4221,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสมณโกฏฐาราม",
+                  "name": "Wat Samanakottharam",
                   "text": "Ez az ajutthajai templomkomplexum történelmi építészetével és spirituális jelentőségével hódít.",
                   "category": "landmark",
                   "coords": [
@@ -4230,7 +4230,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมณฑป",
+                  "name": "Wat Mondop",
                   "text": "Egy másik kulturális látnivaló Ajutthajában, amely betekintést nyújt a thai templomi kultúrába.",
                   "category": "landmark",
                   "coords": [
@@ -4239,7 +4239,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+                  "name": "Ayutthaya Historical Park",
                   "text": "Ez az UNESCO Világörökség részét képező park az egykori thai főváros lenyűgöző romjait foglalja magában.",
                   "category": "park",
                   "coords": [
@@ -4248,7 +4248,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ จันทรเกษม",
+                  "name": "Chankasem National Museum",
                   "text": "Egy egykori palota Ajutthajában, amely ma értékes kiállítási tárgyakat bemutató nemzeti múzeumnak ad otthont.",
                   "category": "castle",
                   "coords": [
@@ -4257,7 +4257,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านฮอลันดา",
+                  "name": "Baan Hollanda",
                   "text": "Ez az ajutthajai múzeum a holland kereskedelmi kapcsolatok történetét dokumentálja Thaiföldön.",
                   "category": "museum",
                   "coords": [
@@ -4266,7 +4266,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หมู่บ้านญี่ปุ่น",
+                  "name": "Japanese Village",
                   "text": "Múzeum az egykori japán település helyén Ajutthajában.",
                   "category": "museum",
                   "coords": [
@@ -4275,7 +4275,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
+                  "name": "Ayutthaya Historical City Conservation Center",
                   "text": "Ez a központ Ajutthaja történelmi városának megőrzéséről és történetéről nyújt tájékoztatást.",
                   "category": "museum",
                   "coords": [
@@ -4284,7 +4284,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ท่องเที่ยวอยุธยา",
+                  "name": "Ayutthaya Tourist Center",
                   "text": "Turisztikai központ Ajutthajában, amely kulturális információkat és múzeumi kiállításokat kínál a látogatóknak.",
                   "category": "museum",
                   "coords": [
@@ -4293,7 +4293,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ศึกษาประวัติศาสตร์อยุธยา",
+                  "name": "Ayutthaya Historical Study Centre",
                   "text": "Ez a központ Ajutthaja történelmének tudományos kutatásával és dokumentálásával foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -4302,7 +4302,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์สมเด็จพระสุริโยทัย",
+                  "name": "Queen Suriyothai Museum",
                   "text": "Múzeum Ajutthajában, amelyet a híres thai királynőnek, Szurijothainak szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -4311,7 +4311,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ตำหนักเพนียด",
+                  "name": "Paniad Pavilion",
                   "text": "Történelmi épület Ajutthajában, amelyet korábban királyi elefántkarámként használtak.",
                   "category": "castle",
                   "coords": [
@@ -4320,7 +4320,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสรณ์สถาน ปรีดี พนมยงค์",
+                  "name": "Pridi Banomyong Memorial",
                   "text": "Emlékmúzeum Pridi Banomyongnak, a thai történelem kiemelkedő alakjának Ajutthajában.",
                   "category": "museum",
                   "coords": [
@@ -4329,7 +4329,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์เรือไทย",
+                  "name": "Thai Boat Museum",
                   "text": "Speciális múzeum Ajutthajában, amely a thai hajóépítés történetét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -4338,7 +4338,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดขุนเมืองใจ",
+                  "name": "Wat Khun Mueang Chai",
                   "text": "Régészeti lelőhely Ajutthajában történelmi építészeti maradványokkal.",
                   "category": "historical",
                   "coords": [
@@ -4347,7 +4347,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชุมแสง",
+                  "name": "Wat Chum Saeng",
                   "text": "Történelmi romok Ajutthajában, amelyek a város egykori nagyságáról tanúskodnak.",
                   "category": "historical",
                   "coords": [
@@ -4358,7 +4358,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "วัดราชพลี",
+                  "name": "Wat Ratchaphli",
                   "text": "Un sit arheologic în Ayutthaya, cuprinzând vestigiile unui templu budist istoric.",
                   "category": "historical",
                   "coords": [
@@ -4367,7 +4367,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระศรีสรรเพชญ์",
+                  "name": "Wat Phra Si Sanphet",
                   "text": "Cel mai important templu al fostului palat regal din Ayutthaya, cunoscut pentru cele trei mari chedi-uri ale sale.",
                   "category": "historical",
                   "coords": [
@@ -4376,7 +4376,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดราชบูรณะ",
+                  "name": "Wat Ratchaburana",
                   "text": "Un templu din secolul al XV-lea în Ayutthaya, faimos pentru comorile de aur descoperite în cripta sa.",
                   "category": "historical",
                   "coords": [
@@ -4385,7 +4385,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาธาตุ",
+                  "name": "Wat Mahathat",
                   "text": "Un templu istoric în Ayutthaya, cunoscut pentru capul de Buddha încastrat în rădăcinile unui copac.",
                   "category": "historical",
                   "coords": [
@@ -4394,7 +4394,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วิหารแกลบ",
+                  "name": "Wihan Klaep",
                   "text": "Un sit arheologic în Ayutthaya cu ruinele unei vechi clădiri religioase.",
                   "category": "historical",
                   "coords": [
@@ -4403,7 +4403,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดใหญ่ชัยมงคลวรวิหาร",
+                  "name": "Wat Yai Chai Mongkhon",
                   "text": "Un templu impresionant în Ayutthaya cu un mare Buddha culcat și un chedi proeminent.",
                   "category": "landmark",
                   "coords": [
@@ -4412,7 +4412,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+                  "name": "Chao Sam Phraya National Museum",
                   "text": "Acest muzeu național din Ayutthaya găzduiește importante comori de aur și artefacte din istoria regatului.",
                   "category": "museum",
                   "coords": [
@@ -4421,7 +4421,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบรมพุทธาราม",
+                  "name": "Wat Borom Phuttharam",
                   "text": "Acest sit istoric din Ayutthaya păstrează vestigiile arhitecturale ale unui fost templu budist.",
                   "category": "historical",
                   "coords": [
@@ -4430,7 +4430,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยภูมิ",
+                  "name": "Wat Chaiyaphum",
                   "text": "Un sit antic de ruine din Ayutthaya, care face parte din bogata moștenire arheologică a fostei capitale.",
                   "category": "historical",
                   "coords": [
@@ -4439,7 +4439,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดวังชัย",
+                  "name": "Wat Wang Chai",
                   "text": "Rămășițele unui complex istoric de temple din vechiul oraș regal Ayutthaya.",
                   "category": "historical",
                   "coords": [
@@ -4448,7 +4448,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพลับพลาไชย",
+                  "name": "Wat Phlapphla Chai",
                   "text": "Un sit arheologic din Ayutthaya care oferă o perspectivă asupra arhitecturii sacre din trecut.",
                   "category": "historical",
                   "coords": [
@@ -4457,7 +4457,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดลายสอ",
+                  "name": "Wat Lai So",
                   "text": "Ruinele istorice ale unui fost templu în zona arheologică din Ayutthaya.",
                   "category": "historical",
                   "coords": [
@@ -4466,7 +4466,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเตว็ด",
+                  "name": "Wat Tewet",
                   "text": "Un alt sit arheologic important care aparține peisajului urban istoric din Ayutthaya.",
                   "category": "historical",
                   "coords": [
@@ -4475,7 +4475,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ป้อมเพชร",
+                  "name": "Pom Phet Fortress",
                   "text": "Această fortăreață istorică din Ayutthaya a servit odată la protejarea vechii capitale thailandeze.",
                   "category": "fortress",
                   "coords": [
@@ -4484,7 +4484,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดนักบุญยอแซฟ",
+                  "name": "St. Joseph's Church",
                   "text": "O biserică catolică istorică de pe malul râului, care atestă prezența europeană timpurie în Ayutthaya.",
                   "category": "religious",
                   "coords": [
@@ -4493,7 +4493,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วิหารพระมงคลบพิตร",
+                  "name": "Wihan Phra Mongkhon Bophit",
                   "text": "Această sală de rugăciune magnifică adăpostește una dintre cele mai mari statui de bronz ale lui Buddha din Thailanda.",
                   "category": "religious",
                   "coords": [
@@ -4502,7 +4502,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดอินทาราม",
+                  "name": "Wat Intharam",
                   "text": "Un templu budist din Ayutthaya care servește ca loc de liniște și rugăciune.",
                   "category": "religious",
                   "coords": [
@@ -4520,7 +4520,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดธรรมนิยม",
+                  "name": "Wat Thammaniyom",
                   "text": "Un templu thailandez tradițional care reflectă diversitatea religioasă a orașului Ayutthaya.",
                   "category": "religious",
                   "coords": [
@@ -4529,7 +4529,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าโค",
+                  "name": "Wat Pa Kho",
                   "text": "Acest complex religios din Ayutthaya oferă vizitatorilor o perspectivă asupra practicii budiste locale.",
                   "category": "religious",
                   "coords": [
@@ -4538,7 +4538,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ตลาดน้ำอโยธยา",
+                  "name": "Ayothaya Floating Market",
                   "text": "O piață plutitoare plină de viață din Ayutthaya, care oferă meșteșuguri tradiționale, mâncare și spectacole culturale.",
                   "category": "landmark",
                   "coords": [
@@ -4547,7 +4547,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดธรรมิกราช",
+                  "name": "Wat Thammikarat",
                   "text": "Un templu istoric important din Ayutthaya, cunoscut pentru statuia sa cu Buddha culcat.",
                   "category": "landmark",
                   "coords": [
@@ -4556,7 +4556,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดญาณเสน",
+                  "name": "Wat Yanasen",
                   "text": "O atracție din Ayutthaya cu o arhitectură caracteristică și semnificație religioasă.",
                   "category": "landmark",
                   "coords": [
@@ -4574,7 +4574,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกษัตราธิราชวรวิหาร",
+                  "name": "Wat Kasattrathirat",
                   "text": "Un templu impresionant de pe malul de vest al râului Chao Phraya, cu un prang alb distinctiv.",
                   "category": "landmark",
                   "coords": [
@@ -4583,7 +4583,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเสนาสนารามราชวรวิหาร",
+                  "name": "Wat Senasanaram",
                   "text": "Un templu important din Ayutthaya, cunoscut pentru clădirile sale elegante și comorile religioase.",
                   "category": "landmark",
                   "coords": [
@@ -4601,7 +4601,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดเชิงท่า",
+                  "name": "Wat Choeng Tha",
                   "text": "Un templu istoric din Ayutthaya, situat direct pe malul râului, oferind o atmosferă liniștită.",
                   "category": "landmark",
                   "coords": [
@@ -4619,7 +4619,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพรหมนิวาสวรวิหาร",
+                  "name": "Wat Phrom Niwat",
                   "text": "Un complex de temple liniștit din Ayutthaya, care invită la relaxare și reflecție.",
                   "category": "landmark",
                   "coords": [
@@ -4628,7 +4628,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพนมยงค์",
+                  "name": "Wat Phanom Yong",
                   "text": "Acest sit religios din Ayutthaya se remarcă prin arhitectura sa tradițională și semnificația locală.",
                   "category": "landmark",
                   "coords": [
@@ -4637,7 +4637,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสามวิหาร",
+                  "name": "Wat Sam Vihan",
                   "text": "Un templu din Ayutthaya cunoscut pentru clădirile sale istorice și atmosfera spirituală.",
                   "category": "landmark",
                   "coords": [
@@ -4646,7 +4646,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดราชประดิษฐาน",
+                  "name": "Wat Ratchapradit",
                   "text": "Un alt complex de temple care merită vizitat și care îmbogățește moștenirea culturală a Ayutthayei.",
                   "category": "landmark",
                   "coords": [
@@ -4664,7 +4664,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดขุนพรหม",
+                  "name": "Wat Khun Phrom",
                   "text": "Un complex religios din Ayutthaya, care prezintă interes atât pentru credincioși, cât și pentru turiști.",
                   "category": "landmark",
                   "coords": [
@@ -4682,7 +4682,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางกะจะ",
+                  "name": "Wat Bang Kacha",
                   "text": "Un templu atmosferic situat la confluența a două râuri în Ayutthaya.",
                   "category": "landmark",
                   "coords": [
@@ -4700,7 +4700,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพุทไธศวรรย์",
+                  "name": "Wat Phutthaisawan",
                   "text": "Un templu important din punct de vedere istoric, cu o pagodă albă distinctivă pe malul râului Chao Phraya.",
                   "category": "landmark",
                   "coords": [
@@ -4709,7 +4709,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดอโยธยา",
+                  "name": "Wat Ayothaya",
                   "text": "Un sit religios care merită vizitat, făcând parte din istoria bogată a Ayutthayei.",
                   "category": "landmark",
                   "coords": [
@@ -4718,7 +4718,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดสมณโกฏฐาราม",
+                  "name": "Wat Samanakottharam",
                   "text": "Acest complex de temple din Ayutthaya impresionează prin arhitectura sa istorică și semnificația spirituală.",
                   "category": "landmark",
                   "coords": [
@@ -4727,7 +4727,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมณฑป",
+                  "name": "Wat Mondop",
                   "text": "O altă atracție culturală din Ayutthaya care oferă perspective asupra culturii templiere thailandeze.",
                   "category": "landmark",
                   "coords": [
@@ -4736,7 +4736,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+                  "name": "Ayutthaya Historical Park",
                   "text": "Acest parc din patrimoniul mondial UNESCO cuprinde ruinele impresionante ale fostei capitale thailandeze.",
                   "category": "park",
                   "coords": [
@@ -4745,7 +4745,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ จันทรเกษม",
+                  "name": "Chankasem National Museum",
                   "text": "Un fost palat din Ayutthaya care astăzi găzduiește un muzeu național cu exponate valoroase.",
                   "category": "castle",
                   "coords": [
@@ -4754,7 +4754,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านฮอลันดา",
+                  "name": "Baan Hollanda",
                   "text": "Acest muzeu din Ayutthaya documentează istoria relațiilor comerciale olandeze în Thailanda.",
                   "category": "museum",
                   "coords": [
@@ -4763,7 +4763,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หมู่บ้านญี่ปุ่น",
+                  "name": "Japanese Village",
                   "text": "Un muzeu situat pe locul fostei așezări japoneze din Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -4772,7 +4772,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
+                  "name": "Ayutthaya Historical City Conservation Center",
                   "text": "Acest centru oferă informații despre conservarea și istoria orașului istoric Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -4781,7 +4781,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศูนย์ท่องเที่ยวอยุธยา",
+                  "name": "Ayutthaya Tourist Center",
                   "text": "Un centru turistic din Ayutthaya care oferă informații culturale și exponate de muzeu pentru vizitatori.",
                   "category": "museum",
                   "coords": [
@@ -4799,7 +4799,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์สมเด็จพระสุริโยทัย",
+                  "name": "Queen Suriyothai Museum",
                   "text": "Un muzeu din Ayutthaya dedicat celebrei regine thailandeze Suriyothai.",
                   "category": "museum",
                   "coords": [
@@ -4808,7 +4808,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ตำหนักเพนียด",
+                  "name": "Paniad Pavilion",
                   "text": "O clădire istorică din Ayutthaya, folosită anterior ca țarc regal pentru elefanți.",
                   "category": "castle",
                   "coords": [
@@ -4817,7 +4817,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสรณ์สถาน ปรีดี พนมยงค์",
+                  "name": "Pridi Banomyong Memorial",
                   "text": "Un muzeu memorial dedicat lui Pridi Banomyong, o figură importantă din istoria Thailandei, în Ayutthaya.",
                   "category": "museum",
                   "coords": [
@@ -4826,7 +4826,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์เรือไทย",
+                  "name": "Thai Boat Museum",
                   "text": "Un muzeu specializat din Ayutthaya care documentează istoria construcției de bărci thailandeze.",
                   "category": "museum",
                   "coords": [
@@ -4835,7 +4835,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดขุนเมืองใจ",
+                  "name": "Wat Khun Mueang Chai",
                   "text": "Un sit arheologic din Ayutthaya cu rămășițe ale arhitecturii istorice.",
                   "category": "historical",
                   "coords": [
@@ -4844,7 +4844,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชุมแสง",
+                  "name": "Wat Chum Saeng",
                   "text": "Ruine istorice din Ayutthaya care atestă măreția de odinioară a orașului.",
                   "category": "historical",
                   "coords": [
@@ -5400,7 +5400,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "khon-kaen-cities-v2", "sights": {
       "de": [
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+                  "name": "Khon Kaen National Museum",
                   "text": "Ein Museum in Khon Kaen, das archäologische und historische Artefakte der Region zeigt.",
                   "category": "museum",
                   "coords": [
@@ -5409,7 +5409,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+                  "name": "Khon Kaen University Art and Culture Museum",
                   "text": "Ein Universitätsmuseum in Khon Kaen, das sich der Kunst und Kultur widmet.",
                   "category": "museum",
                   "coords": [
@@ -5418,7 +5418,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "โฮงมูนมังเมืองขอนแกน",
+                  "name": "Khon Kaen City Museum",
                   "text": "Das Stadtmuseum von Khon Kaen, das die Geschichte und Entwicklung der Stadt dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -5427,7 +5427,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ มหาวิทยาลัยขอนแก่น",
+                  "name": "Khon Kaen University Natural History Museum",
                   "text": "Ein Museum an der Universität Khon Kaen, das naturgeschichtliche Exponate zeigt.",
                   "category": "museum",
                   "coords": [
@@ -5436,7 +5436,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ จอมพลสฤษดิ์ ธนรัชต์",
+                  "name": "Field Marshal Sarit Thanarat Monument",
                   "text": "Ein Denkmal in Khon Kaen zu Ehren des ehemaligen thailändischen Premierministers Sarit Thanarat.",
                   "category": "historical",
                   "coords": [
@@ -5445,7 +5445,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ประชาธิปไตย",
+                  "name": "Democracy Monument",
                   "text": "Ein Monument in Khon Kaen, das demokratische Werte symbolisiert.",
                   "category": "historical",
                   "coords": [
@@ -5463,7 +5463,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าวิเวกธรรม",
+                  "name": "Wat Pa Wivek Tham",
                   "text": "Ein lokaler Tempel in Khon Kaen, der als Ort der religiösen Andacht dient.",
                   "category": "religious",
                   "coords": [
@@ -5472,7 +5472,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พระธาตุศิโรดมขอนแก่น",
+                  "name": "Phra That Sirodom",
                   "text": "Ein religiöser Stupa in Khon Kaen, der oft für spirituelle Zwecke besucht wird.",
                   "category": "landmark",
                   "coords": [
@@ -5483,7 +5483,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+                  "name": "Khon Kaen National Museum",
                   "text": "Múzeum Khon Kaenben, amely a régió régészeti és történelmi emlékeit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -5492,7 +5492,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+                  "name": "Khon Kaen University Art and Culture Museum",
                   "text": "Egyetemi múzeum Khon Kaenben, amely a művészetnek és kultúrának szentelt.",
                   "category": "museum",
                   "coords": [
@@ -5501,7 +5501,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "โฮงมูนมังเมืองขอนแกน",
+                  "name": "Khon Kaen City Museum",
                   "text": "Khon Kaen városi múzeuma, amely a város történelmét és fejlődését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -5510,7 +5510,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ มหาวิทยาลัยขอนแก่น",
+                  "name": "Khon Kaen University Natural History Museum",
                   "text": "A Khon Kaen Egyetem múzeuma, amely természetrajzi kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -5519,7 +5519,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ จอมพลสฤษดิ์ ธนรัชต์",
+                  "name": "Field Marshal Sarit Thanarat Monument",
                   "text": "Emlékmű Khon Kaenben a korábbi thaiföldi miniszterelnök, Sarit Thanarat tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -5528,7 +5528,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ประชาธิปไตย",
+                  "name": "Democracy Monument",
                   "text": "A demokratikus értékeket jelképező emlékmű Khon Kaenben.",
                   "category": "historical",
                   "coords": [
@@ -5546,7 +5546,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าวิเวกธรรม",
+                  "name": "Wat Pa Wivek Tham",
                   "text": "Helyi templom Khon Kaenben, amely vallási szertartások helyszíne.",
                   "category": "religious",
                   "coords": [
@@ -5555,7 +5555,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พระธาตุศิโรดมขอนแก่น",
+                  "name": "Phra That Sirodom",
                   "text": "Vallási sztúpa Khon Kaenben, amelyet gyakran látogatnak hitéleti célból.",
                   "category": "landmark",
                   "coords": [
@@ -5566,7 +5566,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+                  "name": "Khon Kaen National Museum",
                   "text": "Un muzeu din Khon Kaen care expune artefacte arheologice și istorice din regiune.",
                   "category": "museum",
                   "coords": [
@@ -5575,7 +5575,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+                  "name": "Khon Kaen University Art and Culture Museum",
                   "text": "Un muzeu universitar din Khon Kaen dedicat artei și culturii.",
                   "category": "museum",
                   "coords": [
@@ -5584,7 +5584,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "โฮงมูนมังเมืองขอนแกน",
+                  "name": "Khon Kaen City Museum",
                   "text": "Muzeul orașului Khon Kaen, care documentează istoria și dezvoltarea orașului.",
                   "category": "museum",
                   "coords": [
@@ -5593,7 +5593,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ มหาวิทยาลัยขอนแก่น",
+                  "name": "Khon Kaen University Natural History Museum",
                   "text": "Un muzeu din cadrul Universității Khon Kaen care prezintă exponate de istorie naturală.",
                   "category": "museum",
                   "coords": [
@@ -5602,7 +5602,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ จอมพลสฤษดิ์ ธนรัชต์",
+                  "name": "Field Marshal Sarit Thanarat Monument",
                   "text": "Un monument în Khon Kaen ridicat în onoarea fostului prim-ministru thailandez Sarit Thanarat.",
                   "category": "historical",
                   "coords": [
@@ -5611,7 +5611,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ประชาธิปไตย",
+                  "name": "Democracy Monument",
                   "text": "Un monument în Khon Kaen care simbolizează valorile democratice.",
                   "category": "historical",
                   "coords": [
@@ -5629,7 +5629,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าวิเวกธรรม",
+                  "name": "Wat Pa Wivek Tham",
                   "text": "Un templu local din Khon Kaen care servește ca loc de cult religios.",
                   "category": "religious",
                   "coords": [
@@ -5638,7 +5638,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พระธาตุศิโรดมขอนแก่น",
+                  "name": "Phra That Sirodom",
                   "text": "O stupă religioasă din Khon Kaen, vizitată adesea în scopuri spirituale.",
                   "category": "landmark",
                   "coords": [
@@ -5874,7 +5874,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "rayong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "ประภาคารระยอง",
+                  "name": "Rayong Lighthouse",
                   "text": "Ein Leuchtturm in Rayong, der als Orientierungshilfe an der Küste dient.",
                   "category": "landmark",
                   "coords": [
@@ -5901,7 +5901,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโขด",
+                  "name": "Wat Khot",
                   "text": "Ein buddhistischer Tempel in Rayong, der der lokalen Gemeinschaft dient.",
                   "category": "religious",
                   "coords": [
@@ -5910,7 +5910,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าประดู่",
+                  "name": "Wat Pa Pradu",
                   "text": "Ein Tempel in Rayong, der für seine große liegende Buddha-Statue bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -5919,7 +5919,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดลุ่มมหาชัยชุมพล",
+                  "name": "Wat Lum Mahachai Chumphon",
                   "text": "Ein bedeutender Tempel in Rayong, der König Taksin dem Großen gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -5930,7 +5930,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ประภาคารระยอง",
+                  "name": "Rayong Lighthouse",
                   "text": "Világítótorony Rayongban, amely tengeri jelzőfényként szolgál.",
                   "category": "landmark",
                   "coords": [
@@ -5957,7 +5957,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโขด",
+                  "name": "Wat Khot",
                   "text": "Buddhista templom Rayongban, amely a helyi közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
@@ -5966,7 +5966,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าประดู่",
+                  "name": "Wat Pa Pradu",
                   "text": "Rayongi templom, amely a nagy fekvő Buddha-szobráról ismert.",
                   "category": "religious",
                   "coords": [
@@ -5975,7 +5975,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดลุ่มมหาชัยชุมพล",
+                  "name": "Wat Lum Mahachai Chumphon",
                   "text": "Fontos templom Rayongban, amelyet Taksin király tiszteletére emeltek.",
                   "category": "religious",
                   "coords": [
@@ -5986,7 +5986,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ประภาคารระยอง",
+                  "name": "Rayong Lighthouse",
                   "text": "Un far în Rayong care servește ca reper pentru navigație pe coastă.",
                   "category": "landmark",
                   "coords": [
@@ -6013,7 +6013,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโขด",
+                  "name": "Wat Khot",
                   "text": "Un templu budist din Rayong care deservește comunitatea locală.",
                   "category": "religious",
                   "coords": [
@@ -6022,7 +6022,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดป่าประดู่",
+                  "name": "Wat Pa Pradu",
                   "text": "Un templu din Rayong cunoscut pentru statuia sa mare a lui Buddha culcat.",
                   "category": "religious",
                   "coords": [
@@ -6031,7 +6031,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดลุ่มมหาชัยชุมพล",
+                  "name": "Wat Lum Mahachai Chumphon",
                   "text": "Un templu important din Rayong dedicat regelui Taksin cel Mare.",
                   "category": "religious",
                   "coords": [
@@ -6155,7 +6155,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีอุบลรัตนาราม (วัดศรีทอง) พระแก้วบุษราคัม",
+                  "name": "Wat Si Ubon Rattanaram",
                   "text": "Ein buddhistischer Tempel in Ubon Ratchathani, bekannt für sein heiliges Buddha-Bildnis.",
                   "category": "religious",
                   "coords": [
@@ -6164,7 +6164,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทุ่งศรีเมือง",
+                  "name": "Wat Thung Si Mueang",
                   "text": "Ein bedeutender Tempel in Ubon Ratchathani mit einer hölzernen Bibliothek auf Stelzen.",
                   "category": "religious",
                   "coords": [
@@ -6173,7 +6173,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาวนาราม",
+                  "name": "Wat Maha Wanaram",
                   "text": "Ein verehrter buddhistischer Tempel und spirituelles Zentrum in Ubon Ratchathani.",
                   "category": "religious",
                   "coords": [
@@ -6193,7 +6193,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีอุบลรัตนาราม (วัดศรีทอง) พระแก้วบุษราคัม",
+                  "name": "Wat Si Ubon Rattanaram",
                   "text": "Buddhista templom Ubonratcsathaniban, amely szent Buddha-szobráról ismert.",
                   "category": "religious",
                   "coords": [
@@ -6202,7 +6202,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทุ่งศรีเมือง",
+                  "name": "Wat Thung Si Mueang",
                   "text": "Jelentős templom Ubonratcsathaniban, cölöpökön álló fa könyvtárral.",
                   "category": "religious",
                   "coords": [
@@ -6211,7 +6211,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาวนาราม",
+                  "name": "Wat Maha Wanaram",
                   "text": "Tisztelt buddhista templom és spirituális központ Ubonratcsathaniban.",
                   "category": "religious",
                   "coords": [
@@ -6231,7 +6231,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดศรีอุบลรัตนาราม (วัดศรีทอง) พระแก้วบุษราคัม",
+                  "name": "Wat Si Ubon Rattanaram",
                   "text": "Un templu budist în Ubon Ratchathani, cunoscut pentru imaginea sa sacră a lui Buddha.",
                   "category": "religious",
                   "coords": [
@@ -6240,7 +6240,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทุ่งศรีเมือง",
+                  "name": "Wat Thung Si Mueang",
                   "text": "Un templu important în Ubon Ratchathani, cu o bibliotecă de lemn pe piloni.",
                   "category": "religious",
                   "coords": [
@@ -6249,7 +6249,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาวนาราม",
+                  "name": "Wat Maha Wanaram",
                   "text": "Un templu budist venerat și centru spiritual în Ubon Ratchathani.",
                   "category": "religious",
                   "coords": [
@@ -6355,7 +6355,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอวัฒนธรรม จังหวัดนครสวรรค์",
+                  "name": "Nakhon Sawan Cultural Hall",
                   "text": "Die Kulturhalle von Nakhon Sawan präsentiert Ausstellungen zur Tradition und Geschichte der Provinz.",
                   "category": "museum",
                   "coords": [
@@ -6364,7 +6364,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ต้นแม่น้ำเจ้าพระยา",
+                  "name": "Chao Phraya River Origin",
                   "text": "Dieser Aussichtspunkt markiert die Stelle, an der die Flüsse Ping und Nan zusammenfließen und den Chao Phraya bilden.",
                   "category": "natural",
                   "coords": [
@@ -6373,7 +6373,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดคีรีวงศ์",
+                  "name": "Wat Khiri Wong",
                   "text": "Ein markanter Tempel auf einem Hügel in Nakhon Sawan mit weitem Blick über die Stadt.",
                   "category": "religious",
                   "coords": [
@@ -6382,7 +6382,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโพธิ์ธาราม",
+                  "name": "Wat Pho Tharam",
                   "text": "Ein buddhistischer Tempel in Nakhon Sawan, der ein wichtiger Ort für die lokale Gemeinschaft ist.",
                   "category": "religious",
                   "coords": [
@@ -6429,7 +6429,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ต้นแม่น้ำเจ้าพระยา",
+                  "name": "Chao Phraya River Origin",
                   "text": "Ez a kilátópont azt a helyet jelöli, ahol a Ping és Nan folyók találkoznak, létrehozva a Chao Phrayát.",
                   "category": "natural",
                   "coords": [
@@ -6438,7 +6438,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดคีรีวงศ์",
+                  "name": "Wat Khiri Wong",
                   "text": "Jellegzetes dombtetői templom Nakhon Sawanban, széles kilátással a városra.",
                   "category": "religious",
                   "coords": [
@@ -6447,7 +6447,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดโพธิ์ธาราม",
+                  "name": "Wat Pho Tharam",
                   "text": "Buddhista templom Nakhon Sawanban, amely a helyi közösség fontos helyszíne.",
                   "category": "religious",
                   "coords": [
@@ -6456,7 +6456,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดนครสวรรค์ พระอารามหลวง",
+                  "name": "Wat Nakhon Sawan",
                   "text": "Ez a jelentős királyi templom vallási központ Nakhon Sawan városában.",
                   "category": "religious",
                   "coords": [
@@ -6485,7 +6485,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอวัฒนธรรม จังหวัดนครสวรรค์",
+                  "name": "Nakhon Sawan Cultural Hall",
                   "text": "Sala culturală din Nakhon Sawan găzduiește expoziții despre tradiția și istoria provinciei.",
                   "category": "museum",
                   "coords": [
@@ -6494,7 +6494,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ต้นแม่น้ำเจ้าพระยา",
+                  "name": "Chao Phraya River Origin",
                   "text": "Acest punct de belvedere marchează locul unde râurile Ping și Nan se unesc pentru a forma Chao Phraya.",
                   "category": "natural",
                   "coords": [
@@ -6503,7 +6503,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดคีรีวงศ์",
+                  "name": "Wat Khiri Wong",
                   "text": "Un templu distinctiv pe un deal din Nakhon Sawan, cu o vedere panoramică asupra orașului.",
                   "category": "religious",
                   "coords": [
@@ -6654,7 +6654,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "nakhon-si-thammarat-cities-v2", "sights": {
       "de": [
             {
-                  "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+                  "name": "Suchart Subsin Shadow Puppet Museum",
                   "text": "Ein Museum in Nakhon Si Thammarat, das thailändische Schattenpuppen-Traditionen bewahrt.",
                   "category": "museum",
                   "coords": [
@@ -6663,7 +6663,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระมหาธาตุ วรมหาวิหาร",
+                  "name": "Wat Phra Mahathat",
                   "text": "Einer der wichtigsten buddhistischen Tempel Thailands mit einer markanten Reliquien-Stupa.",
                   "category": "landmark",
                   "coords": [
@@ -6672,7 +6672,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศาลหลักเมือง",
+                  "name": "City Pillar Shrine",
                   "text": "Der Stadtschrein von Nakhon Si Thammarat, ein Ort für lokale Rituale.",
                   "category": "landmark",
                   "coords": [
@@ -6681,7 +6681,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนสาธารณะศรีธรรมาโศกราช",
+                  "name": "Si Thammasokarat Public Park",
                   "text": "Ein Denkmal zu Ehren des Gründers von Nakhon Si Thammarat.",
                   "category": "landmark",
                   "coords": [
@@ -6690,7 +6690,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอพระนารายณ์",
+                  "name": "Narai Shrine",
                   "text": "Ein historischer Schrein in Nakhon Si Thammarat, der der hinduistischen Gottheit Narai gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -6699,7 +6699,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านท่านขุน",
+                  "name": "Baan Than Khun",
                   "text": "Ein historisches Haus oder eine Attraktion in Nakhon Si Thammarat.",
                   "category": "landmark",
                   "coords": [
@@ -6710,7 +6710,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+                  "name": "Suchart Subsin Shadow Puppet Museum",
                   "text": "Múzeum Nakhon Si Thammaratban, amely a thaiföldi árnybábozás hagyományait őrzi.",
                   "category": "museum",
                   "coords": [
@@ -6719,7 +6719,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระมหาธาตุ วรมหาวิหาร",
+                  "name": "Wat Phra Mahathat",
                   "text": "Thaiföld egyik legfontosabb buddhista temploma jellegzetes ereklyetartó sztúpával.",
                   "category": "landmark",
                   "coords": [
@@ -6728,7 +6728,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศาลหลักเมือง",
+                  "name": "City Pillar Shrine",
                   "text": "Nakhon Si Thammarat városi szentélye, helyi rituálék helyszíne.",
                   "category": "landmark",
                   "coords": [
@@ -6737,7 +6737,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนสาธารณะศรีธรรมาโศกราช",
+                  "name": "Si Thammasokarat Public Park",
                   "text": "Emlékmű Nakhon Si Thammarat alapítójának tiszteletére.",
                   "category": "landmark",
                   "coords": [
@@ -6746,7 +6746,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอพระนารายณ์",
+                  "name": "Narai Shrine",
                   "text": "Történelmi szentély Nakhon Si Thammaratban, amelyet Narai hindu istenségnek szenteltek.",
                   "category": "landmark",
                   "coords": [
@@ -6755,7 +6755,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านท่านขุน",
+                  "name": "Baan Than Khun",
                   "text": "Történelmi ház vagy attrakció Nakhon Si Thammaratban.",
                   "category": "landmark",
                   "coords": [
@@ -6766,7 +6766,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+                  "name": "Suchart Subsin Shadow Puppet Museum",
                   "text": "Un muzeu din Nakhon Si Thammarat care păstrează tradițiile teatrului de umbre thailandez.",
                   "category": "museum",
                   "coords": [
@@ -6775,7 +6775,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระมหาธาตุ วรมหาวิหาร",
+                  "name": "Wat Phra Mahathat",
                   "text": "Unul dintre cele mai importante temple budiste din Thailanda, având o stupă proeminentă cu relicve.",
                   "category": "landmark",
                   "coords": [
@@ -6784,7 +6784,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศาลหลักเมือง",
+                  "name": "City Pillar Shrine",
                   "text": "Sanctuarul orașului Nakhon Si Thammarat, un loc pentru ritualuri locale.",
                   "category": "landmark",
                   "coords": [
@@ -6793,7 +6793,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "สวนสาธารณะศรีธรรมาโศกราช",
+                  "name": "Si Thammasokarat Public Park",
                   "text": "Un monument ridicat în onoarea fondatorului orașului Nakhon Si Thammarat.",
                   "category": "landmark",
                   "coords": [
@@ -6802,7 +6802,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอพระนารายณ์",
+                  "name": "Narai Shrine",
                   "text": "Un sanctuar istoric din Nakhon Si Thammarat dedicat zeității hinduse Narai.",
                   "category": "landmark",
                   "coords": [
@@ -6811,7 +6811,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านท่านขุน",
+                  "name": "Baan Than Khun",
                   "text": "O casă istorică sau o atracție din Nakhon Si Thammarat.",
                   "category": "landmark",
                   "coords": [
@@ -7281,7 +7281,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "songkhla-cities-v2", "sights": {
       "de": [
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+                  "name": "Songkhla National Museum",
                   "text": "Ein Nationalmuseum in Songkhla, das die Geschichte und Kunst der Region Südthailand präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -7299,7 +7299,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านนครใน เมืองสงขลา",
+                  "name": "Baan Nakorn Nai",
                   "text": "Ein Museum in Songkhla, das sich in einem architektonisch interessanten Gebäude befindet.",
                   "category": "museum",
                   "coords": [
@@ -7308,7 +7308,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "แหลมสมิลา",
+                  "name": "Samila Beach",
                   "text": "Ein berühmter Strand in Songkhla, bekannt für seine goldene Meerjungfrau-Statue.",
                   "category": "recreational",
                   "coords": [
@@ -7353,7 +7353,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดยางทอง",
+                  "name": "Wat Yang Thong",
                   "text": "Ein buddhistischer Tempel in Songkhla, bekannt für seine religiöse Architektur.",
                   "category": "religious",
                   "coords": [
@@ -7364,7 +7364,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+                  "name": "Songkhla National Museum",
                   "text": "Nemzeti múzeum Songkhlában, amely Dél-Thaiföld történelmét és művészetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -7382,7 +7382,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านนครใน เมืองสงขลา",
+                  "name": "Baan Nakorn Nai",
                   "text": "Építészetileg érdekes épületben elhelyezett múzeum Songkhlában.",
                   "category": "museum",
                   "coords": [
@@ -7391,7 +7391,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "แหลมสมิลา",
+                  "name": "Samila Beach",
                   "text": "Songkhla híres tengerpartja, amely az arany sellőszobráról ismert.",
                   "category": "recreational",
                   "coords": [
@@ -7436,7 +7436,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดยางทอง",
+                  "name": "Wat Yang Thong",
                   "text": "Buddhista templom Songkhlában, amely vallási építészetéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -7447,7 +7447,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+                  "name": "Songkhla National Museum",
                   "text": "Un muzeu național din Songkhla care prezintă istoria și arta regiunii de sud a Thailandei.",
                   "category": "museum",
                   "coords": [
@@ -7465,7 +7465,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านนครใน เมืองสงขลา",
+                  "name": "Baan Nakorn Nai",
                   "text": "Un muzeu din Songkhla găzduit într-o clădire cu arhitectură interesantă.",
                   "category": "museum",
                   "coords": [
@@ -7474,7 +7474,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "แหลมสมิลา",
+                  "name": "Samila Beach",
                   "text": "O plajă celebră din Songkhla, cunoscută pentru statuia sa cu sirena de aur.",
                   "category": "recreational",
                   "coords": [
@@ -7519,7 +7519,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดยางทอง",
+                  "name": "Wat Yang Thong",
                   "text": "Un templu budist din Songkhla, cunoscut pentru arhitectura sa religioasă.",
                   "category": "religious",
                   "coords": [
@@ -7797,7 +7797,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Célèbre pour son porc rôti et ses gâteaux.", "Porte d'entrée vers de nombreuses îles vierges.", "Possède une charmante gare de style colonial."],
     }, image: "/poi-images/trang-cities-v2.webp"},
   {
-    id: "lampang-cities-v2", "sights": {"de": [{"name": "บ้านเสานัก", "text": "Ein historisches Teakholzhaus in Lampang, das heute als Privatmuseum dient.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "พิพิธภัณฑ์เซรามิค ธนบดี", "text": "Ein Museum in Lampang, das die Geschichte der berühmten Keramikproduktion der Stadt zeigt.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "หอปูมละกอน", "text": "Ein lokales Museum in Lampang, das sich mit der Stadtgeschichte befasst.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "มิวเซียมลำปาง", "text": "Das städtische Museum von Lampang, das kulturelle Exponate der Region präsentiert.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "พิพิธภัณฑ์ธนาคารไทย สาขาลำปาง", "text": "Ein Museum in Lampang, das die Geschichte des Bankwesens in Thailand dokumentiert.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "พิพิธภัณฑ์สถานลานนา", "text": "Ein Museum in Lampang, das sich der Kunst und Kultur des Lanna-Reiches widmet.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "ห้าแยกหอนาฬิกา", "text": "Ein markanter Uhrturm im Zentrum von Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "Ein historisches Gebäude in Lampang mit kolonialem Architekturstil.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "Das Lampang Arts Center ist ein kulturelles Herzstück in der thailändischen Stadt Lampang. Dieses Zentrum vereint zeitgenössische Kunstausstellungen mit vielfältigen kulturellen Aktivitäten für seine Besucher.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "วัดศรีรองเมือง", "text": "Ein Tempel in Lampang, der für seine feinen Schnitzereien im birmanischen Stil bekannt ist.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "วัดปงสนุกใต้", "text": "Ein ausgezeichneter Tempel in Lampang, der für die Erhaltung seines historischen Erbes bekannt ist.", "category": "landmark", "coords": [99.496993, 18.294678]}], "hu": [{"name": "บ้านเสานัก", "text": "Történelmi tikfa ház Lampangban, amely ma magánmúzeumként működik.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "พิพิธภัณฑ์เซรามิค ธนบดี", "text": "Múzeum Lampangban, amely a város híres kerámiagyártásának történetét mutatja be.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "หอปูมละกอน", "text": "Helyi múzeum Lampangban, amely a város történelmével foglalkozik.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "มิวเซียมลำปาง", "text": "Lampang városi múzeuma, amely a régió kulturális emlékeit mutatja be.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "พิพิธภัณฑ์ธนาคารไทย สาขาลำปาง", "text": "Múzeum Lampangban, amely a thaiföldi bankrendszer történetét dokumentálja.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "พิพิธภัณฑ์สถานลานนา", "text": "Múzeum Lampangban, amely a Lanna királyság művészetének és kultúrájának szentelt.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "ห้าแยกหอนาฬิกา", "text": "Jellegzetes óratorony Lampang központjában.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "Történelmi épület Lampangban gyarmati építészeti stílusban.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "A Lampang Arts Center a thaiföldi Lampang városának kulturális központja. Ez az intézmény kortárs művészeti kiállításokat és változatos kulturális tevékenységeket ötvöz a látogatók számára.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "วัดศรีรองเมือง", "text": "Lampangi templom, amely finom, burmai stílusú faragványairól ismert.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "วัดปงสนุกใต้", "text": "Díjnyertes templom Lampangban, amely történelmi örökségének megőrzéséről ismert.", "category": "landmark", "coords": [99.496993, 18.294678]}], "ro": [{"name": "บ้านเสานัก", "text": "O casă istorică din lemn de tec din Lampang, care servește acum ca muzeu privat.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "พิพิธภัณฑ์เซรามิค ธนบดี", "text": "Un muzeu din Lampang care prezintă istoria faimoasei producții de ceramică a orașului.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "หอปูมละกอน", "text": "Un muzeu local din Lampang care se ocupă de istoria orașului.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "มิวเซียมลำปาง", "text": "Muzeul orașului Lampang, care prezintă exponate culturale din regiune.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "พิพิธภัณฑ์ธนาคารไทย สาขาลำปาง", "text": "Un muzeu din Lampang care documentează istoria sistemului bancar din Thailanda.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "พิพิธภัณฑ์สถานลานนา", "text": "Un muzeu din Lampang dedicat artei și culturii regatului Lanna.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "ห้าแยกหอนาฬิกา", "text": "Un turn cu ceas proeminent situat în centrul orașului Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "O clădire istorică din Lampang cu stil arhitectural colonial.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "Lampang Arts Center este o instituție culturală deosebită din orașul thailandez Lampang. Acest centru îmbină expozițiile de artă contemporană cu diverse activități culturale captivante pentru public.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "วัดศรีรองเมือง", "text": "Un templu din Lampang cunoscut pentru sculpturile sale fine în stil birmanez.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "วัดปงสนุกใต้", "text": "Un templu premiat din Lampang, cunoscut pentru conservarea patrimoniului său istoric.", "category": "landmark", "coords": [99.496993, 18.294678]}], "en": [{"name": "Baan Sao Nak", "text": "A historic teak house in Lampang that now serves as a private museum.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Dhanabadee Ceramic Museum", "text": "A museum in Lampang showcasing the history of the city's famous ceramic production.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Phum La Kon Museum", "text": "A local museum in Lampang focusing on the city's history.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Lampang's municipal museum presenting cultural exhibits from the region.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Bank Museum", "text": "A museum in Lampang documenting the history of banking in Thailand.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "A museum in Lampang dedicated to the art and culture of the Lanna kingdom.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower", "text": "A prominent clock tower located in the center of Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "A historic building in Lampang featuring colonial architectural style.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "The Lampang Arts Center is a vibrant cultural hub in the Thai city of Lampang. This center successfully combines contemporary art exhibitions with a variety of cultural activities for its visitors.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "A temple in Lampang known for its fine Burmese-style carvings.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk", "text": "An award-winning temple in Lampang known for the preservation of its historical heritage.", "category": "landmark", "coords": [99.496993, 18.294678]}]},
+    id: "lampang-cities-v2", "sights": {"de": [{"name": "Baan Sao Nak", "text": "Ein historisches Teakholzhaus in Lampang, das heute als Privatmuseum dient.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Thanabadee Ceramic Museum", "text": "Ein Museum in Lampang, das die Geschichte der berühmten Keramikproduktion der Stadt zeigt.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Ho Pum Lakon Museum", "text": "Ein lokales Museum in Lampang, das sich mit der Stadtgeschichte befasst.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Das städtische Museum von Lampang, das kulturelle Exponate der Region präsentiert.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Banking Museum Lampang", "text": "Ein Museum in Lampang, das die Geschichte des Bankwesens in Thailand dokumentiert.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "Ein Museum in Lampang, das sich der Kunst und Kultur des Lanna-Reiches widmet.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower Intersection", "text": "Ein markanter Uhrturm im Zentrum von Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "Ein historisches Gebäude in Lampang mit kolonialem Architekturstil.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "Das Lampang Arts Center ist ein kulturelles Herzstück in der thailändischen Stadt Lampang. Dieses Zentrum vereint zeitgenössische Kunstausstellungen mit vielfältigen kulturellen Aktivitäten für seine Besucher.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "Ein Tempel in Lampang, der für seine feinen Schnitzereien im birmanischen Stil bekannt ist.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk Tai", "text": "Ein ausgezeichneter Tempel in Lampang, der für die Erhaltung seines historischen Erbes bekannt ist.", "category": "landmark", "coords": [99.496993, 18.294678]}], "hu": [{"name": "Baan Sao Nak", "text": "Történelmi tikfa ház Lampangban, amely ma magánmúzeumként működik.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Thanabadee Ceramic Museum", "text": "Múzeum Lampangban, amely a város híres kerámiagyártásának történetét mutatja be.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Ho Pum Lakon Museum", "text": "Helyi múzeum Lampangban, amely a város történelmével foglalkozik.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Lampang városi múzeuma, amely a régió kulturális emlékeit mutatja be.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Banking Museum Lampang", "text": "Múzeum Lampangban, amely a thaiföldi bankrendszer történetét dokumentálja.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "Múzeum Lampangban, amely a Lanna királyság művészetének és kultúrájának szentelt.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower Intersection", "text": "Jellegzetes óratorony Lampang központjában.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "Történelmi épület Lampangban gyarmati építészeti stílusban.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "A Lampang Arts Center a thaiföldi Lampang városának kulturális központja. Ez az intézmény kortárs művészeti kiállításokat és változatos kulturális tevékenységeket ötvöz a látogatók számára.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "Lampangi templom, amely finom, burmai stílusú faragványairól ismert.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk Tai", "text": "Díjnyertes templom Lampangban, amely történelmi örökségének megőrzéséről ismert.", "category": "landmark", "coords": [99.496993, 18.294678]}], "ro": [{"name": "Baan Sao Nak", "text": "O casă istorică din lemn de tec din Lampang, care servește acum ca muzeu privat.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Thanabadee Ceramic Museum", "text": "Un muzeu din Lampang care prezintă istoria faimoasei producții de ceramică a orașului.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Ho Pum Lakon Museum", "text": "Un muzeu local din Lampang care se ocupă de istoria orașului.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Muzeul orașului Lampang, care prezintă exponate culturale din regiune.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Banking Museum Lampang", "text": "Un muzeu din Lampang care documentează istoria sistemului bancar din Thailanda.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "Un muzeu din Lampang dedicat artei și culturii regatului Lanna.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower Intersection", "text": "Un turn cu ceas proeminent situat în centrul orașului Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "O clădire istorică din Lampang cu stil arhitectural colonial.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "Lampang Arts Center este o instituție culturală deosebită din orașul thailandez Lampang. Acest centru îmbină expozițiile de artă contemporană cu diverse activități culturale captivante pentru public.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "Un templu din Lampang cunoscut pentru sculpturile sale fine în stil birmanez.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk Tai", "text": "Un templu premiat din Lampang, cunoscut pentru conservarea patrimoniului său istoric.", "category": "landmark", "coords": [99.496993, 18.294678]}], "en": [{"name": "Baan Sao Nak", "text": "A historic teak house in Lampang that now serves as a private museum.", "category": "museum", "coords": [99.508035, 18.294137]}, {"name": "Dhanabadee Ceramic Museum", "text": "A museum in Lampang showcasing the history of the city's famous ceramic production.", "category": "museum", "coords": [99.51282, 18.280356]}, {"name": "Phum La Kon Museum", "text": "A local museum in Lampang focusing on the city's history.", "category": "museum", "coords": [99.489788, 18.288679]}, {"name": "Lampang Museum", "text": "Lampang's municipal museum presenting cultural exhibits from the region.", "category": "museum", "coords": [99.503304, 18.29017]}, {"name": "Thai Bank Museum", "text": "A museum in Lampang documenting the history of banking in Thailand.", "category": "museum", "coords": [99.484661, 18.284856]}, {"name": "Lanna Museum", "text": "A museum in Lampang dedicated to the art and culture of the Lanna kingdom.", "category": "museum", "coords": [99.509602, 18.300975]}, {"name": "Clock Tower", "text": "A prominent clock tower located in the center of Lampang.", "category": "historical", "coords": [99.490904, 18.288876]}, {"name": "MoungNgwazin Building", "text": "A historic building in Lampang featuring colonial architectural style.", "category": "historical", "coords": [99.498226, 18.290974]}, {"name": "Lampang Arts Center", "text": "The Lampang Arts Center is a vibrant cultural hub in the Thai city of Lampang. This center successfully combines contemporary art exhibitions with a variety of cultural activities for its visitors.", "category": "cultural", "coords": [99.496485, 18.290762]}, {"name": "Wat Si Rong Mueang", "text": "A temple in Lampang known for its fine Burmese-style carvings.", "category": "religious", "coords": [99.48081, 18.290422]}, {"name": "Wat Pong Sanuk", "text": "An award-winning temple in Lampang known for the preservation of its historical heritage.", "category": "landmark", "coords": [99.496993, 18.294678]}]},
     type: "city",
     parent: "TH-52",
     coords: [99.492, 18.292],
@@ -7847,7 +7847,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "samut-prakan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "ป้อมผีเสื้อสมุทร",
+                  "name": "Phra Chulachomklao Fort",
                   "text": "Eine historische Festung auf einer Insel im Chao Phraya Fluss in Samut Prakan.",
                   "category": "fortress",
                   "coords": [
@@ -7856,7 +7856,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
+                  "name": "Samut Prakan Crocodile Farm and Zoo",
                   "text": "Eine der weltweit größten Krokodilfarmen mit täglichen Shows in Samut Prakan.",
                   "category": "family",
                   "coords": [
@@ -7874,7 +7874,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอชมเมืองสมุทรปราการ",
+                  "name": "Samut Prakan Observation Tower",
                   "text": "Ein markanter Aussichtsturm mit Blick über den Chao Phraya und Samut Prakan.",
                   "category": "landmark",
                   "coords": [
@@ -7883,7 +7883,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางนางเกรง",
+                  "name": "Wat Bang Nang Kreng",
                   "text": "Ein buddhistischer Tempel in Samut Prakan, der der lokalen Gemeinschaft dient.",
                   "category": "religious",
                   "coords": [
@@ -7892,7 +7892,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดไตรมิตรวราราม",
+                  "name": "Wat Traimit Wararam",
                   "text": "Ein buddhistischer Ort der Verehrung in Samut Prakan mit traditioneller Architektur.",
                   "category": "religious",
                   "coords": [
@@ -7901,7 +7901,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทองคง",
+                  "name": "Wat Thong Khong",
                   "text": "Ein lokaler buddhistischer Tempel in der Provinz Samut Prakan.",
                   "category": "religious",
                   "coords": [
@@ -7910,7 +7910,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาวงษ์",
+                  "name": "Wat Mahawong",
                   "text": "Ein Tempel in Samut Prakan, der für seine religiöse Bedeutung bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -7919,7 +7919,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางปิ้ง",
+                  "name": "Wat Bang Ping",
                   "text": "Ein Tempel in Samut Prakan, ein Zentrum für buddhistische Zeremonien.",
                   "category": "religious",
                   "coords": [
@@ -7928,7 +7928,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกลางวรวิหาร",
+                  "name": "Wat Klang Worawihan",
                   "text": "Ein königlicher Tempel zweiter Klasse mit schöner Architektur in Samut Prakan.",
                   "category": "religious",
                   "coords": [
@@ -7937,7 +7937,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดในสองวิหาร",
+                  "name": "Wat Nai Song Wihan",
                   "text": "Ein buddhistischer Tempel in Samut Prakan, der für religiöse Praktiken genutzt wird.",
                   "category": "religious",
                   "coords": [
@@ -7946,7 +7946,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Ein buddhistischer Tempel in Samut Prakan, der Ruhe und Besinnung bietet.",
                   "category": "religious",
                   "coords": [
@@ -7955,7 +7955,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพุทธภาวนาราม",
+                  "name": "Wat Phuttha Phawanaram",
                   "text": "Ein Tempel in Samut Prakan, der der buddhistischen Lehre und Meditation gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -7964,7 +7964,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระสมุทรเจดีย์",
+                  "name": "Phra Samut Chedi",
                   "text": "Ein ikonischer Tempel am Fluss mit einer markanten weißen Pagode in Samut Prakan.",
                   "category": "religious",
                   "coords": [
@@ -7975,7 +7975,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ป้อมผีเสื้อสมุทร",
+                  "name": "Phra Chulachomklao Fort",
                   "text": "Történelmi erőd a Csaofraja folyó egyik szigetén, Szamutprakánban.",
                   "category": "fortress",
                   "coords": [
@@ -7984,7 +7984,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
+                  "name": "Samut Prakan Crocodile Farm and Zoo",
                   "text": "A világ egyik legnagyobb krokodilfarmja napi bemutatókkal Szamutprakánban.",
                   "category": "family",
                   "coords": [
@@ -8002,7 +8002,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอชมเมืองสมุทรปราการ",
+                  "name": "Samut Prakan Observation Tower",
                   "text": "Jellegzetes kilátótorony, ahonnan panoráma nyílik a Csaofraja folyóra és Szamutprakánra.",
                   "category": "landmark",
                   "coords": [
@@ -8011,7 +8011,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางนางเกรง",
+                  "name": "Wat Bang Nang Kreng",
                   "text": "Buddhista templom Szamutprakánban, amely a helyi közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
@@ -8020,7 +8020,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดไตรมิตรวราราม",
+                  "name": "Wat Traimit Wararam",
                   "text": "Buddhista istentiszteleti hely Szamutprakánban, hagyományos építészettel.",
                   "category": "religious",
                   "coords": [
@@ -8029,7 +8029,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทองคง",
+                  "name": "Wat Thong Khong",
                   "text": "Helyi buddhista templom Szamutprakán tartományban.",
                   "category": "religious",
                   "coords": [
@@ -8038,7 +8038,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาวงษ์",
+                  "name": "Wat Mahawong",
                   "text": "Vallási jelentőségéről ismert templom Szamutprakánban.",
                   "category": "religious",
                   "coords": [
@@ -8047,7 +8047,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางปิ้ง",
+                  "name": "Wat Bang Ping",
                   "text": "Templom Szamutprakánban, buddhista szertartások központja.",
                   "category": "religious",
                   "coords": [
@@ -8056,7 +8056,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกลางวรวิหาร",
+                  "name": "Wat Klang Worawihan",
                   "text": "Másodosztályú királyi templom gyönyörű építészettel Szamutprakánban.",
                   "category": "religious",
                   "coords": [
@@ -8065,7 +8065,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดในสองวิหาร",
+                  "name": "Wat Nai Song Wihan",
                   "text": "Vallási gyakorlatokra használt buddhista templom Szamutprakánban.",
                   "category": "religious",
                   "coords": [
@@ -8074,7 +8074,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Nyugalmat és elmélyülést kínáló buddhista templom Szamutprakánban.",
                   "category": "religious",
                   "coords": [
@@ -8083,7 +8083,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพุทธภาวนาราม",
+                  "name": "Wat Phuttha Phawanaram",
                   "text": "A buddhista tanításoknak és meditációnak szentelt templom Szamutprakánban.",
                   "category": "religious",
                   "coords": [
@@ -8092,7 +8092,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระสมุทรเจดีย์",
+                  "name": "Phra Samut Chedi",
                   "text": "Ikonikus folyóparti templom jellegzetes fehér pagodával Szamutprakánban.",
                   "category": "religious",
                   "coords": [
@@ -8103,7 +8103,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ป้อมผีเสื้อสมุทร",
+                  "name": "Phra Chulachomklao Fort",
                   "text": "O fortăreață istorică situată pe o insulă de pe râul Chao Phraya în Samut Prakan.",
                   "category": "fortress",
                   "coords": [
@@ -8112,7 +8112,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
+                  "name": "Samut Prakan Crocodile Farm and Zoo",
                   "text": "Una dintre cele mai mari ferme de crocodili din lume, cu spectacole zilnice în Samut Prakan.",
                   "category": "family",
                   "coords": [
@@ -8130,7 +8130,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "หอชมเมืองสมุทรปราการ",
+                  "name": "Samut Prakan Observation Tower",
                   "text": "Un turn de observație proeminent cu vedere peste râul Chao Phraya și Samut Prakan.",
                   "category": "landmark",
                   "coords": [
@@ -8139,7 +8139,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางนางเกรง",
+                  "name": "Wat Bang Nang Kreng",
                   "text": "Un templu budist din Samut Prakan care deservește comunitatea locală.",
                   "category": "religious",
                   "coords": [
@@ -8148,7 +8148,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดไตรมิตรวราราม",
+                  "name": "Wat Traimit Wararam",
                   "text": "Un lăcaș de cult budist în Samut Prakan cu arhitectură tradițională.",
                   "category": "religious",
                   "coords": [
@@ -8157,7 +8157,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดทองคง",
+                  "name": "Wat Thong Khong",
                   "text": "Un templu budist local din provincia Samut Prakan.",
                   "category": "religious",
                   "coords": [
@@ -8166,7 +8166,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมหาวงษ์",
+                  "name": "Wat Mahawong",
                   "text": "Un templu din Samut Prakan cunoscut pentru importanța sa religioasă.",
                   "category": "religious",
                   "coords": [
@@ -8175,7 +8175,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดบางปิ้ง",
+                  "name": "Wat Bang Ping",
                   "text": "Un templu din Samut Prakan, centru pentru ceremonii budiste.",
                   "category": "religious",
                   "coords": [
@@ -8184,7 +8184,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดกลางวรวิหาร",
+                  "name": "Wat Klang Worawihan",
                   "text": "Un templu regal de clasa a doua cu o arhitectură frumoasă în Samut Prakan.",
                   "category": "religious",
                   "coords": [
@@ -8193,7 +8193,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดในสองวิหาร",
+                  "name": "Wat Nai Song Wihan",
                   "text": "Un templu budist din Samut Prakan utilizat pentru practici religioase.",
                   "category": "religious",
                   "coords": [
@@ -8202,7 +8202,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดชัยมงคล",
+                  "name": "Wat Chai Mongkhon",
                   "text": "Un templu budist din Samut Prakan care oferă liniște și reflecție.",
                   "category": "religious",
                   "coords": [
@@ -8211,7 +8211,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพุทธภาวนาราม",
+                  "name": "Wat Phuttha Phawanaram",
                   "text": "Un templu din Samut Prakan dedicat învățăturilor budiste și meditației.",
                   "category": "religious",
                   "coords": [
@@ -8220,7 +8220,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "วัดพระสมุทรเจดีย์",
+                  "name": "Phra Samut Chedi",
                   "text": "Un templu iconic pe malul râului, cu o pagodă albă distinctivă, în Samut Prakan.",
                   "category": "religious",
                   "coords": [
@@ -8643,7 +8643,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "lopburi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "สวนสัตว์ลพบุรี",
+                  "name": "Lopburi Zoo",
                   "text": "Ein lokaler Zoo in Lopburi, der verschiedene Tierarten der Region beherbergt.",
                   "category": "family",
                   "coords": [
@@ -8661,7 +8661,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พระที่นั่งไกรสรสีหราช",
+                  "name": "Kraisorn Siharat Throne Hall",
                   "text": "Ruinen eines ehemaligen königlichen Palastes aus der Zeit von König Narai in Lopburi.",
                   "category": "historical",
                   "coords": [
@@ -8672,7 +8672,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "สวนสัตว์ลพบุรี",
+                  "name": "Lopburi Zoo",
                   "text": "Helyi állatkert Lopburiban, amely a régió különféle állatfajait mutatja be.",
                   "category": "family",
                   "coords": [
@@ -8690,7 +8690,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พระที่นั่งไกรสรสีหราช",
+                  "name": "Kraisorn Siharat Throne Hall",
                   "text": "Egy egykori királyi palota romjai Lopburiban, Narai király idejéből.",
                   "category": "historical",
                   "coords": [
@@ -8701,7 +8701,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "สวนสัตว์ลพบุรี",
+                  "name": "Lopburi Zoo",
                   "text": "O grădină zoologică locală din Lopburi, care găzduiește diverse specii de animale din regiune.",
                   "category": "family",
                   "coords": [
@@ -8719,7 +8719,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "พระที่นั่งไกรสรสีหราช",
+                  "name": "Kraisorn Siharat Throne Hall",
                   "text": "Ruinele unui fost palat regal din timpul regelui Narai în Lopburi.",
                   "category": "historical",
                   "coords": [
@@ -8807,7 +8807,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "nong-khai-cities-v2", "sights": {
       "de": [
             {
-                  "name": "พิพิธภัณฑ์จังหวัดหนองคาย",
+                  "name": "Nong Khai Provincial Museum",
                   "text": "Ein Museum in Nong Khai, das die Geschichte und Kultur der Region präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -8816,7 +8816,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนคนเดิน หนองคาย",
+                  "name": "Nong Khai Walking Street",
                   "text": "Eine beliebte Marktstraße am Mekong in Nong Khai mit lokalem Kunsthandwerk.",
                   "category": "landmark",
                   "coords": [
@@ -8825,7 +8825,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ลานวัฒนธรรม หน้าวัดลำดวน จ. หนองคาย",
+                  "name": "Naga Statue at Wat Lamduan",
                   "text": "Eine Statue, die die mythische Naga-Schlange am Ufer des Mekong in Nong Khai darstellt.",
                   "category": "landmark",
                   "coords": [
@@ -8834,7 +8834,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ปราบฮ่อ",
+                  "name": "Prap Ho Monument",
                   "text": "Ein Denkmal in Nong Khai zum Gedenken an den Sieg über den Haw-Aufstand.",
                   "category": "historical",
                   "coords": [
@@ -8845,7 +8845,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "พิพิธภัณฑ์จังหวัดหนองคาย",
+                  "name": "Nong Khai Provincial Museum",
                   "text": "Nong Khai-i múzeum, amely a régió történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -8854,7 +8854,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนคนเดิน หนองคาย",
+                  "name": "Nong Khai Walking Street",
                   "text": "Népszerű piaci utca a Mekong mentén Nong Khaiban, helyi kézműves termékekkel.",
                   "category": "landmark",
                   "coords": [
@@ -8872,7 +8872,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ปราบฮ่อ",
+                  "name": "Prap Ho Monument",
                   "text": "A Haw-felkelés feletti győzelem emlékére emelt emlékmű Nong Khaiban.",
                   "category": "historical",
                   "coords": [
@@ -8883,7 +8883,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "พิพิธภัณฑ์จังหวัดหนองคาย",
+                  "name": "Nong Khai Provincial Museum",
                   "text": "Un muzeu în Nong Khai care prezintă istoria și cultura regiunii.",
                   "category": "museum",
                   "coords": [
@@ -8892,7 +8892,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนคนเดิน หนองคาย",
+                  "name": "Nong Khai Walking Street",
                   "text": "O stradă comercială populară pe malul râului Mekong în Nong Khai, cu produse artizanale locale.",
                   "category": "landmark",
                   "coords": [
@@ -8910,7 +8910,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสาวรีย์ปราบฮ่อ",
+                  "name": "Prap Ho Monument",
                   "text": "Un monument în Nong Khai care comemorează victoria împotriva insurecției Haw.",
                   "category": "historical",
                   "coords": [
@@ -9054,7 +9054,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "krabi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "หอศิลป์อันดามัน",
+                  "name": "Andaman Art Museum",
                   "text": "Ein Kunstmuseum in Krabi, das Werke lokaler und regionaler Künstler ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -9063,7 +9063,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถ้ำเขาขนาบน้ำ",
+                  "name": "Khao Khanab Nam Caves",
                   "text": "Zwei markante Kalksteinfelsen am Flussufer, die als Wahrzeichen von Krabi gelten.",
                   "category": "landmark",
                   "coords": [
@@ -9072,7 +9072,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนคนเดินกระบี่",
+                  "name": "Krabi Walking Street",
                   "text": "Ein beliebter Abendmarkt in Krabi mit lokalem Essen, Handwerk und Unterhaltung.",
                   "category": "landmark",
                   "coords": [
@@ -9108,7 +9108,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ทางเดินป่าชายเลน",
+                  "name": "Mangrove Nature Trail",
                   "text": "Ein hölzerner Lehrpfad, der durch die Mangrovenwälder von Krabi führt.",
                   "category": "landmark",
                   "coords": [
@@ -9128,7 +9128,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "หอศิลป์อันดามัน",
+                  "name": "Andaman Art Museum",
                   "text": "Művészeti múzeum Krabiban, amely helyi és regionális művészek alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -9137,7 +9137,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถ้ำเขาขนาบน้ำ",
+                  "name": "Khao Khanab Nam Caves",
                   "text": "Két jellegzetes mészkőszikla a folyóparton, amelyek Krabi jelképének számítanak.",
                   "category": "landmark",
                   "coords": [
@@ -9146,7 +9146,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนคนเดินกระบี่",
+                  "name": "Krabi Walking Street",
                   "text": "Népszerű esti piac Krabiban, helyi ételekkel, kézműves termékekkel és szórakozási lehetőségekkel.",
                   "category": "landmark",
                   "coords": [
@@ -9182,7 +9182,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ทางเดินป่าชายเลน",
+                  "name": "Mangrove Nature Trail",
                   "text": "Fából készült tanösvény, amely Krabi mangroveerdein vezet keresztül.",
                   "category": "landmark",
                   "coords": [
@@ -9191,7 +9191,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศาลหลักเมืองกระบี่",
+                  "name": "Krabi City Pillar Shrine",
                   "text": "Vallási szentély Krabiban, amelyet a város védőszellemének szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -9202,7 +9202,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "หอศิลป์อันดามัน",
+                  "name": "Andaman Art Museum",
                   "text": "Un muzeu de artă din Krabi, care expune lucrări ale artiștilor locali și regionali.",
                   "category": "museum",
                   "coords": [
@@ -9211,7 +9211,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถ้ำเขาขนาบน้ำ",
+                  "name": "Khao Khanab Nam Caves",
                   "text": "Două stânci de calcar distinctive pe malul râului, considerate simbolul orașului Krabi.",
                   "category": "landmark",
                   "coords": [
@@ -9220,7 +9220,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ถนนคนเดินกระบี่",
+                  "name": "Krabi Walking Street",
                   "text": "O piață de seară populară în Krabi, cu mâncare locală, meșteșuguri și divertisment.",
                   "category": "landmark",
                   "coords": [
@@ -9256,7 +9256,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ทางเดินป่าชายเลน",
+                  "name": "Mangrove Nature Trail",
                   "text": "O pasarelă din lemn care traversează pădurile de mangrove din Krabi.",
                   "category": "landmark",
                   "coords": [
@@ -9265,7 +9265,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ศาลหลักเมืองกระบี่",
+                  "name": "Krabi City Pillar Shrine",
                   "text": "Un altar religios din Krabi dedicat spiritului protector al orașului.",
                   "category": "religious",
                   "coords": [
@@ -9454,7 +9454,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เจดีย์หัก",
+                  "name": "Chedi Hak",
                   "text": "Chedi Hak besteht aus Ruinen in Ratchaburi.",
                   "category": "historical",
                   "coords": [
@@ -9512,7 +9512,7 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "เจดีย์หัก",
+                  "name": "Chedi Hak",
                   "text": "Chedi Hak constă în ruine situate în Ratchaburi.",
                   "category": "historical",
                   "coords": [

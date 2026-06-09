@@ -173,7 +173,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       fr: ["Ancienne capitale d'Anjouan", "Célèbre pour ses portes en bois sculpté", "Important marché aux épices"],
     }, image: "/poi-images/domoni-cities-v2.webp"},
   {
-    id: "mitsamiouli-cities-v2", "sights": {"de": [{"name": "Plage de Mitsamiouli شاطئ ميتساميولي", "text": "An der Küste von Mitsamiouli breitet sich dieser idyllische Strand aus und lädt zum Verweilen unter tropischer Sonne ein. Das ruhige Ambiente macht ihn zu einem wunderbaren Ort für ausgiebige Spaziergänge entlang der sanften Wellen. Ein Besuch empfiehlt sich besonders in der Trockenzeit, um das klare Wetter und die ungestörte Natur in vollen Zügen zu genießen.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "Ein Markt in Mitsamiouli.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "Ein großer Baobab-Baum in Mitsamiouli.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "Eine natürliche Attraktion in Mitsamiouli.", "category": "landmark", "coords": [43.314887, -11.379587]}], "hu": [{"name": "Plage de Mitsamiouli شاطئ ميتساميولي", "text": "Mitsamiouli partvidékén terül el ez az idilli strand, amely trópusi napsütésben marasztalja a látogatókat. A nyugodt környezet csodálatos helyszínné teszi a lágy hullámok mentén tett hosszú sétákhoz. Különösen a száraz évszakban ajánlott a látogatás, hogy teljes mértékben élvezhessük a tiszta időt és a zavartalan természetet.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "Piac Mitsamiouliban.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "Nagy majomkenyérfa Mitsamiouliban.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "Természeti látnivaló Mitsamiouliban.", "category": "landmark", "coords": [43.314887, -11.379587]}], "ro": [{"name": "Plage de Mitsamiouli شاطئ ميتساميولي", "text": "Pe coasta din Mitsamiouli se întinde această plajă idilică, invitându-vă să vă relaxați sub soarele tropical. Atmosfera liniștită face din acest loc un cadru minunat pentru plimbări prelungite de-a lungul valurilor blânde. O vizită este recomandată în special în sezonul uscat, pentru a vă bucura din plin de vremea senină și de natura netulburată.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "O piață în Mitsamiouli.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "Un baobab mare în Mitsamiouli.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "O atracție naturală în Mitsamiouli.", "category": "landmark", "coords": [43.314887, -11.379587]}], "en": [{"name": "Plage de Mitsamiouli شاطئ ميتساميولي", "text": "Stretching along the coast of Mitsamiouli, this idyllic beach invites you to linger under the tropical sun. The tranquil ambiance makes it a wonderful setting for long walks beside the gentle waves. A visit is particularly recommended during the dry season to fully enjoy the clear weather and undisturbed nature.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "A market in Mitsamiouli.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "A large baobab tree in Mitsamiouli.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "A natural attraction in Mitsamiouli.", "category": "landmark", "coords": [43.314887, -11.379587]}]},
+    id: "mitsamiouli-cities-v2", "sights": {"de": [{"name": "Mitsamiouli Beach", "text": "An der Küste von Mitsamiouli breitet sich dieser idyllische Strand aus und lädt zum Verweilen unter tropischer Sonne ein. Das ruhige Ambiente macht ihn zu einem wunderbaren Ort für ausgiebige Spaziergänge entlang der sanften Wellen. Ein Besuch empfiehlt sich besonders in der Trockenzeit, um das klare Wetter und die ungestörte Natur in vollen Zügen zu genießen.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "Ein Markt in Mitsamiouli.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "Ein großer Baobab-Baum in Mitsamiouli.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "Eine natürliche Attraktion in Mitsamiouli.", "category": "landmark", "coords": [43.314887, -11.379587]}], "hu": [{"name": "Mitsamiouli Beach", "text": "Mitsamiouli partvidékén terül el ez az idilli strand, amely trópusi napsütésben marasztalja a látogatókat. A nyugodt környezet csodálatos helyszínné teszi a lágy hullámok mentén tett hosszú sétákhoz. Különösen a száraz évszakban ajánlott a látogatás, hogy teljes mértékben élvezhessük a tiszta időt és a zavartalan természetet.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "Piac Mitsamiouliban.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "Nagy majomkenyérfa Mitsamiouliban.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "Természeti látnivaló Mitsamiouliban.", "category": "landmark", "coords": [43.314887, -11.379587]}], "ro": [{"name": "Mitsamiouli Beach", "text": "Pe coasta din Mitsamiouli se întinde această plajă idilică, invitându-vă să vă relaxați sub soarele tropical. Atmosfera liniștită face din acest loc un cadru minunat pentru plimbări prelungite de-a lungul valurilor blânde. O vizită este recomandată în special în sezonul uscat, pentru a vă bucura din plin de vremea senină și de natura netulburată.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "O piață în Mitsamiouli.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "Un baobab mare în Mitsamiouli.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "O atracție naturală în Mitsamiouli.", "category": "landmark", "coords": [43.314887, -11.379587]}], "en": [{"name": "Mitsamiouli Beach", "text": "Stretching along the coast of Mitsamiouli, this idyllic beach invites you to linger under the tropical sun. The tranquil ambiance makes it a wonderful setting for long walks beside the gentle waves. A visit is particularly recommended during the dry season to fully enjoy the clear weather and undisturbed nature.", "category": "recreational", "coords": [43.290995, -11.389343]}, {"name": "Marché de Mitsamiouli", "text": "A market in Mitsamiouli.", "category": "landmark", "coords": [43.292281, -11.388246]}, {"name": "Grand Baobab", "text": "A large baobab tree in Mitsamiouli.", "category": "landmark", "coords": [43.307338, -11.385162]}, {"name": "Trou du prophète", "text": "A natural attraction in Mitsamiouli.", "category": "landmark", "coords": [43.314887, -11.379587]}]},
     type: "city",
     parent: "KM-G",
     coords: [43.2925, -11.3853],
@@ -589,7 +589,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       fr: ["Village des hauts plateaux d'Anjouan", "Climat plus doux", "Sentiers de randonnée et agriculture"],
     }, image: "/poi-images/tsembehou-cities-v2.webp"},
   {
-    id: "itsandra-cities-v2", "sights": {"de": [{"name": "Plage d'Itsandra شاطئ إتساندرا", "text": "Direkt bei Itsandra gelegen, empfängt dieser charmante Strand seine Gäste mit einer malerischen Kulisse. Er bietet ideale Bedingungen, um im weichen Sand zu entspannen und dem Rauschen des Ozeans zuzuhören. Wer einen ruhigen Platz am Wasser sucht, sollte am besten vormittags vorbeischauen.", "category": "recreational", "coords": [43.265897, -11.673586]}], "hu": [{"name": "Plage d'Itsandra شاطئ إتساندرا", "text": "Közvetlenül Itsandra mellett található ez a bájos strand, amely festői díszlettel várja vendégeit. Ideális feltételeket kínál ahhoz, hogy a puha homokban pihenjünk és hallgassuk az óceán zúgását. Aki egy csendes helyet keres a vízparton, annak érdemes délelőtt ellátogatnia ide.", "category": "recreational", "coords": [43.265897, -11.673586]}], "ro": [{"name": "Plage d'Itsandra شاطئ إتساندرا", "text": "Situată chiar lângă Itsandra, această plajă fermecătoare își întâmpină oaspeții cu un decor pitoresc. Oferă condiții ideale pentru a vă relaxa pe nisipul moale și pentru a asculta murmurul oceanului. Dacă sunteți în căutarea unui loc liniștit la malul apei, cel mai bine este să treceți dimineața.", "category": "recreational", "coords": [43.265897, -11.673586]}], "en": [{"name": "Plage d'Itsandra شاطئ إتساندرا", "text": "Located right near Itsandra, this charming beach welcomes its guests with a picturesque backdrop. It provides ideal conditions for relaxing on the soft sand and listening to the sound of the ocean. Those looking for a quiet spot by the water should aim to visit during the morning hours.", "category": "recreational", "coords": [43.265897, -11.673586]}]},
+    id: "itsandra-cities-v2", "sights": {"de": [{"name": "Itsandra Beach", "text": "Direkt bei Itsandra gelegen, empfängt dieser charmante Strand seine Gäste mit einer malerischen Kulisse. Er bietet ideale Bedingungen, um im weichen Sand zu entspannen und dem Rauschen des Ozeans zuzuhören. Wer einen ruhigen Platz am Wasser sucht, sollte am besten vormittags vorbeischauen.", "category": "recreational", "coords": [43.265897, -11.673586]}], "hu": [{"name": "Itsandra Beach", "text": "Közvetlenül Itsandra mellett található ez a bájos strand, amely festői díszlettel várja vendégeit. Ideális feltételeket kínál ahhoz, hogy a puha homokban pihenjünk és hallgassuk az óceán zúgását. Aki egy csendes helyet keres a vízparton, annak érdemes délelőtt ellátogatnia ide.", "category": "recreational", "coords": [43.265897, -11.673586]}], "ro": [{"name": "Itsandra Beach", "text": "Situată chiar lângă Itsandra, această plajă fermecătoare își întâmpină oaspeții cu un decor pitoresc. Oferă condiții ideale pentru a vă relaxa pe nisipul moale și pentru a asculta murmurul oceanului. Dacă sunteți în căutarea unui loc liniștit la malul apei, cel mai bine este să treceți dimineața.", "category": "recreational", "coords": [43.265897, -11.673586]}], "en": [{"name": "Itsandra Beach", "text": "Located right near Itsandra, this charming beach welcomes its guests with a picturesque backdrop. It provides ideal conditions for relaxing on the soft sand and listening to the sound of the ocean. Those looking for a quiet spot by the water should aim to visit during the morning hours.", "category": "recreational", "coords": [43.265897, -11.673586]}]},
     type: "city",
     parent: "KM-G",
     coords: [43.2536, -11.6669],
@@ -851,7 +851,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "mirontsi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "name": "Marahaba Sambi Viewpoint",
                   "text": "Marahaba Sambi مرحبا سامبي ist ein Aussichtspunkt in Mirontsi.",
                   "category": "natural",
                   "coords": [
@@ -871,7 +871,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "name": "Marahaba Sambi Viewpoint",
                   "text": "A(z) Marahaba Sambi مرحبا سامبي egy kilátó Mirontsi városában.",
                   "category": "natural",
                   "coords": [
@@ -891,7 +891,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "name": "Marahaba Sambi Viewpoint",
                   "text": "Marahaba Sambi مرحبا سامبي este un punct de belvedere situat în Mirontsi.",
                   "category": "natural",
                   "coords": [
@@ -911,7 +911,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "name": "Marahaba Sambi Viewpoint",
                   "text": "Marahaba Sambi مرحبا سامبي is a viewpoint located in Mirontsi.",
                   "category": "natural",
                   "coords": [
@@ -1727,7 +1727,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "mvouni-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Musée des Comores متحف جزر القمر",
+                  "name": "Comoros Museum",
                   "text": "Ein Museum in der Nähe von Mvouni.",
                   "category": "museum",
                   "coords": [
@@ -1781,7 +1781,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "name": "Independence Square",
                   "text": "Ein Denkmal auf dem Unabhängigkeitsplatz in Mvouni.",
                   "category": "historical",
                   "coords": [
@@ -1790,7 +1790,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "name": "Old Friday Mosque",
                   "text": "Eine alte Freitagsmoschee in Mvouni.",
                   "category": "religious",
                   "coords": [
@@ -1801,7 +1801,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Musée des Comores متحف جزر القمر",
+                  "name": "Comoros Museum",
                   "text": "Múzeum Mvouni közelében.",
                   "category": "museum",
                   "coords": [
@@ -1855,7 +1855,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "name": "Independence Square",
                   "text": "Emlékmű Mvouni függetlenségi terén.",
                   "category": "historical",
                   "coords": [
@@ -1864,7 +1864,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "name": "Old Friday Mosque",
                   "text": "Régi pénteki mecset Mvouniban.",
                   "category": "religious",
                   "coords": [
@@ -1875,7 +1875,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée des Comores متحف جزر القمر",
+                  "name": "Comoros Museum",
                   "text": "Un muzeu în apropiere de Mvouni.",
                   "category": "museum",
                   "coords": [
@@ -1929,7 +1929,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "name": "Independence Square",
                   "text": "Un monument în Piața Independenței din Mvouni.",
                   "category": "historical",
                   "coords": [
@@ -1938,7 +1938,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "name": "Old Friday Mosque",
                   "text": "O veche moschee de vineri în Mvouni.",
                   "category": "religious",
                   "coords": [
@@ -1949,7 +1949,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Musée des Comores متحف جزر القمر",
+                  "name": "Comoros Museum",
                   "text": "A museum near Mvouni.",
                   "category": "museum",
                   "coords": [
@@ -2003,7 +2003,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "name": "Independence Square",
                   "text": "A monument in the Independence Square of Mvouni.",
                   "category": "historical",
                   "coords": [
@@ -2012,7 +2012,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "name": "Old Friday Mosque",
                   "text": "An old Friday mosque in Mvouni.",
                   "category": "religious",
                   "coords": [

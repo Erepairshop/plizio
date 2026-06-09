@@ -600,7 +600,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "khamis-mushait-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قرية بن حمسان التراثية",
+                  "name": "Bin Hamsan Heritage Village",
                   "text": "قرية بن حمسان التراثية ist ein Museum in Chamis Muschait.",
                   "category": "museum",
                   "coords": [
@@ -611,7 +611,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قرية بن حمسان التراثية",
+                  "name": "Bin Hamsan Heritage Village",
                   "text": "A قرية بن حمسان التراثية egy múzeum Chamis Muschait városában.",
                   "category": "museum",
                   "coords": [
@@ -622,7 +622,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قرية بن حمسان التراثية",
+                  "name": "Bin Hamsan Heritage Village",
                   "text": "قرية بن حمسان التراثية este un muzeu în Chamis Muschait.",
                   "category": "museum",
                   "coords": [
@@ -633,7 +633,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "قرية بن حمسان التراثية",
+                  "name": "Bin Hamsan Heritage Village",
                   "text": "قرية بن حمسان التراثية is a museum located in Chamis Muschait.",
                   "category": "museum",
                   "coords": [
@@ -1286,7 +1286,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منطقة ينبع التاريخية",
+                  "name": "Historic Yanbu",
                   "text": "Yanbu történelmi negyede egy népszerű látnivaló.",
                   "category": "landmark",
                   "coords": [
@@ -2280,7 +2280,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     id: "unayzah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قصر الجنيني الاثري",
+                  "name": "Al-Junaibi Archaeological Palace",
                   "text": "قصر الجنيني الاثري ist eine archäologische Stätte in Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2289,7 +2289,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الصالحي التراثي",
+                  "name": "Al-Salehi Heritage House",
                   "text": "بيت الصالحي التراثي ist eine archäologische Stätte in Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2298,7 +2298,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساعة عنيزة",
+                  "name": "Unaiza Clock Tower",
                   "text": "ساعة عنيزة ist ein Denkmal in Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2307,7 +2307,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع ابن عثيمين",
+                  "name": "Ibn Uthaymeen Mosque",
                   "text": "جامع ابن عثيمين ist eine religiöse Stätte in Unaiza.",
                   "category": "religious",
                   "coords": [
@@ -2318,7 +2318,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قصر الجنيني الاثري",
+                  "name": "Al-Junaibi Archaeological Palace",
                   "text": "A قصر الجنيني الاثري egy régészeti lelőhely Unaiza városában.",
                   "category": "historical",
                   "coords": [
@@ -2327,7 +2327,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الصالحي التراثي",
+                  "name": "Al-Salehi Heritage House",
                   "text": "A بيت الصالحي التراثي egy régészeti emlékhely Unaiza területén.",
                   "category": "historical",
                   "coords": [
@@ -2336,7 +2336,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساعة عنيزة",
+                  "name": "Unaiza Clock Tower",
                   "text": "A ساعة عنيزة egy emlékmű Unaiza városában.",
                   "category": "historical",
                   "coords": [
@@ -2345,7 +2345,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع ابن عثيمين",
+                  "name": "Ibn Uthaymeen Mosque",
                   "text": "A جامع ابن عثيمين egy vallási imahely Unaiza területén.",
                   "category": "religious",
                   "coords": [
@@ -2356,7 +2356,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قصر الجنيني الاثري",
+                  "name": "Al-Junaibi Archaeological Palace",
                   "text": "قصر الجنيني الاثري este un sit arheologic din Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2365,7 +2365,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الصالحي التراثي",
+                  "name": "Al-Salehi Heritage House",
                   "text": "بيت الصالحي التراثي este un sit arheologic situat în Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2374,7 +2374,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساعة عنيزة",
+                  "name": "Unaiza Clock Tower",
                   "text": "ساعة عنيزة este un monument din Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2383,7 +2383,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع ابن عثيمين",
+                  "name": "Ibn Uthaymeen Mosque",
                   "text": "جامع ابن عثيمين este un lăcaș de cult din Unaiza.",
                   "category": "religious",
                   "coords": [
@@ -2394,7 +2394,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "قصر الجنيني الاثري",
+                  "name": "Al-Junaibi Archaeological Palace",
                   "text": "قصر الجنيني الاثري is an archaeological site located in Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2403,7 +2403,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "بيت الصالحي التراثي",
+                  "name": "Al-Salehi Heritage House",
                   "text": "بيت الصالحي التراثي is an archaeological site situated in Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2412,7 +2412,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ساعة عنيزة",
+                  "name": "Unaiza Clock Tower",
                   "text": "ساعة عنيزة is a monument located in Unaiza.",
                   "category": "historical",
                   "coords": [
@@ -2421,7 +2421,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع ابن عثيمين",
+                  "name": "Ibn Uthaymeen Mosque",
                   "text": "جامع ابن عثيمين is a place of worship located in Unaiza.",
                   "category": "religious",
                   "coords": [

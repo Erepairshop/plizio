@@ -440,7 +440,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "seeb-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قاعة صدف للافراح",
+                  "name": "Sadaf Wedding Hall",
                   "text": "قاعة صدف للافراح ist ein Theater in Sib.",
                   "category": "cultural",
                   "coords": [
@@ -449,7 +449,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الأصالة",
+                  "name": "Al Asala Hall",
                   "text": "قاعة الأصالة ist ein Theater in Sib.",
                   "category": "cultural",
                   "coords": [
@@ -458,7 +458,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "استراحة الفيصل",
+                  "name": "Al Faisal Rest House",
                   "text": "استراحة الفيصل ist ein Aussichtspunkt in Sib.",
                   "category": "natural",
                   "coords": [
@@ -476,7 +476,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة",
+                  "name": "Garden",
                   "text": "حديقة ist eine Sehenswürdigkeit in Sib.",
                   "category": "landmark",
                   "coords": [
@@ -487,7 +487,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قاعة صدف للافراح",
+                  "name": "Sadaf Wedding Hall",
                   "text": "A قاعة صدف للافراح egy színház Sib városában.",
                   "category": "cultural",
                   "coords": [
@@ -496,7 +496,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الأصالة",
+                  "name": "Al Asala Hall",
                   "text": "A قاعة الأصالة egy színház Sib városában.",
                   "category": "cultural",
                   "coords": [
@@ -505,7 +505,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "استراحة الفيصل",
+                  "name": "Al Faisal Rest House",
                   "text": "Az استراحة الفيصل egy kilátó Sib városában.",
                   "category": "natural",
                   "coords": [
@@ -523,7 +523,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة",
+                  "name": "Garden",
                   "text": "A حديقة egy látványosság Sib városában.",
                   "category": "landmark",
                   "coords": [
@@ -534,7 +534,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قاعة صدف للافراح",
+                  "name": "Sadaf Wedding Hall",
                   "text": "قاعة صدف للافراح este un teatru situat în Sib.",
                   "category": "cultural",
                   "coords": [
@@ -543,7 +543,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الأصالة",
+                  "name": "Al Asala Hall",
                   "text": "قاعة الأصالة este un teatru situat în Sib.",
                   "category": "cultural",
                   "coords": [
@@ -552,7 +552,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "استراحة الفيصل",
+                  "name": "Al Faisal Rest House",
                   "text": "استراحة الفيصل este un punct de belvedere situat în Sib.",
                   "category": "natural",
                   "coords": [
@@ -570,7 +570,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة",
+                  "name": "Garden",
                   "text": "حديقة este o atracție situată în Sib.",
                   "category": "landmark",
                   "coords": [
@@ -581,7 +581,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "قاعة صدف للافراح",
+                  "name": "Sadaf Wedding Hall",
                   "text": "قاعة صدف للافراح is a theatre located in Sib.",
                   "category": "cultural",
                   "coords": [
@@ -590,7 +590,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قاعة الأصالة",
+                  "name": "Al Asala Hall",
                   "text": "قاعة الأصالة is a theatre located in Sib.",
                   "category": "cultural",
                   "coords": [
@@ -599,7 +599,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "استراحة الفيصل",
+                  "name": "Al Faisal Rest House",
                   "text": "استراحة الفيصل is a viewpoint located in Sib.",
                   "category": "natural",
                   "coords": [
@@ -617,7 +617,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حديقة",
+                  "name": "Garden",
                   "text": "حديقة is an attraction located in Sib.",
                   "category": "landmark",
                   "coords": [
@@ -789,7 +789,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق مطرح",
+                  "name": "Mutrah Souq",
                   "text": "سوق مطرح ist eine Sehenswürdigkeit in Matrah.",
                   "category": "landmark",
                   "coords": [
@@ -926,7 +926,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق مطرح",
+                  "name": "Mutrah Souq",
                   "text": "A سوق مطرح egy látványosság Matrah városában.",
                   "category": "landmark",
                   "coords": [
@@ -1063,7 +1063,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق مطرح",
+                  "name": "Mutrah Souq",
                   "text": "سوق مطرح este o atracție în Matrah.",
                   "category": "landmark",
                   "coords": [
@@ -1200,7 +1200,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سوق مطرح",
+                  "name": "Mutrah Souq",
                   "text": "سوق مطرح is an attraction in Matrah.",
                   "category": "landmark",
                   "coords": [
@@ -1271,7 +1271,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية الخوير الطبيعية",
+                  "name": "Al Khuwair Nature Reserve",
                   "text": "Naturschutzgebiet in Bawshar.",
                   "category": "natural",
                   "coords": [
@@ -1280,7 +1280,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل",
+                  "name": "House",
                   "text": "Attraktion in Bawshar.",
                   "category": "landmark",
                   "coords": [
@@ -1289,7 +1289,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال بوشر",
+                  "name": "Bawshar Sands",
                   "text": "Aussichtspunkt in Bawshar.",
                   "category": "natural",
                   "coords": [
@@ -1318,7 +1318,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية الخوير الطبيعية",
+                  "name": "Al Khuwair Nature Reserve",
                   "text": "Természetvédelmi terület Bawsharban.",
                   "category": "natural",
                   "coords": [
@@ -1327,7 +1327,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل",
+                  "name": "House",
                   "text": "Látnivaló Bawsharban.",
                   "category": "landmark",
                   "coords": [
@@ -1336,7 +1336,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال بوشر",
+                  "name": "Bawshar Sands",
                   "text": "Kilátópont Bawsharban.",
                   "category": "natural",
                   "coords": [
@@ -1345,7 +1345,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع السلطان قابوس الأكبر",
+                  "name": "Sultan Qaboos Grand Mosque",
                   "text": "Pompás mecset Bawsharban.",
                   "category": "religious",
                   "coords": [
@@ -1365,7 +1365,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "محمية الخوير الطبيعية",
+                  "name": "Al Khuwair Nature Reserve",
                   "text": "Rezervație naturală în Bawshar.",
                   "category": "natural",
                   "coords": [
@@ -1374,7 +1374,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل",
+                  "name": "House",
                   "text": "Atracție în Bawshar.",
                   "category": "landmark",
                   "coords": [
@@ -1383,7 +1383,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "رمال بوشر",
+                  "name": "Bawshar Sands",
                   "text": "Punct de observație în Bawshar.",
                   "category": "natural",
                   "coords": [
@@ -1392,7 +1392,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "جامع السلطان قابوس الأكبر",
+                  "name": "Sultan Qaboos Grand Mosque",
                   "text": "Moschee grandioasă în Bawshar.",
                   "category": "religious",
                   "coords": [
@@ -1421,7 +1421,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "منزل",
+                  "name": "House",
                   "text": "Attraction in Bawshar.",
                   "category": "landmark",
                   "coords": [
@@ -1652,7 +1652,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "barka-cities-v2", "sights": {
       "de": [
             {
-                  "name": "الجنينة",
+                  "name": "Al Junainah",
                   "text": "الجنينة ist ein Schloss in Barka.",
                   "category": "castle",
                   "coords": [
@@ -1661,7 +1661,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مزرعة الحرث",
+                  "name": "Al Harth Farm",
                   "text": "مزرعة الحرث ist ein Schloss in Barka.",
                   "category": "castle",
                   "coords": [
@@ -1670,7 +1670,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجحيلة",
+                  "name": "Al Jahilah",
                   "text": "الجحيلة ist ein Schloss in Barka.",
                   "category": "castle",
                   "coords": [
@@ -1681,7 +1681,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "الجنينة",
+                  "name": "Al Junainah",
                   "text": "A الجنينة egy kastély Barka városában.",
                   "category": "castle",
                   "coords": [
@@ -1690,7 +1690,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مزرعة الحرث",
+                  "name": "Al Harth Farm",
                   "text": "A مزرعة الحرث egy kastély Barka városában.",
                   "category": "castle",
                   "coords": [
@@ -1699,7 +1699,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجحيلة",
+                  "name": "Al Jahilah",
                   "text": "A الجحيلة egy kastély Barka városában.",
                   "category": "castle",
                   "coords": [
@@ -1710,7 +1710,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "الجنينة",
+                  "name": "Al Junainah",
                   "text": "الجنينة este un castel în Barka.",
                   "category": "castle",
                   "coords": [
@@ -1719,7 +1719,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مزرعة الحرث",
+                  "name": "Al Harth Farm",
                   "text": "مزرعة الحرث este un castel în Barka.",
                   "category": "castle",
                   "coords": [
@@ -1728,7 +1728,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجحيلة",
+                  "name": "Al Jahilah",
                   "text": "الجحيلة este un castel în Barka.",
                   "category": "castle",
                   "coords": [
@@ -1739,7 +1739,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "الجنينة",
+                  "name": "Al Junainah",
                   "text": "الجنينة is a castle in Barka.",
                   "category": "castle",
                   "coords": [
@@ -1748,7 +1748,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مزرعة الحرث",
+                  "name": "Al Harth Farm",
                   "text": "مزرعة الحرث is a castle in Barka.",
                   "category": "castle",
                   "coords": [
@@ -1757,7 +1757,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "الجحيلة",
+                  "name": "Al Jahilah",
                   "text": "الجحيلة is a castle in Barka.",
                   "category": "castle",
                   "coords": [
@@ -1853,7 +1853,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "suwayq-cities-v2", "sights": {
       "de": [
             {
-                  "name": "حصن سور آل هلال",
+                  "name": "Sur Al Hilal Fort",
                   "text": "حصن سور آل هلال ist eine Burg in Suwaiq.",
                   "category": "castle",
                   "coords": [
@@ -1864,7 +1864,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "حصن سور آل هلال",
+                  "name": "Sur Al Hilal Fort",
                   "text": "A حصن سور آل هلال egy vár Suwaiq városában.",
                   "category": "castle",
                   "coords": [
@@ -1875,7 +1875,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "حصن سور آل هلال",
+                  "name": "Sur Al Hilal Fort",
                   "text": "حصن سور آل هلال este un castel situat în Suwaiq.",
                   "category": "castle",
                   "coords": [
@@ -1886,7 +1886,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "حصن سور آل هلال",
+                  "name": "Sur Al Hilal Fort",
                   "text": "حصن سور آل هلال is a castle located in Suwaiq.",
                   "category": "castle",
                   "coords": [
@@ -2067,7 +2067,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "al-mudhaibi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "قلاع وحصون المضيبي",
+                  "name": "Al Mudaibi Castles and Forts",
                   "text": "قلاع وحصون المضيبي ist eine Burg in Al Mudaibi.",
                   "category": "castle",
                   "coords": [
@@ -2078,7 +2078,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "قلاع وحصون المضيبي",
+                  "name": "Al Mudaibi Castles and Forts",
                   "text": "A قلاع وحصون المضيبي egy vár Al Mudaibi városában.",
                   "category": "castle",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "قلاع وحصون المضيبي",
+                  "name": "Al Mudaibi Castles and Forts",
                   "text": "قلاع وحصون المضيبي este un castel situat în Al Mudaibi.",
                   "category": "castle",
                   "coords": [
@@ -2100,7 +2100,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "قلاع وحصون المضيبي",
+                  "name": "Al Mudaibi Castles and Forts",
                   "text": "قلاع وحصون المضيبي is a castle located in Al Mudaibi.",
                   "category": "castle",
                   "coords": [
@@ -2298,7 +2298,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المنيزف",
+                  "name": "Al Munaizif",
                   "text": "المنيزف ist eine Sehenswürdigkeit in Al Hamra.",
                   "category": "landmark",
                   "coords": [
@@ -2327,7 +2327,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المنيزف",
+                  "name": "Al Munaizif",
                   "text": "A المنيزف egy látványosság Al Hamra városában.",
                   "category": "landmark",
                   "coords": [
@@ -2356,7 +2356,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المنيزف",
+                  "name": "Al Munaizif",
                   "text": "المنيزف este o atracție situată în Al Hamra.",
                   "category": "landmark",
                   "coords": [
@@ -2385,7 +2385,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "المنيزف",
+                  "name": "Al Munaizif",
                   "text": "المنيزف is an attraction located in Al Hamra.",
                   "category": "landmark",
                   "coords": [
@@ -2629,7 +2629,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants dans le Dhofar", "Environ 35 kilomètres à l'est de Salalah", "Fort de Taqah du XIXe siècle", "Construit sous Said bin Sultan", "Patrimoine UNESCO Sumhuram à 5 km", "Sumhuram date du Ier siècle avant J.-C.", "Port historique d'exportation d'encens", "Centre de la pêche à la sardine"],
     }, image: "/poi-images/taqah-cities-v2.webp"},
   {
-    id: "mirbat-cities-v2", "sights": {"de": [{"name": "Mirbat Fort / حـصـن مـرباط", "text": "Historische Festung in Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Burg in Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Entlang der omanischen Küste bei Mirbat bietet dieser Strand einen beruhigenden Rückzugsort am Meer. Eine stille, beschauliche Atmosphäre empfängt die Besucher an diesem charmanten Küstenstreifen. Der Ort lädt dazu ein, im Sand zu verweilen, ausgedehnte Spaziergänge am Ufer zu machen oder dem Wellenschlag zuzuhören. Für angenehmere Temperaturen empfiehlt sich ein Besuch in den kühleren Morgenstunden.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Attraktion in Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Attraktion in Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}], "hu": [{"name": "Mirbat Fort / حـصـن مـرباط", "text": "Történelmi erőd Mirbatban.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Vár Mirbatban.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Az ománi partok mentén, Mirbat közelében található strand megnyugtató tengerparti menedéket kínál. Csendes, szemlélődő atmoszféra fogadja a látogatókat ezen a bájos partszakaszon. A hely hívogató a homokban való elidőzésre, hosszú parti sétákra vagy a hullámzás hallgatására. A kellemesebb hőmérséklet érdekében érdemes a hűvösebb reggeli órákat választani a látogatásra.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Látnivaló Mirbatban.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Látnivaló Mirbatban.", "category": "landmark", "coords": [54.691399, 16.992494]}], "ro": [{"name": "Mirbat Fort / حـصـن مـرباط", "text": "Fortăreață istorică în Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Castel în Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "De-a lungul coastei din Oman, lângă Mirbat, această plajă oferă un refugiu liniștitor la malul mării. O atmosferă tăcută și contemplativă îi întâmpină pe vizitatori pe această porțiune fermecătoare de coastă. Locația vă invită să zăboviți pe nisip, să faceți plimbări lungi pe țărm sau să ascultați sunetul valurilor. Pentru temperaturi mai plăcute, se recomandă o vizită în orele mai răcoroase ale dimineții.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Atracție în Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Atracție în Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}], "en": [{"name": "Mirbat Fort / حـصـن مـرباط", "text": "Historic fort in Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Castle in Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Along the Omani coast near Mirbat, this beach provides a soothing seaside retreat. A quiet, contemplative atmosphere welcomes visitors to this charming stretch of coastline. The location invites you to linger on the sand, take extended walks along the shore, or listen to the crashing waves. For more pleasant temperatures, a visit during the cooler morning hours is recommended.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Attraction in Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Attraction in Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}]},
+    id: "mirbat-cities-v2", "sights": {"de": [{"name": "Mirbat Fort", "text": "Historische Festung in Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Burg in Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Entlang der omanischen Küste bei Mirbat bietet dieser Strand einen beruhigenden Rückzugsort am Meer. Eine stille, beschauliche Atmosphäre empfängt die Besucher an diesem charmanten Küstenstreifen. Der Ort lädt dazu ein, im Sand zu verweilen, ausgedehnte Spaziergänge am Ufer zu machen oder dem Wellenschlag zuzuhören. Für angenehmere Temperaturen empfiehlt sich ein Besuch in den kühleren Morgenstunden.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Attraktion in Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Attraktion in Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}], "hu": [{"name": "Mirbat Fort", "text": "Történelmi erőd Mirbatban.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Vár Mirbatban.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Az ománi partok mentén, Mirbat közelében található strand megnyugtató tengerparti menedéket kínál. Csendes, szemlélődő atmoszféra fogadja a látogatókat ezen a bájos partszakaszon. A hely hívogató a homokban való elidőzésre, hosszú parti sétákra vagy a hullámzás hallgatására. A kellemesebb hőmérséklet érdekében érdemes a hűvösebb reggeli órákat választani a látogatásra.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Látnivaló Mirbatban.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Látnivaló Mirbatban.", "category": "landmark", "coords": [54.691399, 16.992494]}], "ro": [{"name": "Mirbat Fort", "text": "Fortăreață istorică în Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Castel în Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "De-a lungul coastei din Oman, lângă Mirbat, această plajă oferă un refugiu liniștitor la malul mării. O atmosferă tăcută și contemplativă îi întâmpină pe vizitatori pe această porțiune fermecătoare de coastă. Locația vă invită să zăboviți pe nisip, să faceți plimbări lungi pe țărm sau să ascultați sunetul valurilor. Pentru temperaturi mai plăcute, se recomandă o vizită în orele mai răcoroase ale dimineții.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Atracție în Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Atracție în Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}], "en": [{"name": "Mirbat Fort", "text": "Historic fort in Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Castle in Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Along the Omani coast near Mirbat, this beach provides a soothing seaside retreat. A quiet, contemplative atmosphere welcomes visitors to this charming stretch of coastline. The location invites you to linger on the sand, take extended walks along the shore, or listen to the crashing waves. For more pleasant temperatures, a visit during the cooler morning hours is recommended.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Attraction in Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Attraction in Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}]},
     type: "city",
     parent: "OM-ZU",
     coords: [54.6833, 16.9833],
@@ -2812,7 +2812,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين الثوارة",
+                  "name": "Ain Al Thawwarah",
                   "text": "Attraktion in Nakhal.",
                   "category": "landmark",
                   "coords": [
@@ -2832,7 +2832,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين الثوارة",
+                  "name": "Ain Al Thawwarah",
                   "text": "Látnivaló Nakhalban.",
                   "category": "landmark",
                   "coords": [
@@ -2852,7 +2852,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين الثوارة",
+                  "name": "Ain Al Thawwarah",
                   "text": "Atracție în Nakhal.",
                   "category": "landmark",
                   "coords": [
@@ -2872,7 +2872,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "عين الثوارة",
+                  "name": "Ain Al Thawwarah",
                   "text": "Attraction in Nakhal.",
                   "category": "landmark",
                   "coords": [
@@ -2934,7 +2934,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بني وائل",
+                  "name": "Harat Bani Wa'il",
                   "text": "حارة بني وائل ist eine Burg in Adam.",
                   "category": "castle",
                   "coords": [
@@ -2943,7 +2943,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة العين",
+                  "name": "Harat Al Ain",
                   "text": "حارة العين ist eine Burg in Adam.",
                   "category": "castle",
                   "coords": [
@@ -2963,7 +2963,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بني وائل",
+                  "name": "Harat Bani Wa'il",
                   "text": "A حارة بني وائل egy vár Adam városában.",
                   "category": "castle",
                   "coords": [
@@ -2972,7 +2972,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة العين",
+                  "name": "Harat Al Ain",
                   "text": "A حارة العين egy vár Adam városában.",
                   "category": "castle",
                   "coords": [
@@ -2992,7 +2992,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بني وائل",
+                  "name": "Harat Bani Wa'il",
                   "text": "حارة بني وائل este un castel situat în Adam.",
                   "category": "castle",
                   "coords": [
@@ -3001,7 +3001,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة العين",
+                  "name": "Harat Al Ain",
                   "text": "حارة العين este un castel situat în Adam.",
                   "category": "castle",
                   "coords": [
@@ -3021,7 +3021,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بني وائل",
+                  "name": "Harat Bani Wa'il",
                   "text": "حارة بني وائل is a castle located in Adam.",
                   "category": "castle",
                   "coords": [
@@ -3030,7 +3030,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة العين",
+                  "name": "Harat Al Ain",
                   "text": "حارة العين is a castle located in Adam.",
                   "category": "castle",
                   "coords": [

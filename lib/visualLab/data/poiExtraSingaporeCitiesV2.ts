@@ -11784,7 +11784,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Temple",
                   "text": "Das Buddha Tooth Relic Museum in Little India zeigt buddhistische Kunst und Kultur.",
                   "category": "museum",
                   "coords": [
@@ -12254,7 +12254,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Temple",
                   "text": "A Little Indiában található Buddha Tooth Relic Museum buddhista művészetet és kultúrát mutat be.",
                   "category": "museum",
                   "coords": [
@@ -12724,7 +12724,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Temple",
                   "text": "Muzeul Relicvei Dintelui lui Buddha din Little India prezintă artă și cultură budistă.",
                   "category": "museum",
                   "coords": [
@@ -17108,7 +17108,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "新加坡佛牙寺龙华院",
+                  "name": "Buddha Tooth Relic Temple",
                   "text": "A(z) Buddha Tooth Relic Museum egy múzeum Downtown Core-ban.",
                   "category": "museum",
                   "coords": [

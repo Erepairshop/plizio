@@ -573,7 +573,7 @@ export const mauritaniaEconomicV2: POI[] = [
     id: "mauritania-atarr-oasis-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "name": "Atar Regional Radio",
                   "text": "Theater und regionales Radio in Atar.",
                   "category": "cultural",
                   "coords": [
@@ -591,7 +591,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "name": "Touezek Museum",
                   "text": "Touezek-Museum in Atar.",
                   "category": "museum",
                   "coords": [
@@ -602,7 +602,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "name": "Atar Regional Radio",
                   "text": "Színház és regionális rádió Atarban.",
                   "category": "cultural",
                   "coords": [
@@ -620,7 +620,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "name": "Touezek Museum",
                   "text": "Touezek múzeum Atarban.",
                   "category": "museum",
                   "coords": [
@@ -631,7 +631,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "name": "Atar Regional Radio",
                   "text": "Teatru și radio regional în Atar.",
                   "category": "cultural",
                   "coords": [
@@ -649,7 +649,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "name": "Touezek Museum",
                   "text": "Muzeul Touezek din Atar.",
                   "category": "museum",
                   "coords": [
@@ -660,7 +660,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "name": "Atar Regional Radio",
                   "text": "Theatre and regional radio in Atar.",
                   "category": "cultural",
                   "coords": [
@@ -678,7 +678,7 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "name": "Touezek Museum",
                   "text": "Touezek museum in Atar.",
                   "category": "museum",
                   "coords": [

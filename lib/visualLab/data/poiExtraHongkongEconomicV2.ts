@@ -681,7 +681,7 @@ export const hongkongEconomicV2: POI[] = [
     id: "hongkong-causeway-bay-economic-v2", "sights": {
       "de": [
             {
-                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "name": "Flagstaff House Museum of Tea Ware",
                   "text": "Das Flagstaff House Museum of Tea Ware in Causeway Bay zeigt eine umfangreiche Sammlung chinesischer Teekeramik.",
                   "category": "museum",
                   "coords": [
@@ -699,7 +699,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "警隊博物館 Police Museum",
+                  "name": "Police Museum",
                   "text": "Das Hong Kong Police Museum in Causeway Bay dokumentiert die Geschichte der lokalen Polizei.",
                   "category": "museum",
                   "coords": [
@@ -708,7 +708,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Das Hong Kong Museum of History in Causeway Bay präsentiert die wechselvolle Geschichte der Region.",
                   "category": "museum",
                   "coords": [
@@ -915,7 +915,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "怡和午砲 Noonday Gun",
+                  "name": "Noonday Gun",
                   "text": "Die Noonday Gun in Causeway Bay wird traditionell täglich um 12 Uhr abgefeuert.",
                   "category": "landmark",
                   "coords": [
@@ -1095,7 +1095,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港賽馬博物館 The Hong Kong Racing Museum",
+                  "name": "The Hong Kong Racing Museum",
                   "text": "Das Hong Kong Racing Museum in Causeway Bay zeigt die Geschichte des Pferderennsports.",
                   "category": "museum",
                   "coords": [
@@ -1178,7 +1178,7 @@ export const hongkongEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "name": "Flagstaff House Museum of Tea Ware",
                   "text": "A Causeway Bay-i Flagstaff House Teakerámia Múzeum kiterjedt kínai teakerámia-gyűjteménnyel rendelkezik.",
                   "category": "museum",
                   "coords": [
@@ -1313,7 +1313,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "name": "St. John's Cathedral",
                   "text": "A Causeway Bay-i Szent János-katedrális Hongkong legrégebbi anglikán temploma.",
                   "category": "religious",
                   "coords": [
@@ -1403,7 +1403,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "A Hongkongi Óriáskerék kilátást nyújt Causeway Bay-re.",
                   "category": "landmark",
                   "coords": [
@@ -1412,7 +1412,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "怡和午砲 Noonday Gun",
+                  "name": "Noonday Gun",
                   "text": "A Causeway Bay-i Noonday Gun-t hagyományosan minden nap délben sütik el.",
                   "category": "landmark",
                   "coords": [
@@ -1675,7 +1675,7 @@ export const hongkongEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "name": "Flagstaff House Museum of Tea Ware",
                   "text": "Muzeul de Ceramică pentru Ceai Flagstaff House din Causeway Bay găzduiește o vastă colecție de ceramică chinezească.",
                   "category": "museum",
                   "coords": [
@@ -1693,7 +1693,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "警隊博物館 Police Museum",
+                  "name": "Police Museum",
                   "text": "Muzeul Poliției din Hong Kong din Causeway Bay documentează istoria poliției locale.",
                   "category": "museum",
                   "coords": [
@@ -1702,7 +1702,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "name": "Hong Kong Museum of History",
                   "text": "Muzeul de Istorie din Hong Kong din Causeway Bay prezintă istoria variată a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -1900,7 +1900,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "name": "Hong Kong Observation Wheel",
                   "text": "Roata Panoramica din Hong Kong oferă o vedere asupra Causeway Bay.",
                   "category": "landmark",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const hongkongEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "香港賽馬博物館 The Hong Kong Racing Museum",
+                  "name": "The Hong Kong Racing Museum",
                   "text": "Muzeul de Cursuri de Cai din Hong Kong din Causeway Bay prezintă istoria curselor de cai.",
                   "category": "museum",
                   "coords": [

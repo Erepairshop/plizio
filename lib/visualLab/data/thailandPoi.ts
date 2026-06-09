@@ -68,7 +68,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านชินประชา",
+                  "name": "Chinpracha House",
                   "text": "Ein gut erhaltenes sino-portugiesisches Herrenhaus, das den Lebensstil einer wohlhabenden Familie aus Phuket zeigt.",
                   "category": "museum",
                   "coords": [
@@ -77,7 +77,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "พลับพลาที่ประทับกรมหลวงชุมพรเขตอุดมศักดิ์ สะพานหิน",
+                  "name": "Prince Abhakara Kiartivongse Shrine",
                   "text": "Ein Denkmal und Museum für Prinz Abhakara Kiartivongse, den Begründer der thailändischen Marine.",
                   "category": "museum",
                   "coords": [
@@ -95,7 +95,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "เมืองเก่าภูเก็ต",
+                  "name": "Phuket Old Town",
                   "text": "Das historische Viertel von Phuket, das für seine gut erhaltene sino-portugiesische Architektur bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -104,7 +104,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเขารัง",
+                  "name": "Khao Rang Viewpoint",
                   "text": "Ein beliebter Aussichtspunkt auf einem Hügel mit Panoramablick über Phuket-Stadt.",
                   "category": "natural",
                   "coords": [
@@ -113,7 +113,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเขาโต๊ะแซะ",
+                  "name": "Toh Sae Hill Viewpoint",
                   "text": "Ein Aussichtspunkt in Phuket, der für seine weite Aussicht und die dort lebenden Affen bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -122,7 +122,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสรณ์เรือขุดแร่",
+                  "name": "Tin Mining Monument",
                   "text": "Ein Denkmal in Phuket, das an die bedeutende Bergbaugeschichte der Insel erinnert.",
                   "category": "historical",
                   "coords": [
@@ -131,7 +131,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดให้อาหารลิง",
+                  "name": "Monkey Feeding Point",
                   "text": "Eine lokale Attraktion in Phuket, an der Besucher Makaken beobachten und füttern können.",
                   "category": "landmark",
                   "coords": [
@@ -149,7 +149,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "วงเวียนสุรินทร์",
+                  "name": "Surin Circle",
                   "text": "Ein bekannter Kreisverkehr in Phuket, der oft als Treffpunkt im Stadtzentrum dient.",
                   "category": "landmark",
                   "coords": [
@@ -158,7 +158,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "สวนสาธารณะเฉลิมพระเกียรติ",
+                  "name": "Chalerm Phra Kiat Park",
                   "text": "Ein öffentlicher Park in Phuket, der Raum für Erholung und Freizeitaktivitäten bietet.",
                   "category": "landmark",
                   "coords": [
@@ -167,7 +167,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมงคลนิมิตร",
+                  "name": "Wat Mongkol Nimit",
                   "text": "Ein bedeutender buddhistischer Tempel in Phuket-Stadt, der als wichtiges religiöses Zentrum dient.",
                   "category": "religious",
                   "coords": [
@@ -196,7 +196,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านชินประชา",
+                  "name": "Chinpracha House",
                   "text": "Jól megőrzött sino-portugál kúria, amely egy tehetős phuketi család életmódját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -205,7 +205,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "พลับพลาที่ประทับกรมหลวงชุมพรเขตอุดมศักดิ์ สะพานหิน",
+                  "name": "Prince Abhakara Kiartivongse Shrine",
                   "text": "Emlékmű és múzeum, amelyet Abhakara Kiartivongse hercegnek, a thaiföldi haditengerészet alapítójának szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -223,7 +223,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "เมืองเก่าภูเก็ต",
+                  "name": "Phuket Old Town",
                   "text": "Phuket történelmi negyede, amely jól megőrzött kínai-portugál építészetéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -232,7 +232,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเขารัง",
+                  "name": "Khao Rang Viewpoint",
                   "text": "Népszerű dombtetői kilátó, amely panorámás kilátást nyújt Phuket városára.",
                   "category": "natural",
                   "coords": [
@@ -241,7 +241,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเขาโต๊ะแซะ",
+                  "name": "Toh Sae Hill Viewpoint",
                   "text": "Phuketi kilátóhely, amely tágas kilátásáról és az ott élő majmokról nevezetes.",
                   "category": "natural",
                   "coords": [
@@ -250,7 +250,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสรณ์เรือขุดแร่",
+                  "name": "Tin Mining Monument",
                   "text": "Emlékmű Phuketben, amely a sziget jelentős bányászati múltjának állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -259,7 +259,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดให้อาหารลิง",
+                  "name": "Monkey Feeding Point",
                   "text": "Helyi látványosság Phuketben, ahol a látogatók makákókat figyelhetnek meg és etethetnek.",
                   "category": "landmark",
                   "coords": [
@@ -277,7 +277,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "วงเวียนสุรินทร์",
+                  "name": "Surin Circle",
                   "text": "Ismert körforgalom Phuketben, amely gyakran találkozóhelyként szolgál a városközpontban.",
                   "category": "landmark",
                   "coords": [
@@ -286,7 +286,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "สวนสาธารณะเฉลิมพระเกียรติ",
+                  "name": "Chalerm Phra Kiat Park",
                   "text": "Publikus park Phuketben, amely pihenési és szabadidős tevékenységekre kínál lehetőséget.",
                   "category": "landmark",
                   "coords": [
@@ -295,7 +295,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมงคลนิมิตร",
+                  "name": "Wat Mongkol Nimit",
                   "text": "Jelentős buddhista templom Phuket városában, amely fontos vallási központként szolgál.",
                   "category": "religious",
                   "coords": [
@@ -324,7 +324,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "บ้านชินประชา",
+                  "name": "Chinpracha House",
                   "text": "Un conac sino-portughez bine conservat, care prezintă stilul de viață al unei familii bogate din Phuket.",
                   "category": "museum",
                   "coords": [
@@ -333,7 +333,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "พลับพลาที่ประทับกรมหลวงชุมพรเขตอุดมศักดิ์ สะพานหิน",
+                  "name": "Prince Abhakara Kiartivongse Shrine",
                   "text": "Un monument și muzeu dedicat Prințului Abhakara Kiartivongse, fondatorul marinei thailandeze.",
                   "category": "museum",
                   "coords": [
@@ -351,7 +351,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "เมืองเก่าภูเก็ต",
+                  "name": "Phuket Old Town",
                   "text": "Cartierul istoric din Phuket, cunoscut pentru arhitectura sa sino-portugheză bine conservată.",
                   "category": "landmark",
                   "coords": [
@@ -360,7 +360,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเขารัง",
+                  "name": "Khao Rang Viewpoint",
                   "text": "Un punct de belvedere popular pe deal, care oferă vedere panoramică asupra orașului Phuket.",
                   "category": "natural",
                   "coords": [
@@ -369,7 +369,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดชมวิวเขาโต๊ะแซะ",
+                  "name": "Toh Sae Hill Viewpoint",
                   "text": "Un punct de belvedere din Phuket cunoscut pentru vederile sale largi și maimuțele rezidente.",
                   "category": "natural",
                   "coords": [
@@ -378,7 +378,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "อนุสรณ์เรือขุดแร่",
+                  "name": "Tin Mining Monument",
                   "text": "Un monument din Phuket care comemorează istoria minieră semnificativă a insulei.",
                   "category": "historical",
                   "coords": [
@@ -387,7 +387,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "จุดให้อาหารลิง",
+                  "name": "Monkey Feeding Point",
                   "text": "O atracție locală din Phuket unde vizitatorii pot observa și hrăni macaci.",
                   "category": "landmark",
                   "coords": [
@@ -405,7 +405,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "วงเวียนสุรินทร์",
+                  "name": "Surin Circle",
                   "text": "Un sens giratoriu cunoscut din Phuket, care servește adesea ca punct de întâlnire în centrul orașului.",
                   "category": "landmark",
                   "coords": [
@@ -414,7 +414,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "สวนสาธารณะเฉลิมพระเกียรติ",
+                  "name": "Chalerm Phra Kiat Park",
                   "text": "Un parc public din Phuket care oferă spațiu pentru recreere și activități de petrecere a timpului liber.",
                   "category": "landmark",
                   "coords": [
@@ -423,7 +423,7 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "วัดมงคลนิมิตร",
+                  "name": "Wat Mongkol Nimit",
                   "text": "Un templu budist semnificativ din orașul Phuket, care servește drept centru religios important.",
                   "category": "religious",
                   "coords": [

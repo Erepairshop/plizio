@@ -494,7 +494,7 @@ export const moldovaCitiesV2: POI[] = [
     id: "moldova-bender-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Дельфин",
+                  "name": "Dolphin",
                   "text": "Ein Ort zum Schwimmen und für Wassererholung in Bender.",
                   "category": "family",
                   "coords": [
@@ -523,7 +523,7 @@ export const moldovaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Дельфин",
+                  "name": "Dolphin",
                   "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Bender településen.",
                   "category": "family",
                   "coords": [
@@ -581,7 +581,7 @@ export const moldovaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Дельфин",
+                  "name": "Dolphin",
                   "text": "A place for swimming and water recreation in Bender.",
                   "category": "family",
                   "coords": [
@@ -5050,7 +5050,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "База «Бормана»",
+                  "name": "Borman Base",
                   "text": "Das Strandresort База «Бормана» in Dnestrovsc lädt zum Entspannen am Wasser ein.",
                   "category": "family",
                   "coords": [
@@ -5124,7 +5124,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "База «Бормана»",
+                  "name": "Borman Base",
                   "text": "A dnyeszterovszki База «Бормана» vízparti üdülőhely kikapcsolódásra hív a víz mellett.",
                   "category": "family",
                   "coords": [
@@ -5198,7 +5198,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "База «Бормана»",
+                  "name": "Borman Base",
                   "text": "Complexul de plajă База «Бормана» din Dnestrovsc invită la relaxare pe malul apei.",
                   "category": "family",
                   "coords": [
@@ -5272,7 +5272,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "База «Бормана»",
+                  "name": "Borman Base",
                   "text": "The beach resort База «Бормана» in Dnestrovsc invites for relaxation by the water.",
                   "category": "family",
                   "coords": [
@@ -6776,7 +6776,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коротное старая баня",
+                  "name": "Korotnoye Old Bathhouse",
                   "text": "Ein Ort zum Schwimmen und für Wassererholung in Crasnoe.",
                   "category": "family",
                   "coords": [
@@ -6823,7 +6823,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коротное старая баня",
+                  "name": "Korotnoye Old Bathhouse",
                   "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Crasnoe településen.",
                   "category": "family",
                   "coords": [
@@ -6870,7 +6870,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коротное старая баня",
+                  "name": "Korotnoye Old Bathhouse",
                   "text": "Un loc pentru înot și recreere acvatică în Crasnoe.",
                   "category": "family",
                   "coords": [
@@ -6917,7 +6917,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коротное старая баня",
+                  "name": "Korotnoye Old Bathhouse",
                   "text": "A place for swimming and water recreation in Crasnoe.",
                   "category": "family",
                   "coords": [

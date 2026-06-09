@@ -54,7 +54,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "name": "Arghuni Bimaristan",
                   "text": "al-Bimaristan al-Arghuni – البيمارستان الارغوني ist ein Museum in Aleppo.",
                   "category": "museum",
                   "coords": [
@@ -326,7 +326,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "name": "Arghuni Bimaristan",
                   "text": "Az al-Bimaristan al-Arghuni – البيمارستان الارغوني egy múzeum Aleppóban.",
                   "category": "museum",
                   "coords": [
@@ -598,7 +598,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "name": "Arghuni Bimaristan",
                   "text": "al-Bimaristan al-Arghuni – البيمارستان الارغوني este un muzeu situat în Alep.",
                   "category": "museum",
                   "coords": [
@@ -870,7 +870,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "name": "Arghuni Bimaristan",
                   "text": "al-Bimaristan al-Arghuni – البيمارستان الارغوني is a museum situated in Aleppo.",
                   "category": "museum",
                   "coords": [
@@ -1265,7 +1265,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "ar-raqqah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "تل البيعة",
+                  "name": "Tell Bi'a",
                   "text": "Archäologische Ausgrabungsstätte einer antiken Stadt am Euphrat.",
                   "category": "historical",
                   "coords": [
@@ -1274,7 +1274,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سور الرقة",
+                  "name": "Raqqa Wall",
                   "text": "Historisches Stadttor als Teil der alten Befestigungsanlagen von Rakka.",
                   "category": "castle",
                   "coords": [
@@ -1283,7 +1283,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الرقة",
+                  "name": "Raqqa Museum",
                   "text": "Museum mit Funden aus der reichen Geschichte der Region Rakka.",
                   "category": "museum",
                   "coords": [
@@ -1292,7 +1292,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بغداد",
+                  "name": "Baghdad Gate",
                   "text": "Eindrucksvolles abbasidisches Stadttor aus dem 8. Jahrhundert.",
                   "category": "castle",
                   "coords": [
@@ -1330,7 +1330,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "تل البيعة",
+                  "name": "Tell Bi'a",
                   "text": "Egy ősi mezopotámiai város régészeti lelőhelye az Eufrátesz mentén.",
                   "category": "historical",
                   "coords": [
@@ -1339,7 +1339,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سور الرقة",
+                  "name": "Raqqa Wall",
                   "text": "Történelmi városkapu Rakka régi erődítményrendszerének részeként.",
                   "category": "castle",
                   "coords": [
@@ -1348,7 +1348,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الرقة",
+                  "name": "Raqqa Museum",
                   "text": "Múzeum, amely Rakka régiójának gazdag történelmi emlékeit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -1357,7 +1357,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بغداد",
+                  "name": "Baghdad Gate",
                   "text": "Hatásos abbászida városkapu a 8. századból.",
                   "category": "castle",
                   "coords": [
@@ -1375,7 +1375,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج الرقة",
+                  "name": "Raqqa Tower",
                   "text": "Egy történelmi torony romjai az észak-szíriai városban.",
                   "category": "historical",
                   "coords": [
@@ -1395,7 +1395,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "تل البيعة",
+                  "name": "Tell Bi'a",
                   "text": "Sit arheologic al unui oraș antic situat pe malul Eufratului.",
                   "category": "historical",
                   "coords": [
@@ -1404,7 +1404,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "سور الرقة",
+                  "name": "Raqqa Wall",
                   "text": "Poartă istorică a orașului, parte a vechilor fortificații din Raqqa.",
                   "category": "castle",
                   "coords": [
@@ -1413,7 +1413,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف الرقة",
+                  "name": "Raqqa Museum",
                   "text": "Muzeu ce adăpostește descoperiri din istoria bogată a regiunii Raqqa.",
                   "category": "museum",
                   "coords": [
@@ -1422,7 +1422,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "باب بغداد",
+                  "name": "Baghdad Gate",
                   "text": "Poartă impresionantă a orașului din epoca abbasidă (secolul VIII).",
                   "category": "castle",
                   "coords": [
@@ -1440,7 +1440,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج الرقة",
+                  "name": "Raqqa Tower",
                   "text": "Ruinele unui turn istoric în orașul din nordul Siriei.",
                   "category": "historical",
                   "coords": [
@@ -1766,7 +1766,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هدية صالح",
+                  "name": "Hadiya Saleh Memorial",
                   "text": "Ein Denkmal in Qamischli, das der Erinnerung an die lokale Geschichte dient.",
                   "category": "historical",
                   "coords": [
@@ -1775,7 +1775,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ستيرفا",
+                  "name": "Sterva Center",
                   "text": "Ein beliebtes Freizeitziel und Attraktion im Zentrum von Qamischli.",
                   "category": "landmark",
                   "coords": [
@@ -1813,7 +1813,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هدية صالح",
+                  "name": "Hadiya Saleh Memorial",
                   "text": "Emlékmű Qamischli városában, amely a helyi történelem előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
@@ -1822,7 +1822,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ستيرفا",
+                  "name": "Sterva Center",
                   "text": "Népszerű szabadidős központ és látványosság Qamischli szívében.",
                   "category": "landmark",
                   "coords": [
@@ -1860,7 +1860,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "هدية صالح",
+                  "name": "Hadiya Saleh Memorial",
                   "text": "Un monument în Qamischli, dedicat memoriei istoriei locale.",
                   "category": "historical",
                   "coords": [
@@ -1869,7 +1869,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز ستيرفا",
+                  "name": "Sterva Center",
                   "text": "O destinație populară de agrement și atracție în centrul orașului Qamischli.",
                   "category": "landmark",
                   "coords": [
@@ -1956,7 +1956,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "douma-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "name": "Douma Zoo",
                   "text": "Douma Zoo - حديقة الحيوانات ist ein Zoo in Douma.",
                   "category": "family",
                   "coords": [
@@ -1967,7 +1967,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "name": "Douma Zoo",
                   "text": "A Douma Zoo - حديقة الحيوانات egy állatkert Douma városában.",
                   "category": "family",
                   "coords": [
@@ -1978,7 +1978,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "name": "Douma Zoo",
                   "text": "Douma Zoo - حديقة الحيوانات este o grădină zoologică situată în Douma.",
                   "category": "family",
                   "coords": [
@@ -1989,7 +1989,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "name": "Douma Zoo",
                   "text": "Douma Zoo - حديقة الحيوانات is a zoo situated in Douma.",
                   "category": "family",
                   "coords": [
@@ -2029,7 +2029,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "manbij-cities-v2", "sights": {
       "de": [
             {
-                  "name": "دوار الكرة الأرضية",
+                  "name": "Globe Roundabout",
                   "text": "Ein markantes Denkmal an einem Kreisverkehr in der Stadt Manbidsch.",
                   "category": "historical",
                   "coords": [
@@ -2038,7 +2038,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار المطاحن",
+                  "name": "Mills Roundabout",
                   "text": "Ein lokaler Orientierungspunkt und Denkmal in Manbidsch.",
                   "category": "historical",
                   "coords": [
@@ -2049,7 +2049,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "دوار الكرة الأرضية",
+                  "name": "Globe Roundabout",
                   "text": "Jellegzetes emlékmű egy körforgalomnál Manbidzs városában.",
                   "category": "historical",
                   "coords": [
@@ -2058,7 +2058,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار المطاحن",
+                  "name": "Mills Roundabout",
                   "text": "Helyi tájékozódási pont és emlékmű Manbidzsban.",
                   "category": "historical",
                   "coords": [
@@ -2069,7 +2069,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "دوار الكرة الأرضية",
+                  "name": "Globe Roundabout",
                   "text": "Un monument proeminent situat într-un sens giratoriu din orașul Manbij.",
                   "category": "historical",
                   "coords": [
@@ -2078,7 +2078,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "دوار المطاحن",
+                  "name": "Mills Roundabout",
                   "text": "Un punct de reper local și monument în Manbij.",
                   "category": "historical",
                   "coords": [
@@ -2332,7 +2332,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة فخر الدين ا",
+                  "name": "Fakhreddine Castle",
                   "text": "Eine Burg aus dem 13. Jahrhundert, die auf einem Hügel über der antiken Stadt thront.",
                   "category": "castle",
                   "coords": [
@@ -2460,7 +2460,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حامات ديوكليسيان",
+                  "name": "Diocletian Baths",
                   "text": "Ókori római fürdők maradványai Palmüra történelmi városában.",
                   "category": "historical",
                   "coords": [
@@ -2478,7 +2478,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد نبو",
+                  "name": "Temple of Nabu",
                   "text": "A babiloni Nabú istennek szentelt templom romjai Palmürában.",
                   "category": "historical",
                   "coords": [
@@ -2487,7 +2487,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد بعل شامين",
+                  "name": "Temple of Baalshamin",
                   "text": "Palmürai ókori templom, amelyet Baal-Samin istennek szenteltek.",
                   "category": "historical",
                   "coords": [
@@ -2505,7 +2505,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة فخر الدين ا",
+                  "name": "Fakhreddine Castle",
                   "text": "13. századi vár, amely egy dombtetőn magasodik az ókori város felett.",
                   "category": "castle",
                   "coords": [
@@ -2514,7 +2514,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف تدمر",
+                  "name": "Palmyra Museum",
                   "text": "Múzeum, amely az ókori város jelentős régészeti leleteit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -2523,7 +2523,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد",
+                  "name": "Temple",
                   "text": "Sírkamrákkal rendelkező ókori templom romjai Palmüra nekropoliszában.",
                   "category": "historical",
                   "coords": [
@@ -2532,7 +2532,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد بعل",
+                  "name": "Temple of Bel",
                   "text": "Palmüra főtemplomának hatalmas maradványai, amelyet Bél istennek szenteltek.",
                   "category": "historical",
                   "coords": [
@@ -2541,7 +2541,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد اللات",
+                  "name": "Temple of Al-Lat",
                   "text": "Az arab Allát istennőnek szentelt templom romjai Palmürában.",
                   "category": "historical",
                   "coords": [
@@ -2613,7 +2613,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "البازيليكا البيزنطينية",
+                  "name": "Byzantine Basilica",
                   "text": "Keresztény bazilika romjai Palmüra bizánci korszakából.",
                   "category": "historical",
                   "coords": [
@@ -2624,7 +2624,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "تدمر",
+                  "name": "Palmyra",
                   "text": "Un oraș semitic antic și sit al Patrimoniului Mondial UNESCO cu ruine monumentale.",
                   "category": "historical",
                   "coords": [
@@ -2633,7 +2633,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حامات ديوكليسيان",
+                  "name": "Diocletian Baths",
                   "text": "Rămășițele unor băi romane antice în orașul istoric Palmyra.",
                   "category": "historical",
                   "coords": [
@@ -2651,7 +2651,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد نبو",
+                  "name": "Temple of Nabu",
                   "text": "Ruinele unui templu dedicat zeului babilonian Nabu în Palmyra.",
                   "category": "historical",
                   "coords": [
@@ -2660,7 +2660,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد بعل شامين",
+                  "name": "Temple of Baalshamin",
                   "text": "Un templu antic din Palmyra dedicat zeului Baal Shamin.",
                   "category": "historical",
                   "coords": [
@@ -2678,7 +2678,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "قلعة فخر الدين ا",
+                  "name": "Fakhreddine Castle",
                   "text": "Un castel din secolul al XIII-lea situat pe un deal care domină orașul antic.",
                   "category": "castle",
                   "coords": [
@@ -2687,7 +2687,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "متحف تدمر",
+                  "name": "Palmyra Museum",
                   "text": "Un muzeu care adăpostește descoperiri arheologice semnificative din orașul antic.",
                   "category": "museum",
                   "coords": [
@@ -2696,7 +2696,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد",
+                  "name": "Temple",
                   "text": "Ruinele unui templu antic cu camere funerare în necropola Palmyrei.",
                   "category": "historical",
                   "coords": [
@@ -2705,7 +2705,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد بعل",
+                  "name": "Temple of Bel",
                   "text": "Rămășițele masive ale templului principal din Palmyra, dedicat zeului Bel.",
                   "category": "historical",
                   "coords": [
@@ -2714,7 +2714,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "معبد اللات",
+                  "name": "Temple of Al-Lat",
                   "text": "Ruinele unui templu dedicat zeiței arabe Allat în Palmyra.",
                   "category": "historical",
                   "coords": [
@@ -2786,7 +2786,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "البازيليكا البيزنطينية",
+                  "name": "Byzantine Basilica",
                   "text": "Ruinele unei bazilici creștine din perioada bizantină a Palmyrei.",
                   "category": "historical",
                   "coords": [
@@ -2999,7 +2999,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "safita-cities-v2", "sights": {
       "de": [
             {
-                  "name": "ديوب",
+                  "name": "Chastel Blanc",
                   "text": "Eine historische Burganlage in der Stadt Safita.",
                   "category": "castle",
                   "coords": [
@@ -3008,7 +3008,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج صافيتا وكنيسة مار ميخائيل",
+                  "name": "Safita Tower and Saint Michael Church",
                   "text": "Ein markanter Turm einer Kreuzritterfestung und Kirche in Safita.",
                   "category": "historical",
                   "coords": [
@@ -3017,7 +3017,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بيت ربيع",
+                  "name": "Beit Rabie Quarter",
                   "text": "Eine lokale Sehenswürdigkeit und Attraktion in Safita.",
                   "category": "landmark",
                   "coords": [
@@ -3028,7 +3028,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ديوب",
+                  "name": "Chastel Blanc",
                   "text": "Történelmi várkastély Safita városában.",
                   "category": "castle",
                   "coords": [
@@ -3037,7 +3037,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج صافيتا وكنيسة مار ميخائيل",
+                  "name": "Safita Tower and Saint Michael Church",
                   "text": "Keresztes lovagvár és templom jellegzetes tornya Safitában.",
                   "category": "historical",
                   "coords": [
@@ -3046,7 +3046,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بيت ربيع",
+                  "name": "Beit Rabie Quarter",
                   "text": "Helyi nevezetesség és látnivaló Safita városában.",
                   "category": "landmark",
                   "coords": [
@@ -3057,7 +3057,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ديوب",
+                  "name": "Chastel Blanc",
                   "text": "O fortăreață istorică situată în orașul Safita.",
                   "category": "castle",
                   "coords": [
@@ -3066,7 +3066,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "برج صافيتا وكنيسة مار ميخائيل",
+                  "name": "Safita Tower and Saint Michael Church",
                   "text": "Un turn proeminent al unei fortărețe cruciate și biserică în Safita.",
                   "category": "historical",
                   "coords": [
@@ -3075,7 +3075,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "حارة بيت ربيع",
+                  "name": "Beit Rabie Quarter",
                   "text": "O atracție locală și punct de interes în Safita.",
                   "category": "landmark",
                   "coords": [
@@ -3340,7 +3340,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "جبل عائد",
+                  "name": "A'id Mountain",
                   "text": "Jellegzetes hegycsúcs At-Taura közelében.",
                   "category": "natural",
                   "coords": [
@@ -3351,7 +3351,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "جبل عائد",
+                  "name": "A'id Mountain",
                   "text": "Un vârf montan proeminent situat în apropiere de At-Taura.",
                   "category": "natural",
                   "coords": [
@@ -3439,7 +3439,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "מפקדת המודיעין הסורית",
+                  "name": "Syrian Intelligence Headquarters",
                   "text": "Die Ruinen eines ehemaligen Geheimdiensthauptquartiers in der Geisterstadt Quneitra.",
                   "category": "historical",
                   "coords": [
@@ -3448,7 +3448,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ח'רבת אל-מח'פי",
+                  "name": "Khirbet Al-Makhfi",
                   "text": "Archäologische Ruinen einer antiken Siedlung in der Nähe von Quneitra.",
                   "category": "historical",
                   "coords": [
@@ -3466,7 +3466,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "القنيطرة",
+                  "name": "Quneitra",
                   "text": "Eine weitgehend zerstörte Stadt auf den Golan-Höhen, die heute als Mahnmal dient.",
                   "category": "historical",
                   "coords": [
@@ -3477,7 +3477,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "תצפית קונייטרה",
+                  "name": "Quneitra Lookout",
                   "text": "Kilátópont Kuneitrában, ahonnan rálátás nyílik a lerombolt városra és környékére.",
                   "category": "natural",
                   "coords": [
@@ -3486,7 +3486,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "מפקדת המודיעין הסורית",
+                  "name": "Syrian Intelligence Headquarters",
                   "text": "Egy egykori hírszerzési központ romjai Kuneitra szellemvárosában.",
                   "category": "historical",
                   "coords": [
@@ -3495,7 +3495,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ח'רבת אל-מח'פי",
+                  "name": "Khirbet Al-Makhfi",
                   "text": "Egy ősi település régészeti romjai Kuneitra közelében.",
                   "category": "historical",
                   "coords": [
@@ -3513,7 +3513,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "القنيطرة",
+                  "name": "Quneitra",
                   "text": "Egy nagyrészt lerombolt város a Golán-fennsíkon, amely ma emlékhelyként szolgál.",
                   "category": "historical",
                   "coords": [
@@ -3524,7 +3524,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "תצפית קונייטרה",
+                  "name": "Quneitra Lookout",
                   "text": "Un punct de observare în Quneitra cu vedere spre orașul distrus și împrejurimi.",
                   "category": "natural",
                   "coords": [
@@ -3533,7 +3533,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "מפקדת המודיעין הסורית",
+                  "name": "Syrian Intelligence Headquarters",
                   "text": "Ruinele unui fost sediu al serviciilor de informații din orașul-fantomă Quneitra.",
                   "category": "historical",
                   "coords": [
@@ -3542,7 +3542,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ח'רבת אל-מח'פי",
+                  "name": "Khirbet Al-Makhfi",
                   "text": "Ruinele arheologice ale unei așezări antice din apropiere de Quneitra.",
                   "category": "historical",
                   "coords": [
@@ -3560,7 +3560,7 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "القنيطرة",
+                  "name": "Quneitra",
                   "text": "Un oraș distrus în mare parte în Înălțimile Golan, care servește astăzi drept memorial.",
                   "category": "historical",
                   "coords": [

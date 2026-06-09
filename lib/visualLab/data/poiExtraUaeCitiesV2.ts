@@ -447,7 +447,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "واحة العين",
+                  "name": "Al Ain Oasis",
                   "text": "Eine bekannte Touristenattraktion in Al Ain.",
                   "category": "landmark",
                   "coords": [
@@ -530,7 +530,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "واحة العين",
+                  "name": "Al Ain Oasis",
                   "text": "Egy kiemelkedő turisztikai látványosság Al Ainban.",
                   "category": "landmark",
                   "coords": [
@@ -613,7 +613,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "واحة العين",
+                  "name": "Al Ain Oasis",
                   "text": "O atracție turistică importantă din Al Ain.",
                   "category": "landmark",
                   "coords": [
@@ -1548,7 +1548,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز كلباء للفنون",
+                  "name": "Kalba Arts Centre",
                   "text": "Ein Kunstzentrum in Kalba, das regionale kreative Werke ausstellt.",
                   "category": "cultural",
                   "coords": [
@@ -1568,7 +1568,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز كلباء للفنون",
+                  "name": "Kalba Arts Centre",
                   "text": "Kalba művészeti központja, amely regionális alkotásokat mutat be.",
                   "category": "cultural",
                   "coords": [
@@ -1588,7 +1588,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "مركز كلباء للفنون",
+                  "name": "Kalba Arts Centre",
                   "text": "Un centru de artă din Kalba care expune lucrări creative regionale.",
                   "category": "cultural",
                   "coords": [
@@ -1860,7 +1860,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-manama-ajman-cities-v2", "sights": {
       "de": [
             {
-                  "name": "وادي النسيم",
+                  "name": "Wadi Al Naseem",
                   "text": "Ein Naturschutzgebiet in Manama.",
                   "category": "natural",
                   "coords": [
@@ -1871,7 +1871,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "وادي النسيم",
+                  "name": "Wadi Al Naseem",
                   "text": "Egy természetvédelmi terület Manamában.",
                   "category": "natural",
                   "coords": [
@@ -1882,7 +1882,7 @@ export const poiExtraUaeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "وادي النسيم",
+                  "name": "Wadi Al Naseem",
                   "text": "O rezervație naturală situată în Manama.",
                   "category": "natural",
                   "coords": [

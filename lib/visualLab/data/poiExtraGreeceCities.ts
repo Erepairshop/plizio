@@ -993,7 +993,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "name": "Traffic Education Park",
                   "text": "Ein Verkehrserziehungspark in Chalcis, der Kindern spielerisch Verkehrsregeln vermittelt.",
                   "category": "family",
                   "coords": [
@@ -1346,7 +1346,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "name": "Traffic Education Park",
                   "text": "Közlekedési park Kalkiszban, ahol a gyerekek játékosan tanulhatják meg a közlekedési szabályokat.",
                   "category": "family",
                   "coords": [
@@ -1699,7 +1699,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "name": "Traffic Education Park",
                   "text": "Un parc de educație rutieră în Chalcis, unde copiii învață regulile de circulație prin joc.",
                   "category": "family",
                   "coords": [
@@ -2052,7 +2052,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "name": "Traffic Education Park",
                   "text": "A traffic education park in Chalcis where children can learn traffic rules through play.",
                   "category": "family",
                   "coords": [
@@ -2268,7 +2268,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο Καρδίτσας",
+                  "name": "Karditsa Municipal Swimming Pool",
                   "text": "Municipal Swimming Pool in Karditsa bietet Platz zum Schwimmen und für Wasseraktivitäten.",
                   "category": "family",
                   "coords": [
@@ -2315,7 +2315,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο Καρδίτσας",
+                  "name": "Karditsa Municipal Swimming Pool",
                   "text": "A(z) Municipal Swimming Pool Karditsa településen úszási és vízi tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
@@ -2362,7 +2362,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Δημοτικό Κολυμβητήριο Καρδίτσας",
+                  "name": "Karditsa Municipal Swimming Pool",
                   "text": "Municipal Swimming Pool din Karditsa oferă un loc pentru înot și activități acvatice.",
                   "category": "family",
                   "coords": [
@@ -3495,7 +3495,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Μπλούμ",
+                  "name": "Bloom Water Park",
                   "text": "Ein Wasserpark in Chios Town mit verschiedenen Möglichkeiten für Spiel und Spaß im Wasser.",
                   "category": "family",
                   "coords": [
@@ -3623,7 +3623,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Μπλούμ",
+                  "name": "Bloom Water Park",
                   "text": "Vízipark Chios városában, amely különféle lehetőségeket kínál a vízi játékhoz és szórakozáshoz.",
                   "category": "family",
                   "coords": [
@@ -3751,7 +3751,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Μπλούμ",
+                  "name": "Bloom Water Park",
                   "text": "Un parc acvatic în orașul Chios, cu diverse opțiuni pentru joacă și distracție în apă.",
                   "category": "family",
                   "coords": [
@@ -3879,7 +3879,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Μπλούμ",
+                  "name": "Bloom Water Park",
                   "text": "A water park in Chios Town featuring various options for water play and fun.",
                   "category": "family",
                   "coords": [

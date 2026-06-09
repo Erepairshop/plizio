@@ -366,7 +366,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "盛氏花厅",
+                  "name": "Sheng Family Garden Hall",
                   "text": "盛氏花厅 ist eine bemerkenswerte Touristenattraktion in Ningbo. Es handelt sich um eine traditionelle architektonische Stätte, die mit der Familie Sheng verbunden ist.",
                   "category": "landmark",
                   "coords": [
@@ -438,7 +438,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "永丰桥",
+                  "name": "Yongfeng Bridge",
                   "text": "永丰桥 ist eine bemerkenswerte Brücke in Ningbo. Das Bauwerk ist Teil des lokalen Verkehrsnetzes und überquert die Wasserwege der Stadt.",
                   "category": "landmark",
                   "coords": [
@@ -528,7 +528,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "董孝子庙",
+                  "name": "Dong Xiaozi Temple",
                   "text": "董孝子庙 ist ein bekanntes Gotteshaus in der Stadt Ningbo.",
                   "category": "religious",
                   "coords": [
@@ -537,7 +537,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高丽使馆遗址",
+                  "name": "Goryeo Embassy Site",
                   "text": "Die Ausstellungshalle zur Geschichte des Austauschs zwischen Ningbo und Korea ist eine bekannte kulturelle Attraktion in Ningbo.",
                   "category": "landmark",
                   "coords": [
@@ -582,7 +582,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望京门城墙遗址博物馆",
+                  "name": "Wangjing Gate City Wall Ruins Museum",
                   "text": "望京门城墙遗址博物馆 ist ein lokales Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -591,7 +591,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬曹铁路宁波车站纪念馆",
+                  "name": "Yong-Cao Railway Ningbo Station Memorial Hall",
                   "text": "甬曹铁路宁波车站纪念馆 ist ein Museum in der Stadt Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -609,7 +609,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "浙东海事民俗博物馆",
+                  "name": "Eastern Zhejiang Maritime Folk Museum",
                   "text": "浙东海事民俗博物馆 ist eine Museumseinrichtung in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -618,7 +618,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波工业设计博物馆",
+                  "name": "Ningbo Industrial Design Museum",
                   "text": "宁波工业设计博物馆 ist ein Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -636,7 +636,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "银台第博物馆",
+                  "name": "Yintaidi Museum",
                   "text": "Die Yintaidi Mansion dient als lokales Museum in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -645,7 +645,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波市文化馆",
+                  "name": "Ningbo Cultural Center",
                   "text": "宁波市文化馆 ist eine kulturelle Museumseinrichtung in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -654,7 +654,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "朱复戡艺术馆",
+                  "name": "Zhu Fukan Art Museum",
                   "text": "朱复戡艺术馆 ist eine Kunstgalerie in der Stadt Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -663,7 +663,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "来远亭",
+                  "name": "Laiyuan Pavilion",
                   "text": "来远亭 ist ein lokales Denkmal in Ningbo.",
                   "category": "historical",
                   "coords": [
@@ -681,7 +681,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天然舞台",
+                  "name": "Tianran Theater",
                   "text": "天然舞台 ist ein Theater in der Stadt Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -827,7 +827,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "盛氏花厅",
+                  "name": "Sheng Family Garden Hall",
                   "text": "A 盛氏花厅 egy jelentős turisztikai látványosság Ningbóban. Ez egy hagyományos építészeti helyszín, amely a Sheng családhoz kötődik.",
                   "category": "landmark",
                   "coords": [
@@ -899,7 +899,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "永丰桥",
+                  "name": "Yongfeng Bridge",
                   "text": "A 永丰桥 egy jelentős híd Ningbóban. Az építmény a helyi közlekedési hálózat része, amely a város vízi útjait keresztezi.",
                   "category": "landmark",
                   "coords": [
@@ -989,7 +989,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "董孝子庙",
+                  "name": "Dong Xiaozi Temple",
                   "text": "A 董孝子庙 egy elismert imahely Ningbo városában.",
                   "category": "religious",
                   "coords": [
@@ -1043,7 +1043,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望京门城墙遗址博物馆",
+                  "name": "Wangjing Gate City Wall Ruins Museum",
                   "text": "A 望京门城墙遗址博物馆 egy helyi múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1052,7 +1052,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬曹铁路宁波车站纪念馆",
+                  "name": "Yong-Cao Railway Ningbo Station Memorial Hall",
                   "text": "A 甬曹铁路宁波车站纪念馆 egy múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1070,7 +1070,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "浙东海事民俗博物馆",
+                  "name": "Eastern Zhejiang Maritime Folk Museum",
                   "text": "A 浙东海事民俗博物馆 egy múzeumi létesítmény Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1079,7 +1079,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波工业设计博物馆",
+                  "name": "Ningbo Industrial Design Museum",
                   "text": "A 宁波工业设计博物馆 egy múzeum Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1097,7 +1097,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "银台第博物馆",
+                  "name": "Yintaidi Museum",
                   "text": "A Yintaidi Mansion helyi múzeumként működik Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1106,7 +1106,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波市文化馆",
+                  "name": "Ningbo Cultural Center",
                   "text": "A 宁波市文化馆 egy kulturális múzeumi intézmény Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1115,7 +1115,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "朱复戡艺术馆",
+                  "name": "Zhu Fukan Art Museum",
                   "text": "A 朱复戡艺术馆 egy művészeti galéria Ningbo városában.",
                   "category": "museum",
                   "coords": [
@@ -1124,7 +1124,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "来远亭",
+                  "name": "Laiyuan Pavilion",
                   "text": "A 来远亭 egy helyi emlékmű Ningbo városában.",
                   "category": "historical",
                   "coords": [
@@ -1142,7 +1142,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天然舞台",
+                  "name": "Tianran Theater",
                   "text": "A 天然舞台 egy színház Ningbo városában.",
                   "category": "cultural",
                   "coords": [
@@ -1288,7 +1288,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "盛氏花厅",
+                  "name": "Sheng Family Garden Hall",
                   "text": "盛氏花厅 este o atracție turistică notabilă situată în Ningbo. Este un sit arhitectural tradițional asociat familiei Sheng.",
                   "category": "landmark",
                   "coords": [
@@ -1360,7 +1360,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "永丰桥",
+                  "name": "Yongfeng Bridge",
                   "text": "永丰桥 este un pod notabil situat în Ningbo. Structura face parte din rețeaua locală de transport care traversează căile navigabile ale orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1450,7 +1450,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "董孝子庙",
+                  "name": "Dong Xiaozi Temple",
                   "text": "董孝子庙 este un lăcaș de cult recunoscut din orașul Ningbo.",
                   "category": "religious",
                   "coords": [
@@ -1504,7 +1504,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望京门城墙遗址博物馆",
+                  "name": "Wangjing Gate City Wall Ruins Museum",
                   "text": "望京门城墙遗址博物馆 este un muzeu local situat în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1513,7 +1513,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬曹铁路宁波车站纪念馆",
+                  "name": "Yong-Cao Railway Ningbo Station Memorial Hall",
                   "text": "甬曹铁路宁波车站纪念馆 este un muzeu situat în orașul Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1531,7 +1531,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "浙东海事民俗博物馆",
+                  "name": "Eastern Zhejiang Maritime Folk Museum",
                   "text": "浙东海事民俗博物馆 este o facilitate muzeală din Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1540,7 +1540,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波工业设计博物馆",
+                  "name": "Ningbo Industrial Design Museum",
                   "text": "宁波工业设计博物馆 este un muzeu situat în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1558,7 +1558,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "银台第博物馆",
+                  "name": "Yintaidi Museum",
                   "text": "Yintaidi Mansion servește ca muzeu local în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1567,7 +1567,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波市文化馆",
+                  "name": "Ningbo Cultural Center",
                   "text": "宁波市文化馆 este o facilitate muzeală culturală situată în Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1576,7 +1576,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "朱复戡艺术馆",
+                  "name": "Zhu Fukan Art Museum",
                   "text": "朱复戡艺术馆 este o galerie de artă din orașul Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "来远亭",
+                  "name": "Laiyuan Pavilion",
                   "text": "来远亭 este un monument local situat în Ningbo.",
                   "category": "historical",
                   "coords": [
@@ -1603,7 +1603,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天然舞台",
+                  "name": "Tianran Theater",
                   "text": "天然舞台 este un teatru situat în orașul Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -1749,7 +1749,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "盛氏花厅",
+                  "name": "Sheng Family Garden Hall",
                   "text": "盛氏花厅 is a notable tourist attraction located in Ningbo. It is a traditional architectural site associated with the Sheng family.",
                   "category": "landmark",
                   "coords": [
@@ -1821,7 +1821,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "永丰桥",
+                  "name": "Yongfeng Bridge",
                   "text": "永丰桥 is a notable bridge located in Ningbo. The structure is part of the local transportation network crossing the city's waterways.",
                   "category": "landmark",
                   "coords": [
@@ -1911,7 +1911,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "董孝子庙",
+                  "name": "Dong Xiaozi Temple",
                   "text": "董孝子庙 is a recognized place of worship in the city of Ningbo.",
                   "category": "religious",
                   "coords": [
@@ -1965,7 +1965,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望京门城墙遗址博物馆",
+                  "name": "Wangjing Gate City Wall Ruins Museum",
                   "text": "望京门城墙遗址博物馆 is a local museum situated in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1974,7 +1974,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "甬曹铁路宁波车站纪念馆",
+                  "name": "Yong-Cao Railway Ningbo Station Memorial Hall",
                   "text": "甬曹铁路宁波车站纪念馆 is a museum located in the city of Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -1992,7 +1992,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "浙东海事民俗博物馆",
+                  "name": "Eastern Zhejiang Maritime Folk Museum",
                   "text": "浙东海事民俗博物馆 is a museum facility in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -2001,7 +2001,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波工业设计博物馆",
+                  "name": "Ningbo Industrial Design Museum",
                   "text": "宁波工业设计博物馆 is a museum located in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -2028,7 +2028,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "宁波市文化馆",
+                  "name": "Ningbo Cultural Center",
                   "text": "宁波市文化馆 is a cultural museum facility located in Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -2037,7 +2037,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "朱复戡艺术馆",
+                  "name": "Zhu Fukan Art Museum",
                   "text": "朱复戡艺术馆 is an art gallery in the city of Ningbo.",
                   "category": "museum",
                   "coords": [
@@ -2046,7 +2046,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "来远亭",
+                  "name": "Laiyuan Pavilion",
                   "text": "来远亭 is a local monument located in Ningbo.",
                   "category": "historical",
                   "coords": [
@@ -2064,7 +2064,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "天然舞台",
+                  "name": "Tianran Theater",
                   "text": "天然舞台 is a theatre located in the city of Ningbo.",
                   "category": "cultural",
                   "coords": [
@@ -2110,7 +2110,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "wuxi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "无锡民族工商业博物馆",
+                  "name": "Wuxi Museum of National Industry and Commerce",
                   "text": "Museum für Industrie und Handel in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2119,7 +2119,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国丝业博物馆",
+                  "name": "China Silk Industry Museum",
                   "text": "Museum der Seidenindustrie in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2128,7 +2128,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "锡剧博物馆",
+                  "name": "Xiju Opera Museum",
                   "text": "Museum für Xiju-Oper in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2137,7 +2137,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡碑刻陈列馆",
+                  "name": "Wuxi Stone Inscription Museum",
                   "text": "Ausstellungshalle für Inschriften in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2146,7 +2146,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡博物馆",
+                  "name": "Wuxi Museum",
                   "text": "Städtisches Museum in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2155,7 +2155,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望湖门",
+                  "name": "Wanghu Gate",
                   "text": "Historisches Wanghu-Tor in Wuxi.",
                   "category": "castle",
                   "coords": [
@@ -2164,7 +2164,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡窑群遗址博物馆",
+                  "name": "Wuxi Kiln Ruins Museum",
                   "text": "Museum der Ziegelbrennerei in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2173,7 +2173,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "书码头",
+                  "name": "Shu Wharf Theater",
                   "text": "Theater in Wuxi.",
                   "category": "cultural",
                   "coords": [
@@ -2182,7 +2182,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "秦古柳故居",
+                  "name": "Former Residence of Qin Guliu",
                   "text": "Ehemaliges Wohnhaus von Qin Gu Liu in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2191,7 +2191,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陆定一故居",
+                  "name": "Former Residence of Lu Dingyi",
                   "text": "Ehemaliges Wohnhaus von Lu Dingyi in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2200,7 +2200,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阿炳故居",
+                  "name": "Former Residence of Abing",
                   "text": "Ehemaliges Wohnhaus von Abing in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2209,7 +2209,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱钟书故居",
+                  "name": "Former Residence of Qian Zhongshu",
                   "text": "Ehemaliges Wohnhaus von Qian Zhongshu in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2218,7 +2218,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "北仓门生活艺术中心",
+                  "name": "Beicangmen Life and Art Center",
                   "text": "Kultur- und Kunstzentrum in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2227,7 +2227,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张闻天故居",
+                  "name": "Former Residence of Zhang Wentian",
                   "text": "Ehemaliges Wohnhaus von Zhang Wentian in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2236,7 +2236,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "祝大椿故居",
+                  "name": "Former Residence of Zhu Dachun",
                   "text": "Ehemaliges Wohnhaus von Zhu Dachun in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2245,7 +2245,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "清名桥古运河历史文化街区",
+                  "name": "Qingming Bridge Grand Canal Historical District",
                   "text": "Historisches Viertel an der Qingming-Brücke in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2254,7 +2254,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "王绍先旧宅",
+                  "name": "Former Residence of Wang Shaoxian",
                   "text": "Historisches Gebäude in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2263,7 +2263,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "京杭运河泥塑展示馆",
+                  "name": "Grand Canal Clay Sculpture Museum",
                   "text": "Ausstellungshalle für Tonfiguren in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2272,7 +2272,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "坎宫救熄会",
+                  "name": "Kangong Fire Brigade Station",
                   "text": "Historische Feuerwache in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2281,7 +2281,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鼎昌丝厂旧址",
+                  "name": "Former Dingchang Silk Factory",
                   "text": "Ehemalige Dingchang-Seidenfabrik in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2290,7 +2290,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "曹张路美食街Cao",
+                  "name": "Caozhang Road Food Street",
                   "text": "Gastronomieviertel in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2299,7 +2299,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东林书院",
+                  "name": "Donglin Academy",
                   "text": "Historische Akademie in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2308,7 +2308,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钦使第薛福成故居",
+                  "name": "Former Residence of Xue Fucheng",
                   "text": "Ehemaliges Wohnhaus von Qin Shicheng in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2317,7 +2317,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阳春巷",
+                  "name": "Yangchun Lane",
                   "text": "Traditionelle Gasse in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2326,7 +2326,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛汇东住宅",
+                  "name": "Xue Huidong Residence",
                   "text": "Historisches Wohnhaus in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2335,7 +2335,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "妙光塔",
+                  "name": "Miaoguang Pagoda",
                   "text": "Aussichtspunkt in Wuxi.",
                   "category": "natural",
                   "coords": [
@@ -2344,7 +2344,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "崇安阁",
+                  "name": "Chongan Pavilion",
                   "text": "Historischer Pavillon in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2353,7 +2353,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陈氏旧宅",
+                  "name": "Former Residence of the Chen Family",
                   "text": "Ehemaliges Wohnhaus der Familie Chen in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2362,7 +2362,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡县商会旧址",
+                  "name": "Former Site of Wuxi County Chamber of Commerce",
                   "text": "Ehemaliger Standort der Handelskammer Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -2371,7 +2371,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "秦邦宪旧居",
+                  "name": "Former Residence of Qin Bangxian",
                   "text": "Ehemaliges Wohnhaus von Qin Bangxian in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2380,7 +2380,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "顾毓琇故居",
+                  "name": "Former Residence of Gu Yuxiu",
                   "text": "Ehemaliges Wohnhaus von Gu Yuzhen in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2389,7 +2389,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛南溟旧宅",
+                  "name": "Former Residence of Xue Nanming",
                   "text": "Ehemaliges Wohnhaus von Xue Nanming in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2398,7 +2398,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "光复门",
+                  "name": "Guangfu Gate",
                   "text": "Historisches Guangfu-Stadttor in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2407,7 +2407,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱松喦旧居",
+                  "name": "Former Residence of Qian Songyan",
                   "text": "Ehemaliges Wohnhaus von Qian Songyan in Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -2416,7 +2416,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高子止水",
+                  "name": "Gaozi Zhishui",
                   "text": "Historische Stätte in Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -2425,7 +2425,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡清真寺",
+                  "name": "Wuxi Mosque",
                   "text": "Moschee in Wuxi.",
                   "category": "religious",
                   "coords": [
@@ -2436,7 +2436,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "无锡民族工商业博物馆",
+                  "name": "Wuxi Museum of National Industry and Commerce",
                   "text": "Ipar- és kereskedelmi múzeum Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2445,7 +2445,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国丝业博物馆",
+                  "name": "China Silk Industry Museum",
                   "text": "Selyemipari múzeum Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2454,7 +2454,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "锡剧博物馆",
+                  "name": "Xiju Opera Museum",
                   "text": "Xiju opera múzeum Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2463,7 +2463,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡碑刻陈列馆",
+                  "name": "Wuxi Stone Inscription Museum",
                   "text": "Feliratok kiállítóterme Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2472,7 +2472,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡博物馆",
+                  "name": "Wuxi Museum",
                   "text": "Városi múzeum Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2481,7 +2481,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望湖门",
+                  "name": "Wanghu Gate",
                   "text": "Történelmi Wanghu-kapu Wuxiban.",
                   "category": "castle",
                   "coords": [
@@ -2490,7 +2490,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡窑群遗址博物馆",
+                  "name": "Wuxi Kiln Ruins Museum",
                   "text": "Téglaégető múzeum Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2499,7 +2499,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "书码头",
+                  "name": "Shu Wharf Theater",
                   "text": "Színház Wuxiban.",
                   "category": "cultural",
                   "coords": [
@@ -2508,7 +2508,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "秦古柳故居",
+                  "name": "Former Residence of Qin Guliu",
                   "text": "Qin Gu Liu egykori lakóháza Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2517,7 +2517,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陆定一故居",
+                  "name": "Former Residence of Lu Dingyi",
                   "text": "Lu Dingyi egykori lakóháza Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2526,7 +2526,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阿炳故居",
+                  "name": "Former Residence of Abing",
                   "text": "Abing egykori lakóháza Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2535,7 +2535,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱钟书故居",
+                  "name": "Former Residence of Qian Zhongshu",
                   "text": "Qian Zhongshu egykori lakóháza Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2544,7 +2544,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "北仓门生活艺术中心",
+                  "name": "Beicangmen Life and Art Center",
                   "text": "Kulturális és művészeti központ Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2553,7 +2553,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张闻天故居",
+                  "name": "Former Residence of Zhang Wentian",
                   "text": "Zhang Wentian egykori lakóháza Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2562,7 +2562,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "祝大椿故居",
+                  "name": "Former Residence of Zhu Dachun",
                   "text": "Zhu Dachun egykori lakóháza Wuxiban.",
                   "category": "museum",
                   "coords": [
@@ -2571,7 +2571,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "清名桥古运河历史文化街区",
+                  "name": "Qingming Bridge Grand Canal Historical District",
                   "text": "Történelmi negyed a Qingming-hídnál Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2580,7 +2580,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "王绍先旧宅",
+                  "name": "Former Residence of Wang Shaoxian",
                   "text": "Történelmi épület Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2589,7 +2589,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "京杭运河泥塑展示馆",
+                  "name": "Grand Canal Clay Sculpture Museum",
                   "text": "Agyagszobrok kiállítóterme Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2598,7 +2598,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "坎宫救熄会",
+                  "name": "Kangong Fire Brigade Station",
                   "text": "Történelmi tűzoltóállomás Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2607,7 +2607,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鼎昌丝厂旧址",
+                  "name": "Former Dingchang Silk Factory",
                   "text": "Dingchang selyemgyár Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2616,7 +2616,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "曹张路美食街Cao",
+                  "name": "Caozhang Road Food Street",
                   "text": "Gasztronómiai utca Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2625,7 +2625,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东林书院",
+                  "name": "Donglin Academy",
                   "text": "Történelmi akadémia Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2634,7 +2634,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钦使第薛福成故居",
+                  "name": "Former Residence of Xue Fucheng",
                   "text": "Qin Shicheng egykori lakóháza Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2643,7 +2643,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阳春巷",
+                  "name": "Yangchun Lane",
                   "text": "Hagyományos sikátor Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2652,7 +2652,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛汇东住宅",
+                  "name": "Xue Huidong Residence",
                   "text": "Történelmi lakóház Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2661,7 +2661,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "妙光塔",
+                  "name": "Miaoguang Pagoda",
                   "text": "Kilátópont Wuxiban.",
                   "category": "natural",
                   "coords": [
@@ -2670,7 +2670,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "崇安阁",
+                  "name": "Chongan Pavilion",
                   "text": "Történelmi pavilon Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2679,7 +2679,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陈氏旧宅",
+                  "name": "Former Residence of the Chen Family",
                   "text": "A Chen család egykori lakóháza Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2688,7 +2688,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡县商会旧址",
+                  "name": "Former Site of Wuxi County Chamber of Commerce",
                   "text": "A wuxii kereskedelmi kamara egykori helyszíne.",
                   "category": "historical",
                   "coords": [
@@ -2697,7 +2697,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "秦邦宪旧居",
+                  "name": "Former Residence of Qin Bangxian",
                   "text": "Qin Bangxian egykori lakóháza Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2706,7 +2706,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "顾毓琇故居",
+                  "name": "Former Residence of Gu Yuxiu",
                   "text": "Gu Yuzhen egykori lakóháza Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2715,7 +2715,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛南溟旧宅",
+                  "name": "Former Residence of Xue Nanming",
                   "text": "Xue Nanming egykori lakóháza Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2724,7 +2724,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "光复门",
+                  "name": "Guangfu Gate",
                   "text": "Történelmi Guangfu-kapu Wuxiban.",
                   "category": "landmark",
                   "coords": [
@@ -2733,7 +2733,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱松喦旧居",
+                  "name": "Former Residence of Qian Songyan",
                   "text": "Qian Songyan egykori lakóháza Wuxiban.",
                   "category": "historical",
                   "coords": [
@@ -2742,7 +2742,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高子止水",
+                  "name": "Gaozi Zhishui",
                   "text": "Történelmi helyszín Wuxiban.",
                   "category": "historical",
                   "coords": [
@@ -2751,7 +2751,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡清真寺",
+                  "name": "Wuxi Mosque",
                   "text": "Mecset Wuxiban.",
                   "category": "religious",
                   "coords": [
@@ -2762,7 +2762,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "无锡民族工商业博物馆",
+                  "name": "Wuxi Museum of National Industry and Commerce",
                   "text": "Muzeu de comerț și industrie în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2771,7 +2771,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "中国丝业博物馆",
+                  "name": "China Silk Industry Museum",
                   "text": "Muzeul industriei mătăsii în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2780,7 +2780,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "锡剧博物馆",
+                  "name": "Xiju Opera Museum",
                   "text": "Muzeul operei Xiju în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2789,7 +2789,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡碑刻陈列馆",
+                  "name": "Wuxi Stone Inscription Museum",
                   "text": "Sală de expoziție pentru inscripții în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2798,7 +2798,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡博物馆",
+                  "name": "Wuxi Museum",
                   "text": "Muzeul orașului Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2807,7 +2807,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望湖门",
+                  "name": "Wanghu Gate",
                   "text": "Poarta istorică Wanghu în Wuxi.",
                   "category": "castle",
                   "coords": [
@@ -2816,7 +2816,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡窑群遗址博物馆",
+                  "name": "Wuxi Kiln Ruins Museum",
                   "text": "Muzeul fabricii de cărămidă în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2825,7 +2825,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "书码头",
+                  "name": "Shu Wharf Theater",
                   "text": "Teatru în Wuxi.",
                   "category": "cultural",
                   "coords": [
@@ -2834,7 +2834,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "秦古柳故居",
+                  "name": "Former Residence of Qin Guliu",
                   "text": "Fosta reședință a lui Qin Gu Liu în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2843,7 +2843,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陆定一故居",
+                  "name": "Former Residence of Lu Dingyi",
                   "text": "Fosta reședință a lui Lu Dingyi în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2852,7 +2852,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阿炳故居",
+                  "name": "Former Residence of Abing",
                   "text": "Fosta reședință a lui Abing în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2861,7 +2861,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱钟书故居",
+                  "name": "Former Residence of Qian Zhongshu",
                   "text": "Fosta reședință a lui Qian Zhongshu în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2870,7 +2870,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "北仓门生活艺术中心",
+                  "name": "Beicangmen Life and Art Center",
                   "text": "Centru cultural și artistic în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2879,7 +2879,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张闻天故居",
+                  "name": "Former Residence of Zhang Wentian",
                   "text": "Fosta reședință a lui Zhang Wentian în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2888,7 +2888,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "祝大椿故居",
+                  "name": "Former Residence of Zhu Dachun",
                   "text": "Fosta reședință a lui Zhu Dachun în Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -2897,7 +2897,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "清名桥古运河历史文化街区",
+                  "name": "Qingming Bridge Grand Canal Historical District",
                   "text": "Cartier istoric la Podul Qingming în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2906,7 +2906,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "王绍先旧宅",
+                  "name": "Former Residence of Wang Shaoxian",
                   "text": "Clădire istorică în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2915,7 +2915,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "京杭运河泥塑展示馆",
+                  "name": "Grand Canal Clay Sculpture Museum",
                   "text": "Sală de expoziție pentru sculpturi în lut în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2924,7 +2924,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "坎宫救熄会",
+                  "name": "Kangong Fire Brigade Station",
                   "text": "Stație istorică de pompieri în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2933,7 +2933,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鼎昌丝厂旧址",
+                  "name": "Former Dingchang Silk Factory",
                   "text": "Fosta fabrică de mătase Dingchang în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2942,7 +2942,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "曹张路美食街Cao",
+                  "name": "Caozhang Road Food Street",
                   "text": "Stradă gastronomică în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2951,7 +2951,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东林书院",
+                  "name": "Donglin Academy",
                   "text": "Academie istorică în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2960,7 +2960,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钦使第薛福成故居",
+                  "name": "Former Residence of Xue Fucheng",
                   "text": "Fosta reședință a lui Qin Shicheng în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2969,7 +2969,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阳春巷",
+                  "name": "Yangchun Lane",
                   "text": "Alee tradițională în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2978,7 +2978,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛汇东住宅",
+                  "name": "Xue Huidong Residence",
                   "text": "Reședință istorică în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -2987,7 +2987,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "妙光塔",
+                  "name": "Miaoguang Pagoda",
                   "text": "Punct de observație în Wuxi.",
                   "category": "natural",
                   "coords": [
@@ -2996,7 +2996,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "崇安阁",
+                  "name": "Chongan Pavilion",
                   "text": "Pavilion istoric în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3005,7 +3005,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陈氏旧宅",
+                  "name": "Former Residence of the Chen Family",
                   "text": "Fosta reședință a familiei Chen în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3014,7 +3014,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡县商会旧址",
+                  "name": "Former Site of Wuxi County Chamber of Commerce",
                   "text": "Fostul sediu al camerei de comerț din Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -3023,7 +3023,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "秦邦宪旧居",
+                  "name": "Former Residence of Qin Bangxian",
                   "text": "Fosta reședință a lui Qin Bangxian în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3032,7 +3032,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "顾毓琇故居",
+                  "name": "Former Residence of Gu Yuxiu",
                   "text": "Fosta reședință a lui Gu Yuzhen în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3041,7 +3041,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛南溟旧宅",
+                  "name": "Former Residence of Xue Nanming",
                   "text": "Fosta reședință a lui Xue Nanming în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3050,7 +3050,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "光复门",
+                  "name": "Guangfu Gate",
                   "text": "Poarta istorică Guangfu în Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3059,7 +3059,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱松喦旧居",
+                  "name": "Former Residence of Qian Songyan",
                   "text": "Fosta reședință a lui Qian Songyan în Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -3068,7 +3068,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高子止水",
+                  "name": "Gaozi Zhishui",
                   "text": "Sit istoric în Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -3077,7 +3077,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "无锡清真寺",
+                  "name": "Wuxi Mosque",
                   "text": "Moschee în Wuxi.",
                   "category": "religious",
                   "coords": [
@@ -3106,7 +3106,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "锡剧博物馆",
+                  "name": "Xiju Opera Museum",
                   "text": "Xiju opera museum in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -3151,7 +3151,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "书码头",
+                  "name": "Shu Wharf Theater",
                   "text": "Theatre in Wuxi.",
                   "category": "cultural",
                   "coords": [
@@ -3169,7 +3169,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陆定一故居",
+                  "name": "Former Residence of Lu Dingyi",
                   "text": "Former residence of Lu Dingyi in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -3178,7 +3178,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "阿炳故居",
+                  "name": "Former Residence of Abing",
                   "text": "Former residence of Abing in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -3187,7 +3187,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱钟书故居",
+                  "name": "Former Residence of Qian Zhongshu",
                   "text": "Former residence of Qian Zhongshu in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -3196,7 +3196,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "北仓门生活艺术中心",
+                  "name": "Beicangmen Life and Art Center",
                   "text": "Cultural and arts centre in Wuxi.",
                   "category": "museum",
                   "coords": [
@@ -3232,7 +3232,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "王绍先旧宅",
+                  "name": "Former Residence of Wang Shaoxian",
                   "text": "Historic building in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3250,7 +3250,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "坎宫救熄会",
+                  "name": "Kangong Fire Brigade Station",
                   "text": "Historic fire station in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3259,7 +3259,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鼎昌丝厂旧址",
+                  "name": "Former Dingchang Silk Factory",
                   "text": "Former Dingchang silk factory in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3304,7 +3304,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛汇东住宅",
+                  "name": "Xue Huidong Residence",
                   "text": "Historic residence in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3331,7 +3331,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "陈氏旧宅",
+                  "name": "Former Residence of the Chen Family",
                   "text": "Former residence of the Chen family in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3367,7 +3367,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "薛南溟旧宅",
+                  "name": "Former Residence of Xue Nanming",
                   "text": "Former residence of Xue Nanming in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3376,7 +3376,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "光复门",
+                  "name": "Guangfu Gate",
                   "text": "Historic Guangfu city gate in Wuxi.",
                   "category": "landmark",
                   "coords": [
@@ -3385,7 +3385,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "钱松喦旧居",
+                  "name": "Former Residence of Qian Songyan",
                   "text": "Former residence of Qian Songyan in Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -3394,7 +3394,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "高子止水",
+                  "name": "Gaozi Zhishui",
                   "text": "Historic site in Wuxi.",
                   "category": "historical",
                   "coords": [
@@ -3450,7 +3450,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "塔坡古迹（塔坡庙和井）",
+                  "name": "Tapo Historical Site",
                   "text": "塔坡古迹（塔坡庙和井） ist ein bekanntes Museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3459,7 +3459,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "禅城区文化馆",
+                  "name": "Chancheng Cultural Center",
                   "text": "禅城区文化馆 ist ein Museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3486,7 +3486,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "南海影剧院",
+                  "name": "Nanhai Theater",
                   "text": "南海影剧院 ist ein Theater in Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3513,7 +3513,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山古镇历史风貌展示馆",
+                  "name": "Foshan Ancient Town Historical Exhibition Hall",
                   "text": "佛山古镇历史风貌展示馆 ist ein historisches Museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3522,7 +3522,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山警察博物馆",
+                  "name": "Foshan Police Museum",
                   "text": "佛山警察博物馆 ist ein lokales Polizeimuseum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3549,7 +3549,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "name": "Shijingyi Liuziying Art Gallery",
                   "text": "佛山市石景宜刘紫英伉俪文化艺术馆 ist ein Kunstzentrum in Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3558,7 +3558,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "基督教赉恩堂",
+                  "name": "Lai'en Christian Church",
                   "text": "基督教赉恩堂 ist ein bekanntes Gotteshaus in Foshan.",
                   "category": "religious",
                   "coords": [
@@ -3587,7 +3587,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "塔坡古迹（塔坡庙和井）",
+                  "name": "Tapo Historical Site",
                   "text": "A 塔坡古迹（塔坡庙和井） egy elismert múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3596,7 +3596,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "禅城区文化馆",
+                  "name": "Chancheng Cultural Center",
                   "text": "A 禅城区文化馆 egy múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3623,7 +3623,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "南海影剧院",
+                  "name": "Nanhai Theater",
                   "text": "A 南海影剧院 egy színház Foshan városában.",
                   "category": "cultural",
                   "coords": [
@@ -3650,7 +3650,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山古镇历史风貌展示馆",
+                  "name": "Foshan Ancient Town Historical Exhibition Hall",
                   "text": "A 佛山古镇历史风貌展示馆 egy történelmi múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3659,7 +3659,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山警察博物馆",
+                  "name": "Foshan Police Museum",
                   "text": "A 佛山警察博物馆 egy helyi rendőrségi múzeum Foshan városában.",
                   "category": "museum",
                   "coords": [
@@ -3686,7 +3686,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "name": "Shijingyi Liuziying Art Gallery",
                   "text": "A 佛山市石景宜刘紫英伉俪文化艺术馆 egy művészeti központ Foshan városában.",
                   "category": "cultural",
                   "coords": [
@@ -3695,7 +3695,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "基督教赉恩堂",
+                  "name": "Lai'en Christian Church",
                   "text": "A 基督教赉恩堂 egy nevezetes imahely Foshan városában.",
                   "category": "religious",
                   "coords": [
@@ -3724,7 +3724,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "塔坡古迹（塔坡庙和井）",
+                  "name": "Tapo Historical Site",
                   "text": "塔坡古迹（塔坡庙和井） este un muzeu recunoscut din Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3733,7 +3733,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "禅城区文化馆",
+                  "name": "Chancheng Cultural Center",
                   "text": "禅城区文化馆 este un muzeu situat în Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3760,7 +3760,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "南海影剧院",
+                  "name": "Nanhai Theater",
                   "text": "南海影剧院 este un teatru situat în Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3787,7 +3787,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山古镇历史风貌展示馆",
+                  "name": "Foshan Ancient Town Historical Exhibition Hall",
                   "text": "佛山古镇历史风貌展示馆 este un muzeu istoric situat în Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3796,7 +3796,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山警察博物馆",
+                  "name": "Foshan Police Museum",
                   "text": "佛山警察博物馆 este un muzeu al poliției din Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3823,7 +3823,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "name": "Shijingyi Liuziying Art Gallery",
                   "text": "佛山市石景宜刘紫英伉俪文化艺术馆 este un centru de arte din Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3832,7 +3832,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "基督教赉恩堂",
+                  "name": "Lai'en Christian Church",
                   "text": "基督教赉恩堂 este un lăcaș de cult notabil din Foshan.",
                   "category": "religious",
                   "coords": [
@@ -3861,7 +3861,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "塔坡古迹（塔坡庙和井）",
+                  "name": "Tapo Historical Site",
                   "text": "塔坡古迹（塔坡庙和井） is a recognized museum and historical site in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3870,7 +3870,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "禅城区文化馆",
+                  "name": "Chancheng Cultural Center",
                   "text": "禅城区文化馆 is a museum located in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3897,7 +3897,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "南海影剧院",
+                  "name": "Nanhai Theater",
                   "text": "南海影剧院 is a theatre located in Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3924,7 +3924,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山古镇历史风貌展示馆",
+                  "name": "Foshan Ancient Town Historical Exhibition Hall",
                   "text": "佛山古镇历史风貌展示馆 is a historical museum located in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3933,7 +3933,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山警察博物馆",
+                  "name": "Foshan Police Museum",
                   "text": "佛山警察博物馆 is a local police museum in Foshan.",
                   "category": "museum",
                   "coords": [
@@ -3960,7 +3960,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "name": "Shijingyi Liuziying Art Gallery",
                   "text": "佛山市石景宜刘紫英伉俪文化艺术馆 is an arts centre in Foshan.",
                   "category": "cultural",
                   "coords": [
@@ -3969,7 +3969,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "基督教赉恩堂",
+                  "name": "Lai'en Christian Church",
                   "text": "基督教赉恩堂 is a notable place of worship in Foshan.",
                   "category": "religious",
                   "coords": [
@@ -4028,7 +4028,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞蚝岗遗址博物馆",
+                  "name": "Hao Gang Site Museum",
                   "text": "Das 东莞蚝岗遗址博物馆 ist ein historisches Museum in Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4046,7 +4046,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "金鳌洲塔",
+                  "name": "Jinaozhou Pagoda",
                   "text": "金鳌洲塔 ist ein historisches Denkmal in der Stadt Dongguan.",
                   "category": "historical",
                   "coords": [
@@ -4093,7 +4093,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞蚝岗遗址博物馆",
+                  "name": "Hao Gang Site Museum",
                   "text": "A 东莞蚝岗遗址博物馆 egy történelmi múzeum Dongguanban.",
                   "category": "museum",
                   "coords": [
@@ -4111,7 +4111,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "金鳌洲塔",
+                  "name": "Jinaozhou Pagoda",
                   "text": "A 金鳌洲塔 egy történelmi emlékmű Dongguan városában.",
                   "category": "historical",
                   "coords": [
@@ -4158,7 +4158,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞蚝岗遗址博物馆",
+                  "name": "Hao Gang Site Museum",
                   "text": "东莞蚝岗遗址博物馆 este un muzeu istoric situat în Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4176,7 +4176,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "金鳌洲塔",
+                  "name": "Jinaozhou Pagoda",
                   "text": "金鳌洲塔 este un monument istoric situat în orașul Dongguan.",
                   "category": "historical",
                   "coords": [
@@ -4223,7 +4223,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "东莞蚝岗遗址博物馆",
+                  "name": "Hao Gang Site Museum",
                   "text": "东莞蚝岗遗址博物馆 is a historical museum located in Dongguan.",
                   "category": "museum",
                   "coords": [
@@ -4241,7 +4241,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "金鳌洲塔",
+                  "name": "Jinaozhou Pagoda",
                   "text": "金鳌洲塔 is a historical monument situated in the city of Dongguan.",
                   "category": "historical",
                   "coords": [
@@ -4282,7 +4282,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "zibo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "淄博市博物馆",
+                  "name": "Zibo City Museum",
                   "text": "Museum in Zibo.",
                   "category": "museum",
                   "coords": [
@@ -4291,7 +4291,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "淄博市陶瓷博物馆",
+                  "name": "Zibo Ceramics Museum",
                   "text": "Keramikmuseum in Zibo.",
                   "category": "museum",
                   "coords": [
@@ -4300,7 +4300,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张店剧院",
+                  "name": "Zhangdian Theater",
                   "text": "Theater in Zibo.",
                   "category": "cultural",
                   "coords": [
@@ -4311,7 +4311,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "淄博市博物馆",
+                  "name": "Zibo City Museum",
                   "text": "Múzeum Zibóban.",
                   "category": "museum",
                   "coords": [
@@ -4320,7 +4320,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "淄博市陶瓷博物馆",
+                  "name": "Zibo Ceramics Museum",
                   "text": "Kerámiamúzeum Zibóban.",
                   "category": "museum",
                   "coords": [
@@ -4329,7 +4329,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张店剧院",
+                  "name": "Zhangdian Theater",
                   "text": "Színház Zibóban.",
                   "category": "cultural",
                   "coords": [
@@ -4340,7 +4340,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "淄博市博物馆",
+                  "name": "Zibo City Museum",
                   "text": "Muzeu în Zibo.",
                   "category": "museum",
                   "coords": [
@@ -4349,7 +4349,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "淄博市陶瓷博物馆",
+                  "name": "Zibo Ceramics Museum",
                   "text": "Muzeul ceramicii în Zibo.",
                   "category": "museum",
                   "coords": [
@@ -4358,7 +4358,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张店剧院",
+                  "name": "Zhangdian Theater",
                   "text": "Teatru în Zibo.",
                   "category": "cultural",
                   "coords": [
@@ -4369,7 +4369,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "en": [
             {
-                  "name": "淄博市博物馆",
+                  "name": "Zibo City Museum",
                   "text": "Museum in Zibo.",
                   "category": "museum",
                   "coords": [
@@ -4387,7 +4387,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "张店剧院",
+                  "name": "Zhangdian Theater",
                   "text": "Theatre in Zibo.",
                   "category": "cultural",
                   "coords": [
@@ -4446,7 +4446,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "疯狂恐龙人",
+                  "name": "Crazy Dinosaur Man",
                   "text": "Die Attraktion Fengkuang Konglongren befindet sich in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4464,7 +4464,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鲁布拉",
+                  "name": "Lubula",
                   "text": "Die Attraktion Lubula befindet sich in der Stadt Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4556,7 +4556,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鲁布拉",
+                  "name": "Lubula",
                   "text": "A Lubula nevű látványosság Changzhou városában található.",
                   "category": "landmark",
                   "coords": [
@@ -4565,7 +4565,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梦幻庄园",
+                  "name": "Dream Manor",
                   "text": "A Menghuan Zhuangyuan látványosság Changzhou városában található.",
                   "category": "landmark",
                   "coords": [
@@ -4574,7 +4574,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "暴宝探险营",
+                  "name": "Baobao Adventure Camp",
                   "text": "A Baobao Tanxianying látványosság Changzhou városában található.",
                   "category": "landmark",
                   "coords": [
@@ -4583,7 +4583,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "魔幻雨林",
+                  "name": "Magic Rainforest",
                   "text": "A Mohuan Yulin nevű látványosság Changzhou városában van.",
                   "category": "landmark",
                   "coords": [
@@ -4657,7 +4657,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梦幻庄园",
+                  "name": "Dream Manor",
                   "text": "Atracția Menghuan Zhuangyuan se găsește în Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4675,7 +4675,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "魔幻雨林",
+                  "name": "Magic Rainforest",
                   "text": "Atracția Mohuan Yulin se găsește în Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4722,7 +4722,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "疯狂恐龙人",
+                  "name": "Crazy Dinosaur Man",
                   "text": "The Fengkuang Konglongren attraction is situated in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4731,7 +4731,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "冒险港",
+                  "name": "Adventure Port",
                   "text": "The Maoxiangang attraction is located in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4740,7 +4740,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "鲁布拉",
+                  "name": "Lubula",
                   "text": "The Lubula attraction is situated in the city of Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4749,7 +4749,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梦幻庄园",
+                  "name": "Dream Manor",
                   "text": "The Menghuan Zhuangyuan attraction is situated in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4758,7 +4758,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "暴宝探险营",
+                  "name": "Baobao Adventure Camp",
                   "text": "The Baobao Tanxianying attraction is located in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4767,7 +4767,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "魔幻雨林",
+                  "name": "Magic Rainforest",
                   "text": "The Mohuan Yulin attraction is found in Changzhou.",
                   "category": "landmark",
                   "coords": [
@@ -4895,7 +4895,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梁思成纪念馆",
+                  "name": "Liang Sicheng Memorial Hall",
                   "text": "Diese Gedenkstätte dient als Museum in Datong.",
                   "category": "museum",
                   "coords": [
@@ -4904,7 +4904,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "开化寺",
+                  "name": "Kaihua Temple",
                   "text": "Diese historische Stätte fungiert als Museum in der Stadt Datong.",
                   "category": "museum",
                   "coords": [
@@ -5005,7 +5005,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "魁星文化博物馆",
+                  "name": "Kuixing Culture Museum",
                   "text": "Ez egy helyi múzeum Datong városában.",
                   "category": "museum",
                   "coords": [
@@ -5023,7 +5023,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "大同规划展览馆",
+                  "name": "Datong Planning Exhibition Hall",
                   "text": "Ez a létesítmény egy múzeum Datong városában.",
                   "category": "museum",
                   "coords": [
@@ -5032,7 +5032,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梁思成纪念馆",
+                  "name": "Liang Sicheng Memorial Hall",
                   "text": "Ez az emlékmű múzeumként működik Datongban.",
                   "category": "museum",
                   "coords": [
@@ -5041,7 +5041,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "开化寺",
+                  "name": "Kaihua Temple",
                   "text": "Ez a történelmi helyszín múzeumként szolgál Datong városában.",
                   "category": "museum",
                   "coords": [
@@ -5050,7 +5050,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "平城纪念馆",
+                  "name": "Pingcheng Memorial Hall",
                   "text": "Ez egy helyi múzeum Datongban.",
                   "category": "museum",
                   "coords": [
@@ -5086,7 +5086,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "九龙壁景区",
+                  "name": "Nine Dragon Wall",
                   "text": "Ez a festői terület egy népszerű látványosság Datongban.",
                   "category": "landmark",
                   "coords": [
@@ -5113,7 +5113,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "关帝庙",
+                  "name": "Guandi Temple",
                   "text": "Ez a Guandi-templom egy jelentős istentiszteleti hely Datongban, amelyet Guan Yu tiszteletére emeltek.",
                   "category": "religious",
                   "coords": [
@@ -5169,7 +5169,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梁思成纪念馆",
+                  "name": "Liang Sicheng Memorial Hall",
                   "text": "Acest memorial funcționează ca un muzeu în Datong.",
                   "category": "museum",
                   "coords": [
@@ -5178,7 +5178,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "开化寺",
+                  "name": "Kaihua Temple",
                   "text": "Acest sit istoric servește ca muzeu în orașul Datong.",
                   "category": "museum",
                   "coords": [
@@ -5306,7 +5306,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "梁思成纪念馆",
+                  "name": "Liang Sicheng Memorial Hall",
                   "text": "This memorial hall serves as a museum in Datong.",
                   "category": "museum",
                   "coords": [
@@ -5315,7 +5315,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "开化寺",
+                  "name": "Kaihua Temple",
                   "text": "This historical site operates as a museum in the city of Datong.",
                   "category": "museum",
                   "coords": [
@@ -5437,7 +5437,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "qiqihar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "电业文化宫",
+                  "name": "Electric Power Cultural Palace",
                   "text": "Kulturpalast in Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5446,7 +5446,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "齐齐哈尔市博物馆",
+                  "name": "Qiqihar Museum",
                   "text": "Ein Museum in Qiqihar.",
                   "category": "museum",
                   "coords": [
@@ -5455,7 +5455,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "艺术剧院·话剧艺术中心",
+                  "name": "Art Theater & Drama Art Center",
                   "text": "Ein Theater in Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5464,7 +5464,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望江楼",
+                  "name": "Wangjiang Tower",
                   "text": "Eine Attraktion in Qiqihar.",
                   "category": "landmark",
                   "coords": [
@@ -5473,7 +5473,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "工人文化宫",
+                  "name": "Workers' Cultural Palace",
                   "text": "Ein Kulturzentrum in Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5493,7 +5493,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "电业文化宫",
+                  "name": "Electric Power Cultural Palace",
                   "text": "Kulturális központ Qiqiharban.",
                   "category": "cultural",
                   "coords": [
@@ -5502,7 +5502,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "齐齐哈尔市博物馆",
+                  "name": "Qiqihar Museum",
                   "text": "Múzeum Qiqihar városában.",
                   "category": "museum",
                   "coords": [
@@ -5511,7 +5511,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "艺术剧院·话剧艺术中心",
+                  "name": "Art Theater & Drama Art Center",
                   "text": "Színház Qiqihar városában.",
                   "category": "cultural",
                   "coords": [
@@ -5520,7 +5520,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望江楼",
+                  "name": "Wangjiang Tower",
                   "text": "Látnivaló Qiqihar városában.",
                   "category": "landmark",
                   "coords": [
@@ -5529,7 +5529,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "工人文化宫",
+                  "name": "Workers' Cultural Palace",
                   "text": "Művelődési központ Qiqihar városában.",
                   "category": "cultural",
                   "coords": [
@@ -5538,7 +5538,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "卜奎清真寺",
+                  "name": "Bukui Mosque",
                   "text": "A Bukui mecset Heilongjiang tartomány legrégebbi mecsete.",
                   "category": "religious",
                   "coords": [
@@ -5549,7 +5549,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "电业文化宫",
+                  "name": "Electric Power Cultural Palace",
                   "text": "Palatul culturii în Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5558,7 +5558,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "齐齐哈尔市博物馆",
+                  "name": "Qiqihar Museum",
                   "text": "Un muzeu în Qiqihar.",
                   "category": "museum",
                   "coords": [
@@ -5567,7 +5567,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "艺术剧院·话剧艺术中心",
+                  "name": "Art Theater & Drama Art Center",
                   "text": "Un teatru în Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5576,7 +5576,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望江楼",
+                  "name": "Wangjiang Tower",
                   "text": "O atracție în Qiqihar.",
                   "category": "landmark",
                   "coords": [
@@ -5585,7 +5585,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "工人文化宫",
+                  "name": "Workers' Cultural Palace",
                   "text": "Un centru cultural în Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5605,7 +5605,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "en": [
             {
-                  "name": "电业文化宫",
+                  "name": "Electric Power Cultural Palace",
                   "text": "Cultural palace in Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5632,7 +5632,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "望江楼",
+                  "name": "Wangjiang Tower",
                   "text": "An attraction in Qiqihar.",
                   "category": "landmark",
                   "coords": [
@@ -5641,7 +5641,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "工人文化宫",
+                  "name": "Workers' Cultural Palace",
                   "text": "An arts centre in Qiqihar.",
                   "category": "cultural",
                   "coords": [
@@ -5702,7 +5702,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
   },   {     id: "luoyang-cities-v2", "sights": {
       "de": [
             {
-                  "name": "天子驾六博物馆",
+                  "name": "Tianzi Jialiu Museum",
                   "text": "Dieses Museum zeigt archäologische Funde in der Stadt Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5756,7 +5756,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街址",
+                  "name": "Sui and Tang Luoyang City Tianjie Site",
                   "text": "Dieser historische Ort dient als archäologische Stätte in Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5837,7 +5837,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "八路军驻洛办事处纪念馆",
+                  "name": "Eighth Route Army Luoyang Office Memorial Hall",
                   "text": "Diese Gedenkstätte dient als historisches Denkmal in Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -5848,7 +5848,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "hu": [
             {
-                  "name": "天子驾六博物馆",
+                  "name": "Tianzi Jialiu Museum",
                   "text": "Ez a múzeum régészeti leleteket mutat be Luoyang városában.",
                   "category": "historical",
                   "coords": [
@@ -5875,7 +5875,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "name": "Luoyang Wanli Tea Road Museum (Shan-Shaan Guild Hall)",
                   "text": "Ez a létesítmény egy dedikált helyi múzeum Luoyangban.",
                   "category": "museum",
                   "coords": [
@@ -5884,7 +5884,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街",
+                  "name": "Sui and Tang Luoyang City Tianjie Street",
                   "text": "Ez a helyszín egy régészeti látványosság Luoyang városában.",
                   "category": "historical",
                   "coords": [
@@ -5893,7 +5893,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "含嘉仓遗址",
+                  "name": "Hanjia Granary Site",
                   "text": "Ez egy régészeti lelőhely Luoyangban.",
                   "category": "historical",
                   "coords": [
@@ -5902,7 +5902,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街址",
+                  "name": "Sui and Tang Luoyang City Tianjie Site",
                   "text": "Ez a történelmi helyszín régészeti lelőhelyként szolgál Luoyangban.",
                   "category": "historical",
                   "coords": [
@@ -5911,7 +5911,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "玄武门遗址",
+                  "name": "Xuanwu Gate Site",
                   "text": "Ez egy helyi régészeti lelőhely Luoyang városában.",
                   "category": "historical",
                   "coords": [
@@ -5929,7 +5929,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "洛邑古城",
+                  "name": "Luoyi Ancient City",
                   "text": "Ez a helyszín egy turisztikai látványosság Luoyangban.",
                   "category": "landmark",
                   "coords": [
@@ -5938,7 +5938,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "name": "Jiuzhou Pool Scenic Area, Sui and Tang Luoyang City National Heritage Park",
                   "text": "Ez a festői terület egy népszerű látványosság Luoyang városán belül.",
                   "category": "landmark",
                   "coords": [
@@ -5947,7 +5947,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "name": "Yingtian Gate Scenic Area, Sui and Tang Luoyang City National Heritage Park",
                   "text": "Ez egy jelentős turisztikai látványosság Luoyangban.",
                   "category": "landmark",
                   "coords": [
@@ -5956,7 +5956,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "name": "Tiangtang & Mingtang Scenic Area, Sui and Tang Luoyang City National Heritage Park",
                   "text": "Ez a helyszín egy helyi látványosság a látogatók számára Luoyangban.",
                   "category": "landmark",
                   "coords": [
@@ -5983,7 +5983,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "八路军驻洛办事处纪念馆",
+                  "name": "Eighth Route Army Luoyang Office Memorial Hall",
                   "text": "Ez az emlékmű történelmi emlékműként szolgál Luoyangban.",
                   "category": "historical",
                   "coords": [
@@ -5994,7 +5994,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       ],
       "ro": [
             {
-                  "name": "天子驾六博物馆",
+                  "name": "Tianzi Jialiu Museum",
                   "text": "Acest muzeu prezintă descoperiri arheologice în orașul Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6048,7 +6048,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街址",
+                  "name": "Sui and Tang Luoyang City Tianjie Site",
                   "text": "Această locație istorică servește drept sit arheologic în Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6129,7 +6129,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "八路军驻洛办事处纪念馆",
+                  "name": "Eighth Route Army Luoyang Office Memorial Hall",
                   "text": "Acest memorial servește drept monument istoric în Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6194,7 +6194,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "隋唐洛阳城天街址",
+                  "name": "Sui and Tang Luoyang City Tianjie Site",
                   "text": "This historical location serves as an archaeological site in Luoyang.",
                   "category": "historical",
                   "coords": [
@@ -6275,7 +6275,7 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
                   ]
             },
             {
-                  "name": "八路军驻洛办事处纪念馆",
+                  "name": "Eighth Route Army Luoyang Office Memorial Hall",
                   "text": "This memorial hall serves as a historical monument in Luoyang.",
                   "category": "historical",
                   "coords": [
