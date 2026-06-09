@@ -13,6 +13,7 @@ const GROUPS: Group[] = [
   {
     title: "Maps & Destinations",
     links: [
+      { href: "/destinations", label: "All Destinations (Countries)" },
       { href: "/learn", label: "Interactive Maps & Learning" },
       { href: "/europe-map", label: "Europe Map" },
       { href: "/asia-map", label: "Asia Map" },
